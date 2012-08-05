@@ -1,0 +1,24 @@
+# KIOSK09 - PROJEKT
+
+Mit Februar 2010 hat der KIOSK09 seine fast einjährige, erfolgreiche Ausstellungsreihe beendet. Durch monetarische wie auch aus persönlichem Support bestehende Förderungen des Projektes war es dem KIOSK09-Team
+unter der Leitung von Naomi T. Salmon möglich, 8 internationalen Künstlern eine Basis für künstlerische Ansätze und Ideen innerhalb des KIOSK09 Konzeptes zu geben und damit den Kiosk am Sophienstiftsplatz als Ausstellungsplattform und Freiluftgalerie zu erhalten und etablieren.
+
+Dabei zeigte sich stets eine überwältigende Resonanz und Nachfrage aus Presse, Interessenanfragen, wie auch in persönlichen Gesprächen mit Vernissagebesuchern und Passanten. Beteiligten Künstlern war die Möglichkeit einer Kommunikationsplattform gegeben, welche oft über die Ausstellungsdauer hinaus anhielt und eine Grundlage für professionelle Kontakte bot.
+Das KIOSK09-Team, zum Abschluss des Projektes bestehen aus einem festen Kern und jeweils im Semestertermini wechselnden Teil von Studenten, konnte durch selbstständige Arbeit Erfahrungen im kuratorischen wie auch organisatorischen und administrativen Bereich sammeln.
+
+Im Folgenden eine kurze Zusammenfassung des KIOSK09-Konzeptes sowie der Ausstellungen des KIOSK09.
+
+„Wenn Künstler Kunst kuratieren“ lautete der ursprüngliche Titel des Projektes rund um Weimars einzig dauerhafte Freiluftgalerie. Von dieser Verknüpfung vom Umgang des Künstlers mit anderen Künstlern ausgehend, drehte sich alles um zeitgenössischen Erscheinungen des ,Aufeinander-Bezug-Nehmens’, der Wiederverwendung und des Aneignens. Dabei rotierte die Erscheinung der dazugehörigen Website je Ausstellung ebenso wie die angeeignete Namensgebung einer öffentlichen Institution.
+Das veränderte Ausmaß, die enorme Qualität und Quantität dieses Phänomens, welches wir im digitalen Zeitalter erreicht haben und sein Einfuß auf unser soziales Verhalten und unsere Wahrnehmung stand im Mittelpunkt.
+Im Oktober 2008 versammelte sich eine Gruppe von Kunst- und Gestaltungsstudenten der Bauhaus-Universität Weimar unter der Betreuung von Naomi T. Salmon, welche die neue Reihe konzeptionell und organisatorisch entwickelten und sie ein Jahr lang in die Tat umsetzten.
+
+*Bemerkungen zur Aufarbeitung finden Sie als Anhang.
+
+---
+
+Sponsoren und unterstützung:
+
+Bauhaus09
+Bauhaus Universität Weimar
+Ehringsdorfer
+Und alle Kiosk Besucher, vorort und online.

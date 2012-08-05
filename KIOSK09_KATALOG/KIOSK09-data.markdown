@@ -1,0 +1,84 @@
+K1 
+Benedikt Braun 
+"Tempel des Lichts" 
+01.4.-14.04.2010
+deutscher national kiosk 
+
+Den Auftakt zur neuen Ausstellungsreihe stellte dabei Benedikt Braun dar. Braun bespielte mit „Tempel des Lichts“ drei Wochen den Nationalkiosk am Sophienstiftplatz in Weimar. Als Person, Individuum wie auch Künstler überidentifzierte und multiplizierte er sich mit sich selbst und bot sein überhöhtes ICH in Form von diversen Produkten mit seinem Konterfei zum Ausverkauf an.
+
+Der Künstler Benedikt Braun ist sich, neben diversen Ausstellungen und öffentlichen Performances, nicht zu schade, sein kreatives Potential auch für kommerzielle Zwecke zur Verfügung zu stellen, obwohl dies nicht immer im Sinne seines künstlerischen Werkes liegt. Dort drehen sich seine Gedanken mehr um Wahn, Freiheit, Revolution und eine bessere Welt. In diesem Zusammenhang gründete er 2007»Weltverbesserung e.V. – Verein zur Bewusstseinsschärfung für eine bessere Welt«. Als Anhänger der ›Pataphysik‹ [(frz. Pataphysique) einabsurdistisches Philosophie- und Wissenschaftskonzept des französischen Schriftstellers Alfred Jarry], versteht Braun es allerdings diese Widersprüche zu einen.
+
+»Kunst muss gar nichts. Kunst kann alles sein. Im Idealfall tut sie schön weh.«
+
+Als Absolvent der Bauhaus-Universität Weimar in den Bereichen Visueller Kommunikation und Freier Kunst stellt sich Braun in Endlosschleife mit einer gehörigen Portion Selbstironie die ewig währende Frage nach "Weltverbesserung" und Authentität.
+
+www.benediktbraun.de
+
+K2 
+Anke Hannemann 
+"im Sinne von bezug nehmen - oder warum ich dich nicht lieben kann" 22.04.-22-05.2009
+Galerie Eigenkiosk
+
+Die Arbeit „im sinne von bezug nehmen – oder warum ich dich nicht lieben kann“ präsentierte den aus dem gewohnten Umfeld losgelösten Besitz, mit dem die Künstlerin Anke Hannemann täglich lebt. Die Offenbarung ihrer Habe stellt die Frage nach einer zugehörigen Relevanz für ihr persönliches Dasein und untersucht, inwiefern die Gegenstände ihres täglichen Gebrauchs austauschbar sein können. Als Aneignungsobjekt fungierte dabei Galerie Eigenheim und wurde durch den KIOSK09 zum Eigenkiosk erklärt.
+
+
+K3 
+Anne Gierster 
+Verkehrsführungskiosk 
+27.05.-03.07.2009
+StadtWerksKiosk
+
+In Ihren Arbeiten beschäftigt sich Anna Gierster überwiegend mit Kontrollmechanismen – wobei die Mechanismen hier ganz bildlich verstanden werden müssen. Stets mit einem Augenzwinkern konstruiert sie „funktionstüchtige“ Geräte im Retro-Papp-Look, die uns Wahn und Witz unseres Sicherheits- und Kontrollbedürfnisses vor Augen führen und unsere Unterwürfgkeit gegenüber Maschinen persifieren. Ihr Statement zur Ausstellungseinladung des Kiosk gestaltete sich wie folgt; 
+„Der Sophienstiftsplatz samt der Ampelanlage Ecke Steubenstr./ Gropiusstr. ist wahrscheinlich einer der – verkehrsführungsmäßig – unglaublichsten Orte der gesamten Republik. Eine Ampel reiht sich hier an die nächste und stellt die Geduld eines jeden Verkehrsteilnehmers auf eine harte Probe.“ Im Kiosk installierte Anna Gierster eine vermeintliche Ampel-Schalt-Anlage. Zu horrenden Preisen konnte man sich dort etwas Zeit erkaufen. Zahlungskräftige Fußgänger konnten so das Warten auf die nächste Grünphase verkürzen und selbige dadurch verlängern. Ein Seitenhieb auf die tatsächlichen Ampelanlagen rund um den Sophienstiftsplatz, an denen man oft minutenlang auf die nächste Grünphase wartete, nur um während der lang ersehnten Darf-Straße- Überqueren-Phase festzustellen, dass es auch für einen fotten Menschen unmöglich ist, in der städtisch verordneten Zeitspanne tatsächlich über die Straße zu gelangen. Die Ausstellung um den Verkehrsführungskiosk wartete noch mit einer weiteren Überraschung auf. Das dabei approbierte Objekt, die "Stadtwerke" Weimars, wurden durch Passanten auf die kleine Freiluftgalerie aufmerksam und inszenierten zusammen mit dem Team des KIOSK09 eine Pressekonferenz sowie einen ausführlichen Bericht in der hauseigenen, vierteljährlich-erscheinenden "Guten Bekannten".
+
+K4 
+Urbandae 
+14Tage/ 24h
+08.07-21.07.2009
+KoCA inn
+
+Eine der wohl größten Herausforderungen und gleichzeitig spannendsten Zusammenarbeiten für das KIOSK09 - Team zeichnet sich in der Kolaboration mit der Künstlergruppe "Urbandae" aus.
+Selbst aus einer Reihe Künstler vor Ort und einer Gruppe brasilianischer Künstler, speziell für diesen Anlass eingefogen, bestehend, formierte sich sehr schnell durch tägliche interaktive Projekte mit Weimarern eine Eigendynamik im Selbstlauf.
+KoCA Inn war ein Lebensraum, der eine Vielfalt an Möglichkeiten bot:
+ein Mini-Hotel, eine mobile Küche und eine Tauschbörse, einen Showroom, Lounge mit Tanzfäche, sowie einen Schwarzmarkt für interessante Fähigkeiten und (un)nützes Wissen, einen Konferenzraum und einen Spielsalon, einen Strand mit Spielplatz und Touristenbüro.
+Alles optimiert auf eine Fläche von 62 qm!
+Die improvisierte, prekäre, größtenteils wiederverwendete und niemals fertige Struktur des KoCA Inn machte den Kiosk und sein direktes Umfeld zu einem Dispositiv, die Konsumkultur, wie auch die Sicherheit und Vorhersehbarkeit des hiesigen öffentlichen Raumes zu diskutieren. Mit einem dichten Programm aus unterschiedlichsten Aktionen und durch spontane und organisierte Mithilfe der Öffentlichkeit wurde die Kiosk-Kreuzung zur offenen, informellen Plattform.
+
+K5 
+KIOSK of PIRACY
+Über die Sommerpause
+
+Große internationale Resonanz über eines der wohl zeitgemäßesten Medien erfuhr der KIOSK09 durch den KIOSK of PIRACY. Auf freiwillig unfreiwilliger Basis gekidnappt, wurde der Kiosk Basis für Kommunikation weit über den Stadt- und Tellerrand hinaus.
+
+Mehr dazu auf www.kiosk09.de
+
+K6 
+Felix Ruffert 
+"By cortesy of.." 
+21.10.2009 - 20.11.2009
+KoMA The Kiosk of Modern Art
+
+Große Kunstwerke zwängten sich dabei in den kleinen Kiosk. Große Kunstwerke - die werden von der Dependance09 aus dem World Wide Web extrahiert, frei nach dem Motto: „Was nicht passt wird passend gemacht.“ Das bedeutete, die Originale vom Netzformat 1280×1024 hin zum Kiosk-format 4150×2800 zu adaptieren. Ohne die freundliche Genehmigung einer namhaften Ausstellung, die derzeit ca. 150.000 Ausstellungsobjekte umfasst, währe dies undenkbar gewesen: „All requests to reproduce works of art from MoMA‘s collection should be addressed directly to Art Resource, Scala‘s New York representative, at 536 Broadway, New York 10012.“ Eine wunderbare Gelegenheit für all diejenigen, welchen der Weg in die repräsentativen Häuser der großen Kunst zu weit schien.
+
+
+K7 
+Karo Kollwitz 
+"Mondkopie" 
+25.11.2009 - 08.01.2010
+kiosk space agency
+
+Karo Kollwitz ́ Installation spielte mit Miniaturschaukästen in Kombination mit einer Tarkowski- gemäßen Dauerregensituation. In unterschiedlicher Geschwindigkeit fuhren auf verschiedenen Gleisen 2 Loks um ein Moosfeld, welches durch ein darüber hängendes Stahlblech beständig betropft wurde. Diese speiste Gottes Niere, von dieser Infusionsschläuche mit Tropfreglern zu den Löchern der Stahlwolke führten.
+Das Moos lag auf einem Gitter, wodurch das überschüssige Wasser in einem Becken darunter landete. Eine 12 Volt Pumpe beförderte das Wasser zurück in Gottes Niere.
+Die Zielsetzung der Projekte ist manigfaltig und umfasst sowohl wissenschaftliche Thesen zur Analyse der Erde, als auch des Sonnensystems. Kernbereich der Betrachtung ist das Erforschen gravitatorischer und biochemischer Gesetzmäßigkeiten, welche dem Zusammenwirken des Son- nensystems für eine potenzielle Besiedelung des Mondes zu Grunde liegen. Das zu sehendes Modell veranschaulichte erste Schritte zur Verwirklichung dieser Vorhaben. Missionsspezifsche Technologien der KSA und theoretisch- interdiziplinäre Bereiche bildeten über- greifend die Basis für empirische Forschungsmethoden. Das Betätigen des Kontaktschalters durch den Betrachter versetzte die 2 Monde in Bewegung und regte zur Veränderung ihrer phänotypischen Physis an. Dadurch wurde eine Erhöhung des Wachstumspotenzials implizierter Umgebung angestrebt.
+Als kopierte Institution wurde diesmal die "ESA - European Space Agency" gewählt und gemäß des KIOSK09 -Prinzipes in die "KSA" umgeformt.
+
+
+K8 
+Oleg Mavromatti (Moskau) BioNihil (Weimar) 
+"Rent a DNA" 
+20.01.-19.02.2010
+Kyosk
+
+DNA für ein besseres Leben!
+Wenn sich Probleme mit dem Gesetz ergaben, sei es, weil ein Liebespartner plötzlich einen Vaterschaftstest verlangte, um beispielsweise sein gegenüber in die Unterhaltspficht zu nehmen; oder sei es, weil man ein gesuchter Terrorist ist, der eine neue Identität braucht -
+dann war man bei DNA For A Better Life® in besten Händen. Für einen angemessenen Preis konnten Anwärter von unseren Spendern absolut saubere DNA- Muster leihen oder kaufen. Die Spender-DNA stammte von gesetzestreuen Menschen, die keine Einträge im Strafregister, bei der Schufa oder Interpol hatten. Selbstverständlich waren bei unseren DNA-Spendern eigene uneheliche Kinder ausgeschlossen. Durch strenge Qualitätskontrollen, aber auch durch die ständige Erweiterung der DNA-Spender- Datenbank, gewährleisteten wir eine große Auswahl an seriösen DNA-Mustern. So ermöglicht DNA For A Better Life® einen schnellen, bequemen und problemlosen Einstieg in ein neues Leben! Zusätzlich erhielt man von uns, für nur einen geringen Aufpreis, eine Transporttasche und einen Satz DNA-Behälter, welcher hohen Tragekomfort von DNA gewährleistet.
