@@ -23,7 +23,7 @@ Gedichten.
  
 This is a [Link](http://nts.is). 
 
-This is a ![Picture](http://knowyourmeme.com/photos/101781)
+This is a ![Picture](http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)
 
 ## Listen
 
