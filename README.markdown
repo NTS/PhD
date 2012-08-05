@@ -1,0 +1,47 @@
+# README
+
+a place to store important project info, if needed.
+
+for now, some markdown formatting help:
+
+# Überschrift
+
+## Absätze
+
+Ein Absatz ist nur ein Absatz, wenn danach eine Zeile frei ist.
+
+Das ist der nächste Absatz.
+
+Es gehen auch  
+zwei Leerzeichen  
+am Ende  
+jeder Zeile  
+wie bei  
+Gedichten.
+
+## Links
+ 
+This is a [Link](http://nts.is). 
+
+This is a ![Picture](http://knowyourmeme.com/photos/101781)
+
+## Listen
+
+### nicht nummeriert 
+
+- Eine
+- nicht
+- nummerierte
+- Liste
+
+* Listet
+* auch
+* mit
+* Punkten
+
+### nummeriert
+
+1. erstens
+1. zweitens
+1. drittens
+
