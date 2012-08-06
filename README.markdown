@@ -19,12 +19,6 @@ jeder Zeile
 wie bei  
 Gedichten.
 
-## Links
- 
-This is a [Link](http://nts.is). 
-
-This is a ![Picture](http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)
-
 ## Listen
 
 ### nicht nummeriert 
@@ -45,3 +39,9 @@ This is a ![Picture](http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0
 1. zweitens
 1. drittens
 
+## Links
+ 
+This is a [Link](http://nts.is). 
+
+This is a Picture:
+![Picture](http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)
