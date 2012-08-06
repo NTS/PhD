@@ -8,11 +8,11 @@ BASE_DIR="$(pwd)"
 # Find every folder and start a loop for it
 for DIR in $(find * -maxdepth 0 -type d )
 do
-    echo "[>] Processing "$DIR"..."
+    echo "[>] Entering Folder "$DIR"..."
     cd "$BASE_DIR"/"$DIR"
 
     # Process MARKDOWN Files
-    echo "[>] Processing MARKDOWN..."
+    echo "[#] Processing MARKDOWN..."
 
     # delete $TMP_FILE if exists
     TMP_FILE=".$DIR.generated.markdown.tmp"
@@ -33,4 +33,4 @@ do
     # END Process MARKDOWN Files
 
 done
-echo "[!] Finished processing "$DIR"..."
+echo "[<] Finished processing "$DIR"..."
