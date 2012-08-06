@@ -5,4 +5,4 @@
 # 'make'
 
 default:
-	sh .scripts/process.sh
+	sh .papermill/process.sh
