@@ -6,7 +6,7 @@
 echo "Local Time: $(date)"
 
 ### if on OS X, ask iTunes for the current playing track
-[[ $(uname) == "Darwin" ]] && echo "iTunes: $(osascript -e 'tell application "System Events" to if ((name of processes) contains "iTunes") then do shell script ("osascript -e " & quoted form of ("tell application \"iTunes\" to if player state is playing then \"iTunes is playing: \" & name of current track & \" - \" & artist of current track" & ""))')"
+[[ $(uname) == "Darwin" ]] && echo "iTunes: $(osascript -e 'tell application "System Events" to if ((name of processes) contains "iTunes") then do shell script ("osascript -e " & quoted form of ("tell application \"iTunes\" to if player state is playing then \"is playing: \" & name of current track & \" - \" & artist of current track" & ""))')"
 
 ### if on OS X, get the current Wifi SSID #fixme
 [[ $(uname) == "Darwin" ]] && AIRPORT_STATUS=$(/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I)
