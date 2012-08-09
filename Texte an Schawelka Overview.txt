@@ -1,5 +1,7 @@
 Texte zu Schawelka 1. Teil:
 
+Überblick der Gliederung als Liste
+
 0.0. Deckblatt.markdown
 0.1. Einleitung.markdown
 1. Was ist ein Künstler.markdown
