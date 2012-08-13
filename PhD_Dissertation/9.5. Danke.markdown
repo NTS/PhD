@@ -19,8 +19,12 @@ an:
 * Anki
 * Andrea Dietrich
 * Barbara
-* Franziska Becher
+
+
+Praktischem Teil
 * Maxie Götze
+* Franziska Becher
+* Fabian Fontain 
 
 aus der Ferne
 * Miri Rapp
