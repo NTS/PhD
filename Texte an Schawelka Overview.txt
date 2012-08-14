@@ -18,7 +18,9 @@ am 13.8. gesendet:
 - - -
 
 zu senden Teil 3
-3.1. Stand der Dinge.markdown
+3. Beruf Künstler
+3.1. Kunststudium am Beispiel der BUW
+
 
 nicht gesendet:
 3. Beruf Künstler.markdown3.2. Fünfjahresplan.markdown4.0. Akademie trifft Kunstmarkt.markdown4.2. Bauhaus Essentials Podiumsdiskussion.markdown4.3. Wo sind sie heute.markdown5. Kunst im Zeitalter.markdown5.2. Bild in Medien u TV.markdown9.0. Bibliografie.markdown9.5. Danke.markdown
