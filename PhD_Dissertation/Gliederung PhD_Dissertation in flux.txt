@@ -1,37 +1,24 @@
 Gliederung PhD_Dissertation
 
-0.0. Deckblatt.markdown
+PhD_Dissertation
+0.0. Deckblatt.markdown
+0.1. Einleitung.markdown
+1. was ist ein künstler.markdown
+2. Kann Kunst heilen?.markdown
+3. Beruf Künstler.markdown
+3.1. Kunststudium am Beispiel der BUW.markdown
+3.1.1. Be an Art student, be a Master, be a Doctor!.markdown
+3.2. Fünfjahresplan.markdown
+4.0. Akademie trifft Kunstmarkt.markdown
+4.2. Bauhaus Essentials Podiumsdiskussion.markdown
+4.3. Wo sind sie heute.markdown
+5. Kunst im Zeitalter ihrer unendliche reproduzierbarkeit.markdown
+5.1. Kunst und Kommunikation.markdown
+5.2. Internetz (Exile on Main Street).markdown
+5.3. Kunstlerbild im Welt 2.0 - div. Medien & TV.markdown
+6. Where do we go from here.markdown
 
-0.1. Einleitung.markdown
 
-1. was ist ein künstler.markdown
-
-2. Kann Kunst heilen?.markdown
-
-3. Beruf Künstler.markdown
-
-3.1. Kunststudium am Beispiel der BUW.markdown
-
-3.1. Stand der Dinge.markdown
-
-3.1.1. Be an Art student, be a Master, be a Doctor!.markdown
-
-3.2. Fünfjahresplan.markdown
-
-4.0. Akademie trifft Kunstmarkt.markdown
-
-4.2. Bauhaus Essentials Podiumsdiskussion.markdown
-
-4.3. Wo sind sie heute.markdown
-
-5. Kunst im Zeitalter.markdown
-
-5.1. Kunst und Kommunikation.markdown
-
-5.2. Bild in Medien u TV.markdown
-
-5.3. Internetz (Exile on Main Street).markdown
-
-9.0. Bibliografie.markdown
-
-9.5. Danke.markdown
+9.0. Bibliografie.markdown
+9.5. Danke.markdown
+Gliederung PhD_Dissertation in flux.txt
