@@ -1,10 +1,10 @@
 Gliederung PhD_Dissertation
 
-- 0.0. Deckblatt.markdown
+0.0. Deckblatt.markdown
 
-- 0.1. Einleitung.markdown
+0.1. Einleitung.markdown
 
-- 1. was ist ein künstler.markdown
+1. was ist ein künstler.markdown
 
 2. Kann Kunst heilen?.markdown
 
