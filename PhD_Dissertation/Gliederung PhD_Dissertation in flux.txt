@@ -19,6 +19,6 @@ PhD_Dissertation
 6. Where do we go from here.markdown
 
 
-9.0. Bibliografie.markdown
-9.5. Danke.markdown
+9.1  Bildnachweis9.0. Bibliografie.markdown
+9.5. Danke.markdown
 Gliederung PhD_Dissertation in flux.txt
