@@ -1,6 +1,8 @@
 Gliederung PhD_Dissertation
 
 PhD_Dissertation
+
+0.0.0. Gliederung PhD_Dissertation in flux.txt
 0.0. Deckblatt.markdown
 0.1. Einleitung.markdown
 1. was ist ein künstler.markdown
@@ -21,4 +23,4 @@ PhD_Dissertation
 
 9.1  Bildnachweis9.0. Bibliografie.markdown
 9.5. Danke.markdown
-Gliederung PhD_Dissertation in flux.txt
+
