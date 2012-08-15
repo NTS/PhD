@@ -105,40 +105,39 @@ Sie schaffte es auch, eine Studentin die wir ablehnten, am Summaery in unserer g
 Zu den Konsequenzen kann man heute sagen, dass ein Künstler auch ohne Galerie sein kann, die Einzelschiene ist längst vorbei. Somit liegt die Vermittlung in der eigenen Hand. Es bringt natürlich auch viele Fragen mit sich, man muss sich anpassen und wer entscheidet über Qualität usw. Sind das die Marktkräfte? Ich glaube, sie sind noch stark genug. Wenn man malt, dann muss man die Zeit haben, aber bei Konzeptkunst bin ich froh, wenn man über Ideen und Konzepte nachdenkt. Es gibt immer die Prozessphasen, dann die technische Umsetzung. Welcher Künstler hat es nicht gerne, auch mal Hilfe zu beanspruchen und andere Personen mit zu beschäftigen? Mir liegt es nicht daran, jedes Foto selbst zu kaschieren usw. Das Resultat ist nicht unbedingt immer von der eigenen Handarbeit abhängig. Aber das sage ich aus meiner Perspektive und von der Kunst, die ich mache. Immer mit Zweifel verbunden, die kann man niemandem ersparen. Man sollte auch nicht immer nur mit Deadline arbeiten, wir sind ein Volk, das nur mit Deadline arbeitet, in dem Glauben  alles in den letzten 24h hinzubekommen. In vielen Fällen funktioniert das, man kann fast gar nicht anders. Man muss lernen, ein größeres Bewusstsein zu entwickeln für das Jahr, nicht nur für den Zeitpunkt der Ausstellung. So guckt der Künstler auf den Kalender und meint: „ Oh nein, ich habe dieses Jahr nur 2 Ausstellungen gemacht“. Es gibt aber noch viele Sachen, die im Umlauf sind. Es steht die Kooperation dem Alleingang gegenüber, der Umgang mit Geld und dem Web muss geändert werden. Zum Wort Netzwerk würde ich sagen: „Ihr seid das Netzwerk“. Mein Netzwerk entsteht meist aus internationalen MFA Leuten aus unserem Masterprogramm. Ich galt als deutsche Studentin und durfte ins Ausland, ich habe es in Tifte, Berlin gemacht. Man behält die internationalen  Kontakte, auch wenn die Personen wieder zu Hause sind. Jeden Monat treffe ich jemanden, real oder auf Facebook usw. Ich bin auch von einer Mitstudentin nach Serbien eingeladen worden, sie kuratiert heute Ausstellungen. Das Beste, was man jetzt im Studium anbieten kann ist, zu zeigen wie es draußen läuft, weg vom  kalten Wasser Suggerierung. So kann man sich besser bewegen, wissen und verstehen, das heißt die Paramenter kennenlernen. Der Rest bleibt der innere Drang, etwas zu tun oder zu lassen. Es ist der schwere Werdegang eines Künstlers, des künstlerischen Daseins und das kann man durch Buchhaltung nicht wegnehmen. Bei mir bleibt ein Experiment übrig. Der Kunstmarkt ist bei der Akademie herzlich willkommen, aber wird nicht nur gelobt. Es wird weiter recherchiert. Es ist wie ein Labor und innerhalb dieses Labors kann man etwas erreichen. Wie gesagt, es entwickeln sich 2 Künstlersorten, aber ich fürchte, dass alle heutzutage eher erst reich und berühmt werden wollen und dann sterben.
 
 
-Index Fachkurse VLV
+## Index Fachkurse VLV
 
 WS 2007/08
-Fachkurs: „Ausstellen von A bis Z“ (Ausstellungsgestaltung I)
+# Fachkurs: „Ausstellen von A bis Z“ (Ausstellungsgestaltung I)
 In diesem Fachkurs werden alle Facetten und Schritte einer Ausstellung, von Idee bis zur Eröffnung vorbereitet werden. Thematisiert und praktiziert wer- den: Kontakt zur Galerie; Finanzierung; Terminplan; Pressearbeit; Künstler- Assistenz; Objektbau und Werkstatt; Ausstellungsaufbau und Eröffnung.
 All dies wird durch die Begleitung einer kommenden Ausstellung in der ACC Galerie Weimar, mit dem Galeristen Frank Motz, sowie dem Künstler Nikos Arvanitis realisiert.
 
 SS 2008
-Fachkurs: „Hebräisch für Anfänger – Künstlerische Forschung I“
+# Fachkurs: „Hebräisch für Anfänger – Künstlerische Forschung I“
 In diesem Fachkurs werden alle Methoden einer Künstlerischen Forschung, wenn es ums Reisen geht, von der ersten Entscheidung über das Thema bis zur Vorstellung von Resultaten, untersucht werden. Thematisiert werden: Vor- urteile, Kunst - Tourismus, Exotik und Dilettantismus, Reiseberichte aus der Li- teratur und Ein￿üsse aus der Philosophie und der Wissenschaft. Dies geschieht als Vorbereitung zur Israel-Exkursion.
 
 WS 2007/08
-Fachkurs: „K3 - wenn Künstler Kunst kuratieren“ (1/3)
+# Fachkurs: „K3 - wenn Künstler Kunst kuratieren“ (1/3)
 Das ehemalige K&K Zentrum für Kunst und Mode, (heute KoCA Weimar, Kiosk of Contemporary Art) wird als Prototyp untersucht, und als Biotop und Labor benutzt. In drei Etappen wird in diesem Fachkurs eine Kuratorenschule durch- geführt.
 Themen: Vorgeschichte, Konzept, Arbeitsverteilung, Zusammenarbeit, Künst- ler als Kuratoren, PR-Arbeit, Nachhaltigkeit, mit Gastvorträgen und praktischer Umsetzung.
 
 SS 2009
-Fachkurs: „K3 - wenn Künstler Kunst kuratieren“ (2/3)
+# Fachkurs: „K3 - wenn Künstler Kunst kuratieren“ (2/3)
 Das ehemalige K&K Zentrum für Kunst und Mode, (heute KoCA Weimar, Kiosk of Contemporary Art) wird als Prototyp untersucht, und als Biotop und Labor benutzt. In drei Etappen wird in diesem Fachkurs eine Kuratorenschule durch- geführt.
 Themen: Eröffnung des Bauhaus-Jubiläum 09, Ausstellungen: Auf- und Abbau im 6-Wochen-Takt, Arbeitsverteilung, Zusammenarbeit, Künstler als Kurato- ren, PR-Arbeit, Nachhaltigkeit. Mit Gastvorträgen und praktischer Umsetzung.
 
 WS 2009/10
-Fachkurs: „K3 - wenn Künstler Kunst kuratieren“ (3/3)
+# Fachkurs: „K3 - wenn Künstler Kunst kuratieren“ (3/3)
 In drei Etappen wird in diesem Fachkurs eine Kuratorenschule durchgeführt.
-Themen: Künstler als Kuratoren, Ausstellungen: Auf- und Abbau im 6-Wochen- Takt, Zusammenarbeit, Aufgabenverteilung, Projektleitung, Umgang mit Öf- fentlichkeitsarbeit, Nachhaltigkeit und praktische Umsetzung, sowie Dokumen- tation.
-Das ehemalige K&K Zentrum für Kunst und Mode / KoCA (Kiosk of Contem- porary Art) und heute Kiosk09, geht in die dritte Phase. Die Ausstellungsreihe wird weiter als Prototyp untersucht, und als Biotop und Labor benutzt, dazu wird Material für den Katalog gesammelt.
+Themen: Künstler als Kuratoren, Ausstellungen: Auf- und Abbau im 6-Wochen- Takt, Zusammenarbeit, Aufgabenverteilung, Projektleitung, Umgang mit Öf- fentlichkeitsarbeit, Nachhaltigkeit und praktische Umsetzung, sowie Dokumentation.
+Das ehemalige K&K Zentrum für Kunst und Mode / KoCA (Kiosk of Contemporary Art) und heute Kiosk09, geht in die dritte Phase. Die Ausstellungsreihe wird weiter als Prototyp untersucht, und als Biotop und Labor benutzt, dazu wird Material für den Katalog gesammelt.
 
 SS 2010
-Fachkurs: „The names may change, but the game stays the same“* M.F.A. Naomi T. Salmon
-„Seit Mitte der Neunziger erlebt die zeitgenössische Kunst einen bei- spiellosen Boom. Von allem gibt es mehr: mehr Künstler, mehr Samm- ler, mehr Galerien, mehr Kunstmessen, mehr Museen, mehr Bien- nalen, mehr Interessierte, mehr Pop, mehr Hype. Wie kann man da noch die Übersicht behalten? Wie kann man gute von schlechter Kunst unterscheiden? Welche Künstler und welche Werke sind entschei- dend zu Beginn des 21. Jahrhunderts und warum?“ (Jörg Heiser, „Plötzlich diese Übersicht“, Klappentext).
-Über dieses Thema werden Dokumentationen gedreht, in Feuilletons und Blogs geschrieben und eifrig diskutiert. Künstler äußern sich im Dialog in der Meta- Ebene, und dies wird in den Kunstwerken re￿ektiert. In der Werkzeugkiste des Künstlers darf es an Argumenten / Gegenargumenten nicht fehlen.
+# Fachkurs: „The names may change, but the game stays the same“* 
+M.F.A. Naomi T. Salmon
+„Seit Mitte der Neunziger erlebt die zeitgenössische Kunst einen bei- spiellosen Boom. Von allem gibt es mehr: mehr Künstler, mehr Samm- ler, mehr Galerien, mehr Kunstmessen, mehr Museen, mehr Biennalen, mehr Interessierte, mehr Pop, mehr Hype. Wie kann man da noch die Übersicht behalten? Wie kann man gute von schlechter Kunst unterscheiden? Welche Künstler und welche Werke sind entscheidend zu Beginn des 21. Jahrhunderts und warum?“ (Jörg Heiser, „Plötzlich diese Übersicht“, Klappentext).
+Über dieses Thema werden Dokumentationen gedreht, in Feuilletons und Blogs geschrieben und eifrig diskutiert. Künstler äußern sich im Dialog in der Meta- Ebene, und dies wird in den Kunstwerken reflektiert. In der Werkzeugkiste des Künstlers darf es an Argumenten / Gegenargumenten nicht fehlen.
 Im Fachkurs werden in einer Materialschlacht aktuelle Positionen im Kunst- markt sowie Kunstkritik im Netz, Kunstmagazine und Dokumentar￿lme un- tersucht und bewertet.
-* www.youtu.be/xyaPTpWWRcY
-
 
 SS 2011
 # Fachkurs: „Kochen mit Wasser“
