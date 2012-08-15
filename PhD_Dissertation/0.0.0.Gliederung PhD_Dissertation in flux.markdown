@@ -1,25 +1,25 @@
 Gliederung PhD_Dissertation NTS Stand 15.8.2012
 
 
-0.0. Deckblatt
-0.0.0.Gliederung PhD_Dissertation in flux
-0.1. Einleitung
-1. was ist ein künstler
-2. Kann Kunst heilen?
-3. Beruf Künstler
-3.1. Kunststudium am Beispiel der BUW
-3.1.1. Be an Art student, be a Master, be a Doctor!
-3.2. Fünfjahresplan
-4.0. Akademie trifft Kunstmarkt
-4.1 Konstrukt Bauhaus essentials
-4.2. Bauhaus Essentials Podiumsdiskussion
-4.3. Wo sind sie heute
-5. Kunst im Zeitalter ihrer unendliche reproduzierbarkeit
-5.1. Kunst und Kommunikation
-5.2. Internetz (Exile on Main Street)
-5.3. Kunstlerbild im Welt 2.0 - div. Medien & TV
-6. Where do we go from here
-9.0. Bibliografie
-9.1 Bildnachweis
-9.5. Danke.
+- 0.0. Deckblatt
+- 0.0.0.Gliederung PhD_Dissertation in flux
+- 0.1. Einleitung
+- 1. was ist ein künstler
+- 2. Kann Kunst heilen?
+- 3. Beruf Künstler
+- 3.1. Kunststudium am Beispiel der BUW
+- 3.1.1. Be an Art student, be a Master, be a Doctor!
+- 3.2. Fünfjahresplan
+- 4.0. Akademie trifft Kunstmarkt
+- 4.1 Konstrukt Bauhaus essentials
+- 4.2. Bauhaus Essentials Podiumsdiskussion
+- 4.3. Wo sind sie heute
+- 5. Kunst im Zeitalter ihrer unendliche reproduzierbarkeit
+- 5.1. Kunst und Kommunikation
+- 5.2. Internetz (Exile on Main Street)
+- 5.3. Kunstlerbild im Welt 2.0 - div. Medien & TV
+- 6. Where do we go from here
+- 9.0. Bibliografie
+- 9.1 Bildnachweis
+- 9.5. Danke.
 
