@@ -85,10 +85,10 @@ Armer und Outsider wahrgenommen. Oft wird er als Autist, der im Atelier
 begraben ist, bis er entdeckt wird, wahrgenommen. Weil er so sensibel sei
 und geschützt werden muss, braucht er einen Vermittler, auch weil er seine
 eigene Arbeit nicht schätzen kann. Er produziert, weil er produzieren muss,
-egal ob er Geld dafür bekommen wird oder nicht. In dem Film Basquiat, ein
+egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, ein
 Spielfilm der USA aus dem Jahr 1996, (Regie geführt vom Künstler
 Julian Schnabel), wird ein Text des Kunstkritikers Rene Ricard, aus seinem
-Schreiben „The Radiant Child“ über Jean–Michel Basquiat aus dem
+Schreiben „The Radiant Child“ über Jean–Michel *Basquiat* aus dem
 Artforum Magazin Dec. 1981 zitiert: „Warum schenken wir der Kunst so viel
 Bedeutung? Arme respektieren Künstler, da sie aus dem Slum
 herauskommen, indem sie sich selbst als Medium benutzen. Das verdiente
@@ -138,31 +138,34 @@ Min. are over button.JPG
 
 ## Kunst als “Business”
 
-Zurück zum Basquiat-Film, der laut mancher Kritik viel mehr ein Film über
-Schnabel sein soll, als über Jean Michel Basquiat, aber so oder so den
+Zurück zum *Basquiat*-Film, der laut mancher Kritik viel mehr ein Film über
+Schnabel sein soll, als über Jean Michel *Basquiat*, aber so oder so den
 Betrachter einen tieferen Blick bietet, denn hier werden viele Wahrheiten
 über das Künstlersein vermittelt, zum Beispiel die Haltung der nicht so
 erfolgreicher Künstler (gespielt von Willem Daffoe), der zugibt, das er als
 Nebentätigkeit auch als Elektriker arbeitet, um seine Künstlerische Freiheit
-nicht komprimieren zu müssen, oder Basquiat’s Freund, gespielt von Benicio
+nicht komprimieren zu müssen, oder *Basquiat*’s Freund, gespielt von Benicio
 del Toro gespielt), der ihm Rat gibt bei der erste Handlung mit Andy warhol
 (gespielt von David Bowie), und seine Unzufriedenheit zeigt, wenn der Rühm
-seine Spuren auf die Verhaltung Basquiats sich von nicht so schöne Seite
-zeigt. In einem Film über Andy Warhols Factory (Name, Jahr), wird eine
+seine Spuren auf die Verhaltung *Basquiat*s sich von nicht so schöne Seite
+zeigt. In einem Film über Andy Warhols *Factory* (Name, Jahr), wird eine
 Fernsehe Interview inszeniert, in welchem er gefragt wird, warum er nichts
 selber produziert, sondern Kopien von Brillo Boxen hergestellt hat, darauf
 antwortete er: "Because it’s more easy“. Der Künstler ist also frech genug
 um zuzugeben, dass ihm das Geniale einfacherweise ihm einfällt.
-![Bild] > Basquiat Film
+![Bild] >  Film
 - Weitere wichtige Zitate aus Warhols “von A bis B”:
+
 Eigenschaften: Ich glaube, in den sechziger Jahren vergaßen die Leute, was
 Gefühle sind. Und ich glaube auch nicht, dass es ihnen wieder eingefallen
 ist. Ich glaube, wenn man Gefühle einmal von einer anderen Warte gesehen
 hat, kann man sie nie wieder als echt empfinden. Genau das ist mir
-passiert.>> pp33
+passiert.>> [@Warhol:von A bis B, pp.33]
+
 Künstler: „Ein Künstler ist jemand, der Sachen produziert, die keiner haben
 muss. Er nimmt – aus irgendeinem Grund – jedoch an, es sei eine gute Idee,
-seine Mitmenschen mit Kunst zu versorgen.“ Pp130
+seine Mitmenschen mit Kunst zu versorgen.“ [@Warhol:von A bis B, pp.130]
+
 Business Art: „Leonardo da Vinci hat seine Auftraggeber immer davon
 überzeugt, dass die Zeit, in der er nachdachte, etwas wert war, sogar mehr
 wert als die Zeit, in der er malte-, und das mag fürihn durchaus gegolten
@@ -175,15 +178,18 @@ stand schon zu diesem Zeitpunkt fest, dass die größte Kunst das Geschäft
 mit ihr ist, also „das Business“ an sich. (…) nachdem ich also „Kunst“
 gemacht hatte (wenn man es so nennen will), stieg ich in die Business-Kunst
 ein. Business-Kunst.(…) Kunst-Business. Das Business vom Kunst-
-Business“ pp 86–87
+Business“ [@Warhol:von A bis B, pp.86–87]
+
 „es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die
 Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während
 das bei der Business-Kunst der Fall ist. (Wenn die Business-Kunst keine
 Nutzen bringt, fliegt sie aus den Business“ pp130
 „Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten
 bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person
-ganz genau zugeschnitten sind.“ Pp99 - -
-Von Aneignung zur Referenzierung
+ganz genau zugeschnitten sind.“ [@Warhol:von A bis B, pp.99]
+
+## Von Aneignung zur Referenzierung
+
 Eine neue Strömung, die neben der Auseinandersetzung mit Begriffen wie
 Kopie, Original, und Aneignungskunst agiert, und eine Widmung des
 Kunstheftes „Texte zur Kunst“ (Heft 71 Herbst 2008) erzielt hat, ist das
