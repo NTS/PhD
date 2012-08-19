@@ -37,7 +37,7 @@ do
 	pwd
     echo "    [#] Processing MARKDOWN..."
 
-	pandoc "$DIR.generated.markdown" \
+	~/.cabal/bin/pandoc "$DIR.generated.markdown" \
 	--write=html5 --standalone --smart --toc --section-divs --normalize --number-sections \
 	--css=".papermill/swiss.css" \
 	--bibliography="./BIBTEX/biblio.phd.nts.bib" \
