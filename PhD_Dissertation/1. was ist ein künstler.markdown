@@ -1,4 +1,4 @@
-# Kapitel 1 - Was ist ein Künstler?
+## Kapitel 1 - Was ist ein Künstler?
 
 Neben der Frage „was ist Kunst?“ stellt sich die gleichwertige Frage: Was ist
 ein Künstler? Wie stellt er sich selbst dar, was sind seine Aufgaben? Wie
@@ -30,7 +30,7 @@ Selbstverständnis des Künstlers heraus. In dieser Epoche wurzelt der
 moderne Begriff des Künstlers. Die Originalität wird Mittelpunkt des
 Geniebegriffs”.
 
-# Wie wird der Künstler von Anderen
+## Wie wird der Künstler von Anderen
 gesehen und beschrieben vs. wie
 Künstler sich selber beschreiben:
 
@@ -136,7 +136,7 @@ selbst seine Äußerungen berühmt geworden.
 1. warhol stickers.psd / 26. in the future 15 min. aufkleber.JPG / 27. your 15
 Min. are over button.JPG
 
-# Kunst als “Business”
+## Kunst als “Business”
 
 Zurück zum Basquiat-Film, der laut mancher Kritik viel mehr ein Film über
 Schnabel sein soll, als über Jean Michel Basquiat, aber so oder so den
