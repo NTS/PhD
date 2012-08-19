@@ -47,8 +47,8 @@ do
 	echo "[<] Finished processing "$DIR"..."
 	# END Process MARKDOWN Files
 	
-	# open -g "$DIR.generated.html"
+	#open -g -a /Applications/Safari.app "$DIR.generated.html"
 
 done
 
-open -g "PhD_Dissertation.generated.html"
+open -g -a /Applications/Safari.app "PhD_Dissertation.generated.html"
