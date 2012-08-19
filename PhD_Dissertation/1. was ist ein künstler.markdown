@@ -53,7 +53,7 @@ ergaben sich daraus, dass der Künstler nicht weiß, was er macht"“, soweit
 Ullrich, oder: nicht weiß, wie er es in Worte fassen soll. Denn: „Er gilt als
 Medium höherer Kräfte, die über ihn verfügen (…) da er seine Werkprozesse
 nicht zu kontrollieren oder mitzuteilen vermag”, was heute nicht mehr für alle
-Künstlerso stimmt, kann er nur fürsich allein tätig sein. Er ist unzuverlässig,
+Künstlerso stimmt, kann er nur für sich allein tätig sein. Er ist unzuverlässig,
 weil sich das, was er tut, Kaum auf Wissen oder Know-How – auf erlernbare
 Faktoren – stützt. (Wolfgang Ullrich „Was war Kunst? Biografien eines
 Begriffs“ S. 22)
@@ -153,14 +153,16 @@ Fernsehe Interview inszeniert, in welchem er gefragt wird, warum er nichts
 selber produziert, sondern Kopien von Brillo Boxen hergestellt hat, darauf
 antwortete er: "Because it’s more easy“. Der Künstler ist also frech genug
 um zuzugeben, dass ihm das Geniale einfacherweise ihm einfällt.
+
 ![Bild] >  Film
+
 - Weitere wichtige Zitate aus Warhols “von A bis B”:
 
 Eigenschaften: Ich glaube, in den sechziger Jahren vergaßen die Leute, was
 Gefühle sind. Und ich glaube auch nicht, dass es ihnen wieder eingefallen
 ist. Ich glaube, wenn man Gefühle einmal von einer anderen Warte gesehen
 hat, kann man sie nie wieder als echt empfinden. Genau das ist mir
-passiert.>> [@Warhol:von A bis B, pp.33]
+passiert.>> [@Warhol:vonAbisB, pp. 33]
 
 Künstler: „Ein Künstler ist jemand, der Sachen produziert, die keiner haben
 muss. Er nimmt – aus irgendeinem Grund – jedoch an, es sei eine gute Idee,
@@ -222,9 +224,9 @@ dargestellt, ausgestellt und erklärtermaßen auch hinterfragt werden. Und
 doch geriet diese Tour de Force vor allem zu einem Bravourstück in Sachen
 Kult eines Museumsdirektors, der seinem allzu dankbaren Publikum auch
 zum Schluss eine jener Schauen aufdrängte, in denen vielen viel
-versprochen, doch nichts gesagt wurde”.
-(http://www.artnet.de/magazine/der-kult-des-kunstlers-in-den-staatlichenmuseen-
+versprochen, doch nichts gesagt wurde”. [Link](http://www.artnet.de/magazine/der-kult-des-kunstlers-in-den-staatlichenmuseen-
 zu-berlin/)
+
 Die Entwicklung von einem freien Wesen, das nicht arbeitet, Sondern von
 Stipendien Kurzfristige Projekte, und unregelmässige Aufträge lebt, vor sich
 hin kreativ arbeitet und auf gute Gelegenheit wartet, sein Arbeit zu verkaufen,
