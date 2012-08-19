@@ -10,27 +10,5 @@ Texte zu Schawelka 1. Teil:
 
 - - - 
 
-am 13.8. gesendet:
- 2. Kann Kunst heilen?.markdown
-3.1.1 Be an Art student, be a Master, be a Doctor!
-
-- - -
-
-zu senden Teil 3:
-3. Beruf Künstler
-3.1. Kunststudium am Beispiel der BUW
-3.2. Fünfjahresplan.markdown
-4.2. Bauhaus Essentials Podiumsdiskussion
-
-- - - 
-
 nicht gesendet:
-4.0. Akademie trifft Kunstmarkt.markdown4.3. Wo sind sie heute.markdown
-
-5. Kunst im Zeitalter ihrer unendliche reproduzierbarkeit.markdown
-5.3. Kunstlerbild im Welt 2.0 - div. Medien & TV.markdown
-6. Where do we go from here.markdown
-
-
-9.1  Bildnachweis9.0. Bibliografie.markdown
-9.5. Danke.markdown
+2. Kann Kunst heilen.markdown3. Beruf Künstler.markdown3.1. Stand der Dinge.markdown3.1.1. Grundstudium .markdown3.1.2. Be a Master.markdown3.1.3. Be a Doctor.markdown3.2. Fünfjahresplan.markdown4.0. Akademie trifft Kunstmarkt.markdown4.1. Vortrag Berlin.markdown4.2. Bauhaus Essentials Podiumsdiskussion.markdown4.3. Wo sind sie heute.markdown5. Kunst im Zeitalter.markdown5.2. Bild in Medien u TV.markdown9.0. Bibliografie.markdown9.5. Danke.markdown

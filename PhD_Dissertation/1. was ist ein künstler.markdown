@@ -1,143 +1,290 @@
 # Kapitel 1 - Was ist ein Künstler?
 
-Neben der Frage „was ist Kunst?“ stellt sich die gleichwertige Frage: Was ist ein Künstler? Wie stellt er sich selbst dar, was sind seine Aufgaben? Wie wird er von der Gesellschaft wahrgenommen? Gibt es im Zuge der Jahrhundertwende, und in Betracht vieler neuer technischer Entwicklungen, verschiedene "Künstlertypen", die man definieren konnte? Was hat sich seit dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft geändert? Wie manifestieren sich die heutigen Beziehungen zwischen diverser Glieder der Kunstwelt: Künstler, Galerist, Sammler, Kurator, Museum, Aktionshaus und Publikum? Eine Wandlung, begleite von starken autarkischen Neigungen, die ihre Eindrücke sogar im filmischen zeigen.
-
-Etymologisch kommt Kunst von "const" was soviel wie Können, Wissen, Kenntnis, bedeutet. Deswegen sagt man auch auf Deutsch „Kunst kommt vom Können“.
-
-Zurst aber soll das Begriff *Künstler* erläutet, um die Semiotik und ihre Entwicklung besser zu verstehen. Auszug aus Meyers Online-Lexikon: "Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (Sprachkünstler)".
+Neben der Frage „was ist Kunst?“ stellt sich die gleichwertige Frage: Was ist
+ein Künstler? Wie stellt er sich selbst dar, was sind seine Aufgaben? Wie
+wird er von der Gesellschaft wahrgenommen? Gibt es im Zuge der
+Jahrhundertwende, und in Betracht vieler neuer technischer Entwicklungen,
+verschiedene “Künstlertypen”, die man definieren könnte? Was hat sich seit
+dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft
+geändert? Wie manifestieren sich die heutigen Beziehungen zwischen
+diverser Glieder der Kunstwelt: Künstler, Galerist, Sammler, Kurator,
+Museum, Auktionshaus und Publikum? Offenbar hat eine Wandlung, begleitet von starken autarkistischen Neigungen, stattgefunden, die ihre Eindrücke sogar im Filmischen hinterlässt.
+Etymologisch kommt Kunst von “const” was soviel wie Können, Wissen,
+Kenntnis, bedeutet. Deswegen sagt man auch auf Deutsch „Kunst kommt
+vom Können“.
+Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Hier ein Auszug aus Meyers Online-Lexikon:
+“Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder
+darstellenden Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter
+der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)”.
 (http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie)
-
 ![Bild04] Künstler laut Pons
 
-Weiter im Meyers Online-Lexikon lautet es: "Im 6. Jahrhundert v. Chr. gibt es in Griechenland die ersten Künstlersignaturen. Während der Künstler des Mittelalters Handwerker ist, eine Werkstatt mit Gesellen unterhält und in die Zunftorganisation eingegliedert ist, löste sich der Künstler in der italienischen Renaissance erstmals aus dem Zunftzwang. Der Renaissancekünstler trieb mit wissenschaftlichem Anspruch Studien auf den Gebieten der Geometrie, Perspektive und Anatomie. Seit der Romantik bildete sich ein neues Selbstverständnis des Künstlers heraus. In dieser Epoche wurzelt der moderne Begriff des Künstlers. Die Originalität wird Mittelpunkt des Geniebegriffs".
+Weiter heißt es in Meyers Online-Lexikon: “Im 6. Jahrhundert v. Chr. gibt es
+in Griechenland die ersten Künstlersignaturen. Während der Künstler des
+Mittelalters Handwerker ist, eine Werkstatt mit Gesellen unterhält und in die
+Zunftorganisation eingegliedert ist, löste sich der Künstler in der italienischen
+Renaissance erstmals aus dem Zunftzwang. Der Renaissancekünstler trieb
+mit wissenschaftlichem Anspruch Studien auf den Gebieten der Geometrie,
+Perspektive und Anatomie. Seit der Romantik bildete sich ein neues
+Selbstverständnis des Künstlers heraus. In dieser Epoche wurzelt der
+moderne Begriff des Künstlers. Die Originalität wird Mittelpunkt des
+Geniebegriffs”.
 
+# Wie wird der Künstler von Anderen
+gesehen und beschrieben vs. wie
+Künstler sich selber beschreiben:
 
-# Wie wird der Künstler von Anderen gesehen und beschrieben vs. wie Künstler sich selber beschreiben:
+In jedem Kunststudium wird über “Mimesis” (Nachahmung) sowie Platons
+Geniebegriff diskutiert. Ich würde gern folgendes Zitat aus Wolfgang Ullrichs
+Buch „Was war Kunst? Biografien eines Begriffs“, als Ausgangspunkt
+wählen. in seinem Versuch das „je ne sais quoi“ (das gewisse Etwas) zu
+erläutern schreibt er:
+“Nach Kants Kritik der Urteilskraft: ‚Genie ist, nicht Geschicklichkeitsanlage
+zu dem, was nach irgendeinem Regel gelernt werden kann… selbst nicht
+beschreiben oder wissenschaftlich anzeigen… (in dem Sinne nicht erklären
+können was der Künstler selber tut). Positiv geäußert: Genie ist die
+Gemütslage (Ingenium) durch welche die Natur der Kunst die
+Regel gibt.’ seiner Interpretation: „ Nie Regeln zu folgen, sondern immer nur
+etwas zu schaffen, das regelhaft ist, ohne selber je zur Regel werden zu
+können, - das ist Kants’ Umschreibung genial-schöpferischen Tuns”.
+Der Künstler wird oft als: „Der Seher und der Störenfried, der Schamane und
+der Außenseiter, der Clown und der Harlekin beschrieben – diese Rollen
+ergaben sich daraus, dass der Künstler nicht weiß, was er macht"“, soweit
+Ullrich, oder: nicht weiß, wie er es in Worte fassen soll. Denn: „Er gilt als
+Medium höherer Kräfte, die über ihn verfügen (…) da er seine Werkprozesse
+nicht zu kontrollieren oder mitzuteilen vermag”, was heute nicht mehr für alle
+Künstlerso stimmt, kann er nur fürsich allein tätig sein. Er ist unzuverlässig,
+weil sich das, was er tut, Kaum auf Wissen oder Know-How – auf erlernbare
+Faktoren – stützt. (Wolfgang Ullrich „Was war Kunst? Biografien eines
+Begriffs“ S. 22)
+![Bild 05] Georg Friedrich Kersting von Caspar David Friedrich
+Der Schaffensprozess bleibt ein Geheimnis: „ist es die Hand, das Auge oder
+der Kopf, wo sich das Eigentliche abspielt?( ibid, S. 26)
 
-
-In Jedem Kunststudium wird über "Mimesis" (Nachahmung), und Platons Geniebegriffe diskutiert. Ich würde gern folgender Zitat aus Wolfgang Ullrichs Buch „Was war Kunst? Biografien eines Begriffs“, als Ausgangspunkt wählen. in seinem Versuch das „je ne sais quoi“ (Das gewisse Etwas) zu erläutern schreibt er:
-
-"Nach Kants Kritik der Urteilskraft: „Genie ist, nicht Geschicklichkeitsanlage zu dem, was nach irgendeinem Regel gelernt werden kann... selbst nicht beschreiben oder wissenschaftlich anzeigen... (in dem Sinne nicht erklären können was der Künstler selber tut). Positiv geäussert: Genie ist die angeborene Gemütslage (Ingenium) durch welche die Natur der Kunst die Regel gibt.“ seiner Interpretation: „ Nie Regeln zu folgen, sondern immer nur etwas zu schaffen, das regelhaft ist, ohne selber je zur Regel werden zu können, - das ist Kants' Umschreibung genial-schöpferischen Tuns".
-
-Der Künstler wird oft als: „Der Seher und der Störenfried, der Schamane und der Außenseiter, der Clown und der Harlekin beschrieben – diese Rollen ergaben sich daraus, dass der Künstler nicht weiß, was er macht"", soweit Ullrich, oder: nicht weiß, wie er es in Worte fassen soll. Denn: „Er gilt als Medium höhere Kräfte, die über ihn verfügen... da er seine Werkprozess nicht zu kontrollieren oder mitzuteilen vermag", was heute nicht mehr für alle Künstler so stimmt, kann er nur für sich allein tätig sein. Er ist unzuverlässig, weil sich das, was er tut, Kaum auf Wissen oder Know-How – auf erlernbare Faktoren – stützt. (Wolfgang Ullrich „Was war Kunst? Biografien eines Begriffs“ pp22)
-
-![Bild05] Georg Friedrich Kersting von Caspar David Friedrich
-
-Die Schaffungsprozess bleibt ein Geheimnis: „ist es die Hand, das Auge oder der Kopf, wo sich das Eigentliche abspielt?(ibid, pp26)
-
-Über dieses Thema schreibt auch Verena Krieger: "Was ist ein Künstler? Genie. Heilsbringer. Antikünstler" In ihrem Buch wird die eng verflochtene Entwicklung theoretischer und künstlerischer Auffassungen über das Künstlertum von der Renaissance bis zur Gegenwart in Text und Bild nachgezeichnet. 
-(Verena Krieger, Köln 2007. http://www.zvab.com/displayBookDetails.do?itemId=11655262&b=1 http://www.sehepunkte.de/2007/10/pdf/13278.pdf (1.2.09)
-
-Die Frage die ich gern stellen möchte ist: Wer wirft den Blick auf die Künstler und wie verflochten sind dadurch die möglichen Interpretationen? Es war früher „einfach“, wenn Künstler ihr Selbstportrait malten“:
-
-Bilder Serie „artist look“
-07. rem-at-easel.jpg / 08. Rembrandt_self_portrait.jpg / 11. karikatur french artist.jpg
-12. monmartre clichee.jpg / 13. you look like a french artist! web.jpg
-15. french artist golf cap by ebay.jpg
-
-
-Dieser "Look" entspricht eher den Typ „Armer Künstler“, oder das daraus entsandende Clichée . In seinem Buch „Why are the Artists poor“ von 2002, beschreibet Hans Abbing die verstrickten Verhältnisse zwischen Künstler und der Gesellschaft. Abbing vertritt unter anderem die These, dass die Kunst für den Künstler zu heilig wäre, um in Worte wie Profit und Kommerz beschrieben zu werden. Der Künstler erhält Stipendien und wird weiter als Armer und Outsider wahrgenommen. Oft wird er als Autist, der im Atelier begraben ist, bis er entdeckt wird, wahrgenommen. Weil er so sensibel sei und geschützt werden muss, braucht er einen Vermittler, auch weil er seine eigene Arbeit nicht schätzen kann. Er produziert, weil er produzieren muss, egal ob er Geld dafür bekommen wird oder nicht.
-In dem Film *Basquiat*, ein Spielfilm der USA aus dem Jahr 1996, (Regie geführt vom dem Künstler Julian Schnabel), wird ein Text des Kunstkritikers Rene Ricard, aus seinem Schreiben „The Radiant Child“ über Jean –Michel Basquiat aus dem Artforum Magazin Dec. 1981 zitiert: „Warum schenken wir der Kunst so viel Bedeutung? Arme respektieren Künstler, da sie aus dem Slum herauskommen, indem sie sich selbst als Medium benutzen. Das verdiente Geld beweist den Wert des Künstlers“. Wenn es früher massenhaft Bilder von Künstler im eigenen Atelier, neben Staffelei, vor der eigene Arbeit gab, hat sich Parallel zur Entwicklung der Fotografie als Dokumentarisches Medium, eine langsam Auflösung der Künstler von seiner Schöpfung und immer mehr wird er per se, in Form von Portrait-fotografie auf Grund seiner Berühmtheit erkannt. (denken wir an Picasso oder Paul Klee in schwarzweiß Fotografien von Henri Cartier-Bresson). 
-
-Mit der Fotografieboom der 80er Jahren des vorigem Jahrhunderts, Ist das Bewusstsein der Künstler auf die Wirkung seines Aussehens gestiegen. Künstler wie Josef Beuys und Andy Warhol wissen es für Ihre Zwecke zu nutzen, dadurch entwickelt sich eine Tendenz zum wohlhabenden Künstlers, berühmt und reich, und das zur Lebzeiten, nicht erst nach dem Tod. Höchstens soll man „Reich denken. Arm aussehen.“ Nach Pp102 der Meister in Sache Selbstdarstellung: Andy Warhol.
-
+Über dieses Thema schreibt auch Verena Krieger: “Was ist ein Künstler?
+Genie. Heilsbringer. AntiKünstler” In ihrem Buch wird die eng verflochtene
+Entwicklung theoretischer und künstlerischer Auffassungen über das
+Künstlertum von der Renaissance bis zur Gegenwart in Text und Bild
+nachgezeichnet. (Verena Krieger, Köln 2007.
+http://www.zvab.com/displayBookDetails.do?itemId=11655262&b=1
+http://www.sehepunkte.de/2007/10/pdf/13278.pdf (1.2.09)
+Die Frage, die ich gern stellen möchte, ist: Wer wirft den Blick auf die Künstler
+und wie verflochten sind dadurch die möglichen Interpretationen? Es war
+früher „einfach“, wenn Künstler ihr Selbstportrait malten“:
+Bilder Serie „artist look“ 07. rem-at-easel.jpg / 08.
+Rembrandt_self_portrait.jpg / 11. karikatur french artist.jpg 12. monmartre
+clichee.jpg / 13. you look like a french artist! web.jpg 15. french artist golf
+cap by ebay.jpg
+Dieser “Look” entspricht eher dem Typ „Armer Künstler“, oder dem daraus
+entstandenen Clichée. In seinem Buch „Why are the Artists poor“ von 2002
+beschreibet Hans Abbing die verstrickten Verhältnisse zwischen Künstler
+und der Gesellschaft. Abbing vertritt unter anderem die These, dass die
+Kunst für den Künstler zu heilig wäre, um in Worten wie Profit und Kommerz
+beschrieben zu werden. Der Künstler erhält Stipendien und wird weiter als
+Armer und Outsider wahrgenommen. Oft wird er als Autist, der im Atelier
+begraben ist, bis er entdeckt wird, wahrgenommen. Weil er so sensibel sei
+und geschützt werden muss, braucht er einen Vermittler, auch weil er seine
+eigene Arbeit nicht schätzen kann. Er produziert, weil er produzieren muss,
+egal ob er Geld dafür bekommen wird oder nicht. In dem Film Basquiat, ein
+Spielfilm der USA aus dem Jahr 1996, (Regie geführt vom Künstler
+Julian Schnabel), wird ein Text des Kunstkritikers Rene Ricard, aus seinem
+Schreiben „The Radiant Child“ über Jean–Michel Basquiat aus dem
+Artforum Magazin Dec. 1981 zitiert: „Warum schenken wir der Kunst so viel
+Bedeutung? Arme respektieren Künstler, da sie aus dem Slum
+herauskommen, indem sie sich selbst als Medium benutzen. Das verdiente
+Geld beweist den Wert des Künstlers“. Wenn es früher massenhaft Bilder
+von Künstlern im eigenen Atelier, neben ihrer Staffelei, vor der eigenen Arbeit gab, so hat sich parallel zur Entwicklung der Fotografie als dokumentarisches
+Medium, eine langsame Auflösung der Künstler von seiner Schöpfung vollzogen und immer mehr wird er per se, in Form von Portrait-Fotografie auf Grund seiner Berühmtheit erkannt. (Denken wir an Picasso oder Paul Klee in Schwarzweiß-Fotografien von Henri Cartier-Bresson).
+Mit dem Fotografieboom der 80er Jahre des vorigen Jahrhunderts ist das
+Bewusstsein der Künstler hinsichtlich der Wirkung ihres Aussehens gestiegen.
+Künstler wie Josef Beuys und Andy Warhol wussten es für ihre Zwecke zu
+Nutzen. Dadurch entwickelte sich eine Tendenz zum wohlhabenden Künstler,
+der als berühmt und reich, und das zu Lebzeiten, nicht erst nach dem Tod zu erscheinen hatte.
+Höchstens soll man „Reich denken. Arm aussehen.“ Nach Pp102 war der Meister in Sachen Selbstdarstellung: Andy Warhol.
 ![Bild] Andy Warhol Selbstportrait 1967.jpg
+Wenn man die Arbeiten von Fotografen wie Annie Leibowitz sieht, die für das
+Magazin “The Rolling Stone” viele Musiker und Künstler fotografiert hat, liegt
+der Schwerpunkt eher auf einer kreativen Idee der Fotografin selber, oder in
+Zusammenarbeit mit dem Künstler um etwas Persönliches mitzuteilen. Wenn
+wir deutsche Künstler mit solchen Bildern vergleichen, so scheint es, dass die letzteren Künstler davon nichts halten und eher ihre gediegene Seite zeigen:
+Bilder Deutsche Künstler: 18. Georg Baselitz72.jpg / 21. MarkusLüpertz.jpg
+23. Jörg-Immendorf-Andrea-Strappert–2001-Kopie.jpg
 
-Wenn man die Arbeiten von Fotografen wie Annie Leibowitz sieht, die für das Magazin "The Rolling Stone" viele Musiker und Künstler fotografiert hat, liegt der Schwerpunkt eher auf einer Kreativen Idee der Fotografin selber, oder in Zusammenarbeit mit dem Künstler um etwas persönliches mitzuteilen, wenn mit solche Bilder von Deutsche Künstler vergliechen, halten sich die letzteren Künstler sich von nichts halten, und lassen sich von ihre gediegene Seite zeigen:
+Weiter aber gilt die ungeschriebene Regel: Bei Ausstellungseröffnungen soll
+der Künstler nicht wohlhabender aussehen als sein Galerist oder sein
+Sammler. Andy Warhol macht sich Gedanken über sein Selbstbildnis, in “Die
+Philosophie des Andy Warhol von A bis B und zurück”, er sagte: „Ich glaube,
+wenn ich in den Spiegel sehe, werde ich NICHTS sehen. Man nennt mich
+immer einen Spiegel, und wenn ein Spiegel in einen Spiegel sieht, was ist
+dann zu sehen? „Wenn ich in den Spiegel sehe, weiß ich nur, dass ich mich
+nicht so sehe, wie die andere Leute mich sehen.“ S. 14
+„Dass ihm innerhalb und ebenso außerhalb der Kunstwelt der Status eines
+großen Stars, ja einer legendären Kultfigur zukommt, scheint ganz
+maßgeblich auch in der Inszenierung seiner Person und ihrer öffentlichen
+medialen Präsenz begründet zu sein“ pp12 Aus: Die Inszenierung des
+Künstlers (Anna Marie Freybourg (Hg.) jovis 2008 Andy Warhol:
+Selbstporträts und Selbstdarstellungen von Hubertus Butin
+Das Bild fungiert nicht als Mittel der Selbsterkenntnis, sondern in erster Linie
+als Mittel der Selbstdefinition, denn es gibt Warhol die Möglichkeit, sich so
+zu zeigen, wie er von anderen gesehen werden will.“ (Dies trifft auch auf das
+letzte Bild von Jörg Immendorf zu, vor seinem Eklat). Warhols Anerkennung
+erfolgte nicht allein durch die Würdigung seiner Kunst, sondern auch und
+besonderes durch die Selbstdarstellung in den Massenmedien“ pp16
+Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis an die
+Metaebene gehoben, durch Selbstbeobachtung und Mitteilungsbedarf sind
+selbst seine Äußerungen berühmt geworden.
+1. warhol stickers.psd / 26. in the future 15 min. aufkleber.JPG / 27. your 15
+Min. are over button.JPG
 
-Bilder Deutsche Künstler:
-18. Georg Baselitz72.jpg / 21. Markus Lüperz.jpg 
-23. Jörg-Immendorf-Andrea-Strappert-2001-Kopie.jpg
+# Kunst als “Business”
 
-
-Weiter aber gilt die ungeschriebenen Regel: Bei Ausstellungseröffnungen soll der Künstler nicht Wohlhabener aussehen, als sein Galerist oder sein Sammler. Andy Warhol macht sich Gedanken über sein Selbstbildnis, in "Die Philosophie des Andy Warhol von A bis B und zurück", er sagte: „Ich glaube, wenn ich in den Spiegel sehe, werde ich NICHTS sehen. Mann Nennt mich immer einen Spiegel, und wenn ein Spiegel in einen Spiegel sieht, was ist dann zu sehen? „Wenn ich in den Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen.“ Pp 14
-
-„Dass ihm innerhalb und ebenso ausserhalb der Kunstwelt der Status eines großen Stars, ja einer legendären Kultfigur zukommt, scheint ganz maßgeblich auch in der Inszenierung seiner Person und ihrer öffentlichen Medialen Präsenz begründet zu sein“ pp12
-Aus Die Inszenierung des Künstlers (Anna marie Freybourg (Hg.) jovis 2008
-Andy Warhol: Selbstporträts und Selbstdarstellungen von Hubertus Butin
-
-Das Bild fungiert nicht als Mittel der Selbsterkenntnis, sondern in erster Linie als Mittel der Selbstdefinition, denn es gibt Warhol die Möglichkeit, sich so zu zeigen, wie er von anderen gesehen werden will.“ (Dies trifft auch das letzte Bild von Jörg Immendorf, vor seinerm Eklat). Warhols Anerkennung erfolgte nicht allein durch die Würdigung seiner Kunst, sondern auch und besonderes durch die Selbstdarstellung in den Massenmedien“ pp16
-
-Warhol hat das Thema des Künstlersein auf eine höhere, fast bis an die Metaebene gebracht, durch Selbstbeobachtung und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden.
-
-25. warhol stickers.psd / 26. in the future 15 min. aufkleber.JPG / 27. your 15 Min. are over button.JPG
-
-# Kunst als "Business"
-
-Zurück zum *Basquiat* Film, der laut mancher Kritik viel mehr ein Film über Schnabel sein soll, als über Jean Michel Basquiat, aber so oder so den Betrachter einen tieferen Blick bietet, denn hier werden viele Wahrheiten über das Künstlersein vermittelt, zum Beispiel die Haltung der nicht so erfolgreicher Künstler (gespielt von Willem Daffoe), der zugibt, das er als Nebentätigkeit auch als Elektriker arbeitet, um seine künstlerische Freiheit nicht komprimieren zu müssen, oder Basquiat's Freund, gespielt von Benicio del Toro gespielt), der ihm Rat gibt bei der erste Handlung mit Andy warhol (gespielt von David Bowie), und seine Unzufriedenheit zeigt, wenn der Rühm seine Spuren auf die Verhaltung Basquiats sich von nicht so schöne Seite zeigt. In einem Film über Andy Warhols Factory (Name, Jahr), wird eine Fernsehe Interview inszeniert, in welchem er gefragt wird, warum er nichts selber produziert, sondern Kopien von Brillo Boxen hergestellt hat, darauf antwortete er: "Because it’s more easy“. Der Künstler ist also frech genug um zuzugeben, dass ihm das Geniale einfacherweise ihm einfällt.
-
+Zurück zum Basquiat-Film, der laut mancher Kritik viel mehr ein Film über
+Schnabel sein soll, als über Jean Michel Basquiat, aber so oder so den
+Betrachter einen tieferen Blick bietet, denn hier werden viele Wahrheiten
+über das Künstlersein vermittelt, zum Beispiel die Haltung der nicht so
+erfolgreicher Künstler (gespielt von Willem Daffoe), der zugibt, das er als
+Nebentätigkeit auch als Elektriker arbeitet, um seine Künstlerische Freiheit
+nicht komprimieren zu müssen, oder Basquiat’s Freund, gespielt von Benicio
+del Toro gespielt), der ihm Rat gibt bei der erste Handlung mit Andy warhol
+(gespielt von David Bowie), und seine Unzufriedenheit zeigt, wenn der Rühm
+seine Spuren auf die Verhaltung Basquiats sich von nicht so schöne Seite
+zeigt. In einem Film über Andy Warhols Factory (Name, Jahr), wird eine
+Fernsehe Interview inszeniert, in welchem er gefragt wird, warum er nichts
+selber produziert, sondern Kopien von Brillo Boxen hergestellt hat, darauf
+antwortete er: "Because it’s more easy“. Der Künstler ist also frech genug
+um zuzugeben, dass ihm das Geniale einfacherweise ihm einfällt.
 ![Bild] > Basquiat Film
-
-- - 
-Weitere wichtige Zitate aus Warhols "von A bis B":
-
-Eigenschaften:
-Ich glaube, in den sechziger Jahren vergaßen die Leute, was Gefühle sind. Und ich glaube auch nicht, dass es ihnen wieder eingefallen ist. Ich glaube, wenn man Gefühle einmal von einer anderen Warte gesehen hat, kann man sie nie wieder als echt empfinden. Genau das ist mir passiert.>> pp33
-
-Künstler:
-„Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt – aus irgendeinem Grund – jedoch an, es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen.“ Pp130
- 
-Business Art:
-„Leonardo da Vinci hat seine Auftraggeber immer davon überzeugt, dass die Zeit, in der er nachdachte, etwas wert war, sogar mehr wert als die Zeit, in der er malte-, und das mag für ihn durchaus gegolten haben, ich weiß aber, dass die zeit, in der ich nachdenke, nichts wert ist Ich erwarte, nur auf die Zeit bezahlt zu werden, in der ich etwas tue.
-
-„Während ich im Krankenhaus lag, arbeitete der ‚Stab’ weiter, und mir würde klar, dass ich mit meinem Unternehmen sozusagen ein Kinetische Business besass – es lief auch ohne mich weiter. Mir war das sehr lieb, denn für mich stand schon zu diesem Zeitpunkt fest, dass die größte Kunst das Geschäft mit ihr ist, also „das Business“ an sich. (...) nachdem ich also „Kunst“ gemacht hatte (wenn man es so nennen will), stieg ich in die Business-Kunst ein. Business-Kunst.(...)  Kunst-Business. Das Business vom Kunst-Business“  pp 86-87
-
-„es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während das bei der Business-Kunst der Fall ist. (Wenn die Business-Kunst keine Nutzen bringt, fliegt sie aus den Business“ pp130
-
-„Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person ganz genau zugeschnitten sind.“ Pp99
-- - 
-
-# Von Aneignung zur Referenzierung
-Eine neue Strömung, die neben der Auseinandersetzung mit Begriffen wie Kopie, Original, und Aneignungskunst agiert, und eine Widmung des Kunstheftes „Texte zur Kunst“ (Heft 71 Herbst 2008) erzielt hat, ist das Phänomen des "Künstlers-Künstler" (in erste Linie zu verstehen, als Begriff für weitgehend unbekannte Künstler/innen, die an Galeristen und Kuratoren weitergegeben werden, oder in Form von Zitaten und Verweisen in Werkentwürfe integriert werden. Laut Vorwort zum Heft „Im Modell des „Künstler-Künstlers“ steckt offenkundig beides – das Potenzial zu einer Abschottung gegenüber dem Marktgeschehens wie auch die Voraussetzung für einen „Hype“. Im Heft wird das Thema „Refernzierung“ angesprochen. Ich möchte gern dieses Phänomen auf eine andere Ebene demonstrieren, und zwar in Form eines Versuchs der Dekonstruktion des Künstlermythos, wie es in der umfangreichen Ausstellung "Kult des Künstlers" 2009 in den *Staatlichen Museen zu Berlin* zu sehen war. Durch Bilder, Zitate, und Wiedergabe von Arbeitsweisen würden Künstler wie Joseph Beuys, Jeff Koons und Andy Warhol, Alberto Giacometti, Paul Klee und Martin Kippenberger, etc."bloßgestellt".
-
-Die Idee war es, durch eine Werbekampagne so plakativ wie möglich (Bild plus Zitat) den Betrachter schnell eine Art Selbstbildnis der Künstler zu zeigen. Das Resultat zeigte die (alle sehr berühmten) Künstler in einem Zwielicht, als faul, unseriös, in manchen Fällen sogar verrückt, und bereit zu Allem seinen Senf dazu zu geben. Zitate wie: "Ich bin der einzige Künstler, den die Natur kopiert (Dali)"; "Die Kunst ist überflussig" (Ben Vautier); "Kurzum, Ich mache, was ich für richtig halte", bis "Hört auf zu malen" (Jörg Immendorf), sollten eine bestimmte "Wahrheit" hervorbringen, stattdessen, wie Michael Meyer in seiner Kritik auf ArtNet online Magazin schrieb: "zu den „Künstlermythen der Deutschen“ im Allgemeinen und überhaupt zur Rolle des Künstlers von der Stein- bis zur Jetztzeit – sollte der „Kult des Künstlers“ dargestellt, ausgestellt und erklärtermaßen auch hinterfragt werden. Und doch geriet diese Tour de Force vor allem zu einem Bravourstück in Sachen Kult eines Museumsdirektors, der seinem allzu dankbaren Publikum auch zum Schluss eine jener Schauen aufdrängte, in denen vielen viel versprochen, doch nichts gesagt wurde". (http://www.artnet.de/magazine/der-kult-des-kunstlers-in-den-staatlichen-museen-zu-berlin/)
-
-Die Entwicklung von einem freien Wesen, das nicht arbeitet, Sondern von Stipendien Kurzfristige Projekte, und unregelmässige Aufträge lebt, vor sich hin kreativ arbeitet und auf gute Gelegenheit wartet, sein Arbeit zu verkaufen, ist mittlerweile zum Bild der Künstlertätigkeit geworden, wobei sich Künstler in der Realität großenteils Alltags mit Selbstvermarktung, Mappen Herstellung, PR Arbeit, online Website einrichten und Update, Steuer Erklärungen, vergebene Arbeit (delegieren), Arbeitsraum zur Show-room widmen. Teilweise wird die Abhängigkeit von Galerie und Galerist aufgelöst, der Künstler versteht sich als autark, die Kontrolle über seinen wirtschaftlichen Erfolg selbst in die Hand zu nehmen, gestaltet seine Einladungen am eigenen Rechner, schreibt Texte, und wird sogar aufgefordert eigens Texte über seine Arbeit und deren Aufklärung zu schreiben. Er verschickt selbst Ausstellungseinladungen, E-Mails, und publiziert sein Werk auf Internet Plattformen wie Facebook und versteigert seine eigene Arbeit bei Sotheby’s (Siehe der Fall Damien Hirst). Jeff Koons hat 80 Assistenten und steht hier im Bild wie jeder andere Unternehmer vor seinen Mitarbeitern, die alles vor Ihm produzieren, im Stil von "Kult des Künstlers" es reicht ein Zitat von Jeremy Deller, Werbekampagne, (Der rennomierten Turner Price Gewinner 2006):
-"I went from being an artist that makes things, to being an artist that makes things happen."
-
-
+- Weitere wichtige Zitate aus Warhols “von A bis B”:
+Eigenschaften: Ich glaube, in den sechziger Jahren vergaßen die Leute, was
+Gefühle sind. Und ich glaube auch nicht, dass es ihnen wieder eingefallen
+ist. Ich glaube, wenn man Gefühle einmal von einer anderen Warte gesehen
+hat, kann man sie nie wieder als echt empfinden. Genau das ist mir
+passiert.>> pp33
+Künstler: „Ein Künstler ist jemand, der Sachen produziert, die keiner haben
+muss. Er nimmt – aus irgendeinem Grund – jedoch an, es sei eine gute Idee,
+seine Mitmenschen mit Kunst zu versorgen.“ Pp130
+Business Art: „Leonardo da Vinci hat seine Auftraggeber immer davon
+überzeugt, dass die Zeit, in der er nachdachte, etwas wert war, sogar mehr
+wert als die Zeit, in der er malte-, und das mag fürihn durchaus gegolten
+haben, ich weiß aber, dass die zeit, in der ich nachdenke, nichts wert ist Ich
+erwarte, nur auf die Zeit bezahlt zu werden, in der ich etwas tue.
+„Während ich im Krankenhaus lag, arbeitete der ‚Stab’ weiter, und mir würde
+klar, dass ich mit meinem Unternehmen sozusagen ein Kinetische Business
+besass – es lief auch ohne mich weiter. Mir war das sehr lieb, denn fürmich
+stand schon zu diesem Zeitpunkt fest, dass die größte Kunst das Geschäft
+mit ihr ist, also „das Business“ an sich. (…) nachdem ich also „Kunst“
+gemacht hatte (wenn man es so nennen will), stieg ich in die Business-Kunst
+ein. Business-Kunst.(…) Kunst-Business. Das Business vom Kunst-
+Business“ pp 86–87
+„es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die
+Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während
+das bei der Business-Kunst der Fall ist. (Wenn die Business-Kunst keine
+Nutzen bringt, fliegt sie aus den Business“ pp130
+„Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten
+bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person
+ganz genau zugeschnitten sind.“ Pp99 - -
+Von Aneignung zur Referenzierung
+Eine neue Strömung, die neben der Auseinandersetzung mit Begriffen wie
+Kopie, Original, und Aneignungskunst agiert, und eine Widmung des
+Kunstheftes „Texte zur Kunst“ (Heft 71 Herbst 2008) erzielt hat, ist das
+Phänomen des “Künstlers-Künstler” (in erste Linie zu verstehen, als Begriff
+fürweitgehend unbekannte Künstler/innen, die an Galeristen und Kuratoren
+weitergegeben werden, oder in Form von Zitaten und Verweisen in
+Werkentwürfe integriert werden. Laut Vorwort zum Heft „Im Modell des
+„Künstler-Künstlers“ steckt offenkundig beides – das Potenzial zu einer
+Abschottung gegenüber dem Marktgeschehens wie auch die Voraussetzung
+füreinen „Hype“. Im Heft wird das Thema „Refernzierung“ angesprochen.
+Ich möchte gern dieses Phänomen auf eine andere Ebene demonstrieren,
+und zwar in Form eines Versuchs der Dekonstruktion des Künstlermythos,
+wie es in der umfangreichen Ausstellung “Kult des Künstlers” 2009 in den
+Staatlichen Museen zu Berlin zu sehen war. Durch Bilder, Zitate, und
+Wiedergabe von Arbeitsweisen würden Künstler wie Joseph Beuys, Jeff
+Koons und Andy Warhol, Alberto Giacometti, Paul Klee und Martin
+Kippenberger, etc.“bloßgestellt”.
+Die Idee war es, durch eine Werbekampagne so plakativ wie möglich (Bild
+plus Zitat) den Betrachter schnell eine Art Selbstbildnis der Künstler zu
+zeigen. Das Resultat zeigte die (alle sehr berühmten) Künstler in einem
+Zwielicht, als faul, unseriös, in manchen Fällen sogar verrückt, und bereit zu
+Allem seinen Senf dazu zu geben. Zitate wie: “Ich bin der einzige Künstler,
+den die Natur kopiert (Dali)”; “Die Kunst ist überflussig” (Ben Vautier);
+“Kurzum, Ich mache, was ich fürrichtig halte”, bis “Hört auf zu malen” (Jörg
+Immendorf), sollten eine bestimmte “Wahrheit” hervorbringen, stattdessen,
+wie Michael Meyer in seiner Kritik auf ArtNet online Magazin schrieb: “zu den
+„Künstlermythen der Deutschen“ im Allgemeinen und überhaupt zur Rolle
+des Künstlers von der Stein- bis zur Jetztzeit – sollte der „Kult des Künstlers“
+dargestellt, ausgestellt und erklärtermaßen auch hinterfragt werden. Und
+doch geriet diese Tour de Force vor allem zu einem Bravourstück in Sachen
+Kult eines Museumsdirektors, der seinem allzu dankbaren Publikum auch
+zum Schluss eine jener Schauen aufdrängte, in denen vielen viel
+versprochen, doch nichts gesagt wurde”.
+(http://www.artnet.de/magazine/der-kult-des-kunstlers-in-den-staatlichenmuseen-
+zu-berlin/)
+Die Entwicklung von einem freien Wesen, das nicht arbeitet, Sondern von
+Stipendien Kurzfristige Projekte, und unregelmässige Aufträge lebt, vor sich
+hin kreativ arbeitet und auf gute Gelegenheit wartet, sein Arbeit zu verkaufen,
+ist mittlerweile zum Bild der KünstlertaÅNtigkeit geworden, wobei sich Künstler
+in der Realität großenteils Alltags mit Selbstvermarktung, Mappen
+Herstellung, PR Arbeit, online Website einrichten und Update, Steuer
+Erklärungen, vergebene Arbeit (delegieren), Arbeitsraum zur Show-room
+widmen. Teilweise wird die Abhängigkeit von Galerie und Galerist aufgelöst,
+der Künstler versteht sich als autark, die Kontrolle über seinen
+wirtschaftlichen Erfolg selbst in die Hand zu nehmen, gestaltet seine
+Einladungen am eigenen Rechner, schreibt Texte, und wird sogar
+aufgefordert eigens Texte über seine Arbeit und deren Aufklärung zu
+schreiben. Er verschickt selbst Ausstellungseinladungen, E-Mails, und
+publiziert sein Werk auf Internet Plattformen wie Facebook und versteigert
+seine eigene Arbeit bei Sotheby’s (Siehe der Fall Damien Hirst). Jeff Koons
+hat 80 Assistenten und steht hier im Bild wie jeder andere Unternehmer vor
+seinen Mitarbeitern, die alles vor Ihm produzieren, im Stil von “Kult des
+Künstlers” es reicht ein Zitat von Jeremy Deller, Werbekampagne, (Der
+rennomierten Turner Price Gewinner 2006): “I went from being an artist that
+makes things, to being an artist that makes things happen.”
 ![Bild] Jeff Koons Atelier
-
-
-Der markt schlägt zurück:
-![Bild]
-64a.Kunstmarktbox.jpg
-65. Kunstmarkt all view.jpg
-66. Kunstmarkt.jpg
-67. Kunstmarkt 2 Karten D modern.jpg
-
-Ein Blick auf den Künstler von Außen verleiht einen Ausdruck über die unausgesprochene Leichtigkeit des Künstlerseins auch durch Bücher wie "Das sagt mir was ! Sprachführer Deutsch - Kunst Kunst deutsch, der für eine Weile in jeden Museumsshop erhältlich ist und kein Sprachführer, sondern eher ein "Knigge für Vernissage"" darbietet, und in dem alle Clichès über Künstler in einer sehr verdaulichen Form gezeigt sind. Aber der Künstler bleibt nicht schuldig, frei von Geldsorgen, er entblößt sich selbst weiter, und zwar ganz. Die Gruppe *Azorro Collective* (P)zeigt in ihrer Videoarbeit *Everything Has Been Done* von 2003 die Künstlergruppe selbst, wie sie zusammensitzen und nach neuen Ideen für ein Kunstwerk suchen und dabei erneut feststellen müssen: Everything Has Been Done!
-
-
-
+Der markt schlägt zurück: ![Bild] 64a.Kunstmarktbox.jpg 65. Kunstmarkt all
+view.jpg 66. Kunstmarkt.jpg 67. Kunstmarkt 2 Karten D modern.jpg
+Ein Blick auf den Künstler von Außen verleiht einen Ausdruck über die
+unausgesprochene Leichtigkeit des Künstlerseins auch durch Bücher wie
+“Das sagt mir was ! Sprachführer Deutsch - Kunst Kunst deutsch, der für
+eine Weile in jeden Museumsshop erhältlich ist und kein Sprachführer,
+sondern eher ein ”Knigge fürVernissage"" darbietet, und in dem alle Clichès
+über Künstler in einer sehr verdaulichen Form gezeigt sind. Aber der Künstler
+bleibt nicht schuldig, frei von Geldsorgen, er entblößt sich selbst weiter, und
+zwar ganz. Die Gruppe Azorro Collective (P)zeigt in ihrer Videoarbeit
+Everything Has Been Done von 2003 die Künstlergruppe selbst, wie sie
+zusammensitzen und nach neuen Ideen fürein Kunstwerk suchen und dabei
+erneut feststellen müssen: Everything Has Been Done!
 ![Bild] Azorro Collective (P) Everything Has Been Done I 2003
 
-- -
+---
+
 Übrige Textfetzen:
-
 Künstler > Kurator > Museum > Publikum = Kunstwerk im Mittelpunkt
-Gallerist > Sammler > Auktionshaus = Kunstwert in Mittelpunkt
-Künstler als Kurator > Künstler im Mittelpunkt
-Kunstler als Teil der Gesellschaft = "Kunst als Sozialarbeit
-
-Künstler meinen die Galerie ist tot
-Kunstmarkt meint deine 15 Minuten sind vorbei
-Kinder spielen Kunstmarkt wie Monopoly
-
-Künstler Äusserungen über den Kunstmarkt
-![Bild]
-69. understand modern art.JPG
-78. Vuk Vidor Art History 2005.png
-79. MINNAS_MAP 2006.jpg
-80. BDU FX I.JPG/81. BDU FX II.JPG/82. BDU FX III.JPG
-81. Dan Perjovschi (postmodern ex-communist)
-
-
-Zitat Simon Sheik, wohin?
-Diese derzeitige Situation im kulturellen und auch im politischen Feld führt zu einer möglichen - manchmal strategischen, manchmal eher unwillkürlichen - Radikalisierung statt des Mainstreamings kritischer Praxen in Kunst und Aktivismus. Es ist ein Kampf an zwei Fronten, der sich gegen den aktuellen politischen Mainstream ebenso richtet wie nach innen, indem er politische Identitäten und Plattformen schafft: Was können wir für uns selbst tun? Solche Bemühungen benötigen ein Mehr an Reflexion über die Begriffe Kultur und Politik, aber auch über Identitätskonstruktionen und Verständnisse von Lokalität, oder auch über die Vermittlung zwischen Partikularität und Universalität, öffentlichen Räumen und aktivistischen Strategien, Netzwerken und WählerInnenschaften. In der Schaffung von Entsprechungen und Übersetzung können wir vom AIDS-Aktivismus lernen, wie der Künstler und Aktivist Gregg Bordowich vorgeschlagen hat: MEDICINE INTO MY BODY NOW. Dazu ist die permanente Verhandlung, Übersetzung und Artikulation zwischen interessierten Einzelnen und Gruppen notwendig. Netzwerke müssen entwickelt werden, um Praxen und Theorien zu vergleichen und zu vermitteln. Kunst bewirkt natürlich etwas, aber Kunst ist nicht genug ...
-Simon Sheikh 10/2004
-Repräsentation, Anfechtung und Macht: KünstlerInnen als öffentliche Intellektuelle
-
-![Bild]  Justin_Hansch_Happy_Artists.jpg
-
-
+Gallerist > Sammler > Auktionshaus = Kunstwert in Mittelpunkt Künstler als
+Kurator > Künstler im Mittelpunkt Kunstler als Teil der Gesellschaft = "Kunst
+als Sozialarbeit
+Künstler meinen die Galerie ist tot Kunstmarkt meint deine 15 Minuten sind
+vorbei Kinder spielen Kunstmarkt wie Monopoly
+Künstler Äusserungen über den Kunstmarkt ![Bild] 69. understand modern
+art.JPG 78. Vuk Vidor Art History 2005.png 79. MINNAS_MAP 2006.jpg 80.
+BDU FX I.JPG/81. BDU FX II.JPG/82. BDU FX III.JPG 81. Dan Perjovschi
+(postmodern ex-communist)
+Zitat Simon Sheik, wohin? Diese derzeitige Situation im kulturellen und auch
+im politischen Feld führt zu einer möglichen - manchmal strategischen,
+manchmal eher unwillkürlichen - Radikalisierung statt des Mainstreamings
+kritischer Praxen in Kunst und Aktivismus. Es ist ein Kampf an zwei Fronten,
+der sich gegen den aktuellen politischen Mainstream ebenso richtet wie nach
+innen, indem er politische Identitäten und Plattformen schafft: Was können
+wir füruns selbst tun? Solche Bemühungen benötigen ein Mehr an Reflexion
+über die Begriffe Kultur und Politik, aber auch über Identitätskonstruktionen
+und Verständnisse von Lokalität, oder auch über die Vermittlung zwischen
+Partikularität und Universalität, öffentlichen Räumen und aktivistischen
+Strategien, Netzwerken und WählerInnenschaften. In der Schaffung von
+Entsprechungen und Übersetzung können wir vom AIDS-Aktivismus lernen,
+wie der Künstler und Aktivist Gregg Bordowich vorgeschlagen hat:
+MEDICINE INTO MY BODY NOW. Dazu ist die permanente Verhandlung,
+Übersetzung und Artikulation zwischen interessierten Einzelnen und Gruppen
+notwendig. Netzwerke müssen entwickelt werden, um Praxen und Theorien
+zu vergleichen und zu vermitteln. Kunst bewirkt natürlich etwas, aber Kunst
+ist nicht genug … Simon Sheikh 10/2004 Repräsentation, Anfechtung und
+Macht: KünstlerInnen als öffentliche Intellektuelle
+![Bild] Justin_Hansch_Happy_Artists.jpg
