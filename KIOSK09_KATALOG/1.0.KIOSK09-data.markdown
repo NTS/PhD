@@ -1,4 +1,4 @@
-K1 
+# K1 
 Benedikt Braun 
 "Tempel des Lichts" 
 01.4.-14.04.2010
@@ -14,7 +14,7 @@ Als Absolvent der Bauhaus-Universität Weimar in den Bereichen Visueller Kommuni
 
 www.benediktbraun.de
 
-K2 
+# K2 
 Anke Hannemann 
 "im Sinne von bezug nehmen - oder warum ich dich nicht lieben kann" 22.04.-22-05.2009
 Galerie Eigenkiosk
@@ -22,7 +22,7 @@ Galerie Eigenkiosk
 Die Arbeit „im sinne von bezug nehmen – oder warum ich dich nicht lieben kann“ präsentierte den aus dem gewohnten Umfeld losgelösten Besitz, mit dem die Künstlerin Anke Hannemann täglich lebt. Die Offenbarung ihrer Habe stellt die Frage nach einer zugehörigen Relevanz für ihr persönliches Dasein und untersucht, inwiefern die Gegenstände ihres täglichen Gebrauchs austauschbar sein können. Als Aneignungsobjekt fungierte dabei Galerie Eigenheim und wurde durch den KIOSK09 zum Eigenkiosk erklärt.
 
 
-K3 
+# K3 
 Anne Gierster 
 Verkehrsführungskiosk 
 27.05.-03.07.2009
@@ -31,7 +31,7 @@ StadtWerksKiosk
 In Ihren Arbeiten beschäftigt sich Anna Gierster überwiegend mit Kontrollmechanismen – wobei die Mechanismen hier ganz bildlich verstanden werden müssen. Stets mit einem Augenzwinkern konstruiert sie „funktionstüchtige“ Geräte im Retro-Papp-Look, die uns Wahn und Witz unseres Sicherheits- und Kontrollbedürfnisses vor Augen führen und unsere Unterwürfgkeit gegenüber Maschinen persifieren. Ihr Statement zur Ausstellungseinladung des Kiosk gestaltete sich wie folgt; 
 „Der Sophienstiftsplatz samt der Ampelanlage Ecke Steubenstr./ Gropiusstr. ist wahrscheinlich einer der – verkehrsführungsmäßig – unglaublichsten Orte der gesamten Republik. Eine Ampel reiht sich hier an die nächste und stellt die Geduld eines jeden Verkehrsteilnehmers auf eine harte Probe.“ Im Kiosk installierte Anna Gierster eine vermeintliche Ampel-Schalt-Anlage. Zu horrenden Preisen konnte man sich dort etwas Zeit erkaufen. Zahlungskräftige Fußgänger konnten so das Warten auf die nächste Grünphase verkürzen und selbige dadurch verlängern. Ein Seitenhieb auf die tatsächlichen Ampelanlagen rund um den Sophienstiftsplatz, an denen man oft minutenlang auf die nächste Grünphase wartete, nur um während der lang ersehnten Darf-Straße- Überqueren-Phase festzustellen, dass es auch für einen fotten Menschen unmöglich ist, in der städtisch verordneten Zeitspanne tatsächlich über die Straße zu gelangen. Die Ausstellung um den Verkehrsführungskiosk wartete noch mit einer weiteren Überraschung auf. Das dabei approbierte Objekt, die "Stadtwerke" Weimars, wurden durch Passanten auf die kleine Freiluftgalerie aufmerksam und inszenierten zusammen mit dem Team des KIOSK09 eine Pressekonferenz sowie einen ausführlichen Bericht in der hauseigenen, vierteljährlich-erscheinenden "Guten Bekannten".
 
-K4 
+# K4 
 Urbandae 
 14Tage/ 24h
 08.07-21.07.2009
@@ -44,7 +44,7 @@ ein Mini-Hotel, eine mobile Küche und eine Tauschbörse, einen Showroom, Lounge
 Alles optimiert auf eine Fläche von 62 qm!
 Die improvisierte, prekäre, größtenteils wiederverwendete und niemals fertige Struktur des KoCA Inn machte den Kiosk und sein direktes Umfeld zu einem Dispositiv, die Konsumkultur, wie auch die Sicherheit und Vorhersehbarkeit des hiesigen öffentlichen Raumes zu diskutieren. Mit einem dichten Programm aus unterschiedlichsten Aktionen und durch spontane und organisierte Mithilfe der Öffentlichkeit wurde die Kiosk-Kreuzung zur offenen, informellen Plattform.
 
-K5 
+# K5 
 KIOSK of PIRACY
 Über die Sommerpause
 
@@ -52,7 +52,7 @@ Große internationale Resonanz über eines der wohl zeitgemäßesten Medien erfu
 
 Mehr dazu auf www.kiosk09.de
 
-K6 
+# K6 
 Felix Ruffert 
 "By cortesy of.." 
 21.10.2009 - 20.11.2009
@@ -61,7 +61,7 @@ KoMA The Kiosk of Modern Art
 Große Kunstwerke zwängten sich dabei in den kleinen Kiosk. Große Kunstwerke - die werden von der Dependance09 aus dem World Wide Web extrahiert, frei nach dem Motto: „Was nicht passt wird passend gemacht.“ Das bedeutete, die Originale vom Netzformat 1280×1024 hin zum Kiosk-format 4150×2800 zu adaptieren. Ohne die freundliche Genehmigung einer namhaften Ausstellung, die derzeit ca. 150.000 Ausstellungsobjekte umfasst, währe dies undenkbar gewesen: „All requests to reproduce works of art from MoMA‘s collection should be addressed directly to Art Resource, Scala‘s New York representative, at 536 Broadway, New York 10012.“ Eine wunderbare Gelegenheit für all diejenigen, welchen der Weg in die repräsentativen Häuser der großen Kunst zu weit schien.
 
 
-K7 
+# K7 
 Karo Kollwitz 
 "Mondkopie" 
 25.11.2009 - 08.01.2010
@@ -73,7 +73,7 @@ Die Zielsetzung der Projekte ist manigfaltig und umfasst sowohl wissenschaftlich
 Als kopierte Institution wurde diesmal die "ESA - European Space Agency" gewählt und gemäß des KIOSK09 -Prinzipes in die "KSA" umgeformt.
 
 
-K8 
+# K8 
 Oleg Mavromatti (Moskau) BioNihil (Weimar) 
 "Rent a DNA" 
 20.01.-19.02.2010
