@@ -14,3 +14,7 @@ body{
 	width:80%;
 	margin:auto;
 }
+
+q { quotes: "„" "“" "‚" "’"; !important }
+q {background-color: lightsalmon; }
+q q {background-color: lightcoral; }
