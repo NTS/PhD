@@ -1,0 +1,19 @@
+body {
+	width: 80%; 
+	margin: auto; 
+}
+
+body, p, td, div {
+	color: #111;
+	font-family: "Droid serif", monospace;
+	word-wrap: break-word;
+}
+
+/* QUOTE CHARS */
+
+q { quotes: "„" "“" "‚" "’"; !important }
+
+/* ## DEBUG */
+
+q {background-color: lightsalmon; }
+q q {background-color: lightcoral; }

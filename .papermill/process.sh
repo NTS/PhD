@@ -39,7 +39,7 @@ do
 
 	~/.cabal/bin/pandoc "$DIR.generated.markdown" \
 	--write=html5 --standalone --smart --toc --section-divs --normalize --number-sections \
-	--css=".papermill/swiss.css" \
+	--css=".papermill/nts.css" \
 	--bibliography="./BIBTEX/biblio.phd.nts.bib" \
 	--csl=".papermill/CSL/din-1505-2.csl" \
 	--output="$DIR.generated.html"
