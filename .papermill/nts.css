@@ -8,7 +8,7 @@ body {
 body > section, body > blockquote, body > hr,
 body > header {
 	width: 40em;
-	margin: 0 24em;
+	margin-left: 24em;
 }
 
 #TOC {
@@ -103,7 +103,13 @@ ul li ul li {
 
 #TOC ul {
 	-webkit-padding-start: 1.25em;
-	content: "Inhaltsverzeichnis:";
+
+}
+
+#TOC > ul:before {
+	content: "Inhaltsverzeichnis\:";
+	font-weight: normal;
+	text-transform: uppercase;
 
 }
 
