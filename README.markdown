@@ -48,8 +48,9 @@ This is a Picture:
 
 ## References
 
-Sometime one wants to have Meta-Info[^footnote-meta].
-[footnote-meta]: 
+Sometime one wants to have notes. [^footnote-bla]
+
+[footnote-bla]: This is the text of the Footnote.
 
 Quotations [@Author:book, pp. 86]
 
