@@ -15,7 +15,7 @@ an:
 ---
 * mfa
 
-* Anki
+* Anke Hannemann
 * Andrea Dietrich
 * Barbara
 
