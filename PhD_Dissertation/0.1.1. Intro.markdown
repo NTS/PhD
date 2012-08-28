@@ -4,7 +4,7 @@
 
 (das ist kein Intro. Die kernaussage muss ich zusammenfassen und den Rest kommt als Bausteine zwischen den Texten, in Form von Paragraphen als Einzelfazit zwischen den Kapitel und als bindungstext dienen.) 
 
-#### Grundthese: 
+#### Grundthese 
 
 "I am bored with that line. I never use it anymore. My new line is: in 15 minutes everybody will be famous" - Andy Warhol
 
@@ -116,7 +116,7 @@ Zitat Schawelka im Bezug auf was interessiert Künstler wirklich
 zur Anfang:
 zu Goethes zeit, haben Menschen wie er geschrieben, und um ihm gab es ein Apparat von Menschen um den Text Korrektur zu lesen, lektorieren, Bilder und Rechte besorgen, layouten, gestalten, verlegen, vermarkten, und eventuell übersetzten. Heute liegt das Regie bei dem Autor selber, an seinem Komputer. In der Kunst entwickelt sich ein ähnliches Mechanismus, in dem das Apparat von Kritik, Galerie Museum Sammler Kunstmesse etc. funktioniert immer noch, jedoch tut der Künstler , oft auch kuratieren, layouten von Werbematerial und das verbreiten durch web 2.0 selber. ist der Künstler gezwungen alles zu können: Ein Kurator sein, texte schreiben, seine Bilder beschriften.
 
-####Gegenargumente: 
+####Gegenargumente 
 
 sollen Vögel zu Ornithologen werden: 
 1. nein.
@@ -206,8 +206,8 @@ aber der Eierlegende muss jetzt alles liefern können. trifft nicht nur die Kuns
 Zur Homogenie im Globalen Dorf
 
 (Buch: Dieter Haselbach (u.a.) Der Kulturinfrakt) beschreibt die Situation, in dem überall alles das gleiche wird sehr gut.
- 
-#### das ist der jetzige ist Zustand: 
+
+das ist der jetzige ist Zustand: 
 so bekommen Künstler Geld: durch Verkauf, Auftrag, Bewerbungen, Preise, Stipendien, etc. aber auch durch jobben (Praktikum in Galerien z.B.) Ausstellungsaufbau usw. Produkte, Multiples, Publizierungshonorare, Vorträge, Residenzen. Vor der Finanzamt oft Selbstständig.
 Auch wenn sie den Betrieb drumherum lieber und gern ignorieren würden, müssen sie zusehen, wie sie Miete für wohnen und Atelier sowie Lagerräume neben- und Materialkosten bezahlen, wie sie überleben, ohne ein reguläres Einkommen (oder im falle einer Stip. Kurzfristig und vorübergehend), und müssen aber zu eine System sich anpassen, die aber (anders) reguliert ist, und fordert Zeitbegrenzte Anzahlungsmodalitäten.
 
