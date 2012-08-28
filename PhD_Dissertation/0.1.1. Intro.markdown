@@ -1,6 +1,6 @@
 # Intro
 
-das ist kein Intro. Die kernaussage muss ich zusammenfassen und den Rest kommt als Bausteine zwischen den Texten.paragraphen werden als einzelteile zwischen den Kapitel als bindungstext dienen. 
+das ist kein Intro. Die kernaussage muss ich zusammenfassen und den Rest kommt als Bausteine zwischen den Texten, in Form von Paragraphen als Einzelfazit zwischen den Kapitel und als bindungstext dienen. 
 
 "I am bored with that line. I never use it anymore. My new line is: in 15 minutes everybody will be famous" - Andy Warhol
 
