@@ -19,6 +19,8 @@ auf Grund meine Analyse des Zustands der Kunstlehre und Kunststudium an der Bauh
 
 die Verhältnisse sind so, man muss vielfältig sein, es bleibt einem nichts übrig, man muss alles können, oder anders formuliert: man ist gezwungen alles zu machen, und was man nicht selber machen kann delegiert man an andere (Handwerker, Techniker), irgendwann erkennt man, das man wie ein Dirigent, sich, und alle die für ihm produzieren (siehe auch der große Preis buch von Isabelle Grau).
 
+#### Der Künstler als Produzent Nach Walter Benjamin
+
 Vergleichbar mit der Zustand der Schriftsteller (siehe hier Walter Benjamin *Der Autor als Produzent*) gelesen markiert Zitate folgen:
 
 In dem gesamten Text Benjamins konnte man das Wort *Autor* mit Künstler durchaus austauschen, und die aussage bleibt ähnlich, nämlich - die Qualität darf nicht wegen der politische Anwendung nachlassen. Der Autor als Produzent trägt die These: Künstler sind im politischem nicht unbedingt klüger als andere Intellektuelle. 
@@ -116,7 +118,8 @@ Zitat Schawelka im Bezug auf was interessiert Künstler wirklich
 zur Anfang:
 zu Goethes zeit, haben Menschen wie er geschrieben, und um ihm gab es ein Apparat von Menschen um den Text Korrektur zu lesen, lektorieren, Bilder und Rechte besorgen, layouten, gestalten, verlegen, vermarkten, und eventuell übersetzten. Heute liegt das Regie bei dem Autor selber, an seinem Komputer. In der Kunst entwickelt sich ein ähnliches Mechanismus, in dem das Apparat von Kritik, Galerie Museum Sammler Kunstmesse etc. funktioniert immer noch, jedoch tut der Künstler , oft auch kuratieren, layouten von Werbematerial und das verbreiten durch web 2.0 selber. ist der Künstler gezwungen alles zu können: Ein Kurator sein, texte schreiben, seine Bilder beschriften.
 
-####Gegenargumente 
+#### Gegenargumente 
+
 
 sollen Vögel zu Ornithologen werden: 
 1. nein.
@@ -207,11 +210,11 @@ Zur Homogenie im Globalen Dorf
 
 (Buch: Dieter Haselbach (u.a.) Der Kulturinfrakt) beschreibt die Situation, in dem überall alles das gleiche wird sehr gut.
 
-das ist der jetzige ist Zustand: 
+ das ist der jetzige ist Zustand: 
 so bekommen Künstler Geld: durch Verkauf, Auftrag, Bewerbungen, Preise, Stipendien, etc. aber auch durch jobben (Praktikum in Galerien z.B.) Ausstellungsaufbau usw. Produkte, Multiples, Publizierungshonorare, Vorträge, Residenzen. Vor der Finanzamt oft Selbstständig.
 Auch wenn sie den Betrieb drumherum lieber und gern ignorieren würden, müssen sie zusehen, wie sie Miete für wohnen und Atelier sowie Lagerräume neben- und Materialkosten bezahlen, wie sie überleben, ohne ein reguläres Einkommen (oder im falle einer Stip. Kurzfristig und vorübergehend), und müssen aber zu eine System sich anpassen, die aber (anders) reguliert ist, und fordert Zeitbegrenzte Anzahlungsmodalitäten.
 
-REGULIERUNG
+ REGULIERUNG
 Anpassung an der Kapitalismus: gut oder schlecht, frage der Moral
 wo wird angepasst wo wird es anders gemacht (Santiago Sierra Beispiel von Annahme Kulturgewidmeten Geldresourcen und ihre Weiterleitung an die Gesellschaft durch andere Kanäle)
 
@@ -243,8 +246,7 @@ Claas Oldenburg in form vergrößerten Objekten wiederholt sich jede Dekade (BDU
 
 1. Argument: es ist bedauerlich, aber Anpassung ist die beste Methode.
 
-
-# Der Fall Pussy Riot 
+ Der Fall Pussy Riot 
 
 als beispiel dafür das Kunst doch ein Unterschied macht
 Alles zeigt auf Aufstand, danach folgen neue strukturen, verdrängung und opportunismus
