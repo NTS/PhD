@@ -166,4 +166,118 @@ Textreste:
 
 - - -
 
+#### alle statistik Frabo 
+STATISTIK K3:
 
+Fakultät: 
+
+FK:  17x
+VK:  3x
+LAK: 3x
+A:   1x
+M:   2x
+PD:  1x
+
+Semester:
+
+1: 1x
+2: 3x
+3: 4x
+4: 2x
+5: 4x
+6: 3x
+7: 6x
+8: 8x
+9: 5x
+
+Teilnahme K3
+1/3  19x
+2/3  3x
+3/3  6x 
+
+Fragebogen Teil I Frage #7
+
+Reich: 	 1x
+Berühmt: 3x
+Beides:  4x
+
+
+Fragebogen Teil II #6 (FB Teil I/II):
+Künstler: 9x
+Galerist: 1x  
+Kurator:  1x 
+Mehrere:  4x
+
+
+
+§7:
+Management: 0x
+Kreativ: 5x
+Beides: 4x
+
+
+
+§10:
+Ja: 7x
+
+Nein: 0x
+
+Vielleicht: 2x 
+
+
+
+Fragebogen Teil 3: #5
+Nationalkiosk: 0
+
+Eigenkiosk: 0x
+
+Kioskwerke: 1x
+
+KoCa inn: 0x
+
+KOP: 0x
+
+KoMA: 1x
+
+KSA: 0x
+
+DNA 3x
+
+Alle: 1x
+
+KoMa&KSA: 1x
+
+Kioskwerke&KOP&KSA: 1x
+
+Nationalkiosk&Kioskwerke&KOP&KoMa: 1x
+
+
+
+§15
+
+practical: 2x
+
+good& complicated: 1x
+
+good& easy: 2x
+
+good& easy& practical: 2x
+
+good& practical: 1x
+
+
+
+§17
+
+Yes: 4x
+No: 1x
+I use it: 0x
+similar pro. already: 1x
+Yes and I use it: 1x
+
+
+
+Grunde dabei zusein: 
+
+"Ich wollte praktische Erfahrung für die Arbeit in einer Galerie mir aneignen."
+"Praxisbezug" "Um über ausstellen nachzudenken"
