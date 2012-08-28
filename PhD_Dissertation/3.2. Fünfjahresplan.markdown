@@ -167,6 +167,13 @@ Textreste:
 - - -
 
 #### alle statistik Frabo 
+
+Bewertung Fachkurs Kiosk Frabo nach der Frage Was willst du eher sein mit der Antwort:
+Künstler: 9
+Galerist: 2
+Kurator: 1
+Mehrere: 5
+
 STATISTIK K3:
 
 Fakultät: 
