@@ -1,46 +1,74 @@
 # Intro 
-
-
-! bitte keine Korrekturen bis zur Freigabe
-
-(das ist kein Intro. Die kernaussage muss ich zusammenfassen und den Rest kommt als Bausteine zwischen den Texten, in Form von Paragraphen als Einzelfazit zwischen den Kapitel und als bindungstext dienen.) 
+!bitte keine Korrekturen bis zur Freigabe!
 
 #### Grundthese 
 
     "I am bored with that line. I never use it anymore. My new line is: in 15 minutes everybody will be famous" - Andy Warhol
 
-Wenn ein jünger Mensch Künstler werden will, findet er eine ganze Welt vor: Kunsthochschulen und Kunstakademien, Galerien und Ausstellungsräume, Museen und Künstlerhäuser, Forderungen, Wettbewerbe, Open-calls, Sammler, Kuratoren, Kunstkritiker, und sehr viele Künstler. Eine Gewisse Anpassung ist nötig, aber wie kommt man durch? Eine Weg wäre, das System für die eigene Bedürfnisse auszunutzen. Natürlich gibt es auch solche, die den Kunstwelt und seine Mechanismen verabscheuen, oder ablehnen, und finden ihre Nische ausserhalb dessen. Aber mir geht es eher darum, die viele Wege und Möglichkeiten innerhalb des Systems zu untersuchen, und um zusehen, ob noch welche Künstlerische Freiheiten zu erhalten sind, in diesem Anpassungsprozess, und wo sind die Stellen, an denen ist es noch möglich, die Welt zu ändern, und zwar nicht durch Politik, sondern durch das agieren innerhalb des Kunstwelt.
-das wäre die Einstellung Benjamins richtig, nicht in der Politik sich einmischen, sondern da, wo man Kompetent ist. Was gehört zu diese Kompetenz? wie viel kann man davon beibringen, lehren? das sind die Kernfragen, die mich interessieren, und um denen es in dieser Dissertation geht.
+Wenn ein jünger Mensch Künstler werden will, findet er eine ganze Welt vor: Kunsthochschulen und Kunstakademien, Galerien und Ausstellungsräume, 
+Museen und Künstlerhäuser, Forderungen, Wettbewerbe und Open-calls, Sammler, Kuratoren, Kunstkritiker, Kunsthistoriker, und sehr viele Künstler. 
+Um Erfolg zu erzielen, ist eine gewisse Anpassung nötig. Ein Weg wäre, das System für die eigene Bedürfnisse auszunutzen. 
+Natürlich gibt es auch solche, die den Kunstmarkt und seine Mechanismen verabscheuen, oder ablehnen, und finden ihre Nische ausserhalb dessen. 
+Viele Künstler nehmen sogar explizit die Kunstwelt an sich als Thema ihrer künstlerische Äußerung.
+Mich interessieren aber eher die viele Wege und Möglichkeiten innerhalb des Systems zu untersuchen, um zu sehen, welche Künstlerische Freiheiten 
+erhalten werden können in diesem Anpassungsprozess, und wo sind die Stellen, an denen es möglich ist, die Welt weiter zu ändern, bzw. welche Alternativen 
+es durch die immense technologische Entwicklung am Jahrhundertwende gibt.
 
-Es gibt die Tradition, von Duchampe angefangen, dass man den Kunstbegriff ändert, das man die Kunstwelt ändert, das man die Einrichtung ändert. das man an den Museen was ändert, das man aus dem Museum raus in die Öffentliche Raum geht um direkt was zu ändern. Wie sehen diese Änderungen heute aus? Was habe ich in meinem Werdegang als Künstler geändert, und wie bringe ich es die Kunststudenten bei? Was ist gelungen, was sind die Scheiter Gefahr Stellen? geblieben? 
+Immer mehr KünstlerInnen möchten ein Unterschied in der Gesellschaft machen. Mein Ausgangspunktstellt sich die Frageund zwar nicht durch Politik, sondern durch das agieren innerhalb des Kunstwelt.
 
-Künstler gibt es zahlreich, und es ist kein Wunder, wenn sie andere Funktion, wie Kuratieren oder Galeriebetrieb Leitung übernehmen. Die Frage ist, ob diese zwei Welten, in denen Künstler, die durch das Apparat wirken, neben solche, die ein Parallel Apparat entwickeln, neben einander existieren können, und wo sie sich treffen.
+das wäre die Einstellung Benjamins richtig, nicht in der Politik sich einmischen, sondern da, wo man Kompetent ist. 
+Was gehört zu diese Kompetenz? wie viel kann man davon beibringen, lehren? das sind die Kernfragen, die mich interessieren, 
+und um denen es in dieser Dissertation geht.
 
-auf Grund meine Analyse des Zustands der Kunstlehre und Kunststudium an der Bauhaus Universität, sowie im vergleich zu andere Akademien, meine eigene Erfahrungen als Künstlerin, und Kuratorin. Aufgrund meine Analyse des Künstlerbildes und die technische Möglichkeiten die im Augenblick machbar sind, ergeben sich folgende Konsequenzen
+Es gibt die Tradition, von Duchampe angefangen, dass man den Kunstbegriff ändert, das man die Kunstwelt ändert, das man die Einrichtung ändert. 
+das man an den Museen was ändert, das man aus dem Museum raus in die Öffentliche Raum geht um direkt was zu ändern. Wie sehen diese Änderungen 
+heute aus? Was habe ich in meinem Werdegang als Künstler geändert, und wie bringe ich es die Kunststudenten bei? Was ist gelungen, 
+was sind die Scheiter Gefahr Stellen? geblieben? 
 
-die Verhältnisse sind so, man muss vielfältig sein, es bleibt einem nichts übrig, man muss alles können, oder anders formuliert: man ist gezwungen alles zu machen, und was man nicht selber machen kann delegiert man an andere (Handwerker, Techniker), irgendwann erkennt man, das man wie ein Dirigent, sich, und alle die für ihm produzieren (siehe auch der große Preis buch von Isabelle Grau).
+Künstler gibt es zahlreich, und es ist kein Wunder, wenn sie andere Funktion, wie Kuratieren oder Galeriebetrieb Leitung übernehmen. 
+Die Frage ist, ob diese zwei Welten, in denen Künstler, die durch das Apparat wirken, neben solche, die ein Parallel Apparat entwickeln, 
+neben einander existieren können, und wo sie sich treffen.
+
+auf Grund meine Analyse des Zustands der Kunstlehre und Kunststudium an der Bauhaus Universität, sowie im vergleich zu andere Akademien, 
+meine eigene Erfahrungen als Künstlerin, und Kuratorin. Aufgrund meine Analyse des Künstlerbildes und die technische Möglichkeiten die im 
+Augenblick machbar sind, ergeben sich folgende Konsequenzen
+
+die Verhältnisse sind so, man muss vielfältig sein, es bleibt einem nichts übrig, man muss alles können, oder anders formuliert: 
+man ist gezwungen alles zu machen, und was man nicht selber machen kann delegiert man an andere (Handwerker, Techniker), 
+irgendwann erkennt man, das man wie ein Dirigent, sich, und alle die für ihm produzieren (siehe auch der große Preis buch von Isabelle Grau).
 
 Wird sich mein Fazit in der Realität gewährt?
 
-Künstler arbeiten 24/7 und bis zum Tod. Kein Künstler sagt, "Ich höre auf zu Mahlen" Große Formate werden vielleicht mühsam zu fertigen, aber es gibt kein Pensum, oder Ruhezustand, da der Künstler kreiert, und es sowieso macht, egal was daneben passiert, ob er eine Stelle nimmt oder nicht. Er kann sich eben eine Staatspensum ergattern (in Deutschland, mindestens) Die gleicht solches einer Sozialhilfeempfänger, aber immerhin, es gibt eine Nische für ihm und solche wie er.
+Künstler arbeiten 24/7 und bis zum Tod. Kein Künstler sagt, "Ich höre auf zu Mahlen" Große Formate werden vielleicht mühsam zu fertigen, 
+aber es gibt kein Pensum, oder Ruhezustand, da der Künstler kreiert, und es sowieso macht, egal was daneben passiert, ob er eine Stelle 
+nimmt oder nicht. Er kann sich eben eine Staatspensum ergattern (in Deutschland, mindestens) Die gleicht solches einer Sozialhilfeempfänger, 
+aber immerhin, es gibt eine Nische für ihm und solche wie er.
 
 
 !insert point: wenn Künstler kooperieren!. auch Fachkurs
-Kunstkritik als nächstes. damit ist der kreise erstmal rund, ein zyklus. als nächstes kann es entweder sich wiederholen, oder eine ganze neue reihe Fachkurse entstehen, über das sehen: fotografie; Video; und meine Tätigkeit an der BUW ist auch nicht für ewig, also, ab zu eigenem Stahlaufbau! 
+Kunstkritik als nächstes. damit ist der kreise erstmal rund, ein zyklus. als nächstes kann es entweder sich wiederholen, oder eine 
+ganze neue reihe Fachkurse entstehen, über das sehen: fotografie; Video; und meine Tätigkeit an der BUW ist auch nicht für ewig, 
+also, ab zu eigenem Stahlaufbau! 
 
-Es gibt nicht schlimmeres, als eine Einladung zur Begegnung mit andere Künstler, auf dem der Aufruf nach Herstellung eines gemeinsames Kunstwerk im Nu entsteht. ein gemeinsames bild, oder
+Es gibt nicht schlimmeres, als eine Einladung zur Begegnung mit andere Künstler, auf dem der Aufruf nach Herstellung eines gemeinsames 
+Kunstwerk im Nu entsteht. ein gemeinsames bild, oder
 
 "I went from being an Artist that makes things to being an artist that makes things happen" - Jeremy Deller
 
-der Künstler als Genie ist eher ein Individuum, der auch Schutz auf seine Ideen nimmt, und nicht alles teilen kann. für Künstler zu kooperieren ist nicht ein Selbsverständliches
-
-Die Änderung manifestiert sich in der Wahrnehmung der Künstler, der mehrere Optionen heute hat, sich zu präsentieren, als nur im *White Cube* und durch die Kritik sieb durchgekommen zu sein.
+der Künstler als Genie ist eher ein Individuum, der auch Schutz auf seine Ideen nimmt, und nicht alles teilen kann. für Künstler 
+zu kooperieren ist nicht ein Selbsverständliches. Die Änderung manifestiert sich in der Wahrnehmung der Künstler, 
+der mehrere Optionen heute hat, sich zu präsentieren, als nur im *White Cube* und durch die Kritik sieb durchgekommen zu sein.
 
 und die des Betrachter, 
-Fragen wie ist das Kunst oder kann das weg. Unsicherheit in der Erkennung, weil die Kunst sich als anderes tarnt, will dich unvorbereitet erwischen.
+Fragen wie ist das Kunst oder kann das weg. Unsicherheit in der Erkennung, weil die Kunst sich als anderes tarnt, 
+will dich unvorbereitet erwischen.
 
 zur Anfang:
-zu Goethes zeit, haben Menschen wie er geschrieben, und um ihm gab es ein Apparat von Menschen um den Text Korrektur zu lesen, lektorieren, Bilder und Rechte besorgen, layouten, gestalten, verlegen, vermarkten, und eventuell übersetzten. Heute liegt das Regie bei dem Autor selber, an seinem Komputer. In der Kunst entwickelt sich ein ähnliches Mechanismus, in dem das Apparat von Kritik, Galerie Museum Sammler Kunstmesse etc. funktioniert immer noch, jedoch tut der Künstler , oft auch kuratieren, layouten von Werbematerial und das verbreiten durch web 2.0 selber. ist der Künstler gezwungen alles zu können: Ein Kurator sein, texte schreiben, seine Bilder beschriften.
+zu Goethes zeit, haben Menschen wie er geschrieben, und um ihm gab es ein Apparat von Menschen um den Text Korrektur zu lesen, 
+lektorieren, Bilder und Rechte besorgen, layouten, gestalten, verlegen, vermarkten, und eventuell übersetzten. Heute liegt das Regie bei 
+dem Autor selber, an seinem Komputer. In der Kunst entwickelt sich ein ähnliches Mechanismus, in dem das Apparat von Kritik, Galerie Museum 
+Sammler Kunstmesse etc. funktioniert immer noch, jedoch tut der Künstler , oft auch kuratieren, layouten von Werbematerial und das 
+verbreiten durch web 2.0 selber. ist der Künstler gezwungen alles zu können: Ein Kurator sein, texte schreiben, seine Bilder beschriften.
 
 #### Gegenargumente 
 
@@ -50,11 +78,17 @@ für die Praxis
 
 schawi:
 muss man sich 30 Jahre im Atelier brudeln, um dann erst die Welt beglücken mit eine epische aussage? 
-Künstler experimentieren und probieren sowieso, Warhol, Basquiat, Beuys sind ein Auslaufmodel. die menschen hängen an  einem Künstler als Erfolgreich, wenn in der tate, auf Bienalle, und dokumenta ausstellet, der #### 80 asisstenten hat, ein angepasster Unternehmer, der so nicht mehr von Interesse sei. Baseltz, Elliason oder Murakami, sowie Jeff Koons werden ständig mit Interviews über ihren Betrieb auf Kunstmagazine wie Monopol dargestellt. Anselm Kiefer und andere haben Assistenten auch. Man muss den Mark beliefern, manchmal schnell (siehe Jonathan Meese im ZDF Film, wie er mit einem Pinselstrich mehrere Leihnwäde gleichzeitig überfliegt, wie ihm die Skulpture vorgefertigt warten, er kommt, macht ein Paar eingriffe, und fertig ist der Lack, den der Gallerist wartet auf die Wahre). Es sind viele Mussen und Galrien sowie Messen, auf denen neue Arbeit gezeigt werden muss, und der Künstler produziert wie auf Fliessband
+Künstler experimentieren und probieren sowieso, Warhol, Basquiat, Beuys sind ein Auslaufmodel. die menschen hängen an  einem Künstler als 
+Erfolgreich, wenn in der tate, auf Bienalle, und dokumenta ausstellet, der #### 80 asisstenten hat, ein angepasster Unternehmer, der so 
+nicht mehr von Interesse sei. Baseltz, Elliason oder Murakami, sowie Jeff Koons werden ständig mit Interviews über ihren Betrieb auf 
+Kunstmagazine wie Monopol dargestellt. Anselm Kiefer und andere haben Assistenten auch. Man muss den Mark beliefern, manchmal schnell 
+(siehe Jonathan Meese im ZDF Film, wie er mit einem Pinselstrich mehrere Leihnwäde gleichzeitig überfliegt, wie ihm die Skulpture vorgefertigt warten, 
+er kommt, macht ein Paar eingriffe, und fertig ist der Lack, den der Gallerist wartet auf die Wahre). Es sind viele Mussen und Galrien sowie Messen, 
+auf denen neue Arbeit gezeigt werden muss, und der Künstler produziert wie auf Fliessband.
 
 nenne die prototype:
 Kunstmarktkünstler
 Künstlerkünstler
 
-
+#### The proccess is the product!
 
