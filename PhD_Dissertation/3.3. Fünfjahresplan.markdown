@@ -17,7 +17,7 @@ Man sollte auch nicht immer nur mit Deadline arbeiten, wir sind ein Volk, das nu
 
 Man behält die internationalen Kontakte, auch wenn die Personen wieder zu Hause sind. Jeden Monat treffe ich jemanden, real oder auf Facebook usw. Ich bin auch von einer Mitstudentin nach Serbien eingeladen worden, sie kuratiert heute Ausstellungen. Das Beste, was man jetzt im Studium anbieten kann ist, zu zeigen wie es draußen läuft, weg von der Suggerierung des Sprungs ins kalte Wasser. So kann man sich besser bewegen, wissen und verstehen, das heißt die Parameter kennenlernen. Der Rest bleibt der innere Drang, etwas zu tun oder zu lassen. Es ist der schwere Werdegang eines Künstlers, des künstlerischen Daseins und das kann man durch Buchhaltung nicht wegnehmen. Bei mir bleibt ein Experiment übrig. Der Kunstmarkt ist bei der Akademie herzlich willkommen, aber wird nicht nur gelobt. Es wird weiter recherchiert. Es ist wie ein Labor und innerhalb dieses Labors kann man etwas erreichen. Wie gesagt, es entwickeln sich 2 Künstlersorten, aber ich fürchte, dass alle heutzutage eher zuerst reich und berühmt werden und dann sterben wollen.
 
-## Mit den Studenten zusammen sind folgende Themen bearbeitet worden:
+### Mit den Studenten zusammen sind folgende Themen bearbeitet worden:
 
 ‚	Geld Acquise & Anträge gestellt
 ‚	 Kulturstiftung Thüringen, Kultusministerium, Frauengleichstellungsbeauftragte (gelungen) Kreative fonds & div. Firmen (nicht gelungen) Nestle
@@ -166,4 +166,155 @@ Textreste:
 
 - - -
 
+#### alle statistik Frabo 
+
+Bewertung Fachkurs Kiosk Frabo nach der Frage Was willst du eher sein mit der Antwort:
+Künstler: 9
+Galerist: 2
+Kurator: 1
+Mehrere: 5
+
+STATISTIK K3:
+
+Fakultät: 
+
+FK:  17x
+VK:  3x
+LAK: 3x
+A:   1x
+M:   2x
+PD:  1x
+
+Semester:
+
+1: 1x
+2: 3x
+3: 4x
+4: 2x
+5: 4x
+6: 3x
+7: 6x
+8: 8x
+9: 5x
+
+Teilnahme K3
+1/3  19x
+2/3  3x
+3/3  6x 
+
+Fragebogen Teil I Frage #7
+
+Reich: 	 1x
+Berühmt: 3x
+Beides:  4x
+
+
+Fragebogen Teil II #6 (FB Teil I/II):
+Künstler: 9x
+Galerist: 1x  
+Kurator:  1x 
+Mehrere:  4x
+
+
+
+§7:
+Management: 0x
+Kreativ: 5x
+Beides: 4x
+
+
+
+§10:
+Ja: 7x
+
+Nein: 0x
+
+Vielleicht: 2x 
+
+
+
+Fragebogen Teil 3: #5
+Nationalkiosk: 0
+
+Eigenkiosk: 0x
+
+Kioskwerke: 1x
+
+KoCa inn: 0x
+
+KOP: 0x
+
+KoMA: 1x
+
+KSA: 0x
+
+DNA 3x
+
+Alle: 1x
+
+KoMa&KSA: 1x
+
+Kioskwerke&KOP&KSA: 1x
+
+Nationalkiosk&Kioskwerke&KOP&KoMa: 1x
+
+
+
+§15
+
+practical: 2x
+
+good& complicated: 1x
+
+good& easy: 2x
+
+good& easy& practical: 2x
+
+good& practical: 1x
+
+
+
+§17
+
+Yes: 4x
+No: 1x
+I use it: 0x
+similar pro. already: 1x
+Yes and I use it: 1x
+
+
+
+Grunde dabei zusein: 
+
+"Ich wollte praktische Erfahrung für die Arbeit in einer Galerie mir aneignen."
+"Praxisbezug" "Um über ausstellen nachzudenken"
+
+---
++ **Wenn Künstler Kunst Kuratieren (K3)**
+    - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von mir übernommen werden 
+    - In drei Etappen wird eine Art, Kuratorenschule stattfinden, Themen bearbeitet wie:
+        - Nachhaltigkeit
+        - Aussage
+        - Zusammenarbeit
+        - Künstler als Kuratoren
+    - Dies wird durch ein Fachkurs Angebot für die Studenten der Fakultät Gestaltung unterstützt
+
++ **Teil I: Übernahme (WS 08-09)**
+    - Geschichte des Kiosks wird bearbeitet reflektiert und präsentiert  
+    - Mit folgenden Gästen:
+        * Ronald Hirte zur DDR Geschichte des Kiosk
+        * Katharina Tietze und Katharina Hohmann (Initiatoren)
+        * Leonie Weber und Felix Ruffert (jetzige Kuratoren)
+        * Ryan Weber (Schalter Galerie Berlin)
+    - Konzept, Ortsname, Call for entries, Jury
+
++ **Teil II: Instandhaltung (SoSe 09 und Eröffnung des Bauhaus 09 Jahr)**
+    - Künstlerbetreuung
+    - Ausstellungen auf- und Abbau in 4-6 Wochen Takt
+    - PR Arbeit und Hausmeisterei
+
++ **Teil III: Weiterpflege (WS 09-10)**
+    - Dritte Ausstellungsphase: Umbau bei laufendem Betrieb
+    - Dokumentation, Finanzbericht und Übergabe
+---
 
