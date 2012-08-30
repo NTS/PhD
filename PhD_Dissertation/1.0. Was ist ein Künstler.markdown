@@ -14,7 +14,8 @@ auf Deutsch "Kunst kommt vom Können", was sogar einen eigenen Artikel in Wikipe
 
 Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. 
 Hier ein Auszug aus Meyers Online-Lexikon: "Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
-Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". (http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie)
+Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". 
+(http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie)
 
 ![Bild04 - Künstler laut Pons](images/pons-kuenstler.png)
 
@@ -42,12 +43,14 @@ selbst nicht beschreiben oder wissenschaftlich anzeigen…
 (in dem Sinne nicht erklären können was der Künstler selber tut). 
 Positiv geäußert: Genie ist die Gemütslage (Ingenium) durch welche die Natur der Kunst die Regel gibt.'"
 seiner Interpretation: 
-"Nie Regeln zu folgen, sondern immer nur etwas zu schaffen, das regelhaft ist, ohne selber je zur Regel werden zu können, - das ist Kants’ Umschreibung genial-schöpferischen Tuns". 
+"Nie Regeln zu folgen, sondern immer nur etwas zu schaffen, das regelhaft ist, ohne selber je zur Regel werden zu können, - das ist Kants’ 
+Umschreibung genial-schöpferischen Tuns". 
 Der Künstler wird oft als: 
-"Der Seher und der Störenfried, der Schamane und der Außenseiter, der Clown und der Harlekin beschrieben – diese Rollen ergaben sich daraus, dass der Künstler nicht weiß, was er macht"
-, soweit Ullrich, oder: nicht weiß, wie er es in Worte fassen soll. Denn: 
+"Der Seher und der Störenfried, der Schamane und der Außenseiter, der Clown und der Harlekin beschrieben – diese Rollen ergaben sich daraus, 
+dass der Künstler nicht weiß, was er macht", soweit Ullrich, oder: nicht weiß, wie er es in Worte fassen soll. Denn: 
 "Er gilt als Medium höherer Kräfte, die über ihn verfügen (…) da er seine Werkprozesse nicht zu kontrollieren oder mitzuteilen vermag"
-, was heute nicht mehr für alle Künstler so stimmt, kann er nur für sich allein tätig sein. Er ist unzuverlässig, weil sich das, was er tut, kaum auf Wissen oder Know-How – auf erlernbare Faktoren – stützt.  
+, was heute nicht mehr für alle Künstler so stimmt, kann er nur für sich allein tätig sein. Er ist unzuverlässig, weil sich das, was er tut, 
+kaum auf Wissen oder Know-How – auf erlernbare Faktoren – stützt.  
 (SOURCE:Wolfgang Ullrich „Was war Kunst? Biografien eines Begriffs“ S. 22)
 
 ![Georg Friedrich Kersting von Caspar David Friedrich](images/bild.jpg)
@@ -56,7 +59,8 @@ Der Schaffensprozess bleibt ein Geheimnis:
 "ist es die Hand, das Auge oder der Kopf, wo sich das Eigentliche abspielt?" (SOURCE: ibid, S. 26)
 
 Über dieses Thema schreibt auch Verena Krieger: 
-"Was ist ein Künstler? Genie. Heilsbringer. AntiKünstler". In ihrem Buch wird die eng verflochtene Entwicklung theoretischer und künstlerischer Auffassungen über das Künstlertum von der Renaissance bis zur Gegenwart in Text und Bild nachgezeichnet.
+"Was ist ein Künstler? Genie. Heilsbringer. AntiKünstler". In ihrem Buch wird die eng verflochtene Entwicklung theoretischer und 
+künstlerischer Auffassungen über das Künstlertum von der Renaissance bis zur Gegenwart in Text und Bild nachgezeichnet.
 (SOURCE: Verena Krieger, Köln 2007.
 http://www.zvab.com/displayBookDetails.do?itemId=11655262&b=1
 http://www.sehepunkte.de/2007/10/pdf/13278.pdf ; 1.2.09)
