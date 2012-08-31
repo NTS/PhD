@@ -21,8 +21,8 @@ Produktivität vermischt?
 
 #### Der Künstler als Autor und Produzent
 
-Die Kunst - Arbeit Verhältnisse sind nicht neu, und trotzdem erscheinen Momentan viele Bücher und Reader, die sich mit den Verhältnisse 
-von Kunst und Arbeit beschäftigen, mit Titel wie *Work, Work, Work A Reader on Art and Labour* oder *Are you working too much? Post-Fordism, 
+Kunst & Arbeit Verhältnisse sind nicht neu, und trotzdem erscheinen Momentan viele Bücher und Reader, die sich mit den änderung in diese Verhältnisse 
+beschäftigen, mit Titel wie *Work, Work, Work A Reader on Art and Labour* oder *Are you working too much? - Post-Fordism, 
 Precarity and the Labor of Art* oder *Wir nennen es Arbeit*. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner Ansprache 
 im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 für immer noch richtig, wenn er sagt das der Autor sich nicht in die Politik 
 einmischen soll, sondern dort sein Kraft ausüben müsste, wo man Kompetent ist. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
@@ -44,21 +44,23 @@ eine Flexibilität, und wird im Richard Sennetts Buch *der Flexibler Mensch* [-@
 Sturkturierung, vor allem die der Zeit und die Wandlung des Arbeitsethos. Der Arbeitsmarkt wird Eng für Alle, jedoch genau aus diesem Grund, 
 nämlich durch die neu erwünschte Flexibilität kann der markt offener sein, um Künstler in ihre eher flexibler Arbeitsweise zu integrieren. 
 Darüberhinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einem Dichter zurückführt, das heisst, der Begriff 
-wurde aus eine künstlerische Beobachtung hergeleitet.
+wurde aus eine künstlerische Beobachtung hergeleitet. 
+
+Das Internet hat die Arbeitsverhältnisse weiter geändert jeder mensch ist in der Lage, von zuhause seine Geschäfte zu erledigen. Dies ermöglicht 
 
 was passiert im Kunstfördersystem? klar ist dass diese Anpassung nicht nur im Kunstsystem stattfindet, es dehnt sich bei alle kreative 
-Branchen, Autoren Filmmacher, ud sickert sogar auch zu Manager bei WV ![Picture]Jeff_Koons_mit_80_Assistenten), Olaruf Eliason
+Branchen, Autoren Film macher, und sickert sogar auch zu Manager bei WV ![Picture]Jeff_Koons_mit_80_Assistenten), Olaruf Eliason
 
-Die legende vom Künstler [@Kris:Legende, pp. xx] indem beschrieben wird wie der Künstler zu alle Zeiten unterschiedlich sein muss, 
-weil die Gesellschaft nur bestimmte Sachen honoriert. Noch ein Argument von WB: ist man nicht nur Opfer sondern auch Täter, die 
-vorgefundene Welt kann auch manipuliert werden, an andere stellen muss man sich anpassen. so ist die Welt vs. ich bin funktionsgestört und ändere es.
+in *Die legende vom Künstler* [@Kris:Legende, pp. xx] schreiben Ernst Kris und Otto Kurz wie der Künstler zu alle Zeiten unterschiedlich sein muss, 
+weil die Gesellschaft nur bestimmte Sachen honoriert, also ist die Rede erneut von Anpassung. Noch ein Argument von Benjamin: ist man nicht nur Opfer 
+sondern auch Täter?, die vorgefundene Welt kann auch manipuliert werden. so ist die Welt vs. ich bin funktionsgestört und ändere es.
 als Künstler arbeitet man auch im Kunstbetrieb, warum sollen Künstler nur in bestimmte Bereiche Arbeiten dürfen (Ausstellungsaufbau) und an andere Stellen 
 (Galerie) nicht? Wie Marcel Duchamp, und viele andere, (Timm Ulrich; Martin Kippenberger) die der den Kunstbetrieb selber als Material nahm (
 wie Andrea Fraser, oder Lucas Samaras der laut Brian O'Doherty (im *Atelier und Galerie Studio and cube schon im Jahr 1964 sein Atelier in der 
 Galerie ausstellte. 
 
-Updaten: die Tatsache, dass Künstler den Kunstbetrieb als Material nehmen, ist im gründe genommen das spezifische an der Kunst, die Wiedergabe einer 
-selbst-reflektion in Ästhetischen oder gestalterisches Form. Künstler schaffen Utopien, alternative Möglichkeiten, das Leben durchzuführen (States 
+die Tatsache, dass Künstler den Kunstbetrieb als Material nehmen, ist im gründe genommen das spezifische an der Kunst, die Wiedergabe einer 
+Selbstreflektion in Ästhetischen oder gestalterisches Form. Künstler schaffen Utopien, alternative Möglichkeiten, das Leben durchzuführen (States 
 of the Art in Landform, mit Passport etc.), genau so wie andere eine Religion starten. Währen in andere Felder, eine aufstieg Möglichkeiten gibt, 
 ist es bei dem Kunstbetrieb für den Künstler eher beschränkt. Wenn man in ein Paar Biennalen und in Hauptmuseen Solo ausgestellt hat, hat man alles 
 erreicht. manche reicht dies nicht.
@@ -80,8 +82,13 @@ Valenta; Albrecht; Patermann; Weinlich; Brown; Hannemann;
 
 Hauptsächlich aus der Gruppe der Kiosk'ler Ausstellende Fachkurse Teilnehmer, aber auch
 Studenten, die an andere Fachkurse Teilgenommen haben, und Währenddessen ihre Strategie für das Diplom entwickelt haben. Ausstellungsraum geöffnet haben, 
-oder dort ausgestellt. Das Interdisziplinare brachte Studenten aus andere Fakultäten, wie Medien Und Architektur dazu, und die ruppe wurde mit menschen 
+oder dort ausgestellt. Das Interdisziplinare brachte Studenten aus andere Fakultäten, wie Medien Und Architektur dazu, und die Gruppe wurde mit menschen 
 mit andere skills bereichert.
+
+- - -  
+textreste
+
+im Jahr 2007 fragt sich Sigrid Schade in einem Symposium  (Akademie)
 
 Muss man selber machen?
 When I was an Artist: BDU Manifest.
