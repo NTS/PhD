@@ -16,11 +16,18 @@ verbreiten durch web 2.0 selber. Ist der Künstler gezwungen alles zu können: E
 
 Die Verhältnisse sind heute so, dass man vielfältig sein muss, Es bleibt einem nichts übrig, man muss alles können, oder anders formuliert: 
 man ist gezwungen alles zu können, und was man nicht selber machen kann delegiert man im Auftrag an andere (Handwerker, Techniker), und womöglich 
-bezahlt man dafür. Irgendwann erkennt man, das man wie ein Dirigent, über sich, und über alle, die für einem produzieren.
+bezahlt man dafür. Irgendwann erkennt man, das man wie ein Dirigent, über sich, und über alle, die für einem produzieren. Werden Kreativität und 
+Produktivität vermischt?
 
 #### Der Künstler als Produzent Nach Walter Benjamin
 
-Die Kunst - Arbeit Verhältnisse sind nicht neu, und trotzdem erscheinen Momentan viele Bücher und Reader, die sich damit beschäftigen Vergleichbar mit der Zustand der Schriftsteller (siehe hier Walter Benjamin *Der Autor als Produzent*) 
+Die Kunst - Arbeit Verhältnisse sind nicht neu, und trotzdem erscheinen Momentan viele Bücher und Reader, die sich damit beschäftigen 
+Vergleichbar mit der Zustand der Schriftsteller (siehe hier Walter Benjamin *Der Autor als Produzent*) 
+
+Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner Ansprache im *Institut zum Studium des Faschismus* in Paris 
+im Jahr 1934 für richtig, wenn er sagt das der Autor sich nicht in die Politik einmischen soll, sondern dort sein Kraft ausüben müsste, 
+wo man Kompetent ist. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann man davon beibringen, weitergeben, lehren? das 
+sind die Kernfragen, die mich interessieren, und um denen es in dieser Dissertation geht.
 
 In dem gesamten Text Benjamins konnte man das Wort *Autor* mit Künstler durchaus austauschen, und die aussage bleibt ähnlich, nämlich - 
 die Qualität darf nicht wegen der politische Anwendung nachlassen. Der Autor als Produzent trägt die These: Künstler sind im politischem 
@@ -39,11 +46,12 @@ Politisch aktiv plus Art = Artivist
 in meinem Masterarbeit habe ich mich auf 
 Überregionale Selbest-organisation in Städte und International-verbundene Gruppen in diverse Länder, und auch politische Initiativen 
 
-
-Die Arbeitsverhältnisse ändern sich im Spätkapitalismus. Der Zwang, aktiv zu sein und sich zu vermarkten im Kapitalistischen System verlangt eine Flexibilität, und wird im Richard Sennetts Buch *der Flexibler Mensch* [-@Sennett:Mensch] stringent beschrieben. Sennett erklärt die neue Sturkturierung, vor allem die der Zeit und die Wandlung des Arbeitsethos.  Der Arbeitsmarkt wird Eng für Alle, jedoch genau aus diesem Grund, nämlich durch die neu erwünschte Flexibilität kann der markt offener sein, um Künstler in ihre eher flexibler Arbeitsweise zu integrieren. Darüberhinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einem Dichter zurückführt, das heisst, der Begriff wurde aus eine künstlerische Beobachtung hergeleitet.
-
-
- 
+Die Arbeitsverhältnisse ändern sich im Spätkapitalismus. Der Zwang, aktiv zu sein und sich zu vermarkten im Kapitalistischen System verlangt 
+eine Flexibilität, und wird im Richard Sennetts Buch *der Flexibler Mensch* [-@Sennett:Mensch] stringent beschrieben. Sennett erklärt die neue 
+Sturkturierung, vor allem die der Zeit und die Wandlung des Arbeitsethos.  Der Arbeitsmarkt wird Eng für Alle, jedoch genau aus diesem Grund, 
+nämlich durch die neu erwünschte Flexibilität kann der markt offener sein, um Künstler in ihre eher flexibler Arbeitsweise zu integrieren. 
+Darüberhinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einem Dichter zurückführt, das heisst, der Begriff 
+wurde aus eine künstlerische Beobachtung hergeleitet.
 
 was passiert im Kunstfördersystem? klar ist dass diese Anpassung nicht nur im Kunstsystem stattfindet, es dehnt sich bei alle kreative 
 Branchen, Autoren Filmmacher, ud sickert sogar auch zu Manager bei WV ![Picture]Jeff_Koons_mit_80_Assistenten), Olaruf Eliason
@@ -52,10 +60,15 @@ Die legende vom Künstler [@Kris:Legende, pp. xx] indem beschrieben wird wie der
 weil die Gesellschaft nur bestimmte Sachen honoriert. Noch ein Argument von WB: ist man nicht nur Opfer sondern auch Täter, die 
 vorgefundene Welt kann auch manipuliert werden, an andere stellen muss man sich anpassen. so ist die Welt vs. ich bin funktionsgestört und ändere es.
 als Künstler arbeitet man auch im Kunstbetrieb, warum sollen Künstler nur in bestimmte Bereiche Arbeiten dürfen (Ausstellungsaufbau) und an andere Stellen 
-(Galerie) nicht? Wie Marcel Duchamp, und viele andere, (Timm Ulrich; Martin Kippenberger) die der den Kunstbetrieb selber als Material nahm (Andrea Fraser - Lucas Samaras der 1964 sein Atelier in der Galerie ausstellte (Doherty new book!) 
+(Galerie) nicht? Wie Marcel Duchamp, und viele andere, (Timm Ulrich; Martin Kippenberger) die der den Kunstbetrieb selber als Material nahm (
+Andrea Fraser - Lucas Samaras der 1964 sein Atelier in der Galerie ausstellte (Doherty new book!) 
 
 > Wir Nennen es Arbeit
-Updaten: die Tatsache, dass Künstler den Kunstbetrieb als Material nehmen, ist im gründe genommen das spezifische an der Kunst, die Wiedergabe einer selbst-reflektion in Ästhetischen oder gestalterisches Form. Künstler schaffen Utopien, alternative Möglichkeiten, das Leben durchzuführen (States of the Art in Landform, mit Passport etc.), genau so wie andere eine Religion starten. Währen in andere Felder, eine aufstieg Möglichkeiten gibt, ist es bei dem Kunstbetrieb für den Künstler eher beschränkt. Wenn man in ein Paar Biennalen und in Hauptmuseen Solo ausgestellt hat, hat man alles erreicht. manche reicht dies nicht.
+Updaten: die Tatsache, dass Künstler den Kunstbetrieb als Material nehmen, ist im gründe genommen das spezifische an der Kunst, die Wiedergabe einer 
+selbst-reflektion in Ästhetischen oder gestalterisches Form. Künstler schaffen Utopien, alternative Möglichkeiten, das Leben durchzuführen (States 
+of the Art in Landform, mit Passport etc.), genau so wie andere eine Religion starten. Währen in andere Felder, eine aufstieg Möglichkeiten gibt, 
+ist es bei dem Kunstbetrieb für den Künstler eher beschränkt. Wenn man in ein Paar Biennalen und in Hauptmuseen Solo ausgestellt hat, hat man alles 
+erreicht. manche reicht dies nicht.
 
 a. Hinnehmen - im System
 b. ändern - im oder ausserhalb?
@@ -63,12 +76,16 @@ c. beides
 !bild Benedikt Brown Arbeit Arbeit los
 wenn die Kunstwelt so ist wie sie ist, ergibt es für mich folgendes:
 
-es ergibt sich, dass ich vorwiegend als Künstler Erfahrungen und Kenntnisse sowie das Know-how selbsttätig gesammelt habe. durch zusätzliche Ausbildung und selbstuntersuchung sogar experimentieren im Rahmen des Anpassung-
+es ergibt sich, dass ich vorwiegend als Künstler Erfahrungen und Kenntnisse sowie das Know-how selbsttätig gesammelt habe. durch zusätzliche Ausbildung 
+und selbstuntersuchung sogar experimentieren im Rahmen des Anpassung-
+den Kiosk, als Schwerpunkt unter eine reihe Fachkurse um die Kunstwelt herum ist als konsequente Reaktion auf meine Selbsanalyse und Künstlerische 
+Recherche entstanden. Wenn mann will, ist die Recherche für die studierenden entstanden, und ihre eigene Ergäbnisse dann für die weitere Recherche gedient. 
 
-den Kiosk, als Schwerpunkt unter eine reihe Fachkurse um die Kunstwelt herum ist als konsequente Reaktion auf meine Selbsanalyse und Künstlerische Recherche entstanden. Wenn mann will, ist die Recherche für die studierenden entstanden, und ihre eigene Ergäbnisse dann für die weitere Recherche gedient. 
-
-Es ist noch etwas früh festzustellen, wie die Wirkung auf das Werdegang der studierende wird. Exemplare zeigen aber, das mehrere sich alternative bewegen, entweder noch während des Studiums, manche als oder direkt nach Abschluss:
+Es ist noch etwas früh festzustellen, wie die Wirkung auf das Werdegang der studierende wird. Exemplare zeigen aber, das mehrere sich alternative bewegen, 
+entweder noch während des Studiums, manche als oder direkt nach Abschluss:
 Valenta; Albrecht; Patermann; Weinlich; Brown; Hannemann; 
 
 Hauptsächlich aus der Gruppe der Kiosk'ler Ausstellende Fachkurse Teilnehmer, aber auch
-Studenten, die an andere Fachkurse Teilgenommen haben, und Währenddessen ihre Strategie für das Diplom entwickelt haben. Ausstellungsraum geöffnet haben, oder dort ausgestellt. Das Interdisziplinare brachte Studenten aus andere Fakultäten, wie Medien Und Architektur dazu, und die ruppe wurde mit menschen mit andere skills bereichert.
+Studenten, die an andere Fachkurse Teilgenommen haben, und Währenddessen ihre Strategie für das Diplom entwickelt haben. Ausstellungsraum geöffnet haben, 
+oder dort ausgestellt. Das Interdisziplinare brachte Studenten aus andere Fakultäten, wie Medien Und Architektur dazu, und die ruppe wurde mit menschen 
+mit andere skills bereichert.
