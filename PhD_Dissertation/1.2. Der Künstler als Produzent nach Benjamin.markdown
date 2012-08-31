@@ -23,7 +23,7 @@ Produktivität vermischt?
 
 Kunst & Arbeit Verhältnisse sind nicht neu, und trotzdem erscheinen Momentan viele Bücher und Reader, die sich mit den änderung in diese Verhältnisse 
 beschäftigen, mit Titel wie *Work, Work, Work A Reader on Art and Labour* oder *Are you working too much? - Post-Fordism, 
-Precarity and the Labor of Art* oder *Wir nennen es Arbeit*. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner Ansprache 
+Precarity and the Labor of Art* oder *Wir nennen es Arbeit*. Das ist an sich Phänomennal. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner Ansprache 
 im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 für immer noch richtig, wenn er sagt das der Autor sich nicht in die Politik 
 einmischen soll, sondern dort sein Kraft ausüben müsste, wo man Kompetent ist. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
 man davon beibringen, weitergeben, lehren? das sind die Kernfragen, die mich interessieren, und um denen es in dieser Dissertation geht. 
@@ -35,21 +35,23 @@ publizieren, wie selber publizieren, oder in Kooperativen Mitglied werden, wie i
 läuft die Kreativität (oder Leistung) hin. zu Kooperationen, als Berater und Think-Tank Mitglieder, ja bis zur Stellen bei Konzernen 
 als "Haus (Hof?) Kunstler (Narr?)" und das alles unter der Mantel einer Stelle mit Monatliche Ratenanzahlung. 
 
-Der Zustand des Künstler heute Vergleichbar mit der Zustand des Autors. In einem Gespräch mit Ivan Ivanji hat er erzählt, dass der Nachteil 
-heute wäre, viel mehr Arbeit selber zu haben, aber dafür konnte er eventuell bis zu fünfzig Prozent der Einnahme selber einkassieren, statt 
+Der Zustand des Künstler heute ist dem des Autors, und andere Kreativ orientierten Menschen ähnlich. In einem Gespräch mit Ivan Ivanji erzählte er, dass 
+der Nachteil heute wäre, viel mehr Arbeit selber zu haben, aber dafür eventuell bis zu fünfzig Prozent der Einnahme einkassieren, statt 
 nur zehn bis Dato.
 
-Die Arbeitsverhältnisse ändern sich im Spätkapitalismus. Der Zwang, aktiv zu sein und sich zu vermarkten im Kapitalistischen System verlangt 
-eine Flexibilität, und wird im Richard Sennetts Buch *der Flexibler Mensch* [-@Sennett:Mensch] stringent beschrieben. Sennett erklärt die neue 
+Die Arbeitsverhältnisse ändern sich, das ist eine Tatsache. Der Zwang, aktiv zu sein und sich zu vermarkten im Spätkapitalistischen System verlangt 
+vor allem eine Flexibilität, und wird im Richard Sennett's Buch *der Flexibler Mensch* [-@Sennett:Mensch] stringent beschrieben. Sennett erklärt die neue 
 Sturkturierung, vor allem die der Zeit und die Wandlung des Arbeitsethos. Der Arbeitsmarkt wird Eng für Alle, jedoch genau aus diesem Grund, 
 nämlich durch die neu erwünschte Flexibilität kann der markt offener sein, um Künstler in ihre eher flexibler Arbeitsweise zu integrieren. 
 Darüberhinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einem Dichter zurückführt, das heisst, der Begriff 
 wurde aus eine künstlerische Beobachtung hergeleitet. 
 
-Das Internet hat die Arbeitsverhältnisse weiter geändert jeder mensch ist in der Lage, von zuhause seine Geschäfte zu erledigen. Dies ermöglicht 
+Das Internet hat die Arbeitsverhältnisse weiter geändert jeder mensch ist in der Lage, von zuhause seine Geschäfte zu erledigen. Dauerstellung wird 
+auch immer geringer, und man arbeitet von begrenzte stelle zu nächste, oder an Kurzfristigere Projekte. Dies fördert eine Flexibilität fast als Skill, 
+die Künstler schon längst beherschen.
 
 was passiert im Kunstfördersystem? klar ist dass diese Anpassung nicht nur im Kunstsystem stattfindet, es dehnt sich bei alle kreative 
-Branchen, Autoren Film macher, und sickert sogar auch zu Manager bei WV ![Picture]Jeff_Koons_mit_80_Assistenten), Olaruf Eliason
+Branchen, Autoren Film Macher, und sickert sogar auch zu Manager bei WV ![Picture]Jeff_Koons_mit_80_Assistenten), Olaruf Eliason
 
 in *Die legende vom Künstler* [@Kris:Legende, pp. xx] schreiben Ernst Kris und Otto Kurz wie der Künstler zu alle Zeiten unterschiedlich sein muss, 
 weil die Gesellschaft nur bestimmte Sachen honoriert, also ist die Rede erneut von Anpassung. Noch ein Argument von Benjamin: ist man nicht nur Opfer 
@@ -89,6 +91,9 @@ mit andere skills bereichert.
 textreste
 
 im Jahr 2007 fragt sich Sigrid Schade in einem Symposium  (Akademie)
+
+zu akademie trifft... Geisteswissenschaft und Humanismus werden als unlukrative wahrgenommen, "Weil da kann mann nicht geld verdienen". Die heutige Orientierung des 
+sowohl der kapitalismus als auch der Sozialismus bedeutet Alle sollen Arbeite. Was definiert Arbeitslosigkeit bei Künstler? sie müssen überleben, wenn sie kein Kunst verkaufen, müssen sie  nach Arbeit suchen. 
 
 Muss man selber machen?
 When I was an Artist: BDU Manifest.
