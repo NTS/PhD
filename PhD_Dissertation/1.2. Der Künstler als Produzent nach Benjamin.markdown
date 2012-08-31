@@ -20,7 +20,7 @@ bezahlt man dafür. Irgendwann erkennt man, das man wie ein Dirigent, über sich
 
 #### Der Künstler als Produzent Nach Walter Benjamin
 
-Vergleichbar mit der Zustand der Schriftsteller (siehe hier Walter Benjamin *Der Autor als Produzent*) gelesen markiert Zitate folgen:
+Vergleichbar mit der Zustand der Schriftsteller (siehe hier Walter Benjamin *Der Autor als Produzent*) 
 
 In dem gesamten Text Benjamins konnte man das Wort *Autor* mit Künstler durchaus austauschen, und die aussage bleibt ähnlich, nämlich - 
 die Qualität darf nicht wegen der politische Anwendung nachlassen. Der Autor als Produzent trägt die These: Künstler sind im politischem 
@@ -37,9 +37,11 @@ warum mache ich das was ich mache:
 1. Argument: Anpassung + Machtposition
 
 Überregionale Selbest-organisation in Städte und International-verbundene Gruppen in diverse Länder, und auch politische Initiativen 
-05:52!
 
-Die Arbeitsverhältnisse ändern sich im Spätkapitalismus. Der Zwang, aktiv zu sein und sich zu vermarkten im Kapitalistischen System verlangt eine Flexibilität, und wird im Richard Sennetts Buch *der Flexibler Mensch* [-@Sennett:Mensch] stringent beschrieben. Sennett erklärt die neue Sturkturierung, vor allem die der Zeit und die Wandlung des Arbeitsethos. Er stellt fest das die erste Erwähnung des Worts Kapital-list auf einem Dichter zurückführt, das heisst, der Begriff wurde aus eine künstlerische Beobachtung hergeleitet.
+
+Die Arbeitsverhältnisse ändern sich im Spätkapitalismus. Der Zwang, aktiv zu sein und sich zu vermarkten im Kapitalistischen System verlangt eine Flexibilität, und wird im Richard Sennetts Buch *der Flexibler Mensch* [-@Sennett:Mensch] stringent beschrieben. Sennett erklärt die neue Sturkturierung, vor allem die der Zeit und die Wandlung des Arbeitsethos.  Der Arbeitsmarkt wird Eng für Alle, jedoch genau aus diesem Grund, nämlich durch die neu erwünschte Flexibilität kann der markt offener sein, um Künstler in ihre eher flexibler Arbeitsweise zu integrieren. Darüberhinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einem Dichter zurückführt, das heisst, der Begriff wurde aus eine künstlerische Beobachtung hergeleitet.
+
+
  
 
 was passiert im Kunstfördersystem? klar ist dass diese Anpassung nicht nur im Kunstsystem stattfindet, es dehnt sich bei alle kreative 
