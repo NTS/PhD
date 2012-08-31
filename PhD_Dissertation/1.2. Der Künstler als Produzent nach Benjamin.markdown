@@ -1,9 +1,9 @@
 #### #### Would you like to be modified? (Gegen/argumente) 
 
-1. Benjamin Autor als Produzent (http://www.texturen-online.net/methodik/benjamin/autor-als-produzent/)
-1. Roland Barthes *Death of the Author*
-1. Sennet *Der Flexibler Mensch*
-1. Die digitale Boheme
+1. Benjamin Autor als Produzent 1934 (http://www.texturen-online.net/methodik/benjamin/autor-als-produzent/)
+1. Roland Barthes *Death of the Author* 1967
+1. Sennet *Der Flexibler Mensch* 1998
+1. *wir nennen es Arbeit - Die digitale Boheme* 2004
 
 1. Schawelka > zu Kunstmarkt?
 1. Yaakov Mishori > Akademie!
@@ -36,19 +36,12 @@ läuft die Kreativität (oder Leistung) hin. zu Kooperationen, als Berater und T
 als "Haus (Hof?) Kunstler (Narr?)" und das alles unter der Mantel einer Stelle mit Monatliche Ratenanzahlung. 
 
 Der Zustand des Künstler heute Vergleichbar mit der Zustand des Autors. In einem Gespräch mit Ivan Ivanji hat er erzählt, dass der Nachteil 
-heute wäre, viel mehr Arbeit selber zu haben, aber dagegen konnte er bis zu 50 Prozent der Einnahme selber einkassieren, statt nur Zehn bis Dato.
-Muss man selber machen?
-When I was an Artist: BDU Manifest.
-
-warum mache ich das was ich mache:
-1. Argument: Anpassung + Machtposition
-Politisch aktiv plus Art = Artivist
-in meinem Masterarbeit habe ich mich auf 
-Überregionale Selbest-organisation in Städte und International-verbundene Gruppen in diverse Länder, und auch politische Initiativen 
+heute wäre, viel mehr Arbeit selber zu haben, aber dafür konnte er eventuell bis zu fünfzig Prozent der Einnahme selber einkassieren, statt 
+nur zehn bis Dato.
 
 Die Arbeitsverhältnisse ändern sich im Spätkapitalismus. Der Zwang, aktiv zu sein und sich zu vermarkten im Kapitalistischen System verlangt 
 eine Flexibilität, und wird im Richard Sennetts Buch *der Flexibler Mensch* [-@Sennett:Mensch] stringent beschrieben. Sennett erklärt die neue 
-Sturkturierung, vor allem die der Zeit und die Wandlung des Arbeitsethos.  Der Arbeitsmarkt wird Eng für Alle, jedoch genau aus diesem Grund, 
+Sturkturierung, vor allem die der Zeit und die Wandlung des Arbeitsethos. Der Arbeitsmarkt wird Eng für Alle, jedoch genau aus diesem Grund, 
 nämlich durch die neu erwünschte Flexibilität kann der markt offener sein, um Künstler in ihre eher flexibler Arbeitsweise zu integrieren. 
 Darüberhinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einem Dichter zurückführt, das heisst, der Begriff 
 wurde aus eine künstlerische Beobachtung hergeleitet.
@@ -63,7 +56,9 @@ als Künstler arbeitet man auch im Kunstbetrieb, warum sollen Künstler nur in b
 (Galerie) nicht? Wie Marcel Duchamp, und viele andere, (Timm Ulrich; Martin Kippenberger) die der den Kunstbetrieb selber als Material nahm (
 Andrea Fraser - Lucas Samaras der 1964 sein Atelier in der Galerie ausstellte (Doherty new book!) 
 
-> Wir Nennen es Arbeit
+Wir Nennen es Arbeit
+
+
 Updaten: die Tatsache, dass Künstler den Kunstbetrieb als Material nehmen, ist im gründe genommen das spezifische an der Kunst, die Wiedergabe einer 
 selbst-reflektion in Ästhetischen oder gestalterisches Form. Künstler schaffen Utopien, alternative Möglichkeiten, das Leben durchzuführen (States 
 of the Art in Landform, mit Passport etc.), genau so wie andere eine Religion starten. Währen in andere Felder, eine aufstieg Möglichkeiten gibt, 
@@ -89,3 +84,15 @@ Hauptsächlich aus der Gruppe der Kiosk'ler Ausstellende Fachkurse Teilnehmer, a
 Studenten, die an andere Fachkurse Teilgenommen haben, und Währenddessen ihre Strategie für das Diplom entwickelt haben. Ausstellungsraum geöffnet haben, 
 oder dort ausgestellt. Das Interdisziplinare brachte Studenten aus andere Fakultäten, wie Medien Und Architektur dazu, und die ruppe wurde mit menschen 
 mit andere skills bereichert.
+
+Muss man selber machen?
+When I was an Artist: BDU Manifest.
+
+Auftragskunst
+
+warum mache ich das was ich mache:
+1. Argument: Anpassung + Machtposition
+
+Politisch aktiv plus Art = Artivist
+in meinem Masterarbeit habe ich mich auf 
+Überregionale Selbest-organisation in Städte und International-verbundene Gruppen in diverse Länder, und auch politische Initiativen
