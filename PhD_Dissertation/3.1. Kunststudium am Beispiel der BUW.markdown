@@ -1,4 +1,4 @@
-## Stand der Dinge: Kunststudium am Beispiel der Bauhaus Universität Weimar
+# Kunststudium am Beispiel der Bauhaus Universität Weimar
 
 Das Bauhaus Universitätsamt hat vier Fakultäten, Architektur, Medien, Gestaltung und Bauingenieurwesen, es versteht sich als interdisziplinär, und ermöglicht den Studenten, 
 auch in andere Fakultäten ihr Wissen nach Interesse zu entwickeln und Projekte, sowie Fachkurse zu belegen. In erster Linie wird in der Fakultät Gestaltung Freie Kunst 

@@ -1,4 +1,6 @@
-# Beruf: Künstler - the allrounder
+# Beruf: Künstler 
+
+## The Allrounder
 
 Der nächste Künstlertypus:
 (see BDU manifest)
