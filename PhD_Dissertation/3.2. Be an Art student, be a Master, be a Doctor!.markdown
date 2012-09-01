@@ -1,6 +1,6 @@
 # Be an Art student, be a Master, be a Doctor!
 
-#### Humbold ./. Bologna
+## Humbold ./. Bologna
 
 In Folge der Reform der Hochschulabschlüsse in Europa (- des sogenannten Bologna-Prozesses), und der damit verbundenen Anpassung an die aus den USA bekannten
 Klassifizierungen, vermehrten sich die Angebote an akademischen Master (MFA) Programmen für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
@@ -46,7 +46,7 @@ moralischen Fragen wie auch philosophische Kontextualisierung, finden mittlerwei
 Vorwiegend im Rahmen von universitären Nebeninstitutionen (wie HIT etc.) und im Lehrangebot von anderen und mir, werden Fachkurse und Workshops als regulärer Unterricht angeboten.
 
 
-##### Theorie für Praktiker 
+## Theorie für Praktiker 
 
 Die Tendenz (erst Bedarf, dann Angebot), zum theoretischen “Upgrading” innerhalb der Kunstakademien kann dem Übergang von Konzeptkunst in sozialorientierte und aktivistische 
 Kunst zugeteilt werden (*erweitern und erklären). Sie zeigt das Bedürfnis nach Rückversicherung (üblicherweise durch Zitate), um nicht zu sagen eine Neigung, sich an (vorwiegend) 
