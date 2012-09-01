@@ -158,7 +158,9 @@ Inhalte:
 ‚PR (Pressemitteilung, Artist Statement, Internetpräsenz, Umgang mit Presse, Verwaltung von Verteilern, Anfertigen eines Pressespiegels)
 ‚Dokumentation der eigenen Arbeit, Blog: www.kochenmitwasser.tk
 
-### Fachkurs Miller's crossing
+SS 2012
+### Fachkurs: Miller's Crossing
+
 WS 2012/13
 ### Fachkurs: "Im entsprechenden Dunstkreis"
 
@@ -173,14 +175,11 @@ Wie funktionieren Ausstellungen aus dem Blickwinkel aller anderen und nicht aus 
 verschiedener Künstlerateliers soll durch Gespräche versucht werden, einen Blick von Außen zu erhalten. Von der eigenen 
 Meinungsbildung, bis zur eloquenten Kunstmagazin-Kritik, werden wir uns mit den nötigen Werkzeugen wappnen.
 
-
----
-
 ab hier Text n.n. bearbeitet
 
-### Notizen zu den Fachkursen
+> Notizen zu den Fachkursen
 
-#### "Ausstellungen von A-Z"
+### "Ausstellungen von A-Z"
 Von der Idee über den Plan und die Materialanschaffung, Kunstwerke zu erzeugen. Die Pressearbeit spielte eine Rolle. Der Ablauf der 
 Ausstellung und die Künstlerassistenz waren wichtig. Ein ganz praktisches Beispiel hierfür ist das Künstler- Duo ‚Barking Dogs United’ 
 mit einer großen Ausstellung in der ACC Galerie in Weimar. Darauf aufbauend, boten wir einen Fachkurs an. Sechs Studenten nahmen daran 
@@ -440,7 +439,8 @@ Grunde dabei zusein:
 "Ich wollte praktische Erfahrung für die Arbeit in einer Galerie mir aneignen."
 "Praxisbezug" "Um über ausstellen nachzudenken"
 
----
+> textreste
+
 + **Wenn Künstler Kunst Kuratieren (K3)**
     - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, 
 und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von mir übernommen werden 
