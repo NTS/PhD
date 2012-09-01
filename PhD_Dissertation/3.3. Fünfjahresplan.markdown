@@ -1,5 +1,7 @@
 # Fünfjahresplan
 
+## Der Plan
+
 Parallel zu den Projekten gibt es im Studiengang Freie Kunst auch Seminare, workshops und Fachkurse. 
 2007 beginnend mit meiner Stelle, habe ich folgende Fachkurse abgehalten, die alle um das Studium und das künstlerische Umfeld kreisen. 
 
@@ -23,6 +25,7 @@ Ich habe alle diese Sachen gelernt. Und wir sind auch fähig dazu, da alle Compu
 Dienstleistungen anzubieten oder für andere Künstler zu arbeiten. Mittlerweile werde ich zu Projekten eingeladen, welche über 2 Jahre laufen und 
 ich bekomme 25000.- Euro dafür, die ich an Studenten verteile. Somit bin ich als Künstler auch Arbeitgeber, das gefällt mir am besten. 
 Der Künstlerassistent ist ein wichtiger Punkt.
+
 Ich glaube, die Verhältnisse von Akademie und Galerie werden immer lockerer. Früher schaute man, wie die Galeristen kommen und dann irgendwelche 
 Exponatbeschriftungen machen, das irritierte. Mittlerweile freut man sich direkt, nach dem Studium einen Platz in einer Galerie zu bekommen. 
 Wo sind wir heute?’ Es gibt viele von meinen Studenten, die sich beim TKM (Thüringer Kunstministerium) bewerben und Stipendien bekommen. 
@@ -60,7 +63,7 @@ Akademie herzlich willkommen, aber wird nicht nur gelobt. Es wird weiter recherc
 man etwas erreichen. Wie gesagt, es entwickeln sich 2 Künstlersorten, aber ich fürchte, dass alle heutzutage eher zuerst reich und berühmt 
 werden und dann sterben wollen.
 
-#### Skill Checklist 
+## Skill Checklist 
 
 Mit den Studenten zusammen sind folgende Themen bearbeitet worden:
 
@@ -74,10 +77,10 @@ Mit den Studenten zusammen sind folgende Themen bearbeitet worden:
 * Presse info / Einladungen / Neue Website für jede Ausstl. / Namensschild / Fenster Text / Twitter / Facebook 
 *wir sind vernetzt, was Thema geworden
 
-#### Das Format Fachkurs
+## Das Format Fachkurs
 
 
-#### Index Fachkurse VLV
+## Index Fachkurse VLV
 
 Aus dem Vorlesungsverzeichnis der Professur Freie Kunst
 Fakultät Gestaltung
@@ -90,7 +93,7 @@ Unterrichtssprachen: Deutsch und English
 Richtet sich an: FK, LAK, VK, PD
 
 WS 2007/08
-### Fachkurs: ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
+Fachkurs: ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
 In diesem Fachkurs werden alle Facetten und Schritte einer Ausstellung, von der Idee bis zur Eröffnung vorbereitet werden. 
 Thematisiert und praktiziert werden: Kontakt zur Galerie; Finanzierung; Terminplan; Pressearbeit; Künstler- Assistenz; 
 Objektbau und Werkstatt; Ausstellungsaufbau und Eröffnung.
@@ -98,14 +101,14 @@ All dies wird durch die Begleitung einer kommenden Ausstellung in der ACC Galeri
 mit dem Galeristen Frank Motz, sowie dem Künstler Nikos Arvanitis realisiert.
 
 SS 2008
-### Fachkurs: ‚Hebräisch für Anfänger’ ‚Künstlerische Forschung I’
+Fachkurs: ‚Hebräisch für Anfänger’ ‚Künstlerische Forschung I’
 In diesem Fachkurs werden alle Methoden einer Künstlerischen Forschung, wenn es ums Reisen geht, von der ersten Entscheidung 
 über das Thema bis zur Vorstellung von Resultaten, untersucht werden. Thematisiert werden: Vor- urteile, Kunst - Tourismus, 
 Exotik und Dilettantismus, Reiseberichte aus der Literatur und Einflüsse aus der Philosophie und der Wissenschaft. 
 Dies geschieht als Vorbereitung zur Israel-Exkursion.
 
 WS 2007/08
-### Fachkurs: ‚K3 - wenn Künstler Kunst kuratieren’ (1/3)
+Fachkurs: ‚K3 - wenn Künstler Kunst kuratieren’ (1/3)
 Das ehemalige K&K Zentrum für Kunst und Mode, (heute KoCA Weimar, Kiosk of Contemporary Art) wird als Prototyp untersucht, 
 und als Biotop und Labor benutzt. In drei Etappen wird in diesem Fachkurs eine Kuratorenschule durchgeführt.
 Themen: Vorgeschichte, Konzept, Arbeitsverteilung, Zusammenarbeit, Künstler als Kuratoren, PR-Arbeit, Nachhaltigkeit, 
@@ -119,7 +122,7 @@ Themen: Eröffnung des Bauhaus-Jubiläum 09, Ausstellungen: Auf- und Abbau im 6-
 Zusammenarbeit, Künstler als Kuratoren, PR-Arbeit, Nachhaltigkeit. Mit Gastvorträgen und praktischer Umsetzung.
 
 WS 2009/10
-### Fachkurs: ‚K3 - wenn Künstler Kunst kuratieren’ (3/3)
+Fachkurs: ‚K3 - wenn Künstler Kunst kuratieren’ (3/3)
 In drei Etappen wird in diesem Fachkurs eine Kuratorenschule durchgeführt.
 Themen: Künstler als Kuratoren, Ausstellungen: Auf- und Abbau im 6-Wochen- Takt, Zusammenarbeit, Aufgabenverteilung, 
 Projektleitung, Umgang mit Öffentlichkeitsarbeit, Nachhaltigkeit und praktische Umsetzung, sowie Dokumentation.
@@ -128,7 +131,7 @@ Phase. Die Ausstellungsreihe wird weiter als Prototyp untersucht, und als Biotop
 für den Katalog gesammelt.
 
 SS 2010
-### Fachkurs: ‚The names may change, but the game stays the same’* 
+Fachkurs: ‚The names may change, but the game stays the same’* 
 M.F.A. Naomi T. Salmon
 ‚Seit Mitte der Neunziger erlebt die zeitgenössische Kunst einen beispiellosen Boom. Von allem gibt es mehr: mehr Künstler, 
 mehr Sammler, mehr Galerien, mehr Kunstmessen, mehr Museen, mehr Biennalen, mehr Interessierte, mehr Pop, mehr Hype. 
@@ -141,7 +144,7 @@ Im Fachkurs werden in einer Materialschlacht aktuelle Positionen im Kunst- markt
 und Dokumentar-Filme untersucht und bewertet.
 
 SS 2011
-### Fachkurs: ‚Kochen mit Wasser’
+Fachkurs: ‚Kochen mit Wasser’
 M.F.A. Naomi T. Salmon / Dipl.-Künstl. Anke Hannemann
 Auf zur Professionalisierung! Im Englischen sagt man: ‚It’s not the What, it’s the How’ ‚ ‚Nicht was, sondern wie’. Was gefällt 
 uns bei anderen Präsentationen? Welche Werkzeuge und welches Wissen sind nötig? Wie organisieren freischaffende Künstler eigentlich 
@@ -159,10 +162,10 @@ Inhalte:
 ‚Dokumentation der eigenen Arbeit, Blog: www.kochenmitwasser.tk
 
 SS 2012
-### Fachkurs: Miller's Crossing
+Fachkurs: Miller's Crossing
 
 WS 2012/13
-### Fachkurs: "Im entsprechenden Dunstkreis"
+Fachkurs: "Im entsprechenden Dunstkreis"
 
 M.F.A. Naomi T. Salmon / Dipl.-Künstl. Anke Hannemann
 
@@ -177,9 +180,9 @@ Meinungsbildung, bis zur eloquenten Kunstmagazin-Kritik, werden wir uns mit den 
 
 ab hier Text n.n. bearbeitet
 
-> Notizen zu den Fachkursen
+## Notizen zu den Fachkursen
 
-### "Ausstellungen von A-Z"
+> "Ausstellungen von A-Z"
 Von der Idee über den Plan und die Materialanschaffung, Kunstwerke zu erzeugen. Die Pressearbeit spielte eine Rolle. Der Ablauf der 
 Ausstellung und die Künstlerassistenz waren wichtig. Ein ganz praktisches Beispiel hierfür ist das Künstler- Duo ‚Barking Dogs United’ 
 mit einer großen Ausstellung in der ACC Galerie in Weimar. Darauf aufbauend, boten wir einen Fachkurs an. Sechs Studenten nahmen daran 
@@ -187,13 +190,13 @@ teil. Sie arbeiteten als unsere Assistenten in allen Tätigkeitsfeldern, nicht e
 dass der Assistent ein Künstlerberuf ist. Man kann viel von anderen lernen und mitmachen. (Videos schneiden etc.) Ich komme 
 später noch einmal darauf zu sprechen. 
 
-#### "Hebräisch für Anfänger"
+> "Hebräisch für Anfänger"
 In einem weiteren sogenannten Kurs (der Ausdruck ist eigentlich nicht korrekt), besser in einem Projekt, welches ich leitete, ging es 
 um eine Reise nach Israel und in dem Zusammenhang um künstlerische Recherche. Bei uns gibt es Masterstudiengänge. Aber Kunst im öffentlichen 
 Raum und künstlerische Strategien sind Institutionen für sich. Allerdings entwickeln sich bei den Medien langsam Perspektiven für ein Masterstudium. 
 Zunächst ging es um die künstlerische Recherche zu allen Materialien. Wir stellten die Fragen: ‚Wie sammle ich das, wie kann man das präsentieren?’ 
 
-#### KIOSK 09
+> KIOSK 09
 Wichtig ist, dass wir im ersten Semester damit angefangen haben, die Geschichte des Ortes zu recherchieren und danach ein paar Bilder 
 vom Kiosk09 zu machen. Es ging um Nachhaltigkeit. Ziel war es, die Frage zu beantworten, wie man das Äußere im Inneren widerspiegelt. E
 s ging nicht nur darum zu klären, wie man Geld verdient, sondern auch um die Vermittlung des Gefühls, wie es ist, 
@@ -274,27 +277,27 @@ Klicks kamen aus Amerika. Das Sommerloch war die berühmteste Arbeit.
 Dann kamen der Herbstputz und die letzten Ausstellungen. Das sah aus wie eine Einladung von der ‚MOMA’ hieß bloß ‚KOMA’. 
 Wir haben wirklich recherchiert, wie das im Original aussieht und mit New York etc.
 
-#### "The Game"
+> "The Game"
 Ich war auf den Geschmack gekommen. Es war ein Projekt von vielen, es hieß ‚The Game’, und es ging um wirklich alle Kunstmarkt - Akteure, 
 also Beziehungen zwischen Akademie und Kunstmarkt (auch im Hintergrund). Das ist etwas wahnsinnig Wichtiges. Es gibt Sammler, Käufer, 
 Galeristen Kritiker, es gibt Institutionen, Museen aber auch Kunstvereine, außerdem die öffentliche Plattform wie Messen, Biennalen, Aktionshäuser. 
 Jeder musste sich dazu positionieren (eigenes Statement und Äußerung).
  
-#### ‚Kochen mit Wasser’ 
+> ‚Kochen mit Wasser’ 
 Ich bin der Meinung, die anderen kochen auch nur mit Wasser in der eigenen Präsentation. Es ging nicht um das Was sondern um das Wie, 
 um Mappe, Website, eigene PR und Rhetorik. Man musste sich selbst vorstellen usw., und es ging um Marketing, Internetpräsenz, Bewerbungen usw. 
 Alles wurde innerhalb des Projekts bearbeitet. Dazu beschäftigten wir uns auch noch mit dem Bild des Künstlers in den Medien, in Fernsehserien 
 und Filmen. Wir saßen da und sahen uns Filme an, z.B. ‚Six Feet Under’, in welchem Claire Fischer eine Kunststudentin spielt. Alle diese 
 Positionen, auch aus den Medien, haben wir nochmals in Bezug auf uns reflektiert und diskutiert, wie wir dazu stehen. 
 
-#### ‚Miller's Crossing’???
+> ‚Miller's Crossing’???
 Im jetzigen Fachkurs ‚Miller's Crossing’ geht es um das Kooperieren allgemein und um Kollaboration in der Kunst. Da haben wir auch alle MFA 
 Leute bei uns. Früher waren es 15 heute sind es 30 Personen im Fachkurs. Es geht in der Kollaboration darum, welche Beispiele, 
 Regeln und Wege man für die Zusammenarbeit nutzt, einschließlich des Internets. Wir hörten immer wieder Vorträge von Fachleuten 
 zu den Themen Egokontrolle, Produzentengalerien, internationale Plattformen etc. mit abschließendem Reader, so dass jeder eine 
 Zusammenfassung in den Händen halten kann. 
 
-#### "Im entsprechendem Dunstkreis"
+> "Im entsprechendem Dunstkreis"
 Das nächste Semester ist auch schon vorgeplant. Es heißt ‚Im entsprechendem Dunstkreis, Critical Biennalist’. Gezeigt wird der Künstler, 
 wie er sich in der Welt bewegt. Es geht um den Umgang mit Messen und Ausstellungen wie der Biennale oder documenta. Man fragt sich: ‚Muss 
 man da hin? Warum muss ich da hin? Wie benimmt man sich da? Wie schreibt man Kritiken? Wie geht man mit Kritik um? Wie reflektiere ich? 
@@ -307,14 +310,12 @@ Kunstkritik als nächstes. damit ist der kreise erstmal rund, ein zyklus. als n�
 ganze neue reihe Fachkurse entstehen, über das sehen: fotografie; Video; und meine Tätigkeit an der BUW ist auch nicht für ewig, 
 also, ab zu eigenem Stahlaufbau!
 
-- - -
 
 + Themen Teil 1: Vorgeschichte, Konzept, Arbeitsverteilung, Zusammenarbeit, Künstler als Kuratoren, 
 Presse-Arbeit & Umgang mit Öffentlichkeitsarbeit,, Nachhaltigkeit, mit Gastvorträge und praktische Umsetzung. 
 + Teil 2: Eröffnung des Bauhaus Jubiläum 09, Ausstellungen auf- und Abbau in 6 Wochen Takt.
 + Teil 3: Dokumentation und Materialsammlung für den Katalog
 
-- - -
 
 #### alle statistik Frabo 
 
