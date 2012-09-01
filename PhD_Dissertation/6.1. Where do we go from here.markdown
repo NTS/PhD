@@ -16,7 +16,7 @@ wie alles von Künstler auch gestalten. es steht fest, man muss es nur sehen wol
 
 (mem all artstyle belongs to...!)
 
-#### Humboldt vs. Bologna (Akademie)
+## Humboldt vs. Bologna (Akademie)
 
 Es ist zu bedenken, dass im laufe der letzt zehn Jahre das Bologna-Reform durch die Institution lief.
 die beschleunigung und herausschicken von Fachgemäß unreife Menschen, die dann so beschrieben werden: "Die Absolventen seien nicht die 
@@ -56,20 +56,22 @@ Paul Graham hackes & Painters
 http://www.paulgraham.com/hp.html
 http://paulgraham.com/desres.html
 
-#### die Wirtschaft
 
-#### die Biennalen
+## Die Aktöre werden...
+die Wirtschaft
+
+die Biennalen
 wievile noch kommen
 fuck the nationality
 
-#### die galleristen
+die galleristen
 take what u can as long as it works
 lucrativity
 
-#### die Kuratoren
+die Kuratoren
 
 
-#### die künstler
+## Die Künstler sagen: Fuck you!
 
 fuck the curators - we curate ourselves
 fuck the galerist we sell ourselves
@@ -91,7 +93,7 @@ nenne die prototype:
 Kunstmarktkünstler
 Künstlerkünstler
 
-#### The proccess is the product!
+## The proccess is the product!
 * scheitern als Erfolg
 
 Wird sich mein Fazit in der Realität gewährt?
