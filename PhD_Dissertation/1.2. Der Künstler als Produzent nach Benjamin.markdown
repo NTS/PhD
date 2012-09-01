@@ -1,4 +1,4 @@
-#### Der Künstler als Autor und Produzent
+# Der Künstler als Autor und Produzent
 
 Zu Goethes Zeit, wurde per Hand geschrieben, um Ihn gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
 zu lektorieren, Bilder und Rechte zu besorgen, layouten, gestalten, verlegen, vermarkten, und eventuell übersetzten. Heute liegt das Regie bei 
@@ -96,7 +96,7 @@ dazu und die Gruppe wurde mit anderen Menschen und Skills bereichert.
 
  > textreste
 
-#### Would you like to be modified? (Gegen/Argumente) 
+## Would you like to be modified? (Gegen/Argumente) 
 
 Manchmal denke ich, dass das was ich zu widerlegen versuche ein Oximoron ist.
 
