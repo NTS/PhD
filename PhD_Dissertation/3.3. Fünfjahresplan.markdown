@@ -1,6 +1,4 @@
-## Fünfjahresplan
-
-### Das Format FACHKURSE
+# Fünfjahresplan
 
 Parallel zu den Projekten gibt es im Studiengang Freie Kunst auch Seminare, workshops und Fachkurse. 
 2007 beginnend mit meiner Stelle, habe ich folgende Fachkurse abgehalten, die alle um das Studium und das künstlerische Umfeld kreisen. 
@@ -62,7 +60,9 @@ Akademie herzlich willkommen, aber wird nicht nur gelobt. Es wird weiter recherc
 man etwas erreichen. Wie gesagt, es entwickeln sich 2 Künstlersorten, aber ich fürchte, dass alle heutzutage eher zuerst reich und berühmt 
 werden und dann sterben wollen.
 
-#### Mit den Studenten zusammen sind folgende Themen bearbeitet worden:
+#### Skill Checklist 
+
+Mit den Studenten zusammen sind folgende Themen bearbeitet worden:
 
 * Geld Acquise & Anträge gestellt
 * Kulturstiftung Thüringen, Kultusministerium, Frauengleichstellungsbeauftragte (gelungen) Kreative fonds & div. Firmen (nicht gelungen) Nestle
@@ -73,6 +73,8 @@ werden und dann sterben wollen.
 * Künstlerbetreuung Auf- und Abbau
 * Presse info / Einladungen / Neue Website für jede Ausstl. / Namensschild / Fenster Text / Twitter / Facebook 
 *wir sind vernetzt, was Thema geworden
+
+#### Das Format Fachkurs
 
 
 #### Index Fachkurse VLV
