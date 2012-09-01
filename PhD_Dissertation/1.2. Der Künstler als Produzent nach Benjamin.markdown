@@ -1,14 +1,6 @@
-#### #### Would you like to be modified? (Gegen/Argumente) 
+# Der Künstler als Produzent nach WB
 
-Manchmal denke ich, dass das was ich zu widerlegen versuche ein Oximoron ist.
-
-1. Walter Benjamin Der Autor als Produzent 1934 (http://www.texturen-online.net/methodik/benjamin/autor-als-produzent/)
-1. Roland Barthes *Death of the Author* 1967
-1. Sennet *Der Flexibler Mensch* 1998
-1. *wir nennen es Arbeit - Die digitale Boheme* 2004
-
-1. Schawelka > zu Kunstmarkt?
-1. Yaakov Mishori > Akademie!
+## Der Künstler als Autor und Produzent 
 
 Zu Goethes Zeit, wurde per Hand geschrieben, um Ihn gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
 zu lektorieren, Bilder und Rechte zu besorgen, layouten, gestalten, verlegen, vermarkten, und eventuell übersetzten. Heute liegt das Regie bei 
@@ -16,12 +8,11 @@ dem Autor selbst und an seinem Computer. Im Bereich der Kunst entwickelte sich e
 Sammler Kunstmesse etc. immer noch funktioniert, jedoch betätigt sich der Künstler oft auch im kuratorischen, layouten von Werbematerial und in 
 Verbreitungen durchs web 2.0. Ist der Künstler gezwungen alles zu können?: Ein Kurator zu sein, Texte zu schreiben und seine Bilder zu beschriften?
 
-Die Verhältnisse sind heutzutage zeigen, dass man vielfältig sein muss. Es bleibt einem nichts übrig, man muss alles können, oder anders formuliert: 
+Die Verhältnisse heutzutage zeigen, dass man vielfältig sein muss. Es bleibt einem nichts übrig, man muss alles können, oder anders formuliert: 
 man ist gezwungen alles zu können, und was man nicht selbst machen kann delegiert man im Auftrag an Andere (Handwerker, Techniker), und womöglich 
-bezahlt man dafür. Irgendwann erkennt man, das man wie ein Dirigent, über sich, und über alle, die für Ihn produzieren.????????????????????????????? 
+bezahlt man dafür. Irgendwann erkennt man, das man wie ein Dirigent, über sich, und über alle andere, an deren er Arbeit deligiert und die für Ihn produzieren.
+ 
 Werden damit Kreativität und Produktivität vermischt?
-
-#### Der Künstler als Autor und Produzent
 
 Verhältnisse von Kunst & Arbeit sind nicht neu, und trotzdem erscheinen momentan viele Bücher und Reader, die sich mit den Änderung in diesen Verhältnissen 
 beschäftigen, mit Titel wie *Work, Work, Work A Reader on Art and Labour* oder *Are you working too much Post-Fordism, 
@@ -34,7 +25,7 @@ Im gesamten Text Benjamins konnte man das Wort *Autor* mit Künstler durchaus au
 die Qualität darf nicht wegen der politische Anwendung nachlassen. Der Autor als Produzent trägt die These: Künstler sind im politischen 
 nicht unbedingt klüger als andere Intellektuelle. Man muss sich auskennen in der eigenen konkreten Welt. Informiert sein, wo und wie man
 publiziert und wie man selbst publizieren oder ein Kooperativen Mitglied werden kann, wie in der Biowelt. (eine Art zurück zu einer Gilde? Dahin 
-läuft die Kreativität (oder Leistung) hin, zuru Kooperationen als Berater und Denkfabrikanten ??????????????, bis zur Stellen bei Konzernen 
+läuft die Kreativität (oder Leistung) hin, zuru Kooperationen als Berater und Denkfabrikanten (Think Tanks), bis zur Stellen bei Konzernen 
 als "Haus (Hof?) Kunstler (Narr?)" und das alles unter dem Mantel einer Stelle mit monatlicher Ratenanzahlung. 
 
 Der Zustand des Künstler heute ist dem des Autors gleich, und anderen kreativ orientierten Menschen ähnlich. In einem Gespräch mit Ivan Ivanji erzählte er, 
@@ -50,16 +41,16 @@ könnte die neu erwünschte Flexibilität den Markt mehr öffnen, um Künstler i
 Darüber hinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einem Dichter zurückführt, das heisst, der Begriff 
 wurde aus einer künstlerischen Beobachtung hergeleitet. 
 
-Das Internet hat die Arbeitsverhältnisse weiter geändert, jeder Mensch ist in der Lage, von Zuhause seine Geschäfte zu erledigen. Dauerstellung 
-(Daueranstellung???????????????) werden auch immer geringer, und man arbeitet von begrenzter Stelle zur nächsten, oder an Kurzfristigeren Projekten. Dies 
+Das Internet hat die Arbeitsverhältnisse weiter geändert, jeder Mensch ist in der Lage, von Zuhause seine Geschäfte zu erledigen.  
+Unbefristete Stellen werden auch immer geringer, und man arbeitet von begrenzter Stelle zur nächsten, oder an Kurzfristigeren Projekten. Dies 
 fördert eine Flexibilität fast als Fertigkeit, die Künstler schon längst beherrschen. An dieser Stelle ist auch der Begriff "Digitale Boheme" zu erwähnen. 
 Arbeiter haben Arbeitszeiten, Urlaub und andere Strukturen, KünstlerInnen kennen keine 'Freizeit', auch wenn sie im Urlaub sind, gerade wenn andere Menschen 
-etwas als Urlaub empfinden, sind sie weiter Kreative.???????????????????????????
-Tageszeiten, Wochenpläne, Wochenende, Feiertage sind Strukturen, an denen sich KünstlerInnen grundsätzlich anpassen müssen. Die Kreativität kennt keine solche
-Strukturen, sie braucht die Freiheit (und die 'Todeslinie' am Ende, damit überhaupt etwas festgelegt werden kann.
+etwas als Urlaub empfinden, sind sie weiter schöpferisch und Kreative. Tageszeiten, Wochenpläne, Wochenende, Feiertage sind Strukturen, 
+an denen sich KünstlerInnen grundsätzlich anpassen müssen. Die Kreativität kennt keine solche Strukturen, sie braucht die Freiheit 
+(und die 'Todeslinie' (deadline) am Ende, damit überhaupt etwas festgelegt werden kann.
 
-Die Hinnahme der Tatsache dass der Arbeitsplatz nicht mehr die Entscheidungen des Leben bedeuten bzw. bestimmen muss, das es auch durch die Globalisierung 
-möglich ist, haben vorallem KünstlerThink Tank ???????????????????????
+Die Hinnahme der Tatsache dass der Arbeitsplatz nicht mehr die Entscheidungen über den Lebensort bestimmen muss, auch durch die 
+Globalisierung möglich, haben vor allem KünstlerInnen längst angeeignet. 
 
 Was passiert im Kunstfördersystem? Diese Anpassung findet nicht nur im Kunstsystem statt, es dehnt sich durch alle kreativen 
 Branchen, Autoren, Filmemacher und sickert sogar auch zu Managern bei WV ![Picture]Jeff_Koons_mit_80_Assistenten), Olaruf Eliason
@@ -95,7 +86,7 @@ des Kiosks, als Schwerpunkt unter einer Reihe an Fachkursen um die Kunstwelt her
 künstlerische Recherche entstanden. Wenn mann will, ist die Recherche für die Studierenden entstanden, und ihre eigenen Ergebnisse dienen 
 ihnen für weitere Recherche. 
 
-Es ist noch etwas früh festzustellen, wie die Wirkung auf den Werdegang der Studierenden einwirkt?????????????????. Exemplare zeigen aber, 
+Es ist noch etwas früh festzustellen, wie die Wirkung auf den Werdegang der Studierenden wird. Exemplare zeigen aber, 
 das mehrere sich alternativ bewegen, entweder noch während des Studiums, manche als oder direkt nach Abschluss:
 Valenta; Albrecht; Patermann; Weinlich; Brown; Hannemann; 
 
@@ -104,8 +95,21 @@ Studenten, die an andere Fachkursen teilgenommen haben, und währenddessen ihre 
 Ausstellungsräume öffneten, oder dort ausstellten. Das interdisziplinäre brachte Studenten aus anderen Fakultäten, wie Medien und Architektur 
 dazu und die Gruppe wurde mit anderen Menschen und Skills bereichert.
 
-- - -  
-textreste
+
+ > textreste
+
+## Would you like to be modified? 
+(Gegen/Argumente) 
+
+Manchmal denke ich, dass das was ich zu widerlegen versuche ein Oximoron ist.
+
+1. Walter Benjamin Der Autor als Produzent 1934 (http://www.texturen-online.net/methodik/benjamin/autor-als-produzent/)
+1. Roland Barthes *Death of the Author* 1967
+1. Sennet *Der Flexibler Mensch* 1998
+1. *wir nennen es Arbeit - Die digitale Boheme* 2004
+
+1. Schawelka > zu Kunstmarkt?
+1. Yaakov Mishori > Akademie!
 
 im Jahr 2007 fragt sich Sigrid Schade in einem Symposium  (Akademie)
 
