@@ -1,4 +1,6 @@
-# Kunst ./. Kommunikation
+# Kunst ./. Kommunikation*
+
+> fill intro
 
 zur gegenwärtigen Paradigmenverschiebung 
 
@@ -16,22 +18,39 @@ zur gegenwärtigen Paradigmenverschiebung
 > *Dr. Niels Werber* [-@Werber:nurkunst]
 
 
-In den 60er Jahren, im Zuge der Entmaterialisierung der Kunst, erweiterte die Konzeptkunst das Sehen durch das Denken. Das bloße Betrachten eines Kunstwerkes reichte zum Verständnis nicht mehr aus: das Lesen von Titel, Anleitungen und anderen Informationen war nunmehr nötig, um in die Denkweise der Künstler ganz einzutauchen und Inhalte „richtig“ zu verstehen. Die Leinwand oder das Objekt reichten als bloße Informationsträger nicht mehr aus, Kommunikation mit dem Kunstwerk oder dem Künstler war folglich durch eine Vielzahl von Kanälen nötig. Eine Verschmelzung der Begriffe, Codes und Kategorien führte zu einer Weiterentwicklung künstlerischer Strategien, die auch in den Alltag hinein wirken und einer Verschiebung der Wahrnehmung von Kunst, ihren Indikatoren und Aufgabenbereichen. Künstler suchten nach neuen Wegen den Betrachter – über den white cube hinaus – zu erreichen, z.B. in der „Kunst in öffentlichen Raum“, die nicht mehr nur die Form einer Skulptur oder eines Denkmals wahrt.
+In den 60er Jahren, im Zuge der Entmaterialisierung der Kunst, erweiterte die Konzeptkunst das Sehen durch das Denken. Das bloße Betrachten eines Kunstwerkes reichte zum Verständnis 
+nicht mehr aus: das Lesen von Titel, Anleitungen und anderen Informationen war nunmehr nötig, um in die Denkweise der Künstler ganz einzutauchen und Inhalte „richtig“ zu verstehen. 
+Die Leinwand oder das Objekt reichten als bloße Informationsträger nicht mehr aus, Kommunikation mit dem Kunstwerk oder dem Künstler war folglich durch eine Vielzahl von Kanälen nötig. 
+Eine Verschmelzung der Begriffe, Codes und Kategorien führte zu einer Weiterentwicklung künstlerischer Strategien, die auch in den Alltag hinein wirken und einer Verschiebung der 
+Wahrnehmung von Kunst, ihren Indikatoren und Aufgabenbereichen. Künstler suchten nach neuen Wegen den Betrachter – über den white cube hinaus – zu erreichen, z.B. in der „Kunst in 
+öffentlichen Raum“, die nicht mehr nur die Form einer Skulptur oder eines Denkmals wahrt.
 
-Es stellt sich die Frage, welcher kommunikativen Strategien sich die Künstler im Zeitalter der Digitalisierung und Vernetzung behelfen. Seit einigen Jahren findet eine Verschiebung in der Wahrnehmung und den Aufgabenbereichen zwischen Künstlern und den Vermittlungsapparaten wie Galerien, Museen, Kuratoren, Sammlern, etc. statt, die ihre Spuren bei den Philosophen der Kunstwelt hinterlässt und bei den Künstlern großes Interesse weckt. Die Kunst stellt ihre eigenen Entstehungsprozesse auf der Meta-Ebene dar: Künstler beschäftigen sich mit dem Kunstmarkt und dem Apparat als solchem, es entsteht der Begriff “Artist’s Artist” (*Künstler für Künstler*), als Bezeichnung für einen Künstler der in seiner Kunst vermehrt kritische Äußerungen über die Kunstwelt an sich vermittelt.
+Es stellt sich die Frage, welcher kommunikativen Strategien sich die Künstler im Zeitalter der Digitalisierung und Vernetzung behelfen. Seit einigen Jahren findet eine Verschiebung 
+in der Wahrnehmung und den Aufgabenbereichen zwischen Künstlern und den Vermittlungsapparaten wie Galerien, Museen, Kuratoren, Sammlern, etc. statt, die ihre Spuren bei den Philosophen 
+der Kunstwelt hinterlässt und bei den Künstlern großes Interesse weckt. Die Kunst stellt ihre eigenen Entstehungsprozesse auf der Meta-Ebene dar: Künstler beschäftigen sich mit dem 
+Kunstmarkt und dem Apparat als solchem, es entsteht der Begriff “Artist’s Artist” (*Künstler für Künstler*), als Bezeichnung für einen Künstler der in seiner Kunst vermehrt kritische 
+Äußerungen über die Kunstwelt an sich vermittelt.
 
 ![Justin Hansch: „Best friends painting“, 2010](../pix/10._true_art/Justin.Hansch.best_friends_painting.jpg)
 
 
 ## Digitalisierung und Vernetzung
 
-Vilèm Flusser schreibt [-@Flusser:Kommuni], dass auch wenn die Begriffe Schönheit, Originalität, Interesse, usw. schwierig zu definieren sind, so doch alles immer wieder auf die Information zurückgeführt werden kann und Information will kommuniziert werden. 
+Vilèm Flusser schreibt [-@Flusser:Kommuni], dass auch wenn die Begriffe Schönheit, Originalität, Interesse, usw. schwierig zu definieren sind, so doch alles immer wieder auf die Information 
+zurückgeführt werden kann und Information will kommuniziert werden. 
 
-Übernimmt die Digitalisierung unserer Gesellschaft die Oberhand und bringt die hervorgebrachte elektronische Einsamkeit ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: die Künstler, die nun nicht mehr nur lokal agieren, sondern globale Kulturströmungen verursachen. Das Quellenmaterial, die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar.
+Übernimmt die Digitalisierung unserer Gesellschaft die Oberhand und bringt die hervorgebrachte elektronische Einsamkeit ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: 
+die Künstler, die nun nicht mehr nur lokal agieren, sondern globale Kulturströmungen verursachen. Das Quellenmaterial, die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, 
+ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar.
 
-Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgestattet und kann sich ungehindert innerhalb von Onlinedatenbanken bewegen. Sein Charakter ist vor allem als technisch zu bezeichnen. Im Gegensatz zu seinen kunsthistorischen Vorgängern ist er autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, sondern aus eigener Initiative. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“.[^footnote-virtuell]
+Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgestattet und kann sich ungehindert innerhalb von Onlinedatenbanken bewegen. Sein Charakter ist vor allem als technisch 
+zu bezeichnen. Im Gegensatz zu seinen kunsthistorischen Vorgängern ist er autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, 
+sondern aus eigener Initiative. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“.[^footnote-virtuell]
 
-[^footnote-virtuell]: Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche Verlängerung derselben ist. Auch die Selbst- und Anerkennung als Angehöriger einer Strömung geht nun über die politische, soziale und lokale Ebene hinaus. Man gehört nicht mehr einem bestimmten politischen Club eines bestimmten Ortes an, sondern wandert in eine andere Sphäre und tritt dort mit Menschen aufgrund des gemeinsamen Interesses in Kontakt. Man teilt die gleiche Meinung und kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.  
+[^footnote-virtuell]: Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
+Verlängerung derselben ist. Auch die Selbst- und Anerkennung als Angehöriger einer Strömung geht nun über die politische, soziale und lokale Ebene hinaus. Man gehört nicht mehr einem bestimmten 
+politischen Club eines bestimmten Ortes an, sondern wandert in eine andere Sphäre und tritt dort mit Menschen aufgrund des gemeinsamen Interesses in Kontakt. Man teilt die gleiche Meinung und 
+kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.  
 
 
 ## Kunst & Kommunikation
@@ -39,19 +58,23 @@ Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgest
 Auf welchen Kommunikationsebenen hat sich die Kunst entwickelt? 
 Inwieweit bedienen sich Künstler neuer Strategien, um durch Kommunikation eine weiter reichende Aufmerksamkeit zu erlangen? 
 
-Wird Kunst heute als Kommunikationsweg benutzt oder bedient sich die Kommunikation künstlerischer Strategien? Hierbei spielt die Umkehrung von Wort in Bild und Bild in Wort eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der Straße. Die Gemeinsamkeiten beider Plattformen werden durch Anwendung ähnlicher Strategien sichtbar.[^footnote-oeffraumnetz] 
+Wird Kunst heute als Kommunikationsweg benutzt oder bedient sich die Kommunikation künstlerischer Strategien? Hierbei spielt die Umkehrung von Wort in Bild und Bild in Wort 
+eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der Straße. Die Gemeinsamkeiten beider Plattformen werden durch Anwendung ähnlicher Strategien sichtbar.[^footnote-oeffraumnetz] 
 
 [^footnote-oeffraumnetz]: In der „Kunst im öffentlichen Raum“ wurde der öffentliche Raum schon auf das Internet ausgeweitet
 
 **Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der
  Künstler unverständlich.** 
-Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. Weiter meint Hehn, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, 
+Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst 
+selber. Weiter meint Hehn, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, 
 „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“ 
 [@Hehn:Genius, pp. 4]. 
 
 „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[@Hehn:Genius, pp. 2]
-Die Exilierung des Sakralen aus der Sphäre des künstlerischen Erlebens änderte nichts an ihrem Status als der wahren Wirklichkeit. Die Künstler kommunizierten nicht mit ihren Rezipienten, sie schritten ihnen voran. Das Bedürfnis nach Aufklärung, Erklärung und Vermittlung, ist Kern der schöpferischen Kraft, ein inneres Bild in die materielle Welt zu übersetzen, 
-„…und der Künstler zeigt sich als Virtuose der Kommunikation, dessen künstlerische Leistung gerade auf Meta-kommunikative Kreativität beruht. Er mag provozieren, verfremden oder verstören, er mag überhöhen oder ins Lächerliche ziehen, er mag visionär oder fehlgelagert arbeiten, immer ist der Vektor seiner kreativen Explosion auf den Rezipienten gerichtet.“ 
+Die Exilierung des Sakralen aus der Sphäre des künstlerischen Erlebens änderte nichts an ihrem Status als der wahren Wirklichkeit. Die Künstler kommunizierten nicht mit ihren 
+Rezipienten, sie schritten ihnen voran. Das Bedürfnis nach Aufklärung, Erklärung und Vermittlung, ist Kern der schöpferischen Kraft, ein inneres Bild in die materielle Welt zu übersetzen, 
+„…und der Künstler zeigt sich als Virtuose der Kommunikation, dessen künstlerische Leistung gerade auf Meta-kommunikative Kreativität beruht. Er mag provozieren, verfremden oder verstören, 
+er mag überhöhen oder ins Lächerliche ziehen, er mag visionär oder fehlgelagert arbeiten, immer ist der Vektor seiner kreativen Explosion auf den Rezipienten gerichtet.“ 
 [@Hehn:Genius, pp. 2] 
 
 Für den heutigen Künstler heißt das, immer die Zielgruppe im Visier zu haben, und zunehmend sind das nicht nur kulturorientierte Menschen. 
@@ -59,8 +82,8 @@ Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig 
 Die Kunstkritik inklusive, die ihm einerseits zur Verfügung steht, aber sich andererseits auch an ihm verdient. 
 Hier wird gleichzeitig ein Problemfeld aufgemacht, nämlich, 
 
-Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn das Kunstwerk nicht ausschließlich durch die diverse Komponenten dieses Apparats (Galerist, Kurator, Käufer, Kunstkritiker) transportiert wird? 
-Oder, um es mit Marcel Duchamp zu sagen: 
+Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn das Kunstwerk nicht ausschließlich durch die diverse Komponenten dieses Apparats 
+(Galerist, Kurator, Käufer, Kunstkritiker) transportiert wird? Oder, um es mit Marcel Duchamp zu sagen: 
 „Soviel Künstler, soviele Einzelausstellungen, soviele Händler und Sammler und Kritiker, die nichts anderes sind als Läuse an den Hintern der Künstler!“
 [@Barck:Aisthesis, pp. 105]
 
@@ -69,32 +92,46 @@ Oder, um es mit Marcel Duchamp zu sagen:
 
 Der *Digital Native*[^footnote-digital-native] wird zu einer politischen und globalen Persönlichkeit. 
 
-[^footnote-digital-native]: lt. [Wikipedia: ](https://de.wikipedia.org/wiki/Digital_Native) Als *Digital Natives* werden Personen bezeichnet, die zu einer Zeit aufgewachsen sind, in der bereits digitale Technologien wie Computer, das Internet, Mobiltelefone und MP3s verfügbar waren. Als Antonym existiert der Begriff des *Digital Immigrant* (dt.: „digitaler Einwanderer“ oder „digitaler Immigrant“) für jemanden, der diese Dinge erst im Erwachsenenalter kennengelernt hat. 
+[^footnote-digital-native]: lt. [Wikipedia: ](https://de.wikipedia.org/wiki/Digital_Native) Als *Digital Natives* werden Personen bezeichnet, die zu einer Zeit aufgewachsen sind, 
+in der bereits digitale Technologien wie Computer, das Internet, Mobiltelefone und MP3s verfügbar waren. Als Antonym existiert der Begriff des *Digital Immigrant* 
+(dt.: „digitaler Einwanderer“ oder „digitaler Immigrant“) für jemanden, der diese Dinge erst im Erwachsenenalter kennengelernt hat. 
 
-Man kann feststellen, dass in vielen Fällen die Entwicklung der „Occupy“- Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien durch Twitter und Facebook nicht nur mitgeteilt und verfolgt, sondern eben auch organisiert wurden. Durch ihre Verbreitung wurden sie zur Inspiration für Initiativen in anderen Ländern. Allerdings hat sich gezeigt, dass die klassischen Medien die digitalen Netzwerke beobachteten und eine Gegenstrategie entwickelten, nämlich die des gezielten Desinteresses. 
+Man kann feststellen, dass in vielen Fällen die Entwicklung der „Occupy“- Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien durch Twitter 
+und Facebook nicht nur mitgeteilt und verfolgt, sondern eben auch organisiert wurden. Durch ihre Verbreitung wurden sie zur Inspiration für Initiativen in anderen Ländern. 
+Allerdings hat sich gezeigt, dass die klassischen Medien die digitalen Netzwerke beobachteten und eine Gegenstrategie entwickelten, nämlich die des gezielten Desinteresses. 
 
 Das diese Medien zunehmend durch Politische Mächte kontrolliert und gesteuert werden ist hinreichend bekannt. 
 
-Obwohl die Menschen ihre Rede- und Informationsfreiheit auf alternativen Plattformen ausüben, haben die klassischen Medien weiter ihre übliche Taktik verfolgt: durch gezielte Missachtung und geringe Berichterstattung die Kommunikation zu drosseln, also bewusst *nicht* zu kommunizieren, mit gemischten Ergebnissen. Auf Twitter hat das Motto “The Revolution will not be televised” dadurch eine ganz neue Bedeutung bekommen.
+Obwohl die Menschen ihre Rede- und Informationsfreiheit auf alternativen Plattformen ausüben, haben die klassischen Medien weiter ihre übliche Taktik verfolgt: durch gezielte 
+Missachtung und geringe Berichterstattung die Kommunikation zu drosseln, also bewusst *nicht* zu kommunizieren, mit gemischten Ergebnissen. Auf Twitter hat das Motto 
+“The Revolution will not be televised” dadurch eine ganz neue Bedeutung bekommen.
 
 
 ## Meme
 
-Welche Rolle spielen nun Künstler und die Kunst als Kommunikationsmedium? Wenn man die Schilder der „Occupy“-Bewegung und anderer Protestbewegungen als Beispiel nimmt, stellt man fest, dass sich Statusmeldung auf Facebook und lustige Protestschilder auf Demonstrationen sehr ähnlich sind. In beiden Fällen ist es eine spontane Position, die eine weitere Ebene erreicht hat. Diese Spontaneität (man denkt natürlich auch an die Spontis und ihre Protestgraffiti in den 70er Jahren in Deutschland) wird durch die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebenen: die der Strasse mit dem Computer „zuhause“; sie werden zu einer Realität. Das Internet ist, und kann nur die Verlängerung der physischen Realität sein, da wir selbst die Inhalte dieses Kanals erstellen und einspeisen.
+Welche Rolle spielen nun Künstler und die Kunst als Kommunikationsmedium? Wenn man die Schilder der „Occupy“-Bewegung und anderer Protestbewegungen als Beispiel nimmt, 
+stellt man fest, dass sich Statusmeldung auf Facebook und lustige Protestschilder auf Demonstrationen sehr ähnlich sind. In beiden Fällen ist es eine spontane Position, 
+die eine weitere Ebene erreicht hat. Diese Spontaneität (man denkt natürlich auch an die Spontis und ihre Protestgraffiti in den 70er Jahren in Deutschland) wird durch 
+die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebenen: die der Strasse mit dem Computer „zuhause“; sie werden zu einer Realität. 
+Das Internet ist, und kann nur die Verlängerung der physischen Realität sein, da wir selbst die Inhalte dieses Kanals erstellen und einspeisen.
 
-Einige dieser Inhalte sind als Internet-Phänomen zu Memes geworden. Als Meme wird ein Konzept in Form eines Links oder einer Bild-, Ton- und Videodatei bezeichnet, die sich schnell über das Internet verbreitet.[^footnote-mem]
+Einige dieser Inhalte sind als Internet-Phänomen zu Memes geworden. Als Meme wird ein Konzept in Form eines Links oder einer Bild-, Ton- und Videodatei bezeichnet, 
+die sich schnell über das Internet verbreitet.[^footnote-mem]
 
 [^footnote-mem]: Ein Mem ist eine Gedankeneinheit, die sich durch Kommunikation ihrer Träger vervielfältigt. 
-    Mit dem kulturellen Mem-Konzept als Pendant zum biologischen Gen veranschaulichte 1976 der Evolutionsbiologe Richard Dawkins das Prinzip der natürlichen Selektion, deren Grundeinheit Replikatoren von Informationen sind. 
+    Mit dem kulturellen Mem-Konzept als Pendant zum biologischen Gen veranschaulichte 1976 der Evolutionsbiologe Richard Dawkins das 
+Prinzip der natürlichen Selektion, deren Grundeinheit Replikatoren von Informationen sind. 
     Den Begriff erklärte er als selbst gewähltes Kunstwort, das sich auf den griechischen Terminus μίμημα, Mimeme („etwas Nachgemachtes“ beruft. 
-    Als Memetik wird das daraus abgeleitete Prinzip der Informationsweitergabe bezeichnet. Das Mem findet seinen Niederschlag in der „Memvorlage“ (im Gehirn oder einem anderen Speichermedium) und der „Memausführung“ (zum Beispiel Kommunikation).
+    Als Memetik wird das daraus abgeleitete Prinzip der Informationsweitergabe bezeichnet. Das Mem findet seinen Niederschlag in der „Memvorlage“ 
+(im Gehirn oder einem anderen Speichermedium) und der „Memausführung“ (zum Beispiel Kommunikation).
 
     (Quellen: [Wikipedia: Mem](http://de.wikipedia.org/wiki/Mem), [Wikipedia: Internet-Phänomen](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen))
 
 
 ### ACAB
 
-Das Verhalten des Polizisten John Pike während eines Protests an der UC Davis in Kalifornien wurde zwar ursprünglich von Journalisten ausreichend bebildert, die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension nachdem Remixe aus dem Netz ihn einmal quer durch die Kunstgeschichte *mashten*. 
+Das Verhalten des Polizisten John Pike während eines Protests an der UC Davis in Kalifornien wurde zwar ursprünglich von Journalisten ausreichend bebildert, 
+die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension nachdem Remixe aus dem Netz ihn einmal quer durch die Kunstgeschichte *mashten*. 
 
 ![Police lieutenant John Pike pepper sprays students at UC Davis. Photograph: Brian Nguyen/Reuters [Quelle: Guardian](http://www.guardian.co.uk/commentisfree/2011/nov/23/pepper-spraying-cop-photoshop-justice)](../pix/John_(The_Pepperspray_cop)_Pike_Meme/police-officer-pepper-spr-007.jpeg)
 
@@ -108,49 +145,77 @@ Den Konflikt zwischen den Machtkampf und menschlichen Bedürfnissen hat wiederum
 
 ![ Marcel Walldorf: „Pinkelnde Petra“, 2010  [Quelle: Rebelart](http://www.rebelart.net/diary/marcel-walldorf-pinkelnde-petra-2010/007644/)](../pix/John_(The_Pepperspray_cop)_Pike_Meme/pinkelnde-petra.jpeg) 
 
-Wie werden solche Einzelbilder zum Meme? Sie werden zuerst im Netz und digital produziert und zirkuliert, ihr Ursprung aber kommt meist aus dem nichtvirtuellen Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert, selektiert, reproduziert und re-reprojiziert, und reisen so durch die Kanäle, Interessensgruppen und *Circles*. So entstehen Meme, die nach Walter Benjamin „in unserem kollektiven Bildwissen“ durch Reproduzierbarkeit und wiederholte Erscheinung zu Ikonen werden. 
+Wie werden solche Einzelbilder zum Meme? Sie werden zuerst im Netz und digital produziert und zirkuliert, ihr Ursprung aber kommt meist aus dem nichtvirtuellen 
+Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert, selektiert, reproduziert und re-reprojiziert, und reisen so durch die Kanäle, 
+Interessensgruppen und *Circles*. So entstehen Meme, die nach Walter Benjamin „in unserem kollektiven Bildwissen“ durch Reproduzierbarkeit und wiederholte Erscheinung zu Ikonen werden. 
 
 
 ## Kunst ⊕ Freiheit
 
-Nach meiner Beobachtung wird die Sprache der Kunst in allen Bereichen immer mehr als Werkzeug zum „Freien Agieren“ übernommen. Das heißt auch, dass durch Verbreitung von künstlerischen Strategien und die Nutzung ihrer Codes Politik gemacht wird. Eine Aussage oder Aktion hat mehr Chance auf Duldung, wenn sie der Form nach Kunst ist, auch (und gerade) wenn durch sie Widerstand signalisiert wird. „Ist das Kunst, oder kann das weg“ ist zu einer gängigen Haltung geworden: Wenn es Kunst ist, und gar genehmigt wurde, dann muss es gar nicht weg, das ist eine Tatsache. 
+Nach meiner Beobachtung wird die Sprache der Kunst in allen Bereichen immer mehr als Werkzeug zum „Freien Agieren“ übernommen. Das heißt auch, dass durch 
+Verbreitung von künstlerischen Strategien und die Nutzung ihrer Codes Politik gemacht wird. Eine Aussage oder Aktion hat mehr Chance auf Duldung, wenn sie 
+der Form nach Kunst ist, auch (und gerade) wenn durch sie Widerstand signalisiert wird. „Ist das Kunst, oder kann das weg“ ist zu einer gängigen Haltung 
+geworden: Wenn es Kunst ist, und gar genehmigt wurde, dann muss es gar nicht weg, das ist eine Tatsache. 
 
-Außerdem ist die Kunst seit Mitte des 20. und weiter im 21. Jahrhundert immer stärker in die soziale Arbeit eingedrungen und hat sich dort etabliert. Der individuelle Kampf wird übernommen, um Änderungen von sozialen Verhältnissen und die eigenen Überzeugungen von alternativem Verhalten zu manifestieren, sowohl in der Kunst als auch im Alltag.  
+Außerdem ist die Kunst seit Mitte des 20. und weiter im 21. Jahrhundert immer stärker in die soziale Arbeit eingedrungen und hat sich dort etabliert. 
+Der individuelle Kampf wird übernommen, um Änderungen von sozialen Verhältnissen und die eigenen Überzeugungen von alternativem Verhalten zu manifestieren, 
+sowohl in der Kunst als auch im Alltag.  
 
-Künstlerische Strategien wie Flashmobbing[^footnote-flashmob] werden auf einen Punkt gebracht, an dem man eingreift, um das Utopische in die reale Welt zu setzen. Das persönliche Erlebnis dieser (und ähnlicher) Ereignisse muss intensiv gewesen sein, jedoch wird ihre Einmaligkeit durch die vielfältige Verbreitung im Internet via Youtube wieder aufgehoben und führt so wieder zu verstärkter Aufmerksamkeit.  
+Künstlerische Strategien wie Flashmobbing[^footnote-flashmob] werden auf einen Punkt gebracht, an dem man eingreift, um das Utopische in die reale Welt zu 
+setzen. Das persönliche Erlebnis dieser (und ähnlicher) Ereignisse muss intensiv gewesen sein, jedoch wird ihre Einmaligkeit durch die vielfältige Verbreitung 
+im Internet via Youtube wieder aufgehoben und führt so wieder zu verstärkter Aufmerksamkeit.  
 
-[^footnote-flashmob]: Bestes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen sich in alltäglichen Positionen für fünf Minuten innerhalb der verkehrsreiche Station eingefroren stehen geblieben sind, um auf die Beschleunigung der Lebens. <https://youtu.be/jwMj3PJDxuo>
+[^footnote-flashmob]: Bestes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen sich in alltäglichen Positionen 
+für fünf Minuten innerhalb der verkehrsreiche Station eingefroren stehen geblieben sind, um auf die Beschleunigung der Lebens. <https://youtu.be/jwMj3PJDxuo>
 
 
 ## Transformers
 
 ### Autobots
 
-Kommunikation manifestiert sich als kollektives und kollegiales Feld. Welche Mitteilungsform erhält das Haptische und welche Stellung nehmen Daten ein? Hat die Kunst eine andere Berechtigung, wird sie anders wahrgenommen, bietet sie eine Absolution? Wie entwickelt sich die Individualität in den immer vielfältiger werdenden Kommunikationswegen, wo bricht sie auf und wo verschließt sie sich? Inwieweit wirkt sich die Entwicklung auf unsere Wahrnehmung aus? Diese Art „Osmose“, hinterlässt bei vielen kunstorientierten Theoretikern Spuren, und stößt auf das Interesse der Künstler auf der Meta-Ebene an. 
+Kommunikation manifestiert sich als kollektives und kollegiales Feld. Welche Mitteilungsform erhält das Haptische und welche Stellung nehmen Daten ein? 
+Hat die Kunst eine andere Berechtigung, wird sie anders wahrgenommen, bietet sie eine Absolution? Wie entwickelt sich die Individualität in den immer 
+vielfältiger werdenden Kommunikationswegen, wo bricht sie auf und wo verschließt sie sich? Inwieweit wirkt sich die Entwicklung auf unsere Wahrnehmung 
+aus? Diese Art „Osmose“, hinterlässt bei vielen kunstorientierten Theoretikern Spuren, und stößt auf das Interesse der Künstler auf der Meta-Ebene an. 
 
 
 ### Decepticons
 
-Ikonographische Symbole mit einer gewandelten Aussage, nämlich einer widersprüchlicheren oder kritischeren als ursprünglich intendiert, oder eine Interpretation derer, die mit den Mitteln des Mimikry und der Aneignung, visuell oder semantisch die Aussage ändert, sind in der Street Art in den letzten 20 Jahren immer üblicher geworden. 
+Ikonographische Symbole mit einer gewandelten Aussage, nämlich einer widersprüchlicheren oder kritischeren als ursprünglich intendiert, 
+oder eine Interpretation derer, die mit den Mitteln des Mimikry und der Aneignung, visuell oder semantisch die Aussage ändert, sind in der 
+Street Art in den letzten 20 Jahren immer üblicher geworden. 
 
-Durch eine kleine Veränderung eines Zeichens oder den Austausch von Buchstaben, geben Stencils oft eine mutierte Variante von Firmenlogos, wie z.B. Nike oder Adidas, wieder.  
+Durch eine kleine Veränderung eines Zeichens oder den Austausch von Buchstaben, geben Stencils oft eine mutierte Variante von Firmenlogos, 
+wie z.B. Nike oder Adidas, wieder.  
 
-Ein Logo mutiert Buchstaben zu einem Bild. Mit bestehendem Design und Layout, wird nun eine kleine subversive Kommunikation angeboten. Schon ein einziger Buchstabentausch kann manchmal die Bedeutung ändern, doch der Erkennungsgrad bleibt durch seinen kommunikativen Vermittlungsweg, d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geringer Qualität noch sofort erkannt wird. 
+Ein Logo mutiert Buchstaben zu einem Bild. Mit bestehendem Design und Layout, wird nun eine kleine subversive Kommunikation angeboten. 
+Schon ein einziger Buchstabentausch kann manchmal die Bedeutung ändern, doch der Erkennungsgrad bleibt durch seinen kommunikativen Vermittlungsweg, 
+d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geringer Qualität noch sofort erkannt wird. 
 
 ![„Viva La Resolution“ (Quelle: [Internet](https://encrypted.google.com/search?q=viva+la+resolution&hl=en&prmd=imvns&tbm=isch&tbo=u&source=univ&sa=X&ei=t7N3T_ndIZHMsga9o7SvBA&ved=0CDMQsAQ&biw=1345&bih=632))](../pix/9._Logo_games/Viva-la-Resolution2.jpg)
 
-Durch die wiederholte Erscheinung dieser mutierten Bilder, werden Meinungen im öffentlichen Raum kommuniziert und bieten in dem Sinne das symbolisches Bild, das auch für 1000 Worte stehen kann. Dies ist eine sehr bekannte Strategie der Street- und Graffiti Art, aber auch der T-Shirt-Kultur. Es ist erstaunlich, was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, oft mit kulturell-, sozial, aber auch politischer Aussage in die Öffentlichkeit getragen wird. 
+Durch die wiederholte Erscheinung dieser mutierten Bilder, werden Meinungen im öffentlichen Raum kommuniziert und bieten in dem Sinne das symbolisches Bild, 
+das auch für 1000 Worte stehen kann. Dies ist eine sehr bekannte Strategie der Street- und Graffiti Art, aber auch der T-Shirt-Kultur. Es ist erstaunlich, 
+was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, oft mit kulturell-, sozial, aber auch politischer Aussage in die Öffentlichkeit getragen wird. 
 
 ![Giancio: „Logo T-Shirt“ (Quelle: [redbubble.net](http://www.redbubble.com/people/giancio/works/5951382-logo-fake-art?p=t-shirt))](../pix/9._Logo_games/work.5951382.2.fig,orange,mens,ffffff.jpeg)
 
-Wie lange tragen wir schon Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit? Als ich 12 Jahre alt war, hieß es entweder Adidas, Levis und Lee als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation der Mode oder Anti-Mode (Hipsterie), ist als kulturelles Merkmal nicht weg zu denken. Individualität und Wohlhaben werden durch Gestaltung und Design transportiert.
+Wie lange tragen wir schon Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit? Als ich 12 Jahre alt war, hieß es entweder Adidas, 
+Levis und Lee als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation 
+der Mode oder Anti-Mode (Hipsterie), ist als kulturelles Merkmal nicht weg zu denken. Individualität und Wohlhaben werden durch Gestaltung und Design transportiert.
 
 ### TL;DR 
 
-Dazu kommt, dass die schriftliche Kommunikation immer kürzer und konzentrierter, dazu direkter wird. Von inoffiziellen E-Mail-Antworten, über verkürzte und von Unicode-Symbolen durchsetzten Tweets, bis hin zu fast verschlüsselten, „SMS-kodierten“, Botschaften. Wird Sprache immer reduzierter und durch Bilder ersetzt? Flusser meint dazu: 
-„Nicht also vom „Aufstieg und Fall“ des Alphabet soll hier die Rede sein, sondern von den Rollenschwankungen der Bilder, Texte und Technobilder in der kodifizierten Welt um uns herum und in unserem Bewußtsein.“ [-@Flusser:Kommuni] 
+Dazu kommt, dass die schriftliche Kommunikation immer kürzer und konzentrierter, dazu direkter wird. Von inoffiziellen E-Mail-Antworten, 
+über verkürzte und von Unicode-Symbolen durchsetzten Tweets, bis hin zu fast verschlüsselten, „SMS-kodierten“, Botschaften. Wird Sprache 
+immer reduzierter und durch Bilder ersetzt? Flusser meint dazu: 
+„Nicht also vom „Aufstieg und Fall“ des Alphabet soll hier die Rede sein, sondern von den Rollenschwankungen der Bilder, Texte und Technobilder 
+in der kodifizierten Welt um uns herum und in unserem Bewußtsein.“ [-@Flusser:Kommuni] 
 
-Wir bekommen Informationen immer öfter nur als Zusammenfassung der gekürzten Form, verteilt durch verkürzte Links. Das Überfliegen kurzer Informationen in Ticker-Form verändert ihre Wahrnehmung. Der Zugang zu vielen Themen gleichzeitig erzeugt womöglich nur oberflächliches Wissen. Das Suchen nach Erklärungen wird dem Nutzer überlassen, seine Informationen sind selektiert. „Travelling without moving“ wird, vor allem durch drahtlose Technik, endlich Realität. Trotzdem bleibt die Möglichkeit, diese Informationen bei sich zu behalten und zu markieren, zu kopieren und zu speichern.
+Wir bekommen Informationen immer öfter nur als Zusammenfassung der gekürzten Form, verteilt durch verkürzte Links. Das Überfliegen kurzer 
+Informationen in Ticker-Form verändert ihre Wahrnehmung. Der Zugang zu vielen Themen gleichzeitig erzeugt womöglich nur oberflächliches Wissen. 
+Das Suchen nach Erklärungen wird dem Nutzer überlassen, seine Informationen sind selektiert. „Travelling without moving“ wird, vor allem durch 
+drahtlose Technik, endlich Realität. Trotzdem bleibt die Möglichkeit, diese Informationen bei sich zu behalten und zu markieren, zu kopieren und zu speichern.
 
 
 ## Kunst als Prophezeihung
@@ -158,43 +223,68 @@ Wir bekommen Informationen immer öfter nur als Zusammenfassung der gekürzten F
 ![Viktor Hertz: „Honest Logos“ (Quelle: [behance.net](http://www.behance.net/gallery/Honest-logos/1222137))](../pix/1._Honest_Logos/_11_Honest_logos-5.jpeg)
 
 Flusser führt weiter aus: 
-„Man kann sagen, dass viele Bilder nicht versuchen, „konkrete“ Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen wie die Welt ist, sondern, wie sie sein kann oder sein soll.“ [-@Flusser:Kommuni, pp. 111] 
-Kunst macht genau das: Oft voraus und nicht immer mit vollem Bewusstsein, basiert die Kraft der Künstler als Vorhersehende auf ihrem Beobachtungsvermögen, das immer mehrere Parameter beinhaltet, z.B. auch solche von Anthropologen. 
+„Man kann sagen, dass viele Bilder nicht versuchen, „konkrete“ Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen 
+wie die Welt ist, sondern, wie sie sein kann oder sein soll.“ [-@Flusser:Kommuni, pp. 111] 
+Kunst macht genau das: Oft voraus und nicht immer mit vollem Bewusstsein, basiert die Kraft der Künstler als Vorhersehende auf ihrem Beobachtungsvermögen, 
+das immer mehrere Parameter beinhaltet, z.B. auch solche von Anthropologen. 
 Eine Mischung aus Neugierde, der Suche nach der Wahrheit und Experimentierfreude erzeugt mutige Feststellungen in visueller Form.
 
 ![Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010 (Quelle: Bidoun Magazin Arts and Culture From the Middle east, Bazaar II, 2010)](../pix/10._true_art/Art_and_Freedom.jpeg) 
 
-Flussers Äußerungen der Kunst gegenüber in diesem Text sollte man aber aus der heutigen Sicht eher kritisch betrachten, vor allem wenn man das epistemologische Narrativ wahrnimmt: „Man kann nicht zeigen, wie sich die Dinge verhalten sollen, ohne gezeigt zu haben, wie sie sich tatsächlich verhalten, also ein Dèontologisches Motiv“ [-@Flusser:Kommuni]. 
+Flussers Äußerungen der Kunst gegenüber in diesem Text sollte man aber aus der heutigen Sicht eher kritisch betrachten, vor allem wenn man das 
+epistemologische Narrativ wahrnimmt: „Man kann nicht zeigen, wie sich die Dinge verhalten sollen, ohne gezeigt zu haben, wie sie sich tatsächlich 
+verhalten, also ein Dèontologisches Motiv“ [-@Flusser:Kommuni]. 
 
-Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Technik und ihre Ersetzung durch Techne an. Für ihn werden Bilder zu Kunstwerken, sobald sie aufhören, der dominante Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können. Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, gerade mit der Entwicklung der „Vergleichbaren Ästhetik“ als Kunstsparte.[^footnote-relationalaest]
+Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Er sieht die Erfindung des Buchdrucks als Verursacher der 
+Trennung zwischen Kunst und Technik und ihre Ersetzung durch Techne an. Für ihn werden Bilder zu Kunstwerken, sobald sie aufhören, der dominante 
+Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können. Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, 
+gerade mit der Entwicklung der „Vergleichbaren Ästhetik“ als Kunstsparte.[^footnote-relationalaest]
 
-[^footnote-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch „Relational Aesthetics“ Kunst als eine Aktivität, die aus der Produktion von Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), Aktionen und Objekten. [@Bourriaud:Relational]
+[^footnote-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch „Relational Aesthetics“ Kunst als eine Aktivität, die aus der Produktion von 
+Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), Aktionen und Objekten. [@Bourriaud:Relational]
 
-Es sind mittlerweile viele Bilder und Kunstwerke, die nie unter den Begriff „schön“ fallen können, entstanden. Jake und Dinos Chapmans Arbeit „Hell“ sei nur ein Beispiel dafür. Bleiben wir aber bei Flusser, der meint: 
-„Es ist schwer zu sagen, was Schönheit, Originalität, Interessantheit usw. meint, aber was immer es meint, es hat mit Information zu tun. Und Information will kommuniziert werden.“ [-@Flusser:Kommuni]
+Es sind mittlerweile viele Bilder und Kunstwerke, die nie unter den Begriff „schön“ fallen können, entstanden. Jake und Dinos Chapmans Arbeit 
+„Hell“ sei nur ein Beispiel dafür. Bleiben wir aber bei Flusser, der meint: 
+„Es ist schwer zu sagen, was Schönheit, Originalität, Interessantheit usw. meint, aber was immer es meint, es hat mit Information zu tun. 
+Und Information will kommuniziert werden.“ [-@Flusser:Kommuni]
 
 ![Jake and Dinos Chapman: „Hell“, 2000 (Quelle: [East Cost Post](http://eastcoastpost.co/2010/10/12/to-scale/))](../pix/10._true_art/fucking-hell.jpg)
 
 
 ## Von der Migration ins Nomadentum
 
-Künstler bedienen sich an allem was die Welt zu bieten hat, alles ist eine Quelle, Philosophie und Kunsttheorie machen keine Ausnahme. Laut Geert Lovink, Gründungsdirektor des medientheoretischen [Institute of Network Cultures (INC)](http://networkcultures.org) mit Sitz an der Hogeschool van Amsterdam, lassen sich Künstler, Medien- und Design-Forscher längst von Theoretikern wie Deleuze und Guattari, Derrida, Baudrillard und Virilio beeinflussen. Medientheoretiker wie Kittler, Zielinski oder Bolz belegten oder belegen höhere Funktionen in deutschen Kunsthochschulen, und das zur einer Zeit in der, wie Lovink schreibt „die westliche Gesellschaft eine Rauschphase intensiver Spekulation durchlief – mit Wertpapieren und Devisen, Immobilien, Malerei und Theorie.“[@Lovink:Dark, pp. 39]
+Künstler bedienen sich an allem was die Welt zu bieten hat, alles ist eine Quelle, Philosophie und Kunsttheorie machen keine Ausnahme. 
+Laut Geert Lovink, Gründungsdirektor des medientheoretischen [Institute of Network Cultures (INC)](http://networkcultures.org) mit Sitz an der 
+Hogeschool van Amsterdam, lassen sich Künstler, Medien- und Design-Forscher längst von Theoretikern wie Deleuze und Guattari, Derrida, 
+Baudrillard und Virilio beeinflussen. Medientheoretiker wie Kittler, Zielinski oder Bolz belegten oder belegen höhere Funktionen 
+in deutschen Kunsthochschulen, und das zur einer Zeit in der, wie Lovink schreibt „die westliche Gesellschaft eine Rauschphase 
+intensiver Spekulation durchlief – mit Wertpapieren und Devisen, Immobilien, Malerei und Theorie.“[@Lovink:Dark, pp. 39]
 
-Künstler sind zunehmend ortsunabhängig, die Migrationsraten steigen, und das Leben als Immigrant beeinflusst ihre Weltanschauung. Übernimmt der Digitalisierungsprozess in unserer Gesellschaft die Oberhand? Elektronische Einsamkeit bringt ein Kybernetisches Ödland hervor, das aber auf den vorherigen Paradigmen beruht. Dazu gehört eine Aristokratie, die einen tiefen Hass auf die Online-Massen hegt, doch in der Wirklichkeit ist zunehmend von den „Netz-Kinder“ zu hören (wobei diese sich im Gegensatz zu vorherigen „Generationen“ nicht über eine Altersgruppe definieren lässt, wie der polnische Dichter Piotr Czerski in seinem Text ["Wir, die Netz-Kinder"](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt). 
+Künstler sind zunehmend ortsunabhängig, die Migrationsraten steigen, und das Leben als Immigrant beeinflusst ihre Weltanschauung. 
+Übernimmt der Digitalisierungsprozess in unserer Gesellschaft die Oberhand? Elektronische Einsamkeit bringt ein Kybernetisches 
+Ödland hervor, das aber auf den vorherigen Paradigmen beruht. Dazu gehört eine Aristokratie, die einen tiefen Hass auf die Online-Massen hegt, 
+doch in der Wirklichkeit ist zunehmend von den „Netz-Kinder“ zu hören (wobei diese sich im Gegensatz zu vorherigen „Generationen“ 
+nicht über eine Altersgruppe definieren lässt, wie der polnische Dichter Piotr Czerski in seinem Text ["Wir, die Netz-Kinder"](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt). 
 
-Die sog. “Millenials” sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein-und-die-selbe Realität. Muttersprache und Fremdsprache werden durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung ersetzt.
+Die sog. “Millenials” sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein-und-die-selbe Realität. 
+Muttersprache und Fremdsprache werden durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung ersetzt.
 
-> „Der virtuelle Intellektuelle ist vor allem ausgestattet mit technischen Kompetenzen und kann sich ungehindert innerhalb von Online-Datenbanken, Listenkulturen, Suchmachinen und Hypertext-Umgebungen bewegen. Tut er auch, heutzutage.“ 
+> „Der virtuelle Intellektuelle ist vor allem ausgestattet mit technischen Kompetenzen und kann sich ungehindert innerhalb von Online-Datenbanken, 
+Listenkulturen, Suchmachinen und Hypertext-Umgebungen bewegen. Tut er auch, heutzutage.“ 
 > [@Lovink:Dark, pp. 39]
 
-Sein Charakter ist vor allem als technisch zu bezeichnen, aber im Gegensatz zu seinen Vorgängern, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern hat sein Milieu im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
+Sein Charakter ist vor allem als technisch zu bezeichnen, aber im Gegensatz zu seinen Vorgängern, ist er politisch nicht mehr einer 
+Sphäre im klassischen Sinn zuzuordnen, sondern hat sein Milieu im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer 
+Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
 
 > „Ziel der Demokratisierung der Medien ist die Abschaffung aller Formen medialisierte Repräsentation und künstlicher Verknappung von Kanälen. 
 > Die technischen Möglichkeiten, Menschen für sich sprechen zu lassen, (...) durch Kommunikationswerkzeuge“ 
 > [@Lovink:Dark, pp. 39]
 
-So gesehen treiben Künstler stets eine Art säkulare Exegesis, oder haben hermeneutische Züge, ob mit oder ohne Bewusstsein. So etwas nennen sie dann künstlerische Recherche: In erste Linie für sich selbst, aber auch für ihr Publikum. 
-Gelingt dies, so sind sie froh, ihre Idee korrekt kommuniziert zu haben. Stets bieten sie eine kritische Interpretation von Ereignissen, aus der Geschichte, dem Alltag, aber sie lassen dabei sich auch von Theoretikern beeinflussen.
+So gesehen treiben Künstler stets eine Art säkulare Exegesis, oder haben hermeneutische Züge, ob mit oder ohne Bewusstsein. 
+So etwas nennen sie dann künstlerische Recherche: In erste Linie für sich selbst, aber auch für ihr Publikum. 
+Gelingt dies, so sind sie froh, ihre Idee korrekt kommuniziert zu haben. Stets bieten sie eine kritische Interpretation von 
+Ereignissen, aus der Geschichte, dem Alltag, aber sie lassen dabei sich auch von Theoretikern beeinflussen.
 
 
 ### Attention Whores
@@ -225,7 +315,7 @@ Jeder Versuch es zu kontrollieren wird scheitern.
 
 Konsumenten werden zu Distributoren ihrer eigenen Produktionen. 
 
-
+* Entstanden im Rahmen und Inspiration von Graduierten Seminar Kunst & Kommunikation bei Dr. Frank Hartmann 2010/11
 
 ---
 
