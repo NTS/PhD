@@ -63,22 +63,25 @@ sich kaum leisten kann. Künstler können ein ästhetisches, aber durchaus herme
 nach luzidem Schreiben streben, das deren Gedanken ein Bild verleiht. Recht und Anerkennung erhalten beide. Die Frage der Kreativität bleibt offen und 
 sie ist eher für Künstler relevant, weil sie unkontrollierbar ist (kommt wenn es ihm, nicht wenn es uns bleibt), und dadurch „nonscientific“ in ihrer Natur.
 
-Auf der Art & Research Online Magazin beschäftigt sich Jonathan Lahey-Dronsfield In seinem Papier  „Theorie als Kunstpraxis: Notizen für eine Disziplin“, 
+Auf der Art & Research Online Magazin beschäftigt sich Jonathan Lahey-Dronsfield In seinem Papier *Theorie als Kunstpraxis: Notizen für eine Disziplin*, 
 mit diesem Verbindungsglied zwischen Wort und Bild: „(…) Sie sah es nicht in einem anderen Sinn, als sie darauf bestand, dass nur Wörter einer bestimmten 
-Art, eine gewisse philosophische Formulierung von Worten, in der Lage wäre, als Kunst zu zählen. Worte, die sich als analytische Sätze vorkamen. Aber man 
+Art, eine gewisse philosophische Formulierung von Worten, in der Lage wäre, als Kunst zu zählen"[@Author:book, pp. ??]". Worte, die sich als analytische Sätze vorkamen. Aber man 
 könnte argumentieren, dass es das war, was Art & Language, ohne zu sehen sah, der Weg für Thomas Hirschhorn und Benoît Maire zum Beispiel, für die Art von 
 Kunstwerk die sie tun führte, so funktioniert die Theorie nur um weiteres Material zu präsentieren. In dem parallel
-erschienenem Buch “The artist as public intellectual” hat Hirschhorn seinen Beitrag „About art in public space – the space of public life“, (siehe Abb. im Anhang), 
+erschienenem Buch *The artist as public intellectual* hat Hirschhorn seinen Beitrag *About art in public space – the space of public life*, [@Wulffen:Public, pp. ??] 
+
+![Picture](The artist as a public iIntellectual cover.png) 
+
 eine Art visualisierten Text über seinen künstlerischen Werdegang publiziert, der seine Recherche zur Arbeit selbst als gestaltenden Raum wiedergibt, dabei 
 aber die Entwicklung seiner Projekte visuell beschreibt, und ein gutes Beispiel ist, für das was Dronsfield mit Theorie als Praxis meint: es geht überwiegend 
 darum, was die Kunst über sich selbst sagen will. Dies fasste Hirschhorn auch in eine Mindmap, (siehe Abb. im Anhang), eine seit Ende der neunziger Jahre sehr 
 beliebten Ausdrucksform, welche aus einer anderes Disziplin kommt.
 
-Künstler suchen ständig nach neuen Strategien, weil diese auf ihre Individualität und Originalität verweisen, 
-Künstler sind geltungsbedürftig veranlagt, wollen Aufmerksamkeit. Häufig hört man unter ihnen die Sätze „das gibt es schon, der Künstler XY hat es schon gemacht.“
+KünstlerInnen suchen ständig nach neuen Strategien, weil diese auf ihre Individualität und Originalität verweisen, KünstlerInnen sind geltungsbedürftig veranlagt, 
+wollen Aufmerksamkeit. Häufig hört man unter ihnen die Sätze „das gibt es schon, der Künstler XY hat es schon gemacht.“
 Recherche ist nötig, um etwas Neues hervorzuheben. Eine iterative Entwicklung der Theorie in der Kunst lässt sich an folgendem Beispiel erklären: Nachahmung, Fakes 
 (wie in Fälschungen) und Plagiate sowie Hommagen, führen zur Aneignungskunst und erzeugen dadurch auch Selbstreferenzen, also die Kunst kreist um sich und um
- ihr eigenes Selbst. Auch wenn alle Medien bedient worden sind, kann die Geschichte nie zu Ende erzählt werden. Als Beobachter und Kritiker, als Erzähler, 
+ihr eigenes Selbst. Auch wenn alle Medien bedient worden sind, kann die Geschichte nie zu Ende erzählt werden. Als Beobachter und Kritiker, als Erzähler, 
 schauen sich die Künstler um, um neue Ausdrucksmöglichkeiten zu entwickeln, eine Bereicherung des Pinselsortiments in der Werkzeugkiste, könnte man fast sagen. 
 Künstler machen außer Objekten und Gemälden auch Musik, Filme, Videos, Fotos, Interventionen, in verschiedenen Formen, schleichen sich als Geschäftsleute ein, machen
 Werbung, halten Vorträge, werden Angestellte, und von hier ist der Weg zum Sozialarbeiter und Weltverbesserer kurz. Nur, es ist alles „Fake“, nicht echt.
@@ -91,14 +94,15 @@ http://artandeducation.net/ oder wie es auf der Website des Potsdamer Institut f
 Entstehungsprozess eines Kunstwerkes auseinander und entwickelt auf der Schnittstelle von Kunst und Wissenschaft neue Methoden zur Erforschung und 
 Abbildung des Verhältnisses von Individuum und Gesellschaft”.
 
-Es stellt sich weniger die Frage, ab wann Künstler zu Wissenschaftlern werden, sondern
-wo der Punkt ist, an der es zu Kunst wird, und von Anderen als solche anerkannt wird. Aber wie erkennt man Kunst, die sich als Wissenschaft zeigt? Es bringt 
-ein Lächeln, weil es doch sinnlos ist, es macht aufmerksam in einer überraschenden, eher angenehmen als
+Es stellt sich weniger die Frage, ab wann Künstler zu Wissenschaftlern werden, sondern wo der Punkt ist, an der es zu Kunst wird, und von Anderen als solche anerkannt wird. 
+Aber wie erkennt man Kunst, die sich als Wissenschaft zeigt? Es bringt ein Lächeln, weil es doch sinnlos ist, es macht aufmerksam in einer überraschenden, eher angenehmen als
 anstrengenden Weise, mit einem Zwinkern. Es ist nicht echt, es ist „nur“ Kunst. Also harmlos, nicht wahr, fiktiv. Das kann auch ärgern: was ist mit 
 Verantwortung? Nachhaltigkeit? Künstler machen Projekte und bewegen sich weiter ins Neue. Aufmerksamkeit auf Problematiken im sozialen, politischen 
 Bereich und innerhalb der Kunstwelt zu erwecken ist ein positives Zeichen, aber wenn diese Projekte nicht über die Kunstwelt hinaus eine Wirkung zeigen, 
 was haben sie dann gebracht? Die nachgebauten Maschinen von Leonardo da Vinci sind momentan im Kunsthaus
 Gotha zusehen, weil Da Vinci vorwiegend als Künstler gilt, und nicht als Wissenschaftler.
+
+
 (Weiterlesen: interessanterweise publizierte der Erziehungswissenschaftler Dieter Lenzen in die Zeit (DIE ZEIT, 4.11.2010 Nr. 45) einen Artikel über das 
 Projektstudium und die eingerichtete Änderung im Forschungssystem. Sein Plädoyer war es, weg von Projektstudium und zurück in die zweckfreie Forschung.) 
 http://www.zeit.de/2010/45/C-Wissenschaftler?page=1
