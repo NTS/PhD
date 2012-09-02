@@ -132,13 +132,13 @@ ul li ul li {
 	font-size: 0.85em;
 }
 
-// dont show 3rd level headings in TOC
+/* dont show 3rd level headings in TOC */
 #TOC ul li ul li ul { 
 	display: none;
 	visibility: hidden;
 }
 
-// dont show emphasisez text in TOC
+/*  dont show emphasized text in TOC */
 #TOC nav * em {
 	display: none;
 	visibility: hidden;
