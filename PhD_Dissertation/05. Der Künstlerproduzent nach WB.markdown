@@ -22,15 +22,15 @@ einmischen sollte, sondern darin seine Kraft ausüben müsse, worin er kompetent
 man davon beigebracht bekommen, weitergeben oder lehren? Dies sind die Kernfragen, die mich interessieren und um die es in dieser Dissertation geht. 
 
 Im gesamten Text Benjamins könnte man durchaus das Wort *Autor* mit dem Wort *Künstler* austauschen. Die Aussage bliebe ähnlich, denn - 
-die Qualität darf nicht wegen der politischen Anwendung nachlassen. ??? Ich weiß nicht, was hier mit Anwendung gemeint ist ??? Der Autor als Produzent trägt die These: Künstler sind im politischen 
+die Qualität darf nicht wegen der politischen Anwendung nachlassen. ???  TODO:   Ich weiß nicht, was hier mit Anwendung gemeint ist ???    Der Autor als Produzent trägt die These: Künstler sind im politischen 
 nicht unbedingt klüger als andere Intellektuelle. Man muss sich in der eigenen konkreten Welt auskennen. Man muss darüber informiert sein, wo und wie man
 publiziert und wie man selbst publizieren oder auch ein kooperativen Mitglied werden kann. 
-??? folgender teil ist ziemlich unklar. ich würde auch den vergleich zu biowelt rausnehmen. ???
+???  TODO:   folgender teil ist ziemlich unklar. ich würde auch den vergleich zu biowelt rausnehmen. ???   
 wie in der Biowelt. (eine Art zurück zu einer Gilde? Dahin 
 läuft die Kreativität (oder Leistung) hin, zuru Kooperationen als Berater und Denkfabrikanten (Think Tanks), bis zur Stellen bei Konzernen 
 als "Haus (Hof?) Kunstler (Narr?)" und das alles unter dem Mantel einer Stelle mit monatlicher Ratenanzahlung. 
 
-Der Zustand des Künstlers heute ist dem des Autors und anderen kreativ orientierten Menschen ähnlich. In einem Gespräch mit Ivan Ivanji ??? Wer hat hier mit Ivan gesprochen und wer ist Ivan? Bräuchte ne Fussnote ??? erzählte er, 
+Der Zustand des Künstlers heute ist dem des Autors und anderen kreativ orientierten Menschen ähnlich. In einem Gespräch mit Ivan Ivanji ???    Wer hat hier mit Ivan gesprochen und wer ist Ivan? Bräuchte ne Fussnote ???  TODO:   erzählte er, 
 das der Nachteil heute wäre, selbst viel mehr Arbeit zu haben, aber dafür eventuell bis zu fünfzig Prozent der Einnahmen kassieren zu können, statt 
 bis Dato nur zehn.
 
@@ -44,13 +44,13 @@ Darüber hinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital
 wurde aus einer künstlerischen Beobachtung hergeleitet. 
 
 Das Internet hat die Arbeitsverhältnisse weiter verändert. Jeder ist heute in der Lage, seine Geschäfte von Zuhause zu erledigen.  
-Unbefristete Stellenangebote sind immer seltener zu finden. Man arbeitet entweder von einer befristeten Stelle zur nächsten oder von einem kurzfristigen Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast als Fertigkeit angesehen werden kann und die Künstler schon längst beherrschen. An dieser Stelle ist auch der Begriff "Digitale Boheme" zu erwähnen. ??? das sollte zumindest hier erklärt werden und nicht nur kurz erwähnt ???
+Unbefristete Stellenangebote sind immer seltener zu finden. Man arbeitet entweder von einer befristeten Stelle zur nächsten oder von einem kurzfristigen Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast als Fertigkeit angesehen werden kann und die Künstler schon längst beherrschen. An dieser Stelle ist auch der Begriff "Digitale Boheme" zu erwähnen. ???  TODO:   das sollte zumindest hier erklärt werden und nicht nur kurz erwähnt ???  TODO:  
 Reguläre Arbeitnehmer arbeiten nach vornehmlich geregelten Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. KünstlerInnen kennen keine 'Freizeit', selbst wenn sie im Urlaub sind, sind sie weiter schöpferisch und kreativ tätig. Tageszeiten, Wochenpläne, Wochenende und Feiertage sind Strukturen, 
 an die sich KünstlerInnen grundsätzlich anpassen müssen. Die Kreativität jedoch kennt Strukturen dieser Art nicht. Sie benötigt die Freiheit und die 'Todeslinie' (deadline) am Ende, damit überhaupt etwas festgelegt oder gar 'strukturiert' werden kann.
 
 Die Tatsache das der Arbeitsplatz längst nicht mehr die Entscheidung über den Wohnort bestimmt, gerade durch die 
 Globalisierung, haben vor allem KünstlerInnen bereits für sich festgestellt und sich dementsprechend angepasst. 
-??? ich würde den folgenden abschnitt rausnehmen. er ist sowieso noch unklar, so wie er da steht. und was ist WV? ???
+???  TODO:   ich würde den folgenden abschnitt rausnehmen. er ist sowieso noch unklar, so wie er da steht. und was ist WV? ???  
 Was passiert im Kunstfördersystem? Diese Anpassung findet nicht nur im Kunstsystem statt, es dehnt sich durch alle kreativen 
 Branchen, Autoren, Filmemacher und sickert sogar auch zu Managern bei WV ![Picture]Jeff_Koons_mit_80_Assistenten), Olaruf Eliason
 
@@ -72,7 +72,8 @@ a. Hinnehmen - im System reagieren
 b. Ändern - im System oder außerhalb?
 c. beides!
 
-!bild Benedikt Brown Arbeit Arbeit los
+
+![bild Benedikt Brown Arbeit Arbeit los]()
 
 
 Wenn die Kunstwelt so ist wie sie ist, ergibt sich für mich Folgendes:
@@ -80,16 +81,14 @@ Wenn die Kunstwelt so ist wie sie ist, ergibt sich für mich Folgendes:
 Wenn ich als Künstlerin Erfahrungen und Kenntnisse sowie das Know-how überwiegend selbstständig gesammelt habe, zum Beispiel durch eine zusätzliche Ausbildung, einer Selbstuntersuchung oder sogar durch Experimentieren im Rahmen des Kiosks und in den Fachkursreihen zu Themen rund um die Kunstwelt, sind all diese Dingen als konsequente Reaktion auf meine Selbstanalyse und künstlerische Recherche entstanden. Wenn man so will, ist diese Recherche für die Studierenden entstanden, ihre eigenen Ergebnisse sollen ihnen dann zur weiteren Untersuchung dienen. 
 
 Es ist noch etwas früh festzustellen, wie die Wirkung auf den Werdegang der Studierenden sein wird. Einige Beispiele zeigen aber, das mehrere der Studierenden sich alternativ bewegen, entweder noch während des Studiums oder direkt nach dem Abschluss:
-Valenta; Albrecht; Patermann; Weinlich; Brown; Hannemann; ??? Hier fehlen die Erklärunge zu den einzelnen Leuten ???
+Valenta; Albrecht; Patermann; Weinlich; Brown; Hannemann; ???  TODO:   Hier fehlen die Erklärunge zu den einzelnen Leuten ???   
 
 Es sind hier hauptsächlich Studierende aus der Gruppe der Kiosk'ler, ausstellende FachkursteilnehmerInnen, aber auch StudentInnen, die an andere Fachkursen teilnahmen und währenddessen ihre Strategien für das Diplom entwickelten, Ausstellungsräume eröffneten und diese leiten oder selbst dort ausstellten. Das Interdisziplinäre in den Kursen brachte auch Studierende aus anderen Fakultäten, wie z.B. aus den Medien und der Architektur 
 mit in die Gruppe hinein. Diese konnte so um unterschiedliche Fertig- und Fähigkeiten sowie Interessen bereichert werden.
 
-
  > textreste
 
-## Would you like to be modified? 
-(Gegen/Argumente) 
+## Would you like to be modified? *(Gegen/Argumente)*
 
 Manchmal denke ich, dass das was ich zu widerlegen versuche ein Oximoron ist.
 
