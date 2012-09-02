@@ -1,4 +1,5 @@
 # Z.B. BUW
+
 Kunststudium am Beispiel der Bauhaus-Universität Weimar
 
 Das Bauhaus-Universität Weimar besteht aus vier Fakultäten: Architektur, Medien, Gestaltung und Bauingenieurwesen. Studierenden ist es hier möglich interdisziplinär zu studieren und Projekte sowie Fachkurse auch in anderen Fakultäten zu besuchen. Neben Visueller Kommunikation, Produktdesign und Kunst auf Lehramt wird an der Fakultät Gestaltung Freie Kunst in erster Linie nach Montessori System gelehrt. Das heißt, dass im ersten Semester alle neuen StudentInnen im zweiwöchigen Rhythmus, im Rahmen des Projektes „Wechselstrom“, alle Lehrenden der Freie Kunst kennenlernen und in einer Art „Speed Dating“ - in welchem man jeweils bei den ProfessorInnen und ihren MitarbeiterInnen eine Kostprobe bekommt, verschiedene Arbeitsweisen erproben. Vom 2.-7. Semester 
@@ -14,11 +15,13 @@ DAS PASST VIELLEICHT GUT ALS INTRO ZUM FÜNFJAHRESPLAN KAPITEL: Sowas wie die di
 
 
 
-???+ allgemein Unigalerie was ist die Geschichte Universal Cube in leipzig, z.B. die sich in der Baumwolle Spinnerei und damit unterhalb des Kunstmillieu ist
+TODO ??? 
++ allgemein Unigalerie was ist die Geschichte Universal Cube in leipzig, z.B. die sich in der Baumwolle Spinnerei und damit unterhalb des Kunstmillieu ist
 (Material Dörte)
-wie etabliert sind die? ><<>> 
+wie etabliert sind die?
 
 Galerie Marke. 6 ist fast die erste Gallerie, die an eine messe sich beteiligt hat. es läuft während das schreiben diese Zeilen in der dritte runde. ????
+
 - - - 
 
 Bolognia Prozess Erweiterung?
@@ -56,13 +59,16 @@ agieren zu können und mehr Zuschauer für ihr Anliegen zu erreichen? ??? wie pa
 
 Deutschland kann als ein Künstlerparadies verstanden werden. Die allgemeinen Studiengebühren sind sehr niedrig, in Weimar liegen sie zur Zeit bei ca. 137.- Euro pro Semester. Erst nachdem man die Regelstudienzeit überschritten hat, muss man 500.- Euro pro Semester zahlen, was immer noch ein lächerlicher Betrag im Vergleich zu den 
 Gebühren z.B. in den USA und Großbritannien, ist.
-- - 
+
+- - -
+
 Nach dem Studium und mit Verweis auf eine künstlerische Tätigkeit, kann sich jeder in die Künstlersozialkasse eintragen, was ein einmaliges Modell in Europa bildet.
 (http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html). Zusätzlich, wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch 
 die Deutsche Verfassung mittels Art. 5 Abs. 3 des Grundgesetzes (GG) gewährleistet.(https://de.wikipedia.org/wiki/Kunstfreiheit)/ bzw. orig. 
 Verfassungsparagraph linken) Auch finden Künstler große finanzielle Unterstützung durch unzählige Wettbewerbsmöglichkeiten und Stipendienangebote.
 
-- - 
+- - -
+
 Vorwiegend im Rahmen von universitären Nebeninstitutionen (wie HIT etc.) und im Lehrangebot von anderen und mir, werden Fachkurse und Workshops als regulärer Unterricht angeboten.
 
 
