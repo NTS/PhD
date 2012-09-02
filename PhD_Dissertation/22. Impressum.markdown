@@ -5,3 +5,8 @@ diese Dissertation ist eine Kombination aus kapitel und Texte die während der R
 Koca inn 
 Beruf kunstler Terminal Kunstmagazin Israel
 
+---
+
+testing autocommitting after update of git-o-mat
+
+---
