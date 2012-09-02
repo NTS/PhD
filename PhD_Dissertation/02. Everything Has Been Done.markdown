@@ -1,6 +1,4 @@
-# Everything Has Been Done \
-\
-*(Grundthese)*
+# Everything Has Been Done *(Grundthese)*
 
 > I am bored with that line. I never use it anymore. My new line is: in 15 minutes everybody will be famous" - Andy Warhol
 
@@ -24,8 +22,8 @@ Es gibt die Tradition, von Marcel Duchamp angefangen, in der KünstlerInnen den 
 Kunstwelt zu ändern, die Institutionen dafür in Frage zu stellen. Allein Künstler wie Martin Kippenberger und Timm Ulrichs (um nur 
 zwei Beispiele aus Deutschland zu nennen), die sich mit ihrem Status innerhalb der Kunstwelt auseinandergesetzt und in Frage gestellt haben, …?.
 
-   jpg Timm Ulrichs: Betreten der Ausstellung Verboten.
-   ! Bildquelle http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg
+    
+![Timm Ulrichs: Betreten der Ausstellung Verboten.](http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg)
 
 Wenn man die Wandlung im Aufgabenbereich von KünstlerInnen heute betrachtet, sieht man, dass viele von ihnen Meinungen und Ideen haben,
 wie und was man an den Kunstinstitutionen ändern sollte, wie die Kunst auch aus dem Museum heraus in den öffentliche Raum getragen 
