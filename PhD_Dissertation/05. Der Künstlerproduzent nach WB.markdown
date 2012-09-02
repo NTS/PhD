@@ -2,98 +2,88 @@
 
 ## Künstler = Autor + Produzent 
 
-Zu Goethes Zeit, wurde per Hand geschrieben, um Ihn gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
-zu lektorieren, Bilder und Rechte zu besorgen, layouten, gestalten, verlegen, vermarkten, und eventuell übersetzten. Heute liegt das Regie bei 
-dem Autor selbst und an seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum 
-Sammler Kunstmesse etc. immer noch funktioniert, jedoch betätigt sich der Künstler oft auch im kuratorischen, layouten von Werbematerial und in 
-Verbreitungen durchs web 2.0. Ist der Künstler gezwungen alles zu können?: Ein Kurator zu sein, Texte zu schreiben und seine Bilder zu beschriften?
+Zu Goethes Zeit wurde per Hand geschrieben. Um ihn herum gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
+zu lektorieren, Bilder und Rechte zu besorgen, zu layouten, gestalten, verlegen, vermarkten und eventuell zu übersetzten. Heute liegt die Regie größtenteils bei 
+dem Autor selbst und bei seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum, 
+Sammler, Kunstmesse etc. noch immer funktioniert. Jedoch betätigt sich der Künstler oft auch selbst im Kuratorischen, layouten von Werbematerial und in 
+Verbreitungen durch das Web 2.0. Ist der Künstler gezwungen alles selbst zu können?: Ein Kurator zu sein, Texte zu schreiben und seine Bilder zu beschriften?
 
-Die Verhältnisse heutzutage zeigen, dass man vielfältig sein muss. Es bleibt einem nichts übrig, man muss alles können, oder anders formuliert: 
-man ist gezwungen alles zu können, und was man nicht selbst machen kann delegiert man im Auftrag an Andere (Handwerker, Techniker), und womöglich 
-bezahlt man dafür. Irgendwann erkennt man, das man wie ein Dirigent, über sich, und über alle andere, an deren er Arbeit deligiert und die für Ihn produzieren.
+Die Verhältnisse heutzutage zeigen, dass man vielfältig sein muss. Es bleibt einem nichts weiter übrig, man muss alles können oder anders formuliert: 
+man ist gezwungen alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an Andere (Handwerker, Techniker, Grafiker, etc.), die man wohlmöglich 
+dafür bezahlt. Irgendwann erkennt man, das man wie ein Dirigent, über sich und über alle anderen, die für einen produzieren, arbeitet.
  
-Werden damit Kreativität und Produktivität vermischt?
+Werden damit Kreativität und Produktivität miteinander vermischt?
 
-Verhältnisse von Kunst & Arbeit sind nicht neu, und trotzdem erscheinen momentan viele Bücher und Reader, die sich mit den Änderung in diesen Verhältnissen 
-beschäftigen, mit Titel wie *Work, Work, Work A Reader on Art and Labour* oder *Are you working too much Post-Fordism, 
-Precarity and the Labor of Art* oder: *Wir nennen es Arbeit*. Das ist an sich phänomenal. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
-Ansprache im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 immer noch für richtig, wenn er sagt das der Autor sich nicht in die Politik 
-einmischen soll, sondern dort sein Kraft ausüben müsste, wo man kompetent ist. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
-man davon beibringen, weitergeben, lehren? das sind die Kernfragen, die mich interessieren, und um denen es in dieser Dissertation geht. 
+Die Verhältnisse zwischen Kunst und Arbeit sind nicht neu und dennoch erscheinen zurzeit unzählige Bücher und Reader, die sich unter Titeln wie *Work, Work, Work A Reader on Art and Labour* oder *Are you working too much Post-Fordism, 
+Precarity and the Labor of Art* oder: *Wir nennen es Arbeit* mit den Veränderungen in diesem Zusammenhang 
+beschäftigen. Das ist an sich phänomenal. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
+Ansprache im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 immer noch für richtig. In seiner Rede spricht er davon, das der Autor sich nicht in die Politik 
+einmischen sollte, sondern darin seine Kraft ausüben müsse, worin er kompetent ist. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
+man davon beigebracht bekommen, weitergeben oder lehren? Dies sind die Kernfragen, die mich interessieren und um die es in dieser Dissertation geht. 
 
-Im gesamten Text Benjamins konnte man das Wort *Autor* mit Künstler durchaus austauschen, und die Aussage bleibt ähnlich, nämlich - 
-die Qualität darf nicht wegen der politische Anwendung nachlassen. Der Autor als Produzent trägt die These: Künstler sind im politischen 
-nicht unbedingt klüger als andere Intellektuelle. Man muss sich auskennen in der eigenen konkreten Welt. Informiert sein, wo und wie man
-publiziert und wie man selbst publizieren oder ein Kooperativen Mitglied werden kann, wie in der Biowelt. (eine Art zurück zu einer Gilde? Dahin 
+Im gesamten Text Benjamins könnte man durchaus das Wort *Autor* mit dem Wort *Künstler* austauschen. Die Aussage bliebe ähnlich, denn - 
+die Qualität darf nicht wegen der politischen Anwendung nachlassen. ??? Ich weiß nicht, was hier mit Anwendung gemeint ist ??? Der Autor als Produzent trägt die These: Künstler sind im politischen 
+nicht unbedingt klüger als andere Intellektuelle. Man muss sich in der eigenen konkreten Welt auskennen. Man muss darüber informiert sein, wo und wie man
+publiziert und wie man selbst publizieren oder auch ein kooperativen Mitglied werden kann. 
+??? folgender teil ist ziemlich unklar. ich würde auch den vergleich zu biowelt rausnehmen. ???
+wie in der Biowelt. (eine Art zurück zu einer Gilde? Dahin 
 läuft die Kreativität (oder Leistung) hin, zuru Kooperationen als Berater und Denkfabrikanten (Think Tanks), bis zur Stellen bei Konzernen 
 als "Haus (Hof?) Kunstler (Narr?)" und das alles unter dem Mantel einer Stelle mit monatlicher Ratenanzahlung. 
 
-Der Zustand des Künstler heute ist dem des Autors gleich, und anderen kreativ orientierten Menschen ähnlich. In einem Gespräch mit Ivan Ivanji erzählte er, 
-der Nachteil heute wäre, viel mehr Arbeit selbst zu haben, aber dafür eventuell bis zu fünfzig Prozent der Einnahme einkassieren zu können, statt 
-nur zehn bis Dato.
+Der Zustand des Künstlers heute ist dem des Autors und anderen kreativ orientierten Menschen ähnlich. In einem Gespräch mit Ivan Ivanji ??? Wer hat hier mit Ivan gesprochen und wer ist Ivan? Bräuchte ne Fussnote ??? erzählte er, 
+das der Nachteil heute wäre, selbst viel mehr Arbeit zu haben, aber dafür eventuell bis zu fünfzig Prozent der Einnahmen kassieren zu können, statt 
+bis Dato nur zehn.
 
 Die Arbeitsverhältnisse ändern sich, das ist eine Tatsache. Durch Automation und Computerisierung erübrigen sich ganze Sektoren.
-Der Zwang, aktiv zu sein und sich zu vermarkten im spätkapitalistischen System verlangt vor allem eine Flexibilität, die im 
-Richard Sennett's Buch *der Flexibler Mensch* [-@Sennett:Mensch] überzeugend beschrieben wird. Sennett erklärt die neue 
-Strukturierung, vor allem die Zeit und die Wandlung des Arbeitsethos. Der Arbeitsmarkt wird eng für Alle, genau aus diesem Grund, 
-könnte die neu erwünschte Flexibilität den Markt mehr öffnen, um Künstler in ihre eher flexiblere Arbeitsweise zu integrieren. 
+Der Zwang, aktiv zu sein und sich im spätkapitalistischen System zu vermarkten, verlangt vor allem eine Flexibilität, die in 
+Richard Sennett's Buch *der Flexibler Mensch* [-@Sennett:Mensch] überzeugend beschrieben wird. Sennett erklärt hier die neue 
+Strukturierung, vor allem die Zeit und die Wandlung des Arbeitsethos. Der Arbeitsmarkt wird für Alle eng. Genau aus diesem Grund 
+könnte die neu erwünschte Flexibilität den Markt mehr öffnen, um Künstler aufgrund ihrer eher flexibleren Arbeitsweise zu integrieren. 
 
-Darüber hinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einem Dichter zurückführt, das heisst, der Begriff 
+Darüber hinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einen Dichter zurück zu führen ist, das heisst, der Begriff 
 wurde aus einer künstlerischen Beobachtung hergeleitet. 
 
-Das Internet hat die Arbeitsverhältnisse weiter geändert, jeder Mensch ist in der Lage, von Zuhause seine Geschäfte zu erledigen.  
-Unbefristete Stellen werden auch immer geringer, und man arbeitet von begrenzter Stelle zur nächsten, oder an Kurzfristigeren Projekten. Dies 
-fördert eine Flexibilität fast als Fertigkeit, die Künstler schon längst beherrschen. An dieser Stelle ist auch der Begriff "Digitale Boheme" zu erwähnen. 
-Arbeiter haben Arbeitszeiten, Urlaub und andere Strukturen, KünstlerInnen kennen keine 'Freizeit', auch wenn sie im Urlaub sind, gerade wenn andere Menschen 
-etwas als Urlaub empfinden, sind sie weiter schöpferisch und Kreative. Tageszeiten, Wochenpläne, Wochenende, Feiertage sind Strukturen, 
-an denen sich KünstlerInnen grundsätzlich anpassen müssen. Die Kreativität kennt keine solche Strukturen, sie braucht die Freiheit 
-(und die 'Todeslinie' (deadline) am Ende, damit überhaupt etwas festgelegt werden kann.
+Das Internet hat die Arbeitsverhältnisse weiter verändert. Jeder ist heute in der Lage, seine Geschäfte von Zuhause zu erledigen.  
+Unbefristete Stellenangebote sind immer seltener zu finden. Man arbeitet entweder von einer befristeten Stelle zur nächsten oder von einem kurzfristigen Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast als Fertigkeit angesehen werden kann und die Künstler schon längst beherrschen. An dieser Stelle ist auch der Begriff "Digitale Boheme" zu erwähnen. ??? das sollte zumindest hier erklärt werden und nicht nur kurz erwähnt ???
+Reguläre Arbeitnehmer arbeiten nach vornehmlich geregelten Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. KünstlerInnen kennen keine 'Freizeit', selbst wenn sie im Urlaub sind, sind sie weiter schöpferisch und kreativ tätig. Tageszeiten, Wochenpläne, Wochenende und Feiertage sind Strukturen, 
+an die sich KünstlerInnen grundsätzlich anpassen müssen. Die Kreativität jedoch kennt Strukturen dieser Art nicht. Sie benötigt die Freiheit und die 'Todeslinie' (deadline) am Ende, damit überhaupt etwas festgelegt oder gar 'strukturiert' werden kann.
 
-Die Hinnahme der Tatsache dass der Arbeitsplatz nicht mehr die Entscheidungen über den Lebensort bestimmen muss, auch durch die 
-Globalisierung möglich, haben vor allem KünstlerInnen längst angeeignet. 
-
+Die Tatsache das der Arbeitsplatz längst nicht mehr die Entscheidung über den Wohnort bestimmt, gerade durch die 
+Globalisierung, haben vor allem KünstlerInnen bereits für sich festgestellt und sich dementsprechend angepasst. 
+??? ich würde den folgenden abschnitt rausnehmen. er ist sowieso noch unklar, so wie er da steht. und was ist WV? ???
 Was passiert im Kunstfördersystem? Diese Anpassung findet nicht nur im Kunstsystem statt, es dehnt sich durch alle kreativen 
 Branchen, Autoren, Filmemacher und sickert sogar auch zu Managern bei WV ![Picture]Jeff_Koons_mit_80_Assistenten), Olaruf Eliason
 
-In *Die Legende vom Künstler* [@Kris:Legende, pp. xx] schreiben Ernst Kris und Otto Kurz wie der Künstler zu allen Zeiten unterschiedlich sein muss, 
-weil die Gesellschaft nur bestimmte Sachen honoriert, also ist die Rede erneut von Anpassung. Noch ein Argument von Benjamin: Ist man nicht nur Opfer 
-sondern auch Täter? Die vorgefundene Welt kann auch manipuliert werden, so ist die Welt vs. ich bin funktionsgestört und ändere es.
-Als Künstler arbeitet man auch im Kunstbetrieb, warum sollen Künstler nur in bestimmte Bereichen arbeiten dürfen (Ausstellungsaufbau) und an andere Stellen 
-(Galerie) nicht? Wie Marcel Duchamp, und viele Andere, (Timm Ulrich; Martin Kippenberger) die den Kunstbetrieb Selbst als Material nahmen 
-(wie Andrea Fraser, oder Lucas Samaras der laut Brian O'Doherty (im *Atelier und Galerie Studio and cube* schon im Jahr 1964 sein Atelier in der 
+In *Die Legende vom Künstler* [@Kris:Legende, pp. xx] schreiben Ernst Kris und Otto Kurz wie der Künstler zu allen Zeiten unterschiedlich sein und agieren muss, 
+da die Gesellschaft nur bestimmte Sachen honoriert. Erneut ist also die Rede von Anpassung. Noch ein Argument von Benjamin: Ist man nicht nur Opfer 
+sondern auch Täter? Die vorgefundene Welt kann auch manipuliert werden. So existiert die Welt vs. ich bin funktionsgestört und ändere sie.
+Als KünstlerIn arbeitet man inzwischen auch im Kunstbetrieb. Warum sollten KünstlerInnen nur in bestimmten Bereichen arbeiten dürfen (z.B. Ausstellungsaufbau) und an andere Stellen 
+(z.B. Galerie) nicht? Wie Marcel Duchamp und viele Andere, (Timm Ulrich; Martin Kippenberger) die den Kunstbetrieb selbst als Material kreativ gebrauchten 
+(wie Andrea Fraser oder Lucas Samaras der laut Brian O'Doherty (im *Atelier und Galerie Studio and cube* schon im Jahr 1964 sein Atelier als Kunstwerk in der 
 Galerie ausstellte. 
 
-Die Tatsache, dass Künstler den Kunstbetrieb als Material nehmen, ist im Grunde genommen das spezifische an der Kunst, die Wiedergabe einer 
-Selbsreflektion in ästhetischen oder gestalterischer Form. Künstler schaffen Utopien, alternative Möglichkeiten, das Leben durchzuführen (States 
-of the Art in Landform, mit Passport etc.), genau so wie andere eine Religion starten. Während es in anderen Feldern, Aufstiegsmöglichkeiten gibt, 
-ist es im Kunstbetrieb für den Künstler eher beschränkt. Wenn man in ein paar Biennalen und in Hauptmuseen Solo ausgestellt hat, hat man alles 
-erreicht. Manchen reicht dies nicht, und sie kommentieren ihre Lebensverhältnisse oder Gedanken über die Kunst, als Metaebene.
+Die Tatsache, dass Künstler den Kunstbetrieb als Material nutzen, ist im Grunde genommen das Spezifische an der Kunst, die Wiedergabe einer 
+Selbstreflektion in ästhetischer oder gestalterischer Form. Künstler schaffen Utopien, alternative Möglichkeiten, das Leben zu leben (States 
+of the Art in Landform, mit Passport etc.). Während es in anderen Bereichen Aufstiegsmöglichkeiten gibt, sind diese für den Künstler im Kunstbetrieb eher beschränkt. Wenn man bei ein paar Biennalen und in großen Museen eine Soloausstellung verzeichnen kann, hat man alles erreicht. Manchen reicht dies nicht und sie kommentieren oder schreiben über ihre Lebensverhältnisse oder Gedanken über die Kunst, als Metaebene.
 
 Also haben KünstlerInnen, bei dem Versuch ihre Freiheit zu erhalten folgende Möglichkeiten:
 
 a. Hinnehmen - im System reagieren
-b. Andern - im oder ausserhalb?
+b. Ändern - im System oder außerhalb?
 c. beides!
 
 !bild Benedikt Brown Arbeit Arbeit los
 
 
-wenn die Kunstwelt so ist wie sie ist, ergibt es für mich folgendes:
+Wenn die Kunstwelt so ist wie sie ist, ergibt sich für mich Folgendes:
 
-Dass ich vorwiegend als Künstler Erfahrungen und Kenntnisse sowie das Know-how selbsttätig gesammelt habe, durch zusätzliche Ausbildung 
-und Selbstuntersuchung sogar experimentieren im Rahmen der Anpassung
-des Kiosks, als Schwerpunkt unter einer Reihe an Fachkursen um die Kunstwelt herum ist als konsequente Reaktion auf meine Selbsanalyse und 
-künstlerische Recherche entstanden. Wenn mann will, ist die Recherche für die Studierenden entstanden, und ihre eigenen Ergebnisse dienen 
-ihnen für weitere Recherche. 
+Wenn ich als Künstlerin Erfahrungen und Kenntnisse sowie das Know-how überwiegend selbstständig gesammelt habe, zum Beispiel durch eine zusätzliche Ausbildung, einer Selbstuntersuchung oder sogar durch Experimentieren im Rahmen des Kiosks und in den Fachkursreihen zu Themen rund um die Kunstwelt, sind all diese Dingen als konsequente Reaktion auf meine Selbstanalyse und künstlerische Recherche entstanden. Wenn man so will, ist diese Recherche für die Studierenden entstanden, ihre eigenen Ergebnisse sollen ihnen dann zur weiteren Untersuchung dienen. 
 
-Es ist noch etwas früh festzustellen, wie die Wirkung auf den Werdegang der Studierenden wird. Exemplare zeigen aber, 
-das mehrere sich alternativ bewegen, entweder noch während des Studiums, manche als oder direkt nach Abschluss:
-Valenta; Albrecht; Patermann; Weinlich; Brown; Hannemann; 
+Es ist noch etwas früh festzustellen, wie die Wirkung auf den Werdegang der Studierenden sein wird. Einige Beispiele zeigen aber, das mehrere der Studierenden sich alternativ bewegen, entweder noch während des Studiums oder direkt nach dem Abschluss:
+Valenta; Albrecht; Patermann; Weinlich; Brown; Hannemann; ??? Hier fehlen die Erklärunge zu den einzelnen Leuten ???
 
-Hauptsächlich aus der Gruppe der Kiosk'ler, Ausstellende Fachkurseteilnehmer, aber auch
-Studenten, die an andere Fachkursen teilgenommen haben, und währenddessen ihre Strategie für das Diplom entwickelt haben. 
-Ausstellungsräume öffneten, oder dort ausstellten. Das interdisziplinäre brachte Studenten aus anderen Fakultäten, wie Medien und Architektur 
-dazu und die Gruppe wurde mit anderen Menschen und Skills bereichert.
+Es sind hier hauptsächlich Studierende aus der Gruppe der Kiosk'ler, ausstellende FachkursteilnehmerInnen, aber auch StudentInnen, die an andere Fachkursen teilnahmen und währenddessen ihre Strategien für das Diplom entwickelten, Ausstellungsräume eröffneten und diese leiten oder selbst dort ausstellten. Das Interdisziplinäre in den Kursen brachte auch Studierende aus anderen Fakultäten, wie z.B. aus den Medien und der Architektur 
+mit in die Gruppe hinein. Diese konnte so um unterschiedliche Fertig- und Fähigkeiten sowie Interessen bereichert werden.
 
 
  > textreste
