@@ -1,6 +1,7 @@
 # Vom Künstlerbild in den Medien
 
 ## Dorian Gray in CMKY
+
 Wandlung des Künstlerbild und sein Selbstbildnis durch web 2.0
 *Der Fänger im Roggen* vo Salinger, *Das Bildnis des Dorian Gray* von Oscar Wild, oder mehrere Bücher von Hermann Hesse, in der Literatur gibt es schöne Beschreibungen vom werdegang zum Künstler.
 
@@ -10,10 +11,10 @@ Es stellt sich die Frage wegen Rechte beim publizieren etc. was zum verzicht auf
 
 Was hat sich im Bild der Künstler in der Gesellschaft geändert und was ist Clicheé geblieben?
 
-bild von Andere
-bild vom Künstler selber
+TODO bild von Andere
+TODO bild vom Künstler selber
 
-in Zälige Fernseheserien werden Kapitel bzw. Persönlichkeiten
+TODO in Zälige Fernseheserien werden Kapitel bzw. Persönlichkeiten
 
 ## Lisa Simpson & Clair Fisher
 
