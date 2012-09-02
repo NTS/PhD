@@ -1,0 +1,42 @@
+% Als ich Künstler war *oder:*  
+  Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:*  
+  der Künstler als Arbeiter
+% Naomi Tereza Salmon
+
+---
+
+> **Ph.D. Freie Kunst**  
+> *Naomi Tereza Salmon*  
+> Bauhaus Universität Weimar  
+> Matrikel Nr. 51163  
+> Betreuer: Prof. Karl Schawelka ; Prof. Norbert W. Hinterberger  
+
+---
+
+
+# Inhalt 
+(Stand alone)
+
+01. (Intro).markdown
+02. Everything Has Been Done.markdown
+03. Was, oder wer ist ein Künstler?.markdown
+04. Vom Künstlerbild in Medien & TV.markdown
+05. Der Künstlerproduzent nach WB.markdown
+06. Kann Kunst heilen?.markdown
+07. Beruf Künstler.markdown
+08. Z.B. BUW.markdown
+09. Be an Art student, be a Master, be a Doctor!.markdown
+10. 5-Jahres-Plan.markdown
+11. Akademie trifft Kunstmarkt.markdown
+12. Das Konstrukt Bauhaus Essentials.markdown
+13. BE-I Podiumsdiskussion.markdown
+14. Kunst & Kommunikation.markdown
+15. Exile on Main Street.markdown
+16. Wo sind sie Heute?.markdown
+17. Next Proj..markdown
+18. Anmerkungen.markdown
+19. Bibliografie.markdown
+20. Bildnachweis.markdown
+21. Links.markdown
+22. Danke.markdown
+23. Impressum.markdown
