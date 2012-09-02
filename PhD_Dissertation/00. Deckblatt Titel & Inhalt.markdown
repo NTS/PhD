@@ -13,11 +13,10 @@
 
 ---
 
-INHALT
+> INHALT
  
-(Stand alone)
+> (Stand alone)
 
-> 00. Deckblatt Titel & Inhalt.markdown
 > 01. (Intro).markdown
 > 02. Everything Has Been Done.markdown
 > 03. Was, oder wer ist ein Künstler?.markdown
