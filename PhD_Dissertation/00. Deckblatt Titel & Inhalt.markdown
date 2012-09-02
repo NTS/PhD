@@ -18,26 +18,26 @@ INHALT
  
 (Stand alone)
 
+00. Deckblatt Titel & Inhalt.markdown
 01. (Intro).markdown
 02. Everything Has Been Done.markdown
-03. Was, oder wer ist ein Künstler?.markdown
-04. Vom Künstlerbild in Medien & TV.markdown
-05. Der Künstlerproduzent nach WB.markdown
+03. Was, oder wer ist ein Künstler?.markdown
+04. Vom Künstlerbild in den Medien.markdown
+05. Der Künstlerproduzent nach WB.markdown
 06. Kann Kunst heilen?.markdown
-07. Beruf Künstler.markdown
+07. Beruf Künstler.markdown
 08. Z.B. BUW.markdown
-09. Be an Art student, be a Master, be a Doctor!.markdown
-10. 5-Jahres-Plan.markdown
-11. Akademie trifft Kunstmarkt.markdown
-12. Das Konstrukt Bauhaus Essentials.markdown
-13. BE-I Podiumsdiskussion.markdown
-14. Kunst & Kommunikation.markdown
-15. Exile on Main Street.markdown
-16. Wo sind sie Heute?.markdown
-17. Next Proj..markdown
-18. Anmerkungen.markdown
-19. Bibliografie.markdown
-20. Bildnachweis.markdown
-21. Links.markdown
-22. Danke.markdown
-23. Impressum.markdown
+09. 5-Jahres-Plan.markdown
+10. Akademie trifft Kunstmarkt.markdown
+11. Das Konstrukt Bauhaus essentials.markdown
+12. BE-I Podiumsdiskussion.markdown
+13. Kunst & Kommunikation.markdown
+14. Exile on Main Street.markdown
+15. Wo sind sie Heute?.markdown
+16. Next Proj..markdown
+17. Anmerkungen.markdown
+18. Bibliografie.markdown
+19. Bildnachweis.markdown
+20. Links.markdown
+21. Danke.markdown
+22. Impressum.markdown
