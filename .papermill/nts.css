@@ -131,10 +131,14 @@ ul li ul li {
 	font-family: "Droid serif", "Georgia", sans-serif;
 	font-size: 0.85em;
 }
+
+// dont show 3rd level headings in TOC
 #TOC ul li ul li ul { 
 	display: none;
 	visibility: hidden;
 }
+
+// dont show emphasisez text in TOC
 #TOC nav * em {
 	display: none;
 	visibility: hidden;
