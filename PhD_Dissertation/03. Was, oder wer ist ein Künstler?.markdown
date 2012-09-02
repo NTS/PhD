@@ -8,15 +8,17 @@ sind alle berühmt? Das heisst: Gilt die Aussage "Das kann mein Kind auch machen
 
 Wie manifestieren sich die heutigen Beziehungen zwischen den diversen Gliedern der Kunstwelt: Künstler, Galerist, Sammler, Kurator, Museum, 
 Auktionshaus und Publikum? Offenbar hat eine Wandlung, begleitet von starken autarkischen Neigungen, stattgefunden, die ihre Eindrücke sogar 
-im Filmischen hinterlässt. ??? Hier fehlen Beispiele der Filme, bzw, kommt das ja auch an einer anderen Stelle und es müsste erklärt werden welche Wandlungen und wie ???
+im Filmischen hinterlässt. ???  TODO:   Hier fehlen Beispiele der Filme, bzw, kommt das ja auch an einer anderen Stelle und es müsste erklärt werden welche Wandlungen und wie ???  TODO:  
 Etymologisch kommt Kunst von "const" was soviel wie Können, Wissen, Kenntnis, bedeutet. Man sagt deswegen im deutschen auch "Kunst kommt vom Können"(↑ Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002). Dieser Aphorismus hat sogar [einen eigenen Artikel in Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
 
 Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. 
-Hierzu ein Auszug aus Meyers Online-Lexikon: "Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
-Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". 
-(http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie)
+Hierzu ein Auszug aus [Meyers Online-Lexikon](http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie): 
+"Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden Kunst, als Schöpfer oder 
+Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". 
 
-![Bild04 - Künstler laut Pons](images/pons-kuenstler.png)
+
+![Künstler laut Pons](images/pons-kuenstler.png)
+
 
 Weiter heißt es in Meyers Online-Lexikon: 
 
@@ -28,6 +30,7 @@ Weiter heißt es in Meyers Online-Lexikon:
 > Perspektive und Anatomie. Seit der Romantik bildete sich ein neues Selbstverständnis des Künstlers heraus. 
 > In dieser Epoche wurzelt der moderne Begriff des Künstlers. 
 > Die Originalität wird Mittelpunkt des Geniebegriffs."
+
 
 ## I see how you see me
 
@@ -45,7 +48,7 @@ selbst nicht beschreiben oder wissenschaftlich anzeigen…
 Positiv geäußert: Genie ist die Gemütslage (Ingenium) durch welche die Natur der Kunst die Regel gibt.'"
 seine Interpretation: 
 "Nie Regeln zu folgen, sondern immer nur etwas zu schaffen, das regelhaft ist, ohne selber je zur Regel werden zu können, - das ist Kants’ 
-Umschreibung genial-schöpferischen Tuns". ??? Das klingt noch sehr nach Zitatbausteinen. Soll es so sein ???
+Umschreibung genial-schöpferischen Tuns". ???  TODO:   Das klingt noch sehr nach Zitatbausteinen. Soll es so sein ???  TODO:  
 Der Künstler wird oft als: 
 "Der Seher und der Störenfried, der Schamane und der Außenseiter, der Clown und der Harlekin beschrieben – diese Rollen ergaben sich daraus, 
 dass der Künstler nicht weiß, was er macht", soweit Ullrich, oder: nicht weiß, wie er es in Worte fassen soll. Denn: 
@@ -94,7 +97,7 @@ Allenfalls soll man "Reich denken. Arm aussehen"[@source:tag]. Nach [-@source:ta
 
 Wenn man die Arbeiten von Fotografen wie Annie Leibowitz sieht, die für das Magazin “The Rolling Stone” viele MusikerInnen und KünstlerInnen fotografiert hat, liegt der Schwerpunkt eher auf einer kreativen Idee der Fotografin selbst, die in Zusammenarbeit mit den KünstlerInnen etwas Persönliches mitteilt. 
 Wenn wir deutsche Künstler mit solchen Bildern vergleichen, so scheint es, dass diese davon nichts halten und eher ihre gediegene Seite zeigen: 
-??? Ich würde da noch etwas einfügen, sonst ist es sehr brüchig. Oder man muss sagen, dass Annie viele US-amerikanische Musiker + Künstler fotografierte und das dieses Experimentieren den deutschen nicht so zusagt ???
+???  TODO:   Ich würde da noch etwas einfügen, sonst ist es sehr brüchig. Oder man muss sagen, dass Annie viele US-amerikanische Musiker + Künstler fotografierte und das dieses Experimentieren den deutschen nicht so zusagt ???  
 
 - Bilder Deutsche Künstler: 
     - 18. Georg Baselitz72.jpg
@@ -104,7 +107,7 @@ Wenn wir deutsche Künstler mit solchen Bildern vergleichen, so scheint es, dass
 Es gilt jedoch weiter die ungeschriebene Regel: 
 Bei Ausstellungseröffnungen sollte der Künstler nicht wohlhabender aussehen als sein Galerist oder sein Sammler. 
 Andy Warhol machte sich Gedanken über sein Selbstbildnis, in "Die Philosophie des Andy Warhol von A bis B und zurück", sagt er: 
-"Ich glaube, wenn ich in den Spiegel sehe, werde ich NICHTS sehen. Man nennt mich immer einen Spiegel, und wenn ein Spiegel in einen Spiegel sieht, was ist dann zu sehen? Wenn ich in den Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen." [@source:tag, pp. 14] 
+"Ich glaube, wenn ich in den Spiegel sehe, werde ich NICHTS sehen. Man nennt mich immer einen Spiegel, und wenn ein Spiegel in einen Spiegel sieht, was ist dann zu sehen? Wenn ich in den Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen."[@source:tag, pp. 14] 
 Dass ihm innerhalb und ebenso außerhalb der Kunstwelt der Status eines großen Stars, ja einer legendären Kultfigur zukommt, scheint ganz maßgeblich auch in der Inszenierung seiner Person und ihrer öffentlichen medialen Präsenz begründet zu sein.
 (SOURCE: pp12 Aus: Die Inszenierung des Künstlers (Anna Marie Freybourg (Hg.) jovis 2008 Andy Warhol: Selbstporträts und Selbstdarstellungen von Hubertus Butin 
 
@@ -119,12 +122,16 @@ Warhols Anerkennung erfolgte nicht allein durch die Würdigung seiner Kunst, son
 
 ## Kunst als *Business*
 
-Die Künstler spiegeln ein Bild vom arroganten Arsch wider, (wie Luperz (oder Richter?) z.B.)) der mit Anzug damit die Totale Anpassung repräsentiert. Es ist wichtig, was der Künstler anzieht, die Frage ist nur, zur welche Gelegenheit, und ob die Ironie durchkommt oder nicht. ??? noch unklar und unfertig. habe bissl umgeschrieben- umgebaut ???
+Die Künstler spiegeln ein Bild vom arroganten Arsch wider, (wie Luperz (oder Richter?) z.B.)) der mit Anzug damit die Totale Anpassung repräsentiert. Es ist wichtig, was der Künstler anzieht, die Frage ist nur, zur welche Gelegenheit, und ob die Ironie durchkommt oder nicht. 
+
+???  TODO:   noch unklar und unfertig. habe bissl umgeschrieben- umgebaut ???  
 
 Ist das der herrschenden Künstlertypus und dient es als Vorbild für Erfolg? Wenn bei StudentInnen die Fertigkeit, die beste Präsentation zu machen über die Inhalte steigt, was bedeutet das? 
-??? Kommender Abschnitt ganz unklar. auch eine Brücke zu damien hirst finden ??? Man kann sich nicht nur darauf sich richten, wenn man sieht, wie Kritiker den Erfolgrezept in New York zerreissen. kunst wird noch nachdenklicher, hermetischer, sich mit den blick auf die gesellschaft richten und ihnen ein spiegel vorsetzt, und wenn der occupy Wind die Finanzzentern in Frankfurt erreicht, dann wird man zurückblicken auf die Aussage von Heute und die Warnungen besser verstehen.
 
-Damien Hirst der beide Seiten diese Medaille verkörpert hat: einerseits die Aussage über die Kunstwelt und damit alle zum Kotzen brachte, durch die Strategie, selber for the love of God zu versteigen? So viel Geld zu verdienen und damit die Kunstwelt um die nase herumzuführen macht bekanntlich auch Banksy. Aussage Korrekt, eigene Interesse aber kolladiert, damit werden sie in eine andere Künstlerklasse getan. Oder Maurizio Cattalan, der vielleicht mit seinem verdienst als Künstler, ein Vermögen besser umgeht? weil der ein Künstler Biennale auf einem Insel zu Sommerpause darstellt (the joke is on who bitte?) aber jetzt auch ein Nonprofit Künstlerloch aufgemacht hat, wo alle ausstellen können. ??? das ist unfertig formuliert, sehr stichpunktartig, ab santiago wieder gut ???
+???  TODO:   Kommender Abschnitt ganz unklar. auch eine Brücke zu damien hirst finden ???
+Man kann sich nicht nur darauf sich richten, wenn man sieht, wie Kritiker den Erfolgrezept in New York zerreissen. kunst wird noch nachdenklicher, hermetischer, sich mit den blick auf die gesellschaft richten und ihnen ein spiegel vorsetzt, und wenn der occupy Wind die Finanzzentern in Frankfurt erreicht, dann wird man zurückblicken auf die Aussage von Heute und die Warnungen besser verstehen.
+
+Damien Hirst der beide Seiten diese Medaille verkörpert hat: einerseits die Aussage über die Kunstwelt und damit alle zum Kotzen brachte, durch die Strategie, selber for the love of God zu versteigen? So viel Geld zu verdienen und damit die Kunstwelt um die nase herumzuführen macht bekanntlich auch Banksy. Aussage Korrekt, eigene Interesse aber kolladiert, damit werden sie in eine andere Künstlerklasse getan. Oder Maurizio Cattalan, der vielleicht mit seinem verdienst als Künstler, ein Vermögen besser umgeht? weil der ein Künstler Biennale auf einem Insel zu Sommerpause darstellt (the joke is on who bitte?) aber jetzt auch ein Nonprofit Künstlerloch aufgemacht hat, wo alle ausstellen können. ???  TODO:   das ist unfertig formuliert, sehr stichpunktartig, ab santiago wieder gut ???  TODO:  
 Santiago Sierra hingegen verschafft sich eine solide moralische Deckung, in dem er die Gelder, die ihm zu seiner Ausstellungsverwirklichung zugeteilt sind, weiterleitet, an die benachteiligten TeilnehmerInnen seiner Aktionen. Der Künstler kauft sie sozusagen, der und bezahlt sie aus dem Kunstetat.
 
 Zurück zum *Basquiat*-Film, der laut mancher Kritik viel mehr ein Film über Schnabel sein soll, als über Jean Michel *Basquiat*. So oder so liefert der Film dem Betrachter einen tieferen Einblick in die Kunstwelt, indem viele Wahrheiten über das Künstlersein vermittelt werden.  
@@ -133,7 +140,7 @@ oder *Basquiat*’s Freund, (gespielt von Benicio del Toro gespielt), der ihn f�
  
 In einem Film über Andy Warhols *Factory* (SOURCE: Name, Jahr), wird ein Fernsehinterview inszeniert, in welchem Andy Warhol gefragt wird, warum er nichts selber produziert, sondern lediglich Kopien von Brillo Boxen herstellt. Warhol antwortet darauf: "Because it’s more easy“. Der Künstler ist also verrückt genug um zuzugeben, dass er nicht schwer arbeiten muss, um geniale zu sein.
 
-![Bild](images/bild.jpg) >  Film
+![Bild Film](images/bild.jpg)
 
 - Weitere wichtige Zitate aus Warhols "von A bis B":
 
@@ -143,14 +150,14 @@ In einem Film über Andy Warhols *Factory* (SOURCE: Name, Jahr), wird ein Fernse
 
    - Business Art: "Leonardo da Vinci hat seine Auftraggeber immer davon überzeugt, dass die Zeit, in der er nachdachte, etwas wert war, sogar mehr wert als die Zeit, in der er malte-, und das mag für ihn durchaus gegolten haben, ich weiß aber, dass die zeit, in der ich nachdenke, nichts wert ist. Ich erwarte, nur auf die Zeit bezahlt zu werden, in der ich etwas tue. Während ich im Krankenhaus lag, arbeitete der 'Stab' weiter, und mir wurde klar, dass ich mit meinem Unternehmen sozusagen ein Kinetische Business besass – es lief auch ohne mich weiter. Mir war das sehr lieb, denn für mich stand schon zu diesem Zeitpunkt fest, dass die größte Kunst das Geschäft mit ihr ist, also 'das Business' an sich. (…) nachdem ich also 'Kunst' gemacht hatte (wenn man es so nennen will), stieg ich in die Business-Kunst ein. Business-Kunst.(…) Kunst-Business. Das Business vom Kunst- Business“ [@Warhol:von A bis B, pp.86–87]
 
-    - "es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die
-Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während
-das bei der Business-Kunst der Fall ist. (Wenn die Business-Kunst keine
-Nutzen bringt, fliegt sie aus den Business"" pp130
+   - "es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die
+     Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während
+     das bei der Business-Kunst der Fall ist. (Wenn die Business-Kunst keine
+    Nutzen bringt, fliegt sie aus den Business"" pp130
 
-    - "Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten
-bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person
-ganz genau zugeschnitten sind." [@Warhol:von A bis B, pp.99]
+   - "Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten
+     bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person
+     ganz genau zugeschnitten sind." [@Warhol:von A bis B, pp.99]
 
 
 ## Im Bezug auf
@@ -206,7 +213,7 @@ Die Gruppe Azorro Collective (P) zeigt in ihrer Videoarbeit "Everything Has Been
 ## Basquenmütze ab?
 
 Das Bild vom Kü. mit Basquenmütze hat sich n-n- von der Welt verabschiedet, ( Bild Naomi Campble) Claire Fisher mit Safelei & pinsel trotz Fotografinsein!
-??? Hier fehlt noch was ???
+???  TODO:   Hier fehlt noch was ???  TODO:  
 ---
 
 Übrige Textfetzen:
