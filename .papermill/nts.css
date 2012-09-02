@@ -139,7 +139,7 @@ ul li ul li {
 }
 
 /*  dont show emphasized text in TOC */
-#TOC nav * em {
+#TOC nav > * > em {
 	display: none;
 	visibility: hidden;
 }
