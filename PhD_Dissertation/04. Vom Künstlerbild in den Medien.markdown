@@ -71,7 +71,7 @@ Musik und Lyrics
 	Ich finde, dass sie prima 
 	In unsere Gesellschaft passen
 
-(http://lyrics.wikia.com/Funny_Van_Dannen:Künstler_Sind_Nicht_überfüssig)
+<http://lyrics.wikia.com/Funny_Van_Dannen:Künstler_Sind_Nicht_überfüssig>
 
 
 2. CSS - Artbitch
@@ -115,7 +115,7 @@ Musik und Lyrics
 	Suck suck suck my art-hole
 	Suck suck suck my art-hole
 
-(http://lyrics.wikia.com/CSS:Artbitch)
+<http://lyrics.wikia.com/CSS:Artbitch>
 
 
 3. Saalschutz Leerer, Inhaltsloser Ausdruck 
@@ -223,76 +223,77 @@ TODO
 	in der Live show gong der Song gegen die Arbeitslosen, im Studio würde der Text es 
 	gegen die Fans und Zuhörer angepasst
 
+
 5. Spieltrieb Hypnose Lyrics
 
-Du musst ein Handy haben.
-Du musst ein Handy haben.
-Geh in den nächsten Laden.
-Du musst ein Handy haben.
-Frag nicht warum, 
-du musst es haben.
+	Du musst ein Handy haben.
+	Du musst ein Handy haben.
+	Geh in den nächsten Laden.
+	Du musst ein Handy haben.
+	Frag nicht warum, 
+	du musst es haben.
 
-Du musst die Emails checken.
-Du musst die Emails checken.
-Du darfst dich nicht verstecken.
-Du musst die Emails checken.
-Kommunikation um 's Verrecken, 
-darum musst du Emails checken.
+	Du musst die Emails checken.
+	Du musst die Emails checken.
+	Du darfst dich nicht verstecken.
+	Du musst die Emails checken.
+	Kommunikation um 's Verrecken, 
+	darum musst du Emails checken.
 
-Geh mit der Zeit, oder geh zu Grunde.
-Lauf mit, lauf mit, den Letzten beißen die Hunde.
-Lauf nicht in das Messer, 
-es wird alles besser.
+	Geh mit der Zeit, oder geh zu Grunde.
+	Lauf mit, lauf mit, den Letzten beißen die Hunde.
+	Lauf nicht in das Messer, 
+	es wird alles besser.
 
-Du musst ins Internet.
-Du musst ins Internet.
-Geh noch nicht ins Bett.
-Du musst ins Internet.
-Die Welt steht dir offen, 
-Ab in den Chat.
+	Du musst ins Internet.
+	Du musst ins Internet.
+	Geh noch nicht ins Bett.
+	Du musst ins Internet.
+	Die Welt steht dir offen, 
+	Ab in den Chat.
 
-Du brauchst die DVD.
-Du brauchst die DVD.
-Du brauchst die DVD.
-Du brauchst die DVD.
-Mfg. 
-Und PVC.
+	Du brauchst die DVD.
+	Du brauchst die DVD.
+	Du brauchst die DVD.
+	Du brauchst die DVD.
+	Mfg. 
+	Und PVC.
 
-Geh mit der Zeit, oder geh zu Grunde.
-Lauf mit, lauf mit, den letzten beißen die Hunde.
-Lauf nicht in das Messer, 
-digital ist besser.
+	Geh mit der Zeit, oder geh zu Grunde.
+	Lauf mit, lauf mit, den letzten beißen die Hunde.
+	Lauf nicht in das Messer, 
+	digital ist besser.
 
-Sei In und anerkannt,
-Sei immer auf dem neusten Stand.
-Bedürfnisse warten auf dich,
-Du kennst sie nur noch nicht.
+	Sei In und anerkannt,
+	Sei immer auf dem neusten Stand.
+	Bedürfnisse warten auf dich,
+	Du kennst sie nur noch nicht.
 
-Du musst ein Handy haben.
-Du musst ein Handy haben.
-Eine der schönsten Gaben.
-Du musst ein Handy haben.
-Die Wellen werden deinen Zellen 
-niemals schaden.
+	Du musst ein Handy haben.
+	Du musst ein Handy haben.
+	Eine der schönsten Gaben.
+	Du musst ein Handy haben.
+	Die Wellen werden deinen Zellen 
+	niemals schaden.
 
-Du brauchst den Klingelton.
-Du brauchst den Klingelton.
-Du brauchst ihn polyphon.
-Du brauchst den Klingelton.
-Geh ans Telefon, 
-es klingelt schon.
+	Du brauchst den Klingelton.
+	Du brauchst den Klingelton.
+	Du brauchst ihn polyphon.
+	Du brauchst den Klingelton.
+	Geh ans Telefon, 
+	es klingelt schon.
 
-Geh mit der Zeit, oder geh zu Grunde.
-Lauf mit, lauf mit, den letzten beißen die Hunde.
-Lauf nicht in das Messer, 
-Es wird alles besser.
+	Geh mit der Zeit, oder geh zu Grunde.
+	Lauf mit, lauf mit, den letzten beißen die Hunde.
+	Lauf nicht in das Messer, 
+	Es wird alles besser.
 
-Geh mit der Zeit, oder geh zu Grunde.
-Lauf mit, lauf mit, den letzten beißen die Hunde.
-Lauf nicht in das Messer, 
-Es wird alles besser.
+	Geh mit der Zeit, oder geh zu Grunde.
+	Lauf mit, lauf mit, den letzten beißen die Hunde.
+	Lauf nicht in das Messer, 
+	Es wird alles besser.
 
-(http://www.xlyrics.de/spieltrieb-lyrics/hypnose-lyrics.html 2.4.11 19:37)
+<http://www.xlyrics.de/spieltrieb-lyrics/hypnose-lyrics.html>, 2.4.11 19:37
 
 6. Le Tigre - GET OFF THE INTERNET 
 
