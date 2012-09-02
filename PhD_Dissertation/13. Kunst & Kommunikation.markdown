@@ -325,6 +325,7 @@ Jeder Versuch es zu kontrollieren wird scheitern.
 
 Konsumenten werden zu Distributoren ihrer eigenen Produktionen. 
 
+TODO: echter name des seminars
 * Entstanden im Rahmen und Inspiration von Graduierten Seminar Kunst & Kommunikation bei Dr. Frank Hartmann 2010/11
 
 #### Quellen
