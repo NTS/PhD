@@ -319,12 +319,13 @@ Galerist: 2
 Kurator: 1
 Mehrere: 5
 
+
 # STATISTIK K3:
 
 
 ## Fakultät: 
 
-----   -----
+
 F        P  
 ----   -----
 FK      17
@@ -333,13 +334,13 @@ LAK      3
 A        1
 M        2
 PD       1
-------------
+----   -----
 
 
 
 # Semester:
 
----   ---
+
  S     P
 ---   ---
  1     1
@@ -351,56 +352,57 @@ PD       1
  7     6
  8     8
  9     5
----------
+---   ---
 
 
 
 # Teilnahme K3
 
--------    -----
+
    K         P
 -------    -----
   1/3       19
   2/3        3
   3/3        6
-----------------
+-------    -----
 
 
 
 # Fragebogen Teil I Frage #7
 
-----------    -----
+
 F               P
 ----------    -----
 Reich           1
 Berühmt         3
 Beides          4
--------------------
+----------    -----
+
 
 
 
 # Fragebogen Teil II #6 (FB Teil I/II):
 
-----------    -----
+
 F               P
 ----------    -----
 Künstler        9
 Galerist        1 
 Kurator         1
 Mehrere         4
--------------------
+----------    -----
 
 
 
 # 7:
 
-----------    -----
+
 F				P
 ----------    -----
 Management      0
 Kreativ         5
 Beides          4
--------------------
+----------    -----
 
 
 
@@ -408,19 +410,19 @@ Beides          4
 
 TODO ??? Tabelle
 
-----------    -----
+
 F				P
 ----------    -----
 Ja              7
 Nein            0
 Vielleicht      ?
--------------------
+----------    -----
 
 
 
 # Fragebogen Teil 3: #5 TODO
 
-----------------    -----
+
 K                     P
 ----------------    -----
 Nationalkiosk         0
@@ -452,7 +454,7 @@ Nationalkiosk &       1
 Kioskwerke &
 KOP &
 KoMa
--------------------------
+----------------    -----
 
 
 
@@ -464,10 +466,11 @@ good & complicated             1
 good & easy                    2
 good & easy & practical        2
 good & practical               1
-----------------------------------
+-------------------------    -----
 
 
 # 17
+
 
 -------------------------    -----
 Yes                            4
@@ -475,7 +478,7 @@ No                             1
 I use it                       0
 similar pro. already           1
 Yes and I use it               1
-----------------------------------
+-------------------------    -----
 
 
 
