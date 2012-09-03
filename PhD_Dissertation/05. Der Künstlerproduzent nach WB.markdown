@@ -19,7 +19,7 @@ die man wohlmöglich dafür bezahlt. Irgendwann erkennt man, das man wie ein Dir
 Werden damit Kreativität und Produktivität miteinander vermischt?
 
 Die Verhältnisse zwischen Kunst und Arbeit sind nicht neu und dennoch erscheinen zurzeit unzählige Bücher und Reader, die sich unter Titeln wie *Work, Work,
-Work A Reader on Art and Labour* oder *Are you working too much Post-Fordism, Precarity and the Labor of Art* oder: *Wir nennen es Arbeit* mit den 
+Work A Reader on Art and Labour* oder *Are you working too much Post-Fordism, Precarity and the Labor of Art* mit den 
 Veränderungen in diesem Zusammenhang beschäftigen. Das ist an sich phänomenal. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
 Ansprache im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 immer noch für richtig. In seiner Rede spricht er davon, das der Autor 
 sich nicht in die Politik einmischen sollte, sondern darin seine Kraft ausüben müsse, worin er kompetent ist. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
@@ -45,9 +45,17 @@ Darüber hinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital
 wurde aus einer künstlerischen Beobachtung hergeleitet. 
 
 Das Internet hat die Arbeitsverhältnisse weiter verändert. Jeder ist heute in der Lage, seine Geschäfte von Zuhause zu erledigen.  
-Unbefristete Stellenangebote sind immer seltener zu finden. Man arbeitet entweder von einer befristeten Stelle zur nächsten oder von einem kurzfristigen Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast als Fertigkeit angesehen werden kann und die Künstler schon längst beherrschen. An dieser Stelle ist auch der Begriff "Digitale Boheme" zu erwähnen. ???  TODO:   das sollte zumindest hier erklärt werden und nicht nur kurz erwähnt ???  TODO:  
-Reguläre Arbeitnehmer arbeiten nach vornehmlich geregelten Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. KünstlerInnen kennen keine 'Freizeit', selbst wenn sie im Urlaub sind, sind sie weiter schöpferisch und kreativ tätig. Tageszeiten, Wochenpläne, Wochenende und Feiertage sind Strukturen, 
-an die sich KünstlerInnen grundsätzlich anpassen müssen. Die Kreativität jedoch kennt Strukturen dieser Art nicht. Sie benötigt die Freiheit und die 'Todeslinie' (deadline) am Ende, damit überhaupt etwas festgelegt oder gar 'strukturiert' werden kann.
+Unbefristete Stellenangebote sind immer seltener zu finden. Man arbeitet entweder von einer befristeten Stelle zur nächsten oder von einem kurzfristigen 
+Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast als Fertigkeit angesehen werden kann und die Künstler schon längst
+beherrschen. An dieser Stelle ist auch der Begriff "Digitale Boheme" zu erwähnen, der bei der Künstlergruppe *Rosa* im gebrauch war, 
+und nach Erscheinung des Buches *Wir nennen es Arbeit* von Holm Friebe und Sascha Lobo 2006, sich mindestens in der Deutsche Sprache 
+sich etabliert hat, um flexieble Arbeitsverhältnisse zu präsentieren. Reguläre Arbeitnehmer arbeiten nach vornehmlich geregelten 
+Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. KünstlerInnen kennen keine 'Freizeit', 
+selbst wenn sie im Urlaub sind, sind sie weiter schöpferisch und kreativ tätig. Tageszeiten, Wochenpläne, Wochenende und Feiertage sind Strukturen, 
+an die sich KünstlerInnen grundsätzlich anpassen müssen. Die Kreativität jedoch kennt Strukturen dieser Art nicht. Sie benötigt die Freiheit und die 
+'Todeslinie' (deadline) am Ende, damit überhaupt etwas festgelegt oder gar 'strukturiert' werden kann.
+
+Warhol dazu: "Leonardo da Vinci hat seine Auftraggeber immer davon überzeugt, dass die Zeit, in der er nachdachte, etwas wert war, sogar mehr wert als die Zeit, in der er malte-, und das mag für ihn durchaus gegolten haben, ich weiß aber, dass die zeit, in der ich nachdenke, nichts wert ist. Ich erwarte, nur auf die Zeit bezahlt zu werden, in der ich etwas tue. Während ich im Krankenhaus lag, arbeitete der 'Stab' weiter, und mir wurde klar, dass ich mit meinem Unternehmen sozusagen ein Kinetische Business besass – es lief auch ohne mich weiter. Mir war das sehr lieb, denn für mich stand schon zu diesem Zeitpunkt fest, dass die größte Kunst das Geschäft mit ihr ist, also 'das Business' an sich. (…) nachdem ich also 'Kunst' gemacht hatte (wenn man es so nennen will), stieg ich in die Business-Kunst ein. [@Warhol:vonAbisZ, pp.86–87]
 
 Die Tatsache das der Arbeitsplatz längst nicht mehr die Entscheidung über den Wohnort bestimmt, gerade durch die 
 Globalisierung, haben vor allem KünstlerInnen bereits für sich festgestellt und sich dementsprechend angepasst. 
