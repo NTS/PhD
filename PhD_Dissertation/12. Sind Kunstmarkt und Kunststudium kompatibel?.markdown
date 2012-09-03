@@ -1,4 +1,5 @@
 ## Sind Kunstmarkt und Kunststudium kompatibel?
+
 - Ein Podiumsdiskussion 
 
 Im Rahmen der erste "Bauhaus Essentials" Ausstellung und anlässlich der Teilnahme der Grafe-Kreativ-Preisgewinner an der preview im Berlin 
@@ -124,9 +125,9 @@ DIRK TESCHNER:
    Das beste Beispiel ist Gerhard Niedling, welcher mit dem Studium aufhörte, erfolgreich auf dem Markt war, es aber bitter bereute, da er sehr viele Seiten seiner Ausbildung verpasst hat.“
 
 TODO Zusammenfassung:
--
 
--
+- - -
+
 Fußnote: Zitat aus Monopol:
 
 Der Bundesverband Deutscher Galerien und Editionen e.V. (BVDG) gibt einen Leitfaden für die Zusammenarbeit von Künstlern und Galerien heraus. Die Broschüre schlägt vor, 
@@ -145,5 +146,5 @@ Instinktmensch. Wir wollen zusammen mit den Studierenden erkunden, welche allgem
 Folgerecht umzugehen ist, welche Fragen des Urheberrechts sie einfach kennen müssen etc. In drei Semestern entlassen wir sie dann in die ihnen gut bekannt gemachte 
 Realität der Kunstwelt. Und ich bin mir sicher, dass die ihnen vermittelte Systematik in der doch allgemeinen gesetzten folgenden Kunstwelt wesentlich nutzen wird.“
 
-+! Quelle!
++ ! Quelle!
 
