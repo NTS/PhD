@@ -14,9 +14,8 @@
 ---
 
 > INHALT
-
  
-> (Stand alone)
+> (Stand alone complex)
 
 > 01. (Intro).markdown
 > 02. Everything Has Been Done.markdown
