@@ -289,7 +289,7 @@ Gelingt dies, so sind sie froh, ihre Idee korrekt kommuniziert zu haben. Stets b
 Ereignissen, aus der Geschichte, dem Alltag, aber sie lassen dabei sich auch von Theoretikern beeinflussen.
 
 
-### Attention Whores
+## Attention Whores
 
 Dr. Georg Hehn reflektiert in seinem Artikel „Der Genius und die gelangweilten Anderen“[@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. 
 Seiner Meinung nach scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
