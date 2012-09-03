@@ -320,10 +320,10 @@ Kurator: 1
 Mehrere: 5
 
 
-# STATISTIK K3:
+## STATISTIK K3:
 
 
-## Fakultät: 
+Fakultät: 
 
 
 F        P  
@@ -338,7 +338,7 @@ PD       1
 
 
 
-## Semester:
+Semester:
 
 
  S     P
@@ -356,7 +356,7 @@ PD       1
 
 
 
-## Teilnahme K3
+Teilnahme K3
 
 
    K         P
@@ -368,7 +368,7 @@ PD       1
 
 
 
-## Fragebogen Teil I Frage #7
+Fragebogen Teil I Frage #7
 
 
 F               P
@@ -381,7 +381,7 @@ Beides          4
 
 
 
-## Fragebogen Teil II #6 (FB Teil I/II):
+Fragebogen Teil II #6 (FB Teil I/II):
 
 
 F               P
@@ -394,7 +394,7 @@ Mehrere         4
 
 
 
-## 7:
+ 7:
 
 
 F				P
@@ -406,7 +406,7 @@ Beides          4
 
 
 
-## 10:
+10:
 
 TODO ??? Tabelle
 
@@ -420,7 +420,7 @@ Vielleicht      ?
 
 
 
-## Fragebogen Teil 3: #5 
+Fragebogen Teil 3: #5 
 
 
 K                     P
@@ -458,7 +458,7 @@ KoMa
 
 
 
-## 15
+15
 
 -------------------------    -----
 practical                      2
@@ -469,7 +469,7 @@ good & practical               1
 -------------------------    -----
 
 
-## 17
+17
 
 
 -------------------------    -----
