@@ -39,18 +39,14 @@ Weiter heißt es in Meyers Online-Lexikon:
 
 ## I see how you see me
 
-Wie wird der Künstler von Anderen gesehen und beschrieben vs. wie Künstler sich selber beschreiben:
-
-???  TODO:   Das klingt noch sehr nach Zitatbausteinen. Soll es so sein ???  TODO: 
-
-In jedem Kunststudium wird über "Mimesis" (Nachahmung) sowie Platons Geniebegriff diskutiert. Ich würde gern folgendes Zitat aus Wolfgang Ullrichs
-Buch "Was war Kunst? Biografien eines Begriffs", als Ausgangspunktwählen. In seinem Versuch das *je ne sais quoi* (das gewisse Etwas) zu erläutern 
-schreibt er: "Nach Kants Kritik der Urteilskraft: 'Genie ist, nicht Geschicklichkeitsanlage zu dem, was nach irgendeiner Regel gelernt werden kann… 
-selbst nicht beschreiben oder wissenschaftlich anzeigen… '(in dem Sinne nicht erklären können was der Künstler selber tut). Positiv geäußert: Genie 
-ist die Gemütslage (Ingenium) durch welche die Natur der Kunst die Regel gibt.'" und seine Interpretation: "Nie Regeln zu folgen, sondern immer nur 
-etwas zu schaffen, das regelhaft ist, ohne selber je zur Regel werden zu können, - das ist Kants’ Umschreibung genial-schöpferischen Tuns". Der Künstler 
-wird oft als: "Der Seher und der Störenfried, der Schamane und der Außenseiter, der Clown und der Harlekin beschrieben – diese Rollen ergaben sich daraus, 
-dass der Künstler nicht weiß, was er macht", soweit Ullrich, oder: nicht weiß, wie er es in Worte fassen soll. Denn: "Er gilt als Medium höherer Kräfte, 
+Wie wird der Künstler von Anderen gesehen und beschrieben, und stimmt es überein wie Künstler sich selber beschreiben? In jedem Kunststudium wird über "Mimesis" 
+(Nachahmung) sowie Platons Geniebegriff diskutiert. Ich würde gern folgendes Zitat aus Wolfgang Ullrichs Buch *Was war Kunst? Biografien eines Begriffs*, als Ausgangspunktwählen. 
+In seinem Versuch das *je ne sais quoi* (das gewisse Etwas, das unbeschreibar zu fassen)zu erläutern, schreibt er: "Nach Kants Kritik der Urteilskraft: 'Genie ist, 
+nicht Geschicklichkeitsanlage zu dem, was nach irgendeiner Regel gelernt werden kann… selbst nicht beschreiben oder wissenschaftlich anzeigen… '(in dem Sinne nicht erklären 
+können was der Künstler selber tut). Positiv geäußert: Genie ist die Gemütslage (Ingenium) durch welche die Natur der Kunst die Regel gibt". Seine Interpretation: 
+"Nie Regeln zu folgen, sondern immer nur etwas zu schaffen, das regelhaft ist, ohne selber je zur Regel werden zu können, - das ist Kants’ Umschreibung genial-schöpferischen Tuns". 
+Der Künstler wird oft als: "Der Seher und der Störenfried, der Schamane und der Außenseiter, der Clown und der Harlekin beschrieben – diese Rollen ergaben sich daraus, 
+dass der Künstler nicht weiß, was er macht", soweit Ullrich, oder anders gesagt: nicht weiß, wie er es in Worte fassen soll. Denn: "Er gilt als Medium höherer Kräfte, 
 die über ihn verfügen (…) da er seine Werkprozesse nicht zu kontrollieren oder mitzuteilen vermag", was heute nicht mehr für alle Künstler so stimmt, 
 kann er nur für sich allein tätig sein. Er ist unzuverlässig, weil sich das, was er tut, kaum auf Wissen oder Know-How – auf erlernbare Faktoren – stützt.  
 (SOURCE:Wolfgang Ullrich „Was war Kunst? Biografien eines Begriffs“ S. 22)
@@ -58,11 +54,8 @@ kann er nur für sich allein tätig sein. Er ist unzuverlässig, weil sich das, 
 ![Georg Friedrich Kersting von Caspar David Friedrich](images/bild.jpg)
 
 Der Schaffensprozess bleibt ein Geheimnis: "ist es die Hand, das Auge oder der Kopf, wo sich das Eigentliche abspielt?" (SOURCE: ibid, S. 26)
-Über dieses Thema schreibt auch Verena Krieger: "Was ist ein Künstler? Genie. Heilsbringer. AntiKünstler". In ihrem Buch wird die eng verflochtene Entwicklung 
-theoretischer und künstlerischer Auffassungen über das Künstlertum von der Renaissance bis zur Gegenwart in Text und Bild nachgezeichnet.
+Über dieses Thema schreibt auch Verena Krieger: "Was ist ein Künstler? Genie. Heilsbringer. AntiKünstler". 
 (SOURCE: Verena Krieger, Köln 2007.http://www.zvab.com/displayBookDetails.do?itemId=11655262&b=1   http://www.sehepunkte.de/2007/10/pdf/13278.pdf ; 1.2.09)
-
-
 Die Frage, die ich gern stellen möchte, ist: Wer wirft den Blick auf die KünstlerInnen und wie verflochten sind dadurch die möglichen Interpretationen? 
 Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten:
 
@@ -73,7 +66,7 @@ Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten:
     - 12. monmartre clichee.jpg
     - 13. you look like a french artist! web.jpg
     - 15. french artist golf cap by ebay.jpg
-
+	
 Dieser "Look" entspricht eher dem Typ "Armer Künstler", oder dem daraus entstandenen Clichée. 
 In seinem Buch "Why are the Artists poor" von 2002 beschreibet Hans Abbing die verstrickten Verhältnisse zwischen Künstler und der Gesellschaft. 
 Abbing vertritt unter anderem die These, dass die Kunst für den Künstler zu heilig wäre, um in Worten wie Profit und Kommerz beschrieben zu werden. 
@@ -125,7 +118,6 @@ fast bis an die Metaebene gehoben, durch Selbstbeobachtung und Mitteilungsbedarf
 
 ## Kunst als *Business* 
 
-####???TODO: noch unklar und unfertig. habe bissl umgeschrieben- umgebaut ???  
 
   > "Es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während
   > das bei der Business-Kunst der Fall ist." 
