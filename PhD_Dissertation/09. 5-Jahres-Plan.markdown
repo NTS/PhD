@@ -36,8 +36,8 @@ TODO: Sowas wie die dinge fehlen und aufgrund weimar gesonderter Standort rolle,
 
 ## Das Format Fachkurs
 
+### ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
 WS 2007/08
-Fachkurs: ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
 In diesem Fachkurs werden alle Facetten und Schritte einer Ausstellung, von der Idee bis zur Eröffnung vorbereitet werden. 
 Thematisiert und praktiziert werden: Kontakt zur Galerie; Finanzierung; Terminplan; Pressearbeit; Künstler- Assistenz; 
 Objektbau und Werkstatt; Ausstellungsaufbau und Eröffnung.
@@ -411,14 +411,6 @@ man da hin? Warum muss ich da hin? Wie benimmt man sich da? Wie schreibt man Kri
 Was ist für mich wichtig?’ Wir müssen Kritiken schreiben oder Berichte verfassen, von außen betrachtend, objektiv. 
 
 
-! Fußnote: Aus dem Vorlesungsverzeichnis der Professur Freie Kunst
-Fakultät Gestaltung
-Termin: Montags 13:00-15:00 Uhr (Plenum)
-Hinweise: Vorstellungsgespräch ist erforderlich
-Teilnehmeranzahl: 15
-Leistungsnachweis: Note
-Unterrichtssprachen: Deutsch und English
-Richtet sich an: FK, LAK, VK, PD
 
 ## Skill Checklist 
 2007, beginnend mit meiner Stellenbesetzung, habe ich Fachkurse abgehalten, die alle um das professionelle künstlerische Umfeld kreisen. 
@@ -427,4 +419,12 @@ Geld Acquise & Anträge stellen bei der Kulturstiftung Thüringen, Kultusministe
 09bauhaus90. Recherche und vorstellung deren Resultate; Call for entries und Jurierung, Künstlerbetreuung, Auf- und Abbau. Im PR Bereich sind Pressemitteilungen sowie Einladungen, und zu jeder 
 Ausstlung wurde ein neues Website, Ortschild und Fenster Text produziert, und auf Twitter & Facebook publiziert.
 
+! Fußnote: Aus dem Vorlesungsverzeichnis der Professur Freie Kunst
+Fakultät Gestaltung
+Termin: Montags 13:00-15:00 Uhr (Plenum)
+Hinweise: Vorstellungsgespräch ist erforderlich
+Teilnehmeranzahl: 15
+Leistungsnachweis: Note
+Unterrichtssprachen: Deutsch und English
+Richtet sich an: FK, LAK, VK, PD
 
