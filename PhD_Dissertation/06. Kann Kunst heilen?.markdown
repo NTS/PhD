@@ -16,8 +16,10 @@ Patientenaufenthalt in Krankenhäusern, zur Verbesserung der Arbeitsbedingungen 
 Gesundheit fördert.“ Die Post kam via E-Flux, ein Online-Kunst-Nachrichten-Service, das neben der Ankündigung von Ausstellungen in der ganze Welt, auch Texte 
 über Kunst und Erziehung (Art & Education) veröffentlicht. 
 
-Die akademische wissenschaftliche Welt verfolgt mit Unruhe diese Entwicklung und zweifelt an der Fähigkeit, dass KünstlerInnen theoretische Texte und Dissertationen schreiben können, wenn diese nicht in traditioneller Art und Weise geschrieben sind. Viele Promovierende bestreiten eine künstlerische Freiheit, das heißt viele von ihnen wollen die 
-theoretischen Texte in Verbindung mit dem praktischen Teil wissen, welcher fünfzig Prozent der Promotion ausmacht. Sie wollen so schreiben, wie sie es als KünstlerIn verstehen. Die geforderte Seitenmenge der Dissertation zeigt uns die systematische Verankerung des klassischen Schreibens auch an Kunstakademien, 
+Die akademische wissenschaftliche Welt verfolgt mit Unruhe diese Entwicklung und zweifelt an der Fähigkeit, dass KünstlerInnen theoretische Texte und Dissertationen 
+schreiben können, wenn diese nicht in traditioneller Art und Weise geschrieben sind. Viele Promovierende bestreiten eine künstlerische Freiheit, das heißt viele von ihnen wollen die 
+theoretischen Texte in Verbindung mit dem praktischen Teil wissen, welcher fünfzig Prozent der Promotion ausmacht. Sie wollen so schreiben, wie sie es als KünstlerIn 
+verstehen. Die geforderte Seitenmenge der Dissertation zeigt uns die systematische Verankerung des klassischen Schreibens auch an Kunstakademien, 
 in denen vom Grundstudium an ebenfalls Theorieseminare angeboten werden: Zum Diplom werden üblicherweise ca. 20 Seiten schriftliche Arbeit gefordert, im 
 Masterabschluss sind 40 Seiten und im Ph.D. ca. 80 Seiten. Die Beschäftigung mit der Metaebene, das Streben nach dem Definieren des Prozesses vom eigenen 
 Tun, ist kein Einzelfall: neben Kolloquien und Konferenzen, über Themen wie Kunst und Design, die Avantgarde und das Kuratorium, ist das Thema künstlerische 
@@ -26,13 +28,10 @@ Recherche innerhalb der Institutionen, die solch ein Ph.D.-Programm anbieten, in
 
 Ein gutes Beispiel für diese Auseinandersetzung ist die Arbeit von Hagen Betzwieser, der seit 2001 das *Institut für Allgemeine Theorie* in Stuttgart, in Zusammenarbeit mit 
 mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Leiter der Akademie Schloss Solitude beschreibt die Tätigkeit von Betzwieser wie folgend: 
-“Das Institut für Allgemeine Theorie ist ein Projekt von unbestimmter Dauer, für alles von einem auf einer unendlichen Anzahl von Teilnehmern. ??? Hier stimmt irgendwie das Zitat nicht. da scheint was zu fehlen. für alles auf einer ….. macht keinen sinn ???
-
-Er arbeitet in einem undefinierten Bereich, in der Grauzone, wo es keine Unterscheidung zwischen Fiktion und Wissenschaft, Kunst und Handwerk, 
-selbständiges Arbeiten und Selbstausbeutung, zwischen Spiel-, Versuchs- und bezahlter Arbeit zwischen experimenteller und Atelier, zwischen 
-Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert 
-und in einem ständig wachsenden Archiv gesammelt”. Dieser Text hält in sich an den Künstler Hagen Betzwieser. Salmon dachte: „Könnte sie dieses Mail 
-weiter leiten? Er sucht immer nach neuen Kollaborateuren". ??? Das versteh ich nicht ???
+“Das Institut für Allgemeine Theorie ist ein Projekt von unbestimmter Dauer, für alles von einem auf einer unendlichen Anzahl von Teilnehmern. Er arbeitet in einem undefinierten 
+Bereich, in der Grauzone, wo es keine Unterscheidung zwischen Fiktion und Wissenschaft, Kunst und Handwerk, selbständiges Arbeiten und Selbstausbeutung, zwischen Spiel-, 
+Versuchs- und bezahlter Arbeit zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, 
+deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”. 
 
 Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläublichkeit gegenüber der 
 neuen Realität, einen Ph.D. Titel an KünstlerInnen zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]von 1978 bezieht sich der 
