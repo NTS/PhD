@@ -24,7 +24,8 @@ do
         [[ -f "$FILE" ]] || continue ## abort if no match in DIR
         echo "        [+] $FILE"
         cat "$FILE" >> "$TMP_FILE"
-        echo "\n\n\n" >> "$TMP_FILE"
+        echo >> "$TMP_FILE"          ## insert linebreak
+        echo >> "$TMP_FILE"          ## insert linebreak
     done
     
     # Move the generated markdown file into base dir
