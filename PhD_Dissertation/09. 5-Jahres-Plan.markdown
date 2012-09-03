@@ -1,6 +1,5 @@
 # 5-Jahres-Plan
 
-## Der Plan
 
 Vorwiegend im Rahmen von universitären Nebeninstitutionen (wie HIT etc.) aber auch im Lehrangebot, werden Fachkurse und Workshops als regulärer Unterricht angeboten.
 Ich verstehe meine Aufgabe darin, alle Aspekte der Kunst und der Öffentlichkeitsarbeit systematisch zu untersuchen und Wissen über Funktionsweisen 
@@ -35,6 +34,7 @@ TODO: Sowas wie die dinge fehlen und aufgrund weimar gesonderter Standort rolle,
 
 
 ## Das Format Fachkurs
+Kurz zum Format
 
 ### ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
 
