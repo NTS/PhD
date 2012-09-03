@@ -37,6 +37,8 @@ TODO: Sowas wie die dinge fehlen und aufgrund weimar gesonderter Standort rolle,
 ## Das Format Fachkurs
 
 ### ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
+
+
 WS 2007/08
 In diesem Fachkurs werden alle Facetten und Schritte einer Ausstellung, von der Idee bis zur Eröffnung vorbereitet werden. 
 Thematisiert und praktiziert werden: Kontakt zur Galerie; Finanzierung; Terminplan; Pressearbeit; Künstler- Assistenz; 
@@ -44,35 +46,35 @@ Objektbau und Werkstatt; Ausstellungsaufbau und Eröffnung.
 All dies wird durch die Begleitung einer kommenden Ausstellung in der ACC Galerie Weimar, 
 mit dem Galeristen Frank Motz, sowie dem Künstler Nikos Arvanitis realisiert.
 
-> "Ausstellungen von A-Z"
+Notizen
 Von der Idee über den Plan und die Materialanschaffung, Kunstwerke zu erzeugen. Die Pressearbeit spielte eine Rolle. Der Ablauf der 
 Ausstellung und die Künstlerassistenz waren wichtig. Ein ganz praktisches Beispiel hierfür ist das Künstler- Duo ‚Barking Dogs United’ 
 mit einer großen Ausstellung in der ACC Galerie in Weimar. Darauf aufbauend, boten wir einen Fachkurs an. Sechs Studenten nahmen daran 
 teil. Sie arbeiteten als unsere Assistenten in allen Tätigkeitsfeldern, nicht etwa als Knechte! Ich will an dieser Stelle betonen, 
 dass der Assistent ein Künstlerberuf ist. Man kann viel von anderen lernen und mitmachen.
 
+### ‚Hebräisch für Anfänger’ ‚Künstlerische Forschung I’
 SS 2008
-Fachkurs: ‚Hebräisch für Anfänger’ ‚Künstlerische Forschung I’
 In diesem Fachkurs werden alle Methoden einer Künstlerischen Forschung, hinsichtlich des Reisens, von der ersten Entscheidung 
 über das Thema bis zur Vorstellung von Resultaten, untersucht werden. Thematisiert werden: Vor- urteile, Kunst - Tourismus, 
 Exotik und Dilettantismus, Reiseberichte aus der Literatur und Einflüsse aus der Philosophie und der Wissenschaft. 
 Dies geschieht als Vorbereitung zur Israel-Exkursion.
 
-> "Hebräisch für Anfänger"
+Notizen:
 In einem weiteren sogenannten Kurs (der Ausdruck ist eigentlich nicht korrekt), besser in einem Projekt, welches ich leitete, ging es 
 um eine Reise nach Israel und in dem Zusammenhang um künstlerische Recherche. Bei uns gibt es Masterstudiengänge. Aber Kunst im öffentlichen 
 Raum und künstlerische Strategien sind Institutionen für sich. Allerdings entwickeln sich bei den Medien langsam Perspektiven für ein Masterstudium. 
 Zunächst ging es um die künstlerische Recherche zu allen Materialien. Wir stellten die Fragen: ‚Wie sammle ich das, wie kann man das präsentieren?’ 
 
-WS 2007/08 + SS 2009 + WS 2009/10
-Fachkurs: ‚K3 - wenn Künstler Kunst kuratieren’ (1-3)
+### ‚K3 - wenn Künstler Kunst kuratieren’ (1-3)
+WS 2007/08 + SS 2009 + WS 2009/10 
 Das ehemalige K&K Zentrum für Kunst und Mode, (heute KoCA Weimar, Kiosk of Contemporary Art) wird als Prototyp untersucht, 
 und als Biotop und Labor benutzt. In drei Etappen wird in diesem Fachkurs eine Kuratorenschule durchgeführt.
-Themen: Vorgeschichte, Konzept, Arbeitsverteilung, Zusammenarbeit, Künstler als Kuratoren, PR-Arbeit, Nachhaltigkeit, 
-mit Gastvorträgen und praktischer Umsetzung. Eröffnung des Bauhaus-Jubiläum 09, Ausstellungen: Auf- und Abbau im 6-Wochen-Takt, 
-Aufgabenverteilen und deligieren, Projektleitung, Umgang mit Öffentlichkeitsarbeit, sowie Dokumentation.
+Themen: Vorgeschichte, Konzept, Ortsname, Jury, Zusammenarbeit, Künstler als Kuratoren, PR-Arbeit, Nachhaltigkeit, 
+Eröffnung des Bauhaus-Jubiläum 09, Ausstellungen: Auf- und Abbau im 6-Wochen-Takt, Aufgabenverteilen und deligieren, 
+Projektleitung, Umgang mit Öffentlichkeitsarbeit sowie Dokumentation. mit Gastvorträgen und praktischer Umsetzung.
 
-> KIOSK 09
+Notizen:
 Wichtig ist, dass wir im ersten Semester damit angefangen haben, die Geschichte des Ortes zu recherchieren und danach ein paar Bilder 
 vom Kiosk09 zu machen. Es ging um Nachhaltigkeit. Ziel war es, die Frage zu beantworten, wie man das Äußere im Inneren widerspiegelt. E
 s ging nicht nur darum zu klären, wie man Geld verdient, sondern auch um die Vermittlung des Gefühls, wie es ist, 
@@ -153,7 +155,7 @@ Klicks kamen aus Amerika. Das Sommerloch war die berühmteste Arbeit.
 Dann kamen der Herbstputz und die letzten Ausstellungen. Das sah aus wie eine Einladung von der ‚MOMA’ hieß bloß ‚KOMA’. 
 Wir haben wirklich recherchiert, wie das im Original aussieht und mit New York etc.
 
-## STATISTIK K3:
+### Statistik K3:
 Bewertung Fachkurs Kiosk Frabo nach der Frage Was willst du eher sein mit der Antwort:
 Künstler: 9
 Galerist: 2
