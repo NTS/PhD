@@ -1,5 +1,9 @@
 # Was, oder wer ist ein Künstler?
 
+ > "Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt – aus irgendeinem Grund – jedoch an, es sei eine gute Idee, seine Mitmenschen 
+ > mit Kunst zu versorgen."" [@Warhol:vonAbisZ, pp.130]
+
+
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was, oder wer ist ein Künstler? 
 Wie stellt sich der Künstler selbst dar, was sind seine Aufgaben? Wie wird er von der Gesellschaft wahrgenommen? Existieren seit der Jahrtausendwende in Anbetracht der vielen neuen technischen Entwicklungen, verschiedene “Künstlertypen”, die man definieren könnte? Was hat sich in dem 
 Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft geändert? Hatte Joseph Beuys recht und ist heute jeder ein Künstler? 
@@ -113,16 +117,18 @@ Das Bild fungiert nicht als Mittel der Selbsterkenntnis, sondern in erster Linie
 
 ## Kunst als *Business* 
 
+####???TODO: noch unklar und unfertig. habe bissl umgeschrieben- umgebaut ???  
+
   > "Es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während
   > das bei der Business-Kunst der Fall ist." 
     [@Warhol:von A bis B, pp.130]
 
-???  TODO:   noch unklar und unfertig. habe bissl umgeschrieben- umgebaut ???  
 
 Die Künstler spiegeln ein Bild vom arroganten Arsch wider, wenn er mit Anzug sich sein Galerist oder Sammler nachahmt, und damit die Totale Anpassung 
 repräsentiert. Es ist wichtig, was der Künstler anzieht, die Frage ist nur, zur welche Gelegenheit, und ob die Ironie durchkommt oder nicht. Ist das der herrschenden Künstlertypus und dient es als Vorbild für Erfolg? Wenn bei StudentInnen die Fertigkeit, die beste Präsentation zu machen über die Inhalte steigt, was bedeutet das? 
 
 ???  TODO:   Kommender Abschnitt ganz unklar. auch eine Brücke zu damien hirst finden ???
+
 Man kann sich nicht nur darauf sich richten, wenn man sieht, wie Kritiker den Erfolgrezept in New York zerreissen. kunst wird noch nachdenklicher, hermetischer, sich mit den blick auf die gesellschaft richten und ihnen ein spiegel vorsetzt, und wenn der occupy Wind die Finanzzentern in Frankfurt erreicht, dann wird man zurückblicken auf die Aussage von Heute und die Warnungen besser verstehen.
 
 Damien Hirst der beide Seiten diese Medaille verkörpert hat: einerseits die Aussage über die Kunstwelt und damit alle zum Kotzen brachte, durch die Strategie, selber for the love of God zu versteigen? So viel Geld zu verdienen und damit die Kunstwelt um die nase herumzuführen macht bekanntlich auch Banksy. Aussage Korrekt, eigene Interesse aber kolladiert, damit werden sie in eine andere Künstlerklasse getan. Oder Maurizio Cattalan, der vielleicht mit seinem verdienst als Künstler, ein Vermögen besser umgeht? weil der ein Künstler Biennale auf einem Insel zu Sommerpause darstellt (the joke is on who bitte?) aber jetzt auch ein Nonprofit Künstlerloch aufgemacht hat, wo alle ausstellen können. ???  TODO:   das ist unfertig formuliert, sehr stichpunktartig, ab santiago wieder gut ???  TODO:  
@@ -138,10 +144,8 @@ In einem Film über Andy Warhols *Factory* (SOURCE: Name, Jahr), wird ein Fernse
 
 - Weitere wichtige Zitate aus Warhols "von A bis B":
 
-    - Eigenschaften: "Ich glaube, in den sechziger Jahren vergaßen die Leute, was Gefühle sind. Und ich glaube auch nicht, dass es ihnen wieder eingefallen ist. Ich glaube, wenn man Gefühle einmal von einer anderen Warte gesehen hat, kann man sie nie wieder als echt empfinden. Genau das ist mir passiert." [@Warhol:vonAbisB, pp. 33]
-
-    - Künstler: "Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt – aus irgendeinem Grund – jedoch an, es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen."" [@Warhol:von A bis B, pp.130]
-
+    
+   
    - Business Art: "Leonardo da Vinci hat seine Auftraggeber immer davon überzeugt, dass die Zeit, in der er nachdachte, etwas wert war, sogar mehr wert als die Zeit, in der er malte-, und das mag für ihn durchaus gegolten haben, ich weiß aber, dass die zeit, in der ich nachdenke, nichts wert ist. Ich erwarte, nur auf die Zeit bezahlt zu werden, in der ich etwas tue. Während ich im Krankenhaus lag, arbeitete der 'Stab' weiter, und mir wurde klar, dass ich mit meinem Unternehmen sozusagen ein Kinetische Business besass – es lief auch ohne mich weiter. Mir war das sehr lieb, denn für mich stand schon zu diesem Zeitpunkt fest, dass die größte Kunst das Geschäft mit ihr ist, also 'das Business' an sich. (…) nachdem ich also 'Kunst' gemacht hatte (wenn man es so nennen will), stieg ich in die Business-Kunst ein. Business-Kunst.(…) Kunst-Business. Das Business vom Kunst- Business“ [@Warhol:von A bis B, pp.86–87]
 
    
