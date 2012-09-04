@@ -149,17 +149,16 @@ Wir haben wirklich recherchiert, wie das im Original aussieht und mit New York e
 
 #### K3 - Der Fragebogen
 
-Seit anfang der Arbeit mit Prof. Norbert Hinterberger, haben wir das Model Fragebogen eingeführt 
+Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben wir das Model Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt mit sich
+administrative Information zu bekommen, neben Neigungen und Interesse an das Projekt und seine Inhalte zu spüren. Im gemischten Form (Amerikanisch und 
+"Warum? Fragen mit platz für Antwort"), Fragen wir, manchmal auf Humoristische weise, nach dies Fakten, die so stringent in einem Gespräch nicht zu sammeln wären.
 
-Die Bewertung dessen lässt sich aus der vereinfachte Form von Tabelle sehr gut lesen, und kann manches, über das wie der Zusammenhang vom Studium und Beruf, 
-für die Jünge Generation aus ihrer Sicht bedeutet
+Die Bewertung dessen lässt sich aus der Tabelle sehr gut lesen, und kann manches, über der Zusammenhang vom Studium und Beruf, 
+für die junge Generation aus ihrer Sicht bedeutet, erläutern.Jeder versucht für sich entscheiden, welche Motivation ihn zum Arbeiten treibt. 
+Will man zum Beispiel reich oder berühmt werden?  Im Mittelpunkt aller drei Fachkurse steht das Wissen um den Kunstbetrieb. Jeder Teilnehmende 
+stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Information benötigt, um im Kunstbetrieb zu funktionieren.
 
-Jeder muss für sich entscheiden, welche Motivation ihn zum Arbeiten treibt. 
-Will man zum Beispiel reich oder berühmt werden? Und jeder fragt sich, ob das ein Thema am Stammtisch sein kann. 
-Im Mittelpunkt aller drei Fachkurse steht das Wissen um den Kunstbetrieb. Jeder Teilnehmende stellt sich die Frage nach der 
-Teilnahme, ob er das Wissen braucht, ob er Ideen benötigt, um den Kunstbetrieb funktionieren zu lassen.
-
-TODO: ??? Einfügen Frabos 1-3 für hier oder als Anhang ???
+TODO: ??? Einfügen Frabos 1-3 (als Text, nur die Fragen), für hier oder als Anhang ???
 
 Bewertung Fachkurs Kiosk Frabo nach der Frage Was willst du eher sein mit der Antwort:
 Künstler: 9
