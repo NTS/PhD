@@ -1,6 +1,8 @@
 # Danke
 
 In diesem Langen Prozess bin ich von Menschen begleitet worden, und Hilfe erhalten, ohne welches diese Arbeit nie fertig geworden wäre
+meine besonderem Dank an Max F. Albrecht, Anke Hannemann, und Franziska Becher, die mit guten Rat, Geduld, und viel Eigenkraft mir geholfen haben, 
+meine Künstlerdasein für die Zeit der Recherche beiseite zu legen.
 
 
 * TKM
@@ -15,8 +17,8 @@ In diesem Langen Prozess bin ich von Menschen begleitet worden, und Hilfe erhalt
 
 ---
 * mfa
-
 * Anke Hannemann
++ Franziska Becher
 * Andrea Dietrich
 * Barbara Köper
 * Ofra Bruno
