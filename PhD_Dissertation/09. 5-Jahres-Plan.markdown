@@ -31,7 +31,7 @@ Thematisiert und praktiziert werden: Kontakt zur Galerie; Finanzierung; Terminpl
 Objektbau und Werkstatt; Ausstellungsaufbau und Eröffnung. All dies wird durch die Begleitung einer kommenden Ausstellung 
 in der ACC Galerie Weimar, mit dem Galeristen Frank Motz, sowie dem Künstler Nikos Arvanitis realisiert.
 
-Notizen
+Notizen:
 Von der Idee über den Plan und die Materialanschaffung, Kunstwerke zu erzeugen. Die Pressearbeit spielte eine Rolle. Der Ablauf der 
 Ausstellung und die Künstlerassistenz sind wichtig. Damit kann man 'üben' und lernen, mit Aufbau Problematiken sich besser zu konfrontieren.
 praktisches Beispiel hierfür war das Künstler- Duo *Barking Dogs United* der eine große Solo Ausstellung in der ACC Galerie in Weimar zu 
@@ -47,14 +47,16 @@ In diesem Fachkurs werden alle Methoden einer Künstlerischen Forschung, hinsich
 Exotik und Dilettantismus, Reiseberichte aus der Literatur und Einflüsse aus der Philosophie und der Wissenschaft. 
 Dies geschieht als Vorbereitung zur Israel-Exkursion.
 
-> "Hebräisch für Anfänger"
+Notizen:
 In diesem Fachkurs, ging es im Rahmen des projektes um eine Reise nach Israel und in dem Zusammenhang um künstlerische Recherche.
 Zunächst ging es um die Erkennung was von dem, was einer macht, künstlerische Recherche gelten kann, Methoden zu Materialsortierung.
 Ein überblick zu schaffen durch die Herrstellng von *Mind maps*, und die Übersetzung vom gesammeltes Material zur Präsentation. 
 
 
-### ‚K3 - wenn Künstler Kunst kuratieren’ (1-3)
+### ‚K3 - wenn Künstler Kunst kuratieren’ (1-3)*
+
 WS 2007/08 + SS 2009 + WS 2009/10 
+
 Das ehemalige K&K Zentrum für Kunst und Mode, (heute KoCA Weimar, Kiosk of Contemporary Art) wird als Prototyp untersucht, 
 und als Biotop und Labor benutzt. In drei Etappen wird in diesem Fachkurs eine Kuratorenschule durchgeführt.
 Themen: Vorgeschichte, Konzept, Ortsname, Jury, Zusammenarbeit, Künstler als Kuratoren, PR-Arbeit, Nachhaltigkeit, 
@@ -140,9 +142,11 @@ Dann kamen der Herbstputz und die letzten Ausstellungen. Das sah aus wie eine Ei
 Wir haben wirklich recherchiert, wie das im Original aussieht und mit New York etc.
 
 
+* Dies ist eine Zusammenfassung alle drei Fachkurse, siehe hier die OriginalFassung aus dem Vorlesungsverzeichnis:
+
 + **Wenn Künstler Kunst Kuratieren (K3)**
     - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, 
-und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von mir übernommen werden 
+      und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von mir übernommen werden 
     - In drei Etappen wird eine Art, Kuratorenschule stattfinden, Themen bearbeitet wie:
         - Nachhaltigkeit
         - Aussage
