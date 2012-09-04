@@ -39,5 +39,7 @@
 > 20. Links.markdown
 > 21. Danke.markdown
 > 22. Impressum.markdown
+> 23. KIOSK09.markdown
+> 24. See Attached (Anhang).markdown
 
 ---
