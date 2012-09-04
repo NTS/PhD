@@ -323,7 +323,7 @@ Grunde dabei zusein:
 "Praxisbezug" "Um über ausstellen nachzudenken"
 
 
-* Dies ist eine Zusammenfassung alle drei Fachkurse, siehe hier die OriginalFassung aus dem Vorlesungsverzeichnis:
+* Dies ist eine Zusammenfassung alle drei Fachkurse, siehe hier die Originalfassung aus dem BUW Vorlesungsverzeichnis:
 
 + **Wenn Künstler Kunst Kuratieren (K3)**
     - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, 
@@ -453,8 +453,6 @@ Es werden Kritiken geschrieben oder Berichte verfassen, Ein Versuch, sich von au
 
 
 
-
-
-! Fußnote: Die Fachkursbeschreibung bezieht sich auf der Online Vorlesungsverzeichnis der Professur Freie Kunst Fakultät Gestaltung auf der 
+! Fußnote: Alle Fachkurs Beschreibungen beziehen sich auf der Online Vorlesungsverzeichnis der Professur Freie Kunst Fakultät Gestaltung auf der 
 Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English, und es richtete sich an der Studierenden aller Fakultäten.
 
