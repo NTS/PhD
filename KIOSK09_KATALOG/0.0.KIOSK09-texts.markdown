@@ -1,4 +1,4 @@
-% KIOSK09-KATALOG
+% Dokumentation Praktischer Teil (KIOSK09-KATALOG)
 % Naomi Tereza Salmon
 
 ## KIOSK09 - PROJEKT
