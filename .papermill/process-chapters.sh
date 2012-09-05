@@ -9,7 +9,7 @@ BASE_DIR="$(pwd)"
 for DIR in $(find * -maxdepth 0 -type d )
 do
     echo "[>] Entering Folder "$DIR"..."
-    cd "$BASE_DIR"/"$DIR"
+    cd "$BASE_DIR"/"$DIR" # FIXME: this files with funky folders in repo
 
     # Process CHAPTER Files
     echo "    [#] Processing CHAPTERS..."
