@@ -8,6 +8,25 @@ source ./.papermill/papermill.config
 # Where we are
 BASE_DIR="$(pwd)"
 
+{	# MAKE TITLE AFTER
+	~/.cabal/bin/pandoc "PhD_Dissertation_After-Title.markdown" \
+	\
+	--smart \
+	--normalize \
+	\
+	--to=latex \
+	--latex-engine=xelatex \
+	--no-tex-ligatures \
+	\
+	--output="PhD_Dissertation_After-Title.generated.latex"
+	
+} && { 
+	echo "Made After-Title" 
+} || { 
+	echo "Could not make After-Title" 
+}
+
+
 # Find every folder and start a loop for it
 for PAPER in $(find * -maxdepth 0 -type d )
 do
@@ -16,8 +35,8 @@ do
 	cd "$BASE_DIR"
 	pwd
     echo "    [#] Generating PDF..."
-
-	{
+    
+	{   
 		~/.cabal/bin/pandoc "$PAPER.generated.markdown" \
 		\
 		--smart \
@@ -32,6 +51,9 @@ do
 		--latex-engine=xelatex \
 		--template="./.papermill/nts.latex" \
 		--no-tex-ligatures \
+		\
+		--include-before-body="PhD_Dissertation_After-Title.generated.latex" \
+		\
 		--output="$PAPER.pdf"
 		
 	} && {
