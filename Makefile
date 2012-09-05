@@ -18,8 +18,7 @@ html: chapters
 	sh .papermill/output-html.sh
 
 pdf: chapters
-	${PANDOC} "PhD_Dissertation.generated.markdown" --smart --normalize --number-sections --to=latex --latex-engine=xelatex --toc --no-tex-ligatures --output="PhD_Dissertation.pdf"
-	open PhD_Dissertation.pdf
+	sh .papermill/output-pdf.sh
 	
 # iBook
 epub: chapters
