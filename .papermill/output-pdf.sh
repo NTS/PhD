@@ -2,9 +2,6 @@
 
 # This script is called from the ../Makefile
 
-# VARS
-source ./.papermill/papermill.config
-
 # Where we are
 BASE_DIR="$(pwd)"
 
