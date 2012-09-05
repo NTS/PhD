@@ -3,7 +3,6 @@
 ## Künstler = Autor + Produzent 
 
 - "Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person ganz genau zugeschnitten sind." - Andy Warhol
-
 [@Warhol:vonAbisZ, pp.99]
 
 
@@ -91,8 +90,9 @@ oder sie zu ändern.
 ## Would you like to be modified? 
 *(Gegen/Argumente)*
 
+-----------------------------
 * Text n.n. Fertig, hier nur Fetzten, oder fällt aus
-
+-----------------------------
 im Jahr 2007 fragt sich Sigrid Schade in einem Symposium  (Akademie)
 
 zur Akademie trifft... Geisteswissenschaft und Humanismus, diese werden als eine unlukrative wahrgenommen, "Weil man da nicht Geld verdienen kann". 
