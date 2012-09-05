@@ -14,6 +14,9 @@ der Bauhaus-Universität und Gästen.
 
 Moderation: Naomi T. Salmon
 
+
+
+
 NAOMI TEREZA SALMON (NTS): 
    „Ich freue mich besonders über diese Diskussion, die mithilfe der marke.6 zustande gekommen ist. Ich glaube, es ist der richtige Moment, 
    um über die Beziehungen zwischen Kunstmarkt und Kunstakademie zu reden und die Änderungen in diesem Verhältnis noch einmal anzudeuten sowie über Reaktionen und 
@@ -102,7 +105,7 @@ SILKE OPITZ:
    Warum soll man nicht schon während des Studiums sein Medium finden? Die Bauhaus Universität definiert sich nicht über kunstakademische Klassen, wie Malerei, Skulptur, 
    Grafik und Zeichnung wie eine Kunstakademie. Man arbeitet projektbezogen und findet sein Medium über Projekte. Trotzdem ist man marktkompatibel, weil man letzten Endes liefert, was gefragt ist.“
 
-NAOMI TEREZA SALMON: 
+NTS: 
    „Es gibt natürlich auch Meinungen, dass das Kunststudium ein Studium sein solle, in welchem die Studierenden ihre Freiheit haben zu experimentieren. 
    Was ist da passiert, warum sind sie dann plötzlich marktreif, was hat sich geändert, in der Haltung vielleicht, selbst vom künstlerischen Werdegang, dass man sich reif fühlt, 
    bevor man sein Diplom gemacht hat? Es gibt bestimmt genug Leute, die sich dagegen wehren. Erst einmal stört es die Freiheit, man ist sozusagen zielstrebig darauf aus, auf den Markt zu kommen. 
@@ -124,11 +127,12 @@ DIRK TESCHNER:
    zu arbeiten und das Spektrum, welche die Uni noch zu bieten hätte, nicht voll auszuschöpfen.
    Das beste Beispiel ist Gerhard Niedling, welcher mit dem Studium aufhörte, erfolgreich auf dem Markt war, es aber bitter bereute, da er sehr viele Seiten seiner Ausbildung verpasst hat.“
 
+---------------------------
 TODO Zusammenfassung:
+--------------------------------
 
-- - -
 
-Fußnote: Zitat aus Monopol:
+! Fußnote: Zitat aus Monopol:
 
 Der Bundesverband Deutscher Galerien und Editionen e.V. (BVDG) gibt einen Leitfaden für die Zusammenarbeit von Künstlern und Galerien heraus. Die Broschüre schlägt vor, 
 die Künstler stärker an den Kosten zu beteiligen. Im Monopol-Interview erklärt Klaus Gerit Friese, Vorsitzender des BVDG, warum:
@@ -146,5 +150,5 @@ Instinktmensch. Wir wollen zusammen mit den Studierenden erkunden, welche allgem
 Folgerecht umzugehen ist, welche Fragen des Urheberrechts sie einfach kennen müssen etc. In drei Semestern entlassen wir sie dann in die ihnen gut bekannt gemachte 
 Realität der Kunstwelt. Und ich bin mir sicher, dass die ihnen vermittelte Systematik in der doch allgemeinen gesetzten folgenden Kunstwelt wesentlich nutzen wird.“
 
-+ ! Quelle!
+! Quelle!
 
