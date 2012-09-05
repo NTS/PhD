@@ -1,4 +1,79 @@
-# Links
+# Material
+ 
+## Bücher
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ { .editorial-content }
+
+UNSORTED!
+just a list, use this to not forget stuff which is not directly quoted.
+in the end it should be just a list of bibtex-markers.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+- [@Broeckling:Gegenwart]
+- [@Fergusion:Discourses]
+- [@Gehlen:Mashup]
+- [@Henckmann:Lexikon]
+- [@Johnson:Good]
+- [@Lanier:Gadget]
+- [@Luhan:Understanding]
+- [@Sennett:Verfall]
+- [@Tomasello:Urspruenge]
+- [@Hartmann]
+- [@Hirschhorn]
+
+Carey, John, What good are the arts? Faber & Faber, London 2005
+
+Bachmann – Medick, Doris, Cultural Turns, Neuorientierung in den Kulturwissenschaften, Rowolt, Hamburg 2006
+
+Battcock, Gregory, The New Art – a Critical Anthology, Dutton, New York, 1973
+
+Derrida, Jacques, On Cosmopolitanism and Forgiveness, Routlege, London & New York 2006
+
+Dresdner, Albert, Die Entstehung der Kunstkritik im Zusammenhang der Geschichte des Europäischen Kunstlebens, Bruckmann, München 1968 (1915)
+
+Flusser, Wilém, Von der Freiheit des Migranten, Einsprüche gegen den Nationalismus, Philo, Berlin 2000
+
+Freeland, Cynthia, But is it Art? An Introduction to Art Theory, Oxford University Press 2001
+
+Hannula, Mika, Artistic Research, Theories, methods and practices, ArtMonitor, Gothenburg, 2005
+
+Hannula, Mika, The Politics of Small Gestures, Chances and Challanges for Contemporary Art, art-ist, Istanbul 2006
+
+Hannula, Mika, & Vadén, Tere, Rock the Boat, Localized Ethics, the Situated Self, and Particularism in Contemporary Art, Salon Verlag, Köln 2003
+
+Heiser, Jörg, Plötzlich Diese Übersicht, was gute Zeitgenössische Kunst ausmacht, Ullstein, Berlin 2007
+
+Hoffmann, Hilmar, Kultur für alle, Perspektive und Modelle, Fischer, Frankfurt a.M. 1981
+
+Hohmann Katharina, Tietze Katharina, Pleasant_net, K&K Magazin, Verlag der Bauhaus Universität Weimar, 2006
+
+Mäetamm, Marko, How I became an Artist, Ausstellungskatalog, 2007 
+
+Mäetamm, Marko, Loser’s Paradise (I Love my Family), Ausstellungskatalog, Venice Bienalle 2007
+
+Maar, Christa, & Burda, Hubert (Hg.) Iconic Turn, Die neue Macht der Bilder, Dumont, Köln 2004
+
+Raphael, Max, Arbeiter, Kunst und Künstler, Verlag der Kunst, Dresden 1978
+
+Reinigungsgesellschaft The Social engine – exploring Flexibility, SoYAA – Galerie ACC, Budapest – Weimar 2007
+
+Schroer, Markus, Räume, Orte, Grenzen, Auf dem Weg zu einer Soziologie des Raums, Suhrkamp, Frankfurt a.M. 2006
+
+Ullrich, Wolfgang, Tiefer Hängen, Über der Umgang mit der Kunst, Wagenbach, Berlin 2007
+
+Ventura, Holger Kube, Politische Kunst Begriffe in den 1990er Jahren im Deutschsprachigen Raum, Edition Selene, Wien 2002
+
+Weintraub, Linda, In The Making Creative Options for Comtemporary Art, Distributed Art Publishers, New York 2003
+
+Zinggl, Wolfgang, (Hrsg.) WochenKlausur, Gesellschaftspolitischer Aktivismus in der Kunst Springer, Wien New York 2001
+
+Zizek, Slavoj, Liebe Dein Symptom wie Dich selbst! Jacques Lacans Psychoanalyse und die Medien Merve Verlag, Berlin 1991
+
+
+
+## Links
 
 curators gonna be hated
 
@@ -121,65 +196,3 @@ http://www.artfacts.net/en/artist/naomi-tereza-salmon-9348/profile.html
 
 
 Kunst & Komm alle Links and things
-
-#### Quellen
-
-## Links 
-
-- <http://www.text-raum.de/kultur_museen_wissenschaft_openmuseum/kunst-ist-kommunikation-museen-und-web-20>
-- <http://parapluie.de/archiv/kommunikation/kunst/parapluie-kommunikation_kunst.pdf>
-- <http://www.medienkunstnetz.de/themen/aesthetik_des_digitalen/aesthetik_kommunikativer_kontext/print/>
-
-- <http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen>
-- <http://www.asomatic.net/classes/readings/IsThereLoveTelematic_Ascott.pdf>
-- <http://hermetic.com/bey/>
-- <http://manovich.net/>
-- <http://www.picbadges.com/>
-- <http://www.picbadges.com/equality-11/2039756/>
-- <http://ih0.redbubble.net/work.5951382.2.fig,orange,mens,ffffff.logo-fake-art-v3.jpg>
-
-- <http://www.aes-group.org/ip.asp?number=12>
-
-- <http://www.teganforbes.com/handie.html>
-
-- <http://www.kunstzitate.de/bildendekunst/manifeste/bauhaus_1919.htm>
-
-- <http://ask23.hfbk-hamburg.de/draft/sammlungen/kunst_und_internet.html>
-
-- <http://foreclosurefraudnews.com/wp-content/uploads/2011/06/v-for-vendetta-guy-fawkes-masks-big.jpg>
-
-- <http://www.faculty.english.vt.edu/Collier/philsts/pdfs/latour-fullerdebate2003.pdf>
-- <http://www.haaretz.co.il/gallery/art/1.1592709>
-- <http://www.flickr.com/photos/eddiemalone/53522520/>
-- <http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/10-ascott-03.pdf>
-- <http://hyperallergic.com/41047/pepper-spray-cop-meme/>
-
-- Corporate Alphabet:
-  - <http://www.damnmagazine.net/magazines/back_issue/23>
-  - <http://frankdebakker.files.wordpress.com/2011/02/corporate_alphabet.jpg>
-  - <http://www.logoblog.org/wp-images/logo-alphabets.jpg>
-  - <http://i1143.photobucket.com/albums/n627/gwukelic/Corporate%20Logos/Yahoo-5.jpg>
-  - <http://smartmeme.org/img/original/corporate%20alphabet_1.jpg>
-  - <http://web.mit.edu/cms/bcc/blogpics/retail_alphabet.gif>
-
-- telematik:
-  - <http://lpdt2.wordpress.com/lpdt1/>
-  - <http://www.netzaesthetik.de/LIER_Web/material.swf>
-  - <http://www.asomatic.net/classes/readings/IsThereLoveTelematic_Ascott.pdf>
-
-## Bücher
-
-- [@Broeckling:Gegenwart]
-- [@Fergusion:Discourses]
-- [@Gehlen:Mashup]
-- [@Henckmann:Lexikon]
-- [@Johnson:Good]
-- [@Lanier:Gadget]
-- [@Luhan:Understanding]
-- [@Sennett:Verfall]
-- [@Tomasello:Urspruenge]
-- [@Hartmann]
-- [@Hirschhorn]
-
-## Literaturverzeichnis
-

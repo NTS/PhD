@@ -1,1 +1,0 @@
-# Bildnachweis /Image Credits

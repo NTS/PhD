@@ -8,24 +8,26 @@ source ./.papermill/papermill.config
 # Where we are
 BASE_DIR="$(pwd)"
 
-{	# MAKE TITLE AFTER
-	~/.cabal/bin/pandoc "PhD_Dissertation_After-Title.markdown" \
-	\
-	--smart \
-	--normalize \
-	\
-	--to=latex \
-	--latex-engine=xelatex \
-	--no-tex-ligatures \
-	\
-	--output="PhD_Dissertation_After-Title.generated.latex"
-	
-} && { 
-	echo "Made After-Title" 
-} || { 
-	echo "Could not make After-Title" 
-}
-
+for BLOCK in "PhD_Dissertation_Impressum" "PhD_Dissertation_After-Title"
+do \
+	{	# MAKE TITLE AFTER
+		~/.cabal/bin/pandoc ""$BLOCK".markdown" \
+		\
+		--smart \
+		--normalize \
+		\
+		--to=latex \
+		--latex-engine=xelatex \
+		--no-tex-ligatures \
+		\
+		--output=""$BLOCK".generated.latex"
+		
+	} && { 
+		echo "Made block "$BLOCK"" 
+	} || { 
+		echo "Could not make block "$BLOCK"" 
+	}
+done
 
 # Find every folder and start a loop for it
 for PAPER in $(find * -maxdepth 0 -type d )
@@ -51,11 +53,15 @@ do
 		--latex-engine=xelatex \
 		--template="./.papermill/nts.latex" \
 		--no-tex-ligatures \
+		--variable=lang:DE \
 		\
 		--include-before-body="PhD_Dissertation_After-Title.generated.latex" \
+		--include-after-body="PhD_Dissertation_Impressum.generated.latex" \
 		\
 		--output="$PAPER.pdf"
 		
+		#--variable=links-as-notes
+
 	} && {
 	
 		cp $PAPER.pdf ~/Dropbox/MFA+NTS/PHD.NTS-output
