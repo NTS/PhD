@@ -6,7 +6,7 @@
 BASE_DIR="$(pwd)"
 
 # Find every folder and start a loop for it
-for DIR in $(find * -maxdepth 0 -type d )
+for DIR in $(find * -maxdepth 0 -type d -not \( -name "images" \))
 do
 
     # Process MARKDOWN Files

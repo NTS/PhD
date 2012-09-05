@@ -27,7 +27,7 @@ do \
 done
 
 # Find every folder and start a loop for it
-for PAPER in $(find * -maxdepth 0 -type d )
+for PAPER in $(find * -maxdepth 0 -type d -not \( -name "images" \))
 do
 
     # Generate PDF Files
