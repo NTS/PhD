@@ -13,7 +13,7 @@ Der Künstler Benedikt Braun ist sich, neben diversen Ausstellungen und öffentl
 
 Als Absolvent der Bauhaus-Universität Weimar in den Bereichen Visueller Kommunikation und Freier Kunst stellt sich Braun in Endlosschleife mit einer gehörigen Portion Selbstironie die ewig währende Frage nach "Weltverbesserung" und Authentität.
 
-www.benediktbraun.de
+<www.benediktbraun.de>
 
 # *Galerie Eigenkiosk*
 
@@ -57,7 +57,7 @@ Die improvisierte, prekäre, größtenteils wiederverwendete und niemals fertige
 
 Große internationale Resonanz über eines der wohl zeitgemäßesten Medien erfuhr der KIOSK09 durch den KIOSK of PIRACY. Auf freiwillig unfreiwilliger Basis gekidnappt, wurde der Kiosk Basis für Kommunikation weit über den Stadt- und Tellerrand hinaus.
 
-Mehr dazu auf www.kiosk09.de
+Mehr dazu auf <www.kiosk09.de>
 
 # *KoMA — The Kiosk of Modern Art*
 
