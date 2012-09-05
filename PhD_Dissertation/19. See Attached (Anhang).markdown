@@ -1,8 +1,10 @@
 # See Attached (Anhang)
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* Hier ist noch keine Rechtsschreibungkorrektur stattgefunden
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Hier ist hoch keine Rechtsschreibungkorrektur stattgefunden
-1- Kiosk Fragebogen
+1. Kiosk Fragebogen
 2. American dad
 
 ## K3 - Der Fragebogen
@@ -58,7 +60,7 @@ TODO: ??? Einfügen Frabos 1-3 (als Text, nur die Fragen), für hier oder als An
 #### Fragebogen  KIOSK09 Teil 3 
 
 
-Wenn Künstler Kunst Kuratieren  WS 09/10
+    Wenn Künstler Kunst Kuratieren  WS 09/10
 
 
 5. Which exhibition did you like the best? please mark: Nationalkiosk  /  Eigenkiosk  /  KioskWerke  /  KoCA inn   /   KOP   /   KoMA   /   KSA   /   DNA - Why?	
@@ -82,16 +84,21 @@ Thank you for taking part in this Fachkurs!
 
 ### Tabelle 
 
-Chart pie wäre besser!
+    TODO: Chart pie wäre besser!
 
-Bewertung Fachkurs Kiosk Frabo nach der Frage Was willst du eher sein mit der Antwort:
+---
+
+    Bewertung Fachkurs Kiosk Frabo nach der Frage 
+    Was willst du eher sein mit der Antwort:
 
     Künstler: 9
     Galerist: 2
     Kurator: 1
     Mehrere: 5
 
-Fakultät: 
+---
+
+    Fakultät: 
 
 F        P  
 ----   -----
@@ -104,7 +111,7 @@ PD       1
 ----   -----
 
 
-Semester:
+    Semester:
 
  S     P
 ---   ---

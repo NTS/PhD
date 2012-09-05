@@ -112,7 +112,7 @@ Parallel dazu werden auch immer mehr KünstlerInnen als Kuratoren beschäftigt -
 erst Maurizio Cattelan (2006), dann Artur Żmijewski (2012). Im Jahr 1997 hatte es noch für Unruhe gesorgt, als sich die Schweiz für die Künstlerin Pipilotti Rist als künstlerische Leitung 
 der Expo-Ausstellung entschied.
 
-(!BILD) - The next Biennial should be curated by an artist!
+    TODO: (!BILD) - The next Biennial should be curated by an artist!
 
 Was bedeutet der öffentliche Raum für die Kunst? Derzeit gibt es kaum eine Biennale von Venedig bis Istanbul, ohne Außenstellen und ortbezogener, temporärer 
 Kunst. Oft widmet man sich Gebäuden außerhalb der klassischen Strukturen ihrer Ausstellungsräume. Der Übergang aus dem Reich der Museen und Galerien als 
