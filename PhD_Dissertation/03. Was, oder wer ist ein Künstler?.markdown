@@ -22,7 +22,7 @@ Hierzu ein Auszug aus [Meyers Online-Lexikon](http://lexikon.meyers.de/wissen/Ku
 Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". 
 
 
-![Künstler laut Pons](images/pons-kuenstler.png)
+**Bild:** [Künstler laut Pons](images/pons-kuenstler.png)
 
 
 Weiter heißt es in Meyers Online-Lexikon: 
@@ -51,7 +51,7 @@ die über ihn verfügen (…) da er seine Werkprozesse nicht zu kontrollieren od
 kann er nur für sich allein tätig sein. Er ist unzuverlässig, weil sich das, was er tut, kaum auf Wissen oder Know-How – auf erlernbare Faktoren – stützt.  
 (SOURCE:Wolfgang Ullrich „Was war Kunst? Biografien eines Begriffs“ S. 22)
 
-![Georg Friedrich Kersting von Caspar David Friedrich](images/bild.jpg)
+**Bild:** [Georg Friedrich Kersting von Caspar David Friedrich](images/bild.jpg)
 
 Der Schaffensprozess bleibt ein Geheimnis: "ist es die Hand, das Auge oder der Kopf, wo sich das Eigentliche abspielt?" (SOURCE: ibid, S. 26)
 Über dieses Thema schreibt auch Verena Krieger: "Was ist ein Künstler? Genie. Heilsbringer. AntiKünstler". 
@@ -86,7 +86,7 @@ Künstler wie Josef Beuys und Andy Warhol wussten das für ihre Zwecke zu Nutzen
 Lebzeiten und nicht erst nach dem Tod als berühmt und reich zu erscheinen hatte. Allenfalls soll man "Reich denken. Arm aussehen"[@source:tag]. 
 Nach [-@source:tag, pp. 102] war der Meister in Sachen Selbstdarstellung: Andy Warhol. 
 
-![Andy Warhol Selbstportrait 1967.jpg](images/andy-warhol_self-porttrait.jpg)
+**Bild:** [Andy Warhol Selbstportrait 1967.jpg](images/andy-warhol_self-porttrait.jpg)
 
 Wenn man die Arbeiten von Fotografen wie die US-amerikanische Fotografen Annie Leibowitz sieht, die während der 80er für das Magazin “The Rolling Stone” 
 viele US-amerikanische MusikerInnen und KünstlerInnen fotografiert hat, liegt der Schwerpunkt eher auf einer kreativen Idee der Fotografin selbst, die 
@@ -138,7 +138,7 @@ In einem anderem Film über Andy Warhols *Factory* (SOURCE: Name, Jahr), wird ei
 sondern lediglich Kopien von Brillo Boxen herstellt. Warhol antwortet darauf: "Because it’s more easy“. Der Künstler ist also verrückt genug um zuzugeben, 
 dass er nicht schwer arbeiten muss, um geniale zu sein. Also es entsteht eine Dichotomie, oder ein gestörtes Verhältnis zum Geld zumindest.
 
-![Bild Film](images/bild.jpg) Willem Dafoe - deswegen bin ich ein Elektriker
+**Bild:** [Willem Dafoe - deswegen bin ich ein Elektriker](images/bild.jpg)
   
 
 ## Im Bezug auf
@@ -176,13 +176,13 @@ Er gestaltet seine Einladungen am eigenen Rechner, schreibt Texte, und wird soga
 Er verschickt eigenständig Ausstellungseinladungen, E-Mails, publiziert sein Werk auf Internet Plattformen wie Facebook und versteigert seine eigene Arbeit bei Sotheby’s (Siehe der Fall Damien Hirst). 
 Jeff Koons hat 80 Assistenten und steht hier im Bild wie jeder andere Unternehmer vor seinen Mitarbeitern, die ihm alles im Stil von “Kult des Künstlers” vorproduzieren. 
 
-![Jeff Koons Atelier](images/jeff-koons-atelier.jpg)
+**Bild:** [Jeff Koons Atelier](images/jeff-koons-atelier.jpg)
 
 Der "Markt" schlägt zurück. Im Jahr 2010 kam der *Kunstmarktbox*  
 
-![Bild: Kunstmarktbox](images/Kunstmarktbox.jpg) 
-![Bild: Kunstmarkt all view](images/Kunstmarkt-all-view.jpg) 
-![Bild: Kunstmarkt 2 Karten D modern.jpg](images/Kunstmarkt-2-Karten-D-modern.jpg) 
+**Bild:** [Bild: Kunstmarktbox](images/Kunstmarktbox.jpg) 
+**Bild:** [Bild: Kunstmarkt all view](images/Kunstmarkt-all-view.jpg) 
+**Bild:** [Bild: Kunstmarkt 2 Karten D modern.jpg](images/Kunstmarkt-2-Karten-D-modern.jpg) 
 
 Ein Blick von Außen auf den Künstler verleiht einen Ausdruck über die unausgesprochene Leichtigkeit des Künstlerseins auch durch Bücher wie 
 "Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch", der für eine Weile in jedem Museumsshop erhältlich war und kein Sprachführer, 
