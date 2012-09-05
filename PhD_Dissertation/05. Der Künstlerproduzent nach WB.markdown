@@ -2,8 +2,9 @@
 
 ## Künstler = Autor + Produzent 
 
-- "Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person
-  ganz genau zugeschnitten sind." [@Warhol:vonAbisZ, pp.99]
+- "Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person ganz genau zugeschnitten sind." - Andy Warhol
+
+[@Warhol:vonAbisZ, pp.99]
 
 
 Zu Goethes Zeit wurde per Hand geschrieben. Um ihn herum gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
