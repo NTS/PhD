@@ -58,7 +58,7 @@ do
 		
 	} && {
 	
-		cp $PAPER.pdf.pdf ~/Dropbox/MFA+NTS/PHD.NTS-output
+		cp $PAPER.pdf ~/Dropbox/MFA+NTS/PHD.NTS-output
 		open "$PAPER.pdf"
 	}
 	
@@ -66,3 +66,6 @@ do
 	# END Process MARKDOWN Files
 	
 done
+
+# CLEANUP
+rm PhD_Dissertation_After-Title.generated.latex
