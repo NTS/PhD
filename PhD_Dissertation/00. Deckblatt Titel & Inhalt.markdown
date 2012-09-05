@@ -27,7 +27,7 @@
 > 08. Z.B. BUW.markdown
 > 09. 5-Jahres-Plan.markdown
 > 10. Akademie trifft Kunstmarkt.markdown
-> 11. Das Konstrukt Bauhaus essentials.markdown
+> 11. Das Konstrukt Bauhaus Essentials.markdown
 > 12. BE-I Podiumsdiskussion.markdown
 > 13. Kunst & Kommunikation.markdown
 > 14. Exile on Main Street.markdown
