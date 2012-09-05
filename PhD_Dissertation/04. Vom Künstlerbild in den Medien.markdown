@@ -1,9 +1,11 @@
 # Vom Künstlerbild in den Medien
 
+-----------------------------
 dieses Kapitel würde in seiner Endfassung auf Grammatik nicht überprüft.
 zu überlegen wäre, ob als Kapitel für sich hier passt, oder
 Teils zurück zu voriger Kapitel, die songs müssen wahrscheinlich draussen bleiben.
 Es stellt sich die Frage wegen Rechte beim publizieren etc. was zum Verzicht auf das Ganze führen konnte.
+-----------------------------
 
 
 ## Dorian Gray in CMKY
@@ -35,19 +37,19 @@ Diskrepanzen in der Wahrnehmung des Zuschauers? In die Comicsserie *American dad
 Geburtstagsgeschenk. Durch die ganze Episode, werden alle Klishees zum Verhältnis Künstler & Kunstmarkt behandelt. (Siehe Volle 
 Transcription im Anhang) Hier nur ein Beispiel:
 
-HUND: „Dein Sohn nutzt seine Begabung um sich seinen Traum zu erfüllen.“
+> HUND: „Dein Sohn nutzt seine Begabung um sich seinen Traum zu erfüllen.“
 
-VATER: „Ich habe keinen Sohn mehr. Wenn Chris mich nicht braucht, dann brauch ich ihn auch nicht. Es wird dir gefallen berühmt 
-zu sein, Maggie, und nur in New York schafft man das.“
+> VATER: „Ich habe keinen Sohn mehr. Wenn Chris mich nicht braucht, dann brauch ich ihn auch >nicht. Es wird dir gefallen berühmt 
+>zu sein, Maggie, und nur in New York schafft man das.“
 
-TOCHTER: „Ach weiß nicht Dad, was soll ich denn machen?
+>TOCHTER: „Ach weiß nicht Dad, was soll ich denn machen?
 
-VATER: „Jeder kann irgendwas sehr gut, man muss nur sein verborgenes Supertalent rausfinden, aber versprich mir sobald du Erfolg 
-hast, lass mich die Vorteile nutzen von alle den….“
+>VATER: „Jeder kann irgendwas sehr gut, man muss nur sein verborgenes Supertalent rausfinden, >aber versprich mir sobald du Erfolg 
+>hast, lass mich die Vorteile nutzen von alle den….“
 
-TOCHTER: „Ich glaube ich habe zu gar nichts eine Begabung.“
+>TOCHTER: „Ich glaube ich habe zu gar nichts eine Begabung.“
 
-VATER: „Bitte denke scharf nach, es muss doch etwas geben was du kannst?!“
+>VATER: „Bitte denke scharf nach, es muss doch etwas geben was du kannst?!“
 
 
 ## The Artbitch
