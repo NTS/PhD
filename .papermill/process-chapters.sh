@@ -6,7 +6,7 @@
 BASE_DIR="$(pwd)"
 
 # Find every folder and start a loop for it
-for DIR in $(find * -maxdepth 0 -type d )
+for DIR in $(find * -maxdepth 0 -type d -not \( -name "images" \))
 do
     echo "[>] Entering Folder "$DIR"..."
     cd "$BASE_DIR"/"$DIR" # FIXME: this files with funky folders in repo
