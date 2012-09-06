@@ -41,7 +41,7 @@ werden Fertigkeiten im Bereich Computerprogramme (video und Digitale Bildbearbei
 Es war meine Aufgabe, das, was ich vermitteln möchte, an diese Format anzupassen. und das, was man in praktische Fachkurse. 2007, beginnend mit 
 meiner Stellenbesetzung, habe ich folgende Fachkurse abgehalten, die alle um das Studium Freie Kunst und das professionelle künstlerische Umfeld kreisen. 
 
-!Foto Kiosk auf'm Tisch geritzt
+**Bild:** [Foto Kiosk auf'm Tisch geritzt](images/bild.jpg)
 
 ### ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
 
@@ -60,7 +60,7 @@ praktisches Beispiel hierfür war das Künstler- Duo *Barking Dogs United* der e
 verwirklichen hatte. Darauf aufbauend, boten wir einen Fachkurs an. Sechs Studenten nahmen daran teil. Sie arbeiteten zu in allen 
 Tätigkeitsfeldern, und konnten auf grund dieser Erfahrung probieren, ob dass Assistenz ein Künstlerberuf für sie in Frage käme. 
 
-Foto BDU Aufbau im ACC
+**Bild:** [Foto BDU Aufbau im ACC](images/bild.jpg)
 
 ### ‚Hebräisch für Anfänger’ ‚Künstlerische Forschung I’
 
@@ -78,10 +78,17 @@ Zunächst ging es um die Erkennung was von dem, was einer macht, künstlerische 
 Ein überblick zu schaffen durch die Herrstellng von *Mind maps*, und die Übersetzung vom gesammeltes Material zur Präsentation. 
 
 
-### ‚K3 - wenn Künstler Kunst kuratieren’ (1-3)*
+### ‚K3 - wenn Künstler Kunst kuratieren’ (1-3)[^fachkurse-vlv]
+
+[^fachkurse-vlv]: Alle Fachkurs Beschreibungen beziehen sich auf der Online Vorlesungsverzeichnis der Professur Freie Kunst Fakultät Gestaltung auf der 
+Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English, und es richtete sich an der Studierenden aller Fakultäten.
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Fußnote: Dies ist eine Zusammenfassung alle drei Fachkurse, siehe hier die Originalfassung aus dem BUW Vorlesungsverzeichnis:
+Dies ist eine Zusammenfassung alle drei Fachkurse, 
+siehe hier die Originalfassung aus dem
+BUW Vorlesungsverzeichnis:
+
 hier korrektur bitte
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -112,7 +119,10 @@ Wir machten uns sofort an das PR- Arbeit. Das ist ein wichtiger Fakt, denn es gi
 fast alle sechs Wochen wechselten. Die Studenten mussten sich jetzt mit Eröffnung, Aufbau, Abbau, sowie der Künstlerbetreuung beschäftigen. 
 Wir mussten ebenfalls in kürzester Zeit die Aufmerksamkeit in der Stadt Weimar gewinnen. Weimar ist zwar klein, sprudelt aber über vor Kunst. 
 
-! Foto K3 bei der Arbeit (Fußnote: Welches im Kiosk09 Katalog zu finden ist) 
+**Bild:** [Foto K3 bei der Arbeit](images/bild.jpg)[^k3]
+
+[^k3]: Welches im Kiosk09 Katalog zu finden ist
+
 
 Es handelte sich um drei Semestern und Zwei Vorlesungsfreie Zeiten, also, semesterübergreifende Arbeit. Auf freiwilligen Basis, konnte jeder 
 Teilnehmer auch Projektleiter für einer der Ausstellungen werden. Ich war ständig im Hintergrund in Bereitschaft gewesen, um dringende Probleme 
@@ -154,8 +164,10 @@ Klicks kamen aus Amerika. Das Sommerloch wurde so zur berühmtesten Arbeit.
 Dann kamen der Herbstputz und die letzten drei Ausstellungen: KSA‚KOMA’& Kyosk DNA for a better life
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 TODO: ??? drei letzte Ausstellungen ???
+
+
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -239,7 +251,8 @@ um Mappe, Website, eigene PR und Rhetorik. Man musste sich selbst vorstellen usw
 Alles wurde innerhalb des Projekts bearbeitet. Dazu beschäftigten wir uns auch noch mit dem Bild des Künstlers in den Medien, in Fernsehserien 
 und Filmen. Wir saßen da und sahen uns Filme an, z.B. ‚Six Feet Under’, in welchem Claire Fischer eine Kunststudentin spielt. Alle diese 
 Positionen, auch aus den Medien, haben wir nochmals in Bezug auf uns reflektiert und diskutiert, wie wir dazu stehen. 
-??? hier waren es fast 50 Leute im fachkurs ???ß
+
+    ??? hier waren es fast 50 Leute im fachkurs ???
 
 
 ### ‚Miller's Crossing’
@@ -287,8 +300,4 @@ Gezeigt wird der Künstler, wie er sich in der Kunstwelt bewegt. Es geht um den 
 Man fragt sich: ‚Muss man da hin? Warum? Wie benimmt man sich? Wie schreibt man Kritiken? Wie reflektiere und beurteile ich Künstlerische Aussagen anderen? 
 Es werden Kritiken geschrieben oder Berichte verfassen, Ein Versuch, sich von außen zu betrachten. 
 
-
-
-! Fußnote: Alle Fachkurs Beschreibungen beziehen sich auf der Online Vorlesungsverzeichnis der Professur Freie Kunst Fakultät Gestaltung auf der 
-Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English, und es richtete sich an der Studierenden aller Fakultäten.
 

@@ -2,7 +2,7 @@
 
 ## Künstler = Autor + Produzent 
 
-- "Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person ganz genau zugeschnitten sind." - Andy Warhol
+> "Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf das Talent oder auf die Arbeit der betreffenden Person ganz genau zugeschnitten sind." - Andy Warhol
 [@Warhol:vonAbisZ, pp.99]
 
 
@@ -81,6 +81,8 @@ oder schreiben über ihre Lebensverhältnisse oder Gedanken über die Kunst, als
 
 Also haben KünstlerInnen, bei dem Versuch ihre Freiheit zu erhalten eine Möglichkeit, die Verhältnisse so wie sie sind hinnehmen und innerhalb vom System reagieren,
 oder sie zu ändern.
+
+---
 
 **Bild:** [bild Benedikt Brown Arbeit Arbeit los]()
 

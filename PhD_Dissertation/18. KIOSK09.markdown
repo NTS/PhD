@@ -1,12 +1,8 @@
-#  Kiosk Katalog
+#  Kiosk09-Katalog
 
-Unterlagen
- 
-- geschichte des Kiosk Idil
-- geschichte des kiosk (K&K)
-- ausstellungen von 1-8: Text & Bild
-- Kios06Depot
-
+~~~~~
+TODO: move to katalog
+~~~~~
 
 geschichte des kiosk (K&K)
 Der Kiosk wurde von einer Frau von zwei Künstlerische Mitarbeiterinnen, Katharina Hohmann wvon der Fakultät Freie Kunst, und Katharina Tietze von der Fakultät Medien 

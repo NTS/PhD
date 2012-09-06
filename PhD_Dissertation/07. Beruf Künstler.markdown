@@ -11,29 +11,29 @@ Kapitel wird zu ende geschrieben.
 
 die Kulturagentin Galia Yahav als Facebook Status notiert hat:
 
- "Was ist das, was sie an ihrem Beruf am meisten mögen? Ich liebe es am meisten, eine Pressemitteilung per mail von den Kuratoren, 
- von alle Teilnehmer der Ausstellung und die PR Agentur die sie unterstützt, dann alles erneut auf Facebook, dann per sms, 
- dann Erinnerung auf der Veranstaltungsseite an dem Tag, dann Fotos von der Eröffnung, nach eine Woche gibt es Nachricht über 
- Podiumsdiskussion oder Galeriegespräch in Anwesenheit alle Kuratoren und teilnehmende Künstler, dies kommt erneut nvon alle 
- Kuratoren und teilnehmende Künstler, und die Agentur, dann Anruf von der Agentur ob ich vorhabe, dahin zu kommen, dann Nachricht 
- über den Finissage via Mail, Facebook und sms"
+> "Was ist das, was sie an ihrem Beruf am meisten mögen? Ich liebe es am meisten, eine Pressemitteilung per mail von den Kuratoren, 
+von alle Teilnehmer der Ausstellung und die PR Agentur die sie unterstützt, dann alles erneut auf Facebook, dann per sms, 
+dann Erinnerung auf der Veranstaltungsseite an dem Tag, dann Fotos von der Eröffnung, nach eine Woche gibt es Nachricht über 
+Podiumsdiskussion oder Galeriegespräch in Anwesenheit alle Kuratoren und teilnehmende Künstler, dies kommt erneut nvon alle 
+Kuratoren und teilnehmende Künstler, und die Agentur, dann Anruf von der Agentur ob ich vorhabe, dahin zu kommen, dann Nachricht 
+über den Finissage via Mail, Facebook und sms"
 
 Die erste Kommentar darauf:
 
-"ich mag am besten, wenn ich manchmal den dicken Pinsel nehme, wo ich den dünnen meinte, dann entdecke ich da, und lache laut. 
+> "ich mag am besten, wenn ich manchmal den dicken Pinsel nehme, wo ich den dünnen meinte, dann entdecke ich da, und lache laut. 
 Dann werde ich müde und gehe ein Nickerchen machen" (Shay Yeheskeli - Künstler)
 
-Der nächste Künstlertypus: (see BDU manifest)Künstler arbeiten an eine utopische zustand. da sie selber kreieren, halten sie 
+- Der nächste Künstlertypus: (see BDU manifest)Künstler arbeiten an eine utopische zustand. da sie selber kreieren, halten sie 
 es vielleicht für egal, falls es scheitern konnte.
 
-Artstudent rant @Hyperallergic 
-(http://hyperallergic.com/54893/from-the-inbox-dear-universe-i-dont-pretend-to-have-figured-out-what-art-is/)+ bild vom pic 
+- Artstudent rant [@Hyperallergic](http://hyperallergic.com/54893/from-the-inbox-dear-universe-i-dont-pretend-to-have-figured-out-what-art-is/)+ bild vom pic 
 
 
 
-## Why, are the artists poor?
+## Why, are the artists poor?[^whyartistspoor]
 
-(Fußnote: nach dem Buchtitel von Hans Abbing *Why are the artists poor?*)
+[^whyartistspoor]: nach dem Buchtitel von Hans Abbing *Why are the artists poor?*
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Auch hier, zerfetzt noch
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,6 +101,7 @@ Künstler aus diverse Länder begegnet. kann als referenz gelten, sowie viele an
 1. Argument: es ist bedauerlich, aber Anpassung ist die beste Methode.
 
 > textreste
+
 Yaakov Mishori Statement 
 Das Machtgefühl des Kunstprofessors, die Yaakov Mishori beschreibt, die gibt es, das stimmt. Was ist Machtvoller, 
 als den Genie zu erkennen und ihm rauszukitzeln? dazu das Künstlerdasein, wie man ihm empfindet, weiterzugeben? 

@@ -1,17 +1,20 @@
 # Next Project.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-das ist das schlußwort. es steht viel drin, noch nicht geordnet. womöglich rausschmeissen, was nicht hier drin gehört
+das ist das schlußwort. es steht viel drin, noch
+nicht geordnet. womöglich rausschmeissen, was nicht
+hier drin gehört
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 > "I went from being an artist that makes things to being an artist that makes things happen" - Jeremy Deller
+> **Jeremy Deller**, Künstler, Turner Price Gewinner 2006 
 
-Jeremy Deller, Künstler, Turner Price Gewinner 2006 
 
+## Where do we go from here?[^gofromhere]
 
-## Where do we go from here?
-(song Yoko Ono)
+[^gofromhere]: (song Yoko Ono)
+
 
 !!! New york Magazin bericht!!!
 Kritiker den Erfolgrezept in New York zerreissen.
@@ -72,7 +75,8 @@ diese durchzusetzen. ??? hier ist vielleicht zu erwähnen, dass alle Kunsthochsc
 Für die kreativen Studiengänge bedeutet dies eine doppelte Anpassung, die enorme Verkürzung des Studiums und ein großes Mehr an Professionalisierung - die Vorbereitung für das Leben nach der Universität - innerhalb 
 der Studienzeit. Diese Entwicklung unterbindet den Laborgedanken eines Studiums auf drastische Weise und verhindert eine intensive Auseinandersetzung mit Nachbarthemen, sodass keine Zeit zum testen, probieren und experimentieren bleibt.  
 
-??? textfetzen ???
+    ??? textfetzen ???
+
 unbeachtet von Fremden aussterben, den dies verlagert sich auf die öffentlichkeit, durch ausstellungen, Fertigung 
 
 aus der perspektive der Bauhaus universität, wo Produkt eher ganz präsent ist wird die ermutigung zum frühverkauf mitgetragen
@@ -97,29 +101,31 @@ Lehreinrichtungen versorgte sie Positionen des Einflusses und der reichlich vorh
 an Künstler und Wissenschaftler Attraktivität und wilden Leidenschaften, die Arbeit in einem anderen Ort. Wenn Sie starren einander ehrlich wird ein 
 verzerrtes Spiegelbild von sich selbst erkennen
 
-http://www.haaretz.co.il/gallery/art/1.1791742
+<http://www.haaretz.co.il/gallery/art/1.1791742>
 
 BB7
-http://artwiki.org/Special:BrowseData/Artist
+<http://artwiki.org/Special:BrowseData/Artist>
 
 Paul Graham hackes & Painters
-http://www.paulgraham.com/hp.html
-http://paulgraham.com/desres.html
+<http://www.paulgraham.com/hp.html>
+<http://paulgraham.com/desres.html>
 
 
 ## Die Aktöre sagen:
-die Wirtschaft
-die Biennalen
-wievile noch kommen
-fuck the nationality
-die galleristen
-take what u can as long as it works
-lucrativity
-die Kuratoren
+
+    die Wirtschaft
+    die Biennalen
+    wievile noch kommen
+    fuck the nationality
+    die galleristen
+    take what u can as long as it works
+    lucrativity
+    die Kuratoren
 
 
 ## Die Künstler sagen: Fuck you!
 
+~~~~~
 fuck the curators - we curate ourselves
 fuck the galerist we sell ourselves
 fuck the press we publish ourselves
@@ -129,18 +135,19 @@ fuck the academy we teach and learn ourselves?
 fuck being an artist who makes things, rather be an artist which makes thigs happen
 
 וצרות התערוכה, נירית יעקב ויעל וישניצקי לוי, מדגישות כי הן הגיעו לתפקידן הנוכחי מן הצד השני של המתרס - שתיהן אמניות. עובדה זו משפיעה על האופן שבו הן רואות את מעשה האוצרות, כמבקש "להימנע מהתפקיד הכוחני של האוצר ומהסירוס שיכול להתגלם ביחסים בין גלריה, אוצר ואמן. קודם כל, הדבר בא לידי ביטוי בכך שהתערוכה מוצגת בגלריה בנימין, שהינה גלריה שיתופית. כמו כן, אנו נותנות מקום גם להנכחת עבודות שרירותיות ומפתיעות בתערוכה - לדוגמה, האמן עוז מלול יוצר עבורה עבודה פיסולית שעדיין איננו יודעות לחלוטין את כל הפרטים עליה".
+~~~~~
 
-BDU Manifesto
+- BDU Manifesto
 
-die konsequenten für mich
-für die Lehre: 
-für die Praxis
+    die konsequenten für mich
+    für die Lehre: 
+    für die Praxis
 
-nenne die prototype:
-Kunstmarktkünstler
-Künstlerkünstler
+    nenne die prototype:
+    Kunstmarktkünstler
+    Künstlerkünstler
 
-???? die folgenden 3 Abschnitte sind noch sehr salopp und stichpunktartig geschrieben und auch sprunghaft in den Gedanken  ????
+    ???? die folgenden 3 Abschnitte sind noch sehr salopp und stichpunktartig geschrieben und auch sprunghaft in den Gedanken  ????
 
 Die Konsequenz dieser Eigeninitiativen ist, dass ein Künstler heute auch ohne eine Galerie existieren und seine Werke bekannt machen kann. Die Vermittlung liegt in der eigenen Hand. Natürlich führt das auch zu vielen offenen Fragen, man muss sich anpassen und wer entscheidet über die Qualität der Arbeiten, usw. 
 Sind es die Marktkräfte? Ich glaube, sie sind noch stark genug. Wenn man malt, dann muss man die Zeit dazu haben, bei Konzeptkunst jedoch ist man froh, 
@@ -164,13 +171,19 @@ Akademie herzlich willkommen, aber er wird nicht nur gelobt. Es wird weiter rech
 man etwas erreichen. Wie schon erwähnt, ich glaube es entwickeln sich zwei Künstlersorten, ich fürchte jedoch, dass die meisten heutzutage zuerst reich und berühmt 
 werden und dann sterben wollen.
 
-## The proccess is the product!
+## The process is the product![^process-product]
+
+[^process-product]: Album by Genesis P. Orridge
+
+
 * scheitern als Erfolg
 
 # Outro
 
 es sind ver Jahre
-??? ab hier zum outro ???
+
+    ??? ab hier zum outro ???
+
 Es ist auch eine 
 Möglichkeit und meiner Meinung nach werden mehrere Künstlersorten entstehen, die 80 Assistenten haben. Und sie erledigen nicht nur die Arbeit 
 der Kunst, sondern machen auch die Buchhaltung und alles was dazugehört. Ich selbst habe Fotografie studiert und Kunst um öffentlichen Raum gemacht. 
@@ -182,4 +195,4 @@ Der Künstlerassistent ist ein wichtiger Punkt.
 
 Ja so hat es alles angefangen. Mitte im Kunstmachen und kuratieren und masterstudium, während ich an der UDK in Berlin als Gaststuent ein Semester verbracht habe, habe ich ein Zimmer mit andere Künstlerin in Berin geteilt. Zum kurzbesuch in Israel, erhielte ich die Anfrage, ein Artikel für ein Kunstmagazin zu schreiben. Ich habe über den Prozess der Professionaliesierung angefangen nachzudenken. Und es hat gestachelt. In der Zeit seitdem bin ich mit meine Gedanken immer Parallel und permanent auf diese Ebene geblieben. 
 
-and now,if you will excuse me, I am going to make some art.
+And now, if you will excuse me, I am going to make some art.
