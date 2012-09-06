@@ -54,7 +54,7 @@ do
 		--csl=".papermill/CSL/din-1505-2.csl" \
 		\
 		--to=latex \
-		--latex-engine=xelatex \
+		--latex-engine="/usr/texbin/xelatex" \
 		--template="./.papermill/nts.latex" \
 		--no-tex-ligatures \
 		--variable=lang:DE \
