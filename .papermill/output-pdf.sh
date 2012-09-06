@@ -2,6 +2,8 @@
 
 # This script is called from the ../Makefile
 
+source ~/.profile
+
 # Where we are
 BASE_DIR="$(pwd)"
 
