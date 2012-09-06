@@ -5,7 +5,14 @@
 # Where we are
 BASE_DIR="$(pwd)"
 
-for BLOCK in "PhD_Dissertation_Impressum" "PhD_Dissertation_After-Title"
+# DEV: Version and Date in Title
+echo "" > "Version.markdown"
+echo "> Version: \`\`$(git log -1 --pretty=format:"%H")\`\`  " >> "Version.markdown"
+echo "> Datum: \`\`$(date)\`\`  " >> "Version.markdown"
+echo "" >> "Version.markdown"
+
+
+for BLOCK in "PhD_Dissertation_Impressum" "PhD_Dissertation_After-Title" "Version"
 do \
 	{	# MAKE TITLE AFTER
 		~/.cabal/bin/pandoc ""$BLOCK".markdown" \
@@ -53,6 +60,7 @@ do
 		--variable=lang:DE \
 		\
 		--include-before-body="PhD_Dissertation_After-Title.generated.latex" \
+		--include-before-body="Version.generated.latex" \
 		--include-after-body="PhD_Dissertation_Impressum.generated.latex" \
 		\
 		--output="$PAPER.pdf"
@@ -71,4 +79,4 @@ do
 done
 
 # CLEANUP
-rm PhD_Dissertation_After-Title.generated.latex
+rm PhD_Dissertation_After-Title.generated.latex "PhD_Dissertation_Impressum.generated.latex" "Version.markdown"
