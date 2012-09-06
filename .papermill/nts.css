@@ -11,6 +11,14 @@ body > header {
 	margin-left: 24em;
 }
 
+//
+
+.editorial-content  {
+	background-color: lightsalmon;
+}
+
+//
+
 #TOC {
 	position: fixed;
 	width: 20em;
