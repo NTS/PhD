@@ -79,4 +79,4 @@ do
 done
 
 # CLEANUP
-rm PhD_Dissertation_After-Title.generated.latex "PhD_Dissertation_Impressum.generated.latex" "Version.markdown"
+rm PhD_Dissertation_After-Title.generated.latex "PhD_Dissertation_Impressum.generated.latex" "Version.markdown" "Version.generated.latex"
