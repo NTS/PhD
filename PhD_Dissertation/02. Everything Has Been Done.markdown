@@ -76,7 +76,7 @@ Sind Scheitern und Erfolg von KünstlerInnen nur noch an dem erreichten Olymp in
 oder die documenta zu messen? Was hat sich an dem Werdegang des KünstlerIn geändert, und wie sind die Defizite an Professionalität Kunststudenten 
 beizubringen? Was ist gelungen, und wo sind die Gefahrenstellen?
 
-Ist Ein Künstler erst erfolgreich, (Fußnote: damit ist der Erfolg sowohl im Wirtschaftlich als auch vom Status her), wenn er achtzig Assistenten 
+Ist Ein Künstler erst erfolgreich, [^footnote-bla](Fußnote: damit ist der Erfolg sowohl im Wirtschaftlich als auch vom Status her), wenn er achtzig Assistenten 
 beschäftigen und bezahlen kann? Wird er dadurch nicht genau der angepasste Unternehmer an ein System, an das er gar nicht glaubt? Georg Baselitz, 
 Olafur Eliasson oder Jeff Koons werden ständig durch Interviews über ihren "Betrieb" in Kunstmagazinen wie z.B. *Monopol* dargestellt. Man muss den Markt  
 reichlich und an diversen Stellen gleichzeitig beliefern. 
