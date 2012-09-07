@@ -238,7 +238,8 @@ Flussers Äußerungen der Kunst gegenüber in diesem Text sollte man aber aus de
 epistemologische Narrativ wahrnimmt: „Man kann nicht zeigen, wie sich die Dinge verhalten sollen, ohne gezeigt zu haben, wie sie sich tatsächlich 
 verhalten, also ein Dèontologisches Motiv“ [-@Flusser:Kommuni]. 
 
-Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Technik und ihre Ersetzung durch Technick an. Für ihn werden Bilder zu Kunstwerken, sobald sie aufhören, der dominante 
+Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Technik und ihre Ersetzung durch Technick an. Für ihn werden Bilder zu 
+Kunstwerken, sobald sie aufhören, der dominante 
 Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können. Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, 
 gerade mit der Entwicklung der „Vergleichbaren Ästhetik“ als Kunstsparte.[^footnote-relationalaest]
 
@@ -268,25 +269,16 @@ Künstler sind zunehmend ortsunabhängig, die Migrationsraten steigen und das Le
 doch in der Wirklichkeit ist zunehmend von den „Netz-Kinder“ zu hören (wobei diese sich im Gegensatz zu vorherigen „Generationen“ 
 nicht über eine Altersgruppe definieren lässt, wie der polnische Dichter Piotr Czerski in seinem Text ["Wir, die Netz-Kinder"](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt). 
 
-Die sog. “Millenials” sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein-und-die-selbe Realität. 
-Muttersprache und Fremdsprache werden durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung ersetzt.
-
-> „Der virtuelle Intellektuelle ist vor allem ausgestattet mit technischen Kompetenzen und kann sich ungehindert innerhalb von Online-Datenbanken, 
-Listenkulturen, Suchmachinen und Hypertext-Umgebungen bewegen. Tut er auch, heutzutage.“ 
-> [@Lovink:Dark, pp. 39]
-
-Sein Charakter ist vor allem als technisch zu bezeichnen, aber im Gegensatz zu seinen Vorgängern, ist er politisch nicht mehr einer 
-Sphäre im klassischen Sinn zuzuordnen, sondern hat sein Milieu im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer 
-Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
-
-> „Ziel der Demokratisierung der Medien ist die Abschaffung aller Formen medialisierte Repräsentation und künstlicher Verknappung von Kanälen. 
-> Die technischen Möglichkeiten, Menschen für sich sprechen zu lassen, (...) durch Kommunikationswerkzeuge“ 
-> [@Lovink:Dark, pp. 39]
-
-So gesehen treiben Künstler stets eine Art säkulare Exegesis, oder haben hermeneutische Züge, ob mit oder ohne Bewusstsein. 
-So etwas nennen sie dann künstlerische Recherche: In erste Linie für sich selbst, aber auch für ihr Publikum. 
-Gelingt dies, so sind sie froh, ihre Idee korrekt kommuniziert zu haben. Stets bieten sie eine kritische Interpretation von 
-Ereignissen, aus der Geschichte, dem Alltag, aber sie lassen dabei sich auch von Theoretikern beeinflussen.
+Die sog. “Millenials” sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein-und-die-selbe Realität. Muttersprache und Fremdsprache werden 
+durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung ersetzt.„Der virtuelle Intellektuelle ist vor allem ausgestattet mit technischen Kompetenzen 
+und kann sich ungehindert innerhalb von Online-Datenbanken, Listenkulturen, Suchmachinen und Hypertext-Umgebungen bewegen. Tut er auch, heutzutage.“[@Lovink:Dark, pp. 39]
+Sein Charakter ist vor allem als technisch zu bezeichnen, aber im Gegensatz zu seinen Vorgängern, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern hat 
+sein Milieu im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
+„Ziel der Demokratisierung der Medien ist die Abschaffung aller Formen medialisierte Repräsentation und künstlicher Verknappung von Kanälen. Die technischen Möglichkeiten, Menschen 
+für sich sprechen zu lassen, (...) durch Kommunikationswerkzeuge“ [@Lovink:Dark, pp. 39]. So gesehen treiben Künstler stets eine Art säkulare Exegesis, 
+oder haben hermeneutische Züge, ob mit oder ohne Bewusstsein. So etwas nennen sie dann künstlerische Recherche: In erste Linie für sich selbst, aber auch für ihr Publikum. 
+Gelingt dies, so sind sie froh, ihre Idee korrekt kommuniziert zu haben. Stets bieten sie eine kritische Interpretation von Ereignissen, aus der Geschichte, dem Alltag, aber 
+sie lassen dabei sich auch von Theoretikern beeinflussen.
 
 
 ## Attention Whores
