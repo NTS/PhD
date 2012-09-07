@@ -1,7 +1,7 @@
 # Was, oder wer ist ein Künstler?
 
  > "Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt – aus irgendeinem Grund – jedoch an, 
- > es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen - Andy Warhole  [^footnote-[@Warhol:vonAbisZ, pp.130]
+ > es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen - Andy Warhole  [^-[@Warhol:vonAbisZ, pp.130]
 
 
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was, oder wer ist ein Künstler? 
