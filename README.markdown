@@ -55,3 +55,8 @@ Sometime one wants to have notes. [^footnote-bla]
 Quotations [@Author:book, pp. 86]
 
 Author said[-@author:book]
+
+Just Book [@Author:book]
+
+## Fußnote
+[^LadyGaga] [^LadyGaga]:
