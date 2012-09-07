@@ -48,7 +48,7 @@ Das Internet hat die Arbeitsverhältnisse weiter verändert. Jeder ist heute in 
 Unbefristete Stellenangebote sind immer seltener zu finden. Man arbeitet entweder von einer befristeten Stelle zur nächsten oder von einem kurzfristigen 
 Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast als Fertigkeit angesehen werden kann und die Künstler schon längst
 beherrschen. An dieser Stelle ist auch der Begriff "Digitale Boheme" zu erwähnen, der bei der Künstlergruppe *Rosa* im gebrauch war, 
-und nach Erscheinung des Buches *Wir nennen es Arbeit* von Holm Friebe und Sascha Lobo 2006, sich mindestens in der Deutsche Sprache 
+und nach Erscheinung des Buches *Wir nennen es Arbeit* [@Friebe:Arbeit] von Holm Friebe und Sascha Lobo 2006, sich mindestens in der Deutsche Sprache 
 sich etabliert hat, um flexieble Arbeitsverhältnisse zu präsentieren. Reguläre Arbeitnehmer arbeiten nach vornehmlich geregelten 
 Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. KünstlerInnen kennen keine 'Freizeit', 
 selbst wenn sie im Urlaub sind, sind sie weiter schöpferisch und kreativ tätig. Tageszeiten, Wochenpläne, Wochenende und Feiertage sind Strukturen, 
