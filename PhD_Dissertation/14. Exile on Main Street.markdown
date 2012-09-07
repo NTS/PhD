@@ -12,20 +12,26 @@ TODO: In Kapitel teilen
 
 ## Über die Schönheit einer zufälligen Straßengemeinschaft
 
-> “…You would talk for hours and hours on the verbs ‘seeing’, ‘feeling’ etc., verbs describing personal experience. 
-> We get a peculiar kind of confusion or confusions which comes up with all these words”. 
-> **Ludwig Wittgenstein**
+>  “…You would talk for hours and hours on the verbs ‘seeing’, ‘feeling’ etc., verbs describing personal experience. 
+>  We get a peculiar kind of confusion or confusions which comes up with all these words”.   - Ludwig Wittgenstein
+>  [@Author:book, pp. 86]
+
+
+~~~~~ { .editorial-content }
+TODO: woanders hin!
 
 Als Leitmotiv für die anstehende Ausstellungsserie wurde von der Gruppe KISOK09 das Thema Aneignung gewählt. Mit diesem Thema als Ausgangspunkt – Künstler 
 interagieren mit anderen Künstlern – war das Anliegen der Ausstellungsserie, sich mit dem gegenwärtigen Phänomen der mutual reference, der Wiederverwendung und Anpassung 
 von Kunst zu beschäftigen. In unserem digitalen Zeitalter sind wir mit einer quantitativen und qualitativen Fülle sowie der schnellen Entstehung und Verbreitung von 
 Appropriation Art-Projekten konfrontiert. Besonders prägend ist das Phänomen, dass Künstler an das geistige Eigentum anderer Künstler und lokaler Kunstinstitutionen 
-anknüpfen. Zum Beispiel: Weimarer Nationaltheater mit Benedikt Brauns „Deutsche National Kiosk“, Galerie Eigenheim mit Anke Hannemanns „Eigenkiosk“, Stadtwerke Weimar 
-mit Anna Giersters „StadtwerksKiosk“ und internationale Institutionen wie dem MoMA mit Felix Rufferts „KoMA“. Die Aneignung beinhaltete das subversive Verändern der 
+anknüpfen. Zum Beispiel: Weimarer Nationaltheater mit Benedikt Brauns *Deutsche National Kiosk*, Galerie Eigenheim mit Anke Hannemanns *Eigenkiosk*, Stadtwerke Weimar 
+mit Anna Giersters *StadtwerksKiosk* und internationale Institutionen wie dem MoMA mit Felix Rufferts „KoMA“. Die Aneignung beinhaltete das subversive Verändern der 
 Logos der Institutionen, der Einladungskarten und Websites. 
 
 Dieses Konzept bedeutete eine große Herausforderung für uns, für den Kiosk und für seine Besucher. Der Kiosk am Sophienstiftsplatz hat sich in Weimar bereits einen 
 Namen gemacht und ist seit 2001 Bezugspunkt für KünstlerInnen wie für die Universität.  
+
+~~~~~
 
 Weimars "Kunstmeile", die Heinrich Heine Straße, besteht nun aus dem Neuen Museum, den Galerien marke.6 und Eigenheim, der Fotothek, der Kunsthalle Harry Graf Kessler und dem Kiosk. 
 Seit April 2009 wurde der Kiosk, der zuvor den Namen KoCA (Kiosk of Contemporary Art) trug, unter diesem Konzept geführt. So verlangte jede Ausstellung nach einem neuen Schild, 
