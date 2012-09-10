@@ -55,12 +55,8 @@ Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten:
 - Bilder Serie „artist look“: 
 
 **Bild:** [03.3.Monet_w_Beret_source_netz_fehlt.jpg]
-
-
-
-
- <11. karikatur french artist.jpg>
-- <12. monmartre clichee.jpg> - <13. you look like a french artist! web.jpg> - <15. french artist golf cap by ebay.jpg>
+**Bild:** <12. monmartre clichee.jpg> 
+**Bild:** <15. french artist golf cap by ebay.jpg>
 	
 Dieser "Look" entspricht eher dem Typ "Armer Künstler", oder dem daraus entstandenen Klischee. In seinem Buch *Why Are Artists Poor?*[-@Abbing:poor] von 2002 beschreibet Hans Abbing die verstrickten Verhältnisse zwischen Künstler und der Gesellschaft. Abbing vertritt unter anderem die These, dass die Kunst für den Künstler zu heilig wäre, um in Worten wie Profit und Kommerz beschrieben zu werden. Der Künstler erhält Stipendien und wird weiterhin als arm und als Outsider wahrgenommen. Oftmals wird er auch als autistisch, der sich im Atelier vergräbt, bis er entdeckt wird, wahrgenommen. Da der Künstler so sensibel sei und geschützt werden muss, benötigt er einen Vermittler, auch weil er seine eigene Arbeit nicht schätzen kann. Er produziert, weil er produzieren muss, egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, einem US-amerikanischem Spielfilm aus dem Jahr 1996, (Regie geführt vom Künstler Julian Schnabel), wird ein Text des Kunstkritikers Rene Ricard, aus seinem Schreiben *The Radiant Child* [Link](http://www.smartwentcrazy.com/basquiat/text/jmb_radiantchild.htm)über Jean–Michel Basquiat aus dem Artforum Magazin Dezember 1981 zitiert: "Warum schenken wir der Kunst so viel Bedeutung? Arme respektieren Künstler, da sie aus dem Slum herauskommen, indem sie sich selbst als Medium benutzen. Das verdiente Geld beweist den Wert des Künstlers". Wenn es früher massenhaft Bilder von Künstlern im eigenen Atelier, neben ihrer Staffelei, vor der eigenen Arbeit gab, so hat sich parallel zur Entwicklung der Fotografie als dokumentarisches Medium, eine langsame Auflösung des Künstler getrennt von seiner Arbeit vollzogen. Er wird per se nicht mehr durch oder neben seinem Werk erkannt sondern auf Grund seiner Berühmtheit autark davon als Person. [^footnote][^Denken wir an Picasso oder Paul Klee, in den Schwarzweiß-Fotografien von Henri Cartier-Bresson].
 
@@ -69,14 +65,12 @@ Künstler wie Josef Beuys und Andy Warhol wussten das für ihre Zwecke zu Nutzen
 Lebzeiten und nicht erst nach dem Tod als berühmt und reich zu erscheinen hatte. Allenfalls soll man "Reich denken. Arm aussehen"[@source:tag]. 
 Nach [-@source:tag, pp. 102] war der Meister in Sachen Selbstdarstellung: Andy Warhol. 
 
-**Bild:** [Andy Warhol Selbstportrait 1967.jpg](images/andy-warhol_self-porttrait.jpg)
-
 Wenn man die Arbeiten von Fotografen wie die US-amerikanische Fotografen Annie Leibowitz sieht, die während der 80er für das Magazin “The Rolling Stone” 
 viele US-amerikanische MusikerInnen und KünstlerInnen fotografiert hat, liegt der Schwerpunkt eher auf einer kreativen Idee der Fotografin selbst, die 
 in Zusammenarbeit mit den KünstlerInnen etwas Persönliches mitteilt. Wenn wir deutsche Künstler mit solchen Bildern vergleichen, so scheint es, 
 dass diese davon nichts halten und eher ihre gediegene Seite zeigen: 
 
-- Bilder Deutsche Künstler: - 18. Georg Baselitz72.jpg - 21. MarkusLüpertz.jpg - 23. Jörg-Immendorf-Andrea-Strappert–2001-Kopie.jpg
+**Bild:** Bilder Deutsche Künstler: 23. Jörg-Immendorf-Andrea-Strappert–2001-Kopie.jpg
 
 Es gilt jedoch weiter die ungeschriebene Regel: Bei Ausstellungseröffnungen sollte der Künstler nicht wohlhabender aussehen als sein Galerist oder sein Sammler. 
 Andy Warhol machte sich Gedanken über sein Selbstbildnis, in "Die Philosophie des Andy Warhol von A bis B und zurück", sagt er: "Ich glaube, wenn ich in den 
@@ -90,7 +84,10 @@ Andy Warhol: Selbstporträts und Selbstdarstellungen von Hubertus Butin ???
 
 Das Bild fungiert nicht als Mittel der Selbsterkenntnis, sondern in erster Linie als Mittel der Selbstdefinition, denn es gibt Warhol die Möglichkeit, sich so zu zeigen, wie er von anderen gesehen werden will.“ (Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat). Warhols Anerkennung erfolgte nicht allein durch die Würdigung seiner Kunst, sondern auch und insbesondere durch die Selbstdarstellung in den Massenmedien“ pp16 Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis an die Metaebene gehoben, durch Selbstbeobachtung und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden.
 
-- Bilder Warhol: - 1. warhol stickers.psd - 26. in the future 15 min. aufkleber.JPG - 27. your 15 Min. are over button.JPG
+- Bilder Warhol: 
+**Bild:** 1. warhol stickers.psd - 
+**Bild:** 26. in the future 15 min. aufkleber.JPG 
+**Bild:**  27. your 15 Min. are over button.JPG
 
 
 ## Kunst als *Business* 
@@ -114,6 +111,7 @@ der ihn für das erste Zusammentreffen mit Andy Warhol (gespielt von David Bowie
 In einem anderem Film über Andy Warhols *Factory* (SOURCE: Name, Jahr), wird ein Fernsehinterview inszeniert, in welchem Andy Warhol gefragt wird, warum er nichts selber produziert, 
 sondern lediglich Kopien von Brillo Boxen herstellt. Warhol antwortet darauf: "Because it’s more easy“. Der Künstler ist also verrückt genug um zuzugeben, 
 dass er nicht schwer arbeiten muss, um geniale zu sein. Also es entsteht eine Dichotomie, oder ein gestörtes Verhältnis zum Geld zumindest.
+
 
 **Bild:** [Willem Dafoe - deswegen bin ich ein Elektriker](images/bild.jpg)
   
@@ -160,20 +158,23 @@ Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblö
  
 **Bild:** [Jeff Koons Atelier](images/jeff-koons-atelier.jpg)
 
-**Bild:** [Bild: Kunstmarktbox](images/Kunstmarktbox.jpg) 
-
 **Bild:** [Bild: Kunstmarkt all view](images/Kunstmarkt-all-view.jpg) 
 
 **Bild:** [Bild: Kunstmarkt 2 Karten D modern.jpg](images/Kunstmarkt-2-Karten-D-modern.jpg) 
 
 
-Bilder:
+Weitere Bilder:
 
-- <69. understand modern art.JPG> 
-- <78. Vuk Vidor Art History 2005.png>
-- <79. MINNAS_MAP 2006.jpg>
-- <80. BDU FX I.JPG>
-- <81. BDU FX II.JPG>
-- <82. BDU FX III.JPG>
-- <81. Dan Perjovschi> (postmodern ex-communist)
+**Bild:** <69. understand modern art.JPG> 
+**Bild:**  <79. MINNAS_MAP 2006.jpg>
+
+
+unklar wo:
+
+**Bild:**  <80. BDU FX I.JPG>
+**Bild:**  <81. BDU FX II.JPG>
+**Bild:**  <82. BDU FX III.JPG>
+
+**Bild:** <81. Dan Perjovschi> (postmodern ex-communist)
+**Bild:**  <78. Vuk Vidor Art History 2005.png>
 
