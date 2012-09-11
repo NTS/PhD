@@ -69,8 +69,6 @@ Just Book [@Author:book]
 [^txt]
 [^txt]: txt [Link] http://www…]
 
-
-
 **Bild:** [txt](http:… .jpg)
 
 **Bild:** [ ]
