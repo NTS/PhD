@@ -1,0 +1,162 @@
+> beispiel für mich
+**Bild:** [Justin Hansch: „Best friends painting“, 2010](../pix/10._true_art/Justin.Hansch.best_friends_painting.jpg)
+
+
+nur erlaubt: lateinische buchstaben   zahlen   die zeichen "-" und "_" (bindestrich und unterstrich)
+
+
+[BILDBESCHRIFTUNG] (BILDNAME) 
+[]Footnote/Bildnachweis: 
+=
+
+**Bild:** [Bildunterschrift [^fn-zum-bild]](~/Dropbox/MFA+NTS/...)
+
+
+Bider, die im Diss.markdown schon eingeteilt sind:
+
+
+**Bild:** [Azorro Collective: Everything Has Been Done 2003 (Audio Transkription)](azorro_everything_has_been_done_1.JPG) 
+[]Footnote/Bildnachweis: Bildschirmfoto vom Video cc nts
+
+**Bild:** [Azorro Collective: Everything Has Been Done 2003 Stillbild vom Video](azorro_everything_has_been_done_2.JPG) 
+[]Footnote/Bildnachweis: Bildschirmfoto vom Video cc nts
+
+
+**Bild:** [Timm Ulrichs: Betreten der Ausstellung Verboten 1968/69](ulrichs_betreten_verboten.jpg) 
+[]Footnote/Bildnachweis: Timm Ulrichs, Betreten der Ausstellung verboten!, 1968/69, zweifarbiger Siebdruck auf Aluminium, Sprengel Museum Hannover, © VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose.
+http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg
+
+  
+**Bild:** [Der Künstler Begriff nach Pons](kuenstler_nach_pons.png) 
+[]Footnote/Bildnachweis: Scan nts 
+
+**Bild:** [Französischer Künstlermütze zu ersteigen bei E-bay](french_artist_golf_cap_by_ebay.png) 
+[]Footnote/Bildnachweis: http://www.ebay.com/sch/i.html?_sacat=0&_nkw=french+artist+cap&LH_AvailTo=0&LH_PrefLoc=2
+
+**Bild:** [Model Naomi Campbell im Künstlerlook für Vivian Westwood](naomi_campbell_for_vivian_westwood.jpg) 
+[]Footnote/Bildnachweis: TODO: source Scan nts nachschlagen
+
+**Bild:** [Jörg Immendorf, Foto: Andrea Strappert 2001](joerg-immendorf-by-andrea-strappert-2001.jpg) 
+[]Footnote/Bildnachweis: source netz
+
+**Bild:** [Stickers mit Zitate von Andy Warhol, Museumshop am Hamburger Bahnhof, Berlin 2009](warhol_stickers.png) 
+[]Footnote/Bildnachweis: source Foto nts 
+
+**Bild:** [Im Zukunft werden Alle für fünfzehn Minuten berühmt, Sticke auf Visitenkarten Etoui, 2009](warhol_etoui.jpg) 
+[]Footnote/Bildnachweis: source Foto nts
+
+**Bild:** [Ha-Ha Funny Buttons: Deine 15 Minuten sind ab](warhol_your_15_minutes_are_up.jpg) 
+[]Footnote/Bildnachweis: (Button gekauft im Museum Hamburger Bahnhof Berlin, 2009)
+
+**Bild:** [Willem Dafoe erklärt seiner Überlebensstrategie als Künstler im Film *Basquiat*](willem_dafoe_basquiat.png) 
+[]Footnote/Bildnachweis: Screenshot
+
+**Bild:** [Jeff Koons mit seiner Mitarbeiter, Foto: Jason Schmidt für Monopol.jpg](jeff_koons_und_mitarbeiter.jpg)  
+[]Footnote/Bildnachweis: foto Jason Schmidt Monopol, Publikation suchen)
+
+**Bild:** [Kunstmarkt Brettspiel, von Franz-Benno Delonge, Flyer, Prestel Verlag 2007](kunstmarkt_prestel_flyer.jpg) 
+[]Footnote/Bildnachweis: Scan vom Original nts
+
+**Bild:** [Kunstmarkt Brettspiel, von Franz-Benno Delonge, Prestel Verlag 2007 Detail: 2 Spielekarten](kunstmarkt_prestel_2karten.jpg) 
+[]Footnote/Bildnachweis: Scan vom Original nts http://www.gamesweplay.de/kunstmarkt.html
+
+**Bild:** [Verstehen Sie Moderne Kunst auf Anhieb, Objekt, MoMA Berlin Museumshop](understand_modern_art_object.jpg) 
+[]Footnote/Bildnachweis: Peppermint-flavored breath spray (Size:1.5 cm x 7.5 cm Packaging size:11 cm x 15 cm 7.5 ml)
+
+**Bild:** [Barking Dogs United, FX I 2008](bdu_fx_1.png)
+[]Footnote/Bildnachweis: cc nts
+
+
+**Bild:** [Barking Dogs United, FX II 2008](bdu_fx_2.png)
+[]Footnote/Bildnachweis:cc nts
+
+
+**Bild:** [Barking Dogs United, FX III 2008](bdu_fx_3.png)
+[]Footnote/Bildnachweis: cc nts
+
+**Bild:** [Vuk Vidor Art history (part one - version C) 2004-2009 Silkscreen](vuk_vidor_art_history.jpg) 
+[]Footnote/Bildnachweis: http://thirddrawerdown.com/shop/product/Art-History-Part-c-vuk-vidor/
+
+**Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme](garnet_hertz_contemporary_artist_fb_meme.jpg) 
+[]Footnote/Bildnachweis: http://hyperallergic.com/46991/new-summer-program-puts-students-in-the-studio/contemporaryartistjobdescription/
+
+**Bild:** [HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*](claire_fisher-milestogo1440.jpg) 
+[]Footnote/Bildnachweis: http://www.dearly-devoted.com/Miscellaneous%20Wallpapers/milestogo1440.jpg
+
+**Bild:** [Studentisches Entwurf von KoCA inn Schild auf Fachkurs Universität's Tisch](kocainn_entwurf_auf_tisch.jpg) 
+[]Footnote/Bildnachweis: Foto nts 2009
+
+**Bild:** [K3 Fachkurs Teilnehmer bei der Arbeit](fachkurs_teilnehmer_bei_der_arbeit.jpg) 
+[]Footnote/Bildnachweis: Foto nts 2009
+
+**Bild:** [Bauhaus-Essentials I Einladung der BUW Studentische Galerie marke.6 2010](bauhaus_essentials_1_einladung_marke_6.jpg) 
+[]Footnote/Bildnachweis:
+
+
+
+Biderauswahl, die im Diss. noch nicht eingeteilt sind:
+
+**Bild:** [] () []Footnote/Bildnachweis:
+
+**Bild:** [An Artist's Statement from Charlotte Young 2011 Stillbild Video](charlotte_young_artist_statement.png)
+[]Footnote/Bildnachweis: Bildschirmfoto vom Video http://www.artists2artists.net/video/young 
+
+**Bild:** [K3 Workflow dokumentiert auf Basecamp, Projekt Management software für online Kollaboration](basecamp_on_27mai09.png)
+[]Footnote/Bildnachweis:Bildschirmfoto nts
+
+**Bild:** [Dan Perjovschi, Artist Today, aux Perjovschi's Facebook Seite](perjovschi_artist_today_fb.jpg)
+[]Footnote/Bildnachweis: Bildschirmfoto nts von https://www.facebook.com/perjovschi
+
+**Bild:** [Dan Perjovschi Venice B52 2007](perjovschi_venice_52_2009.jpg)
+[]Footnote/Bildnachweis: Foto nts
+
+**Bild:** [Buttons: Die Galerie ist Tot, Schröter und Berger, BUW Rundgang 200?](die_galerie_ist_tot.jpg)
+[]Footnote/Bildnachweis: Foto nts
+
+**Bild:** [“Oh, it’s a curator” by Halil Altindere im Kunstzeitung 157 09/2009 auf Aram Bartholl Blog](fuck_the_curator_kunstzeitung.png) 
+[]Footnote/Bildnachweis: Oh, it’s a curator” by Halil Altindere found in Kunstzeitung 157 09/2009 http://datenform.de/blog/oh-its-a-curator/
+
+**Bild:** [Galerist Auto auf der Istanbul Biennale Preview Parkplatz 2011](galerist_auto_Istanbul.jpg)
+[]Footnote/Bildnachweis: Foto nts
+
+**Bild:** [Josh Firebanks, Drag Artwork Here, Öl auf Kanvas, 4'x4' 2011](josh-fairbanks-drag-artwork-here-2011-1.jpg)
+[]Footnote/Bildnachweis: http://hyperallergic.tumblr.com/post/24499811591/josh-fairbanks-drag-artwork-here-2011-oil-on
+oder
+**Bild:** [Josh Firebanks, Drag Artwork Here, Öl auf Kanvas, 4'x4' 2011](josh-fairbanks-drag-artwork-here-2011-2.jpg)
+[]Footnote/Bildnachweis: http://hyperallergic.tumblr.com/post/24499811591/josh-fairbanks-drag-artwork-here-2011-oil-on (Screenshot nts)
+
+**Bild:** [Zitat Jeremy Deller: Ich bin von einem Künstler, der Dinge macht, zu einer, der Ereignisse schafft](jeremy_deller_1_20120309012550.png)
+[]Footnote/Bildnachweis: Bildschirmfoto nts von http://asiansart.wordpress.com/2011/10/13/ai-weiwei-assange-agency-courage-and-fear/
+oder**Bild:** [Zitat Jeremy Deller: Ich bin von einem Künstler der Dinge macht, zu einer der Ereignisse schafft geworden.](jeremy_deller_2_20120309012550.png)
+[]Footnote/Bildnachweis: http://asiansart.wordpress.com/2011/10/13/ai-weiwei-assange-agency-courage-and-fear/
+
+**Bild:** [Marc Bijl Never Mind the Politics, Plakat 2005.](bijl_never_mind_the_politics.jpg) 
+[]Footnote/Bildnachweis: Poster Courtesy Upstream gallery, Amsterdam/The breeder, Athens http://artpulsemagazine.com/the-curated-art-fair-and-the-art-fair-curator
+
+**Bild:** [E-Flux Projekt: Die nächste Dokuments soll von einen Künstler kuratiert werden](next_documenta_should_be _curated_by_an_artist.png)
+[]Footnote/Bildnachweis: http://www.e-flux.com/projects/next_doc/index.html
+
+**Bild:** [Button: Nie wieder Museum, Berlin MoMA Museumshop 2009](nie_wieder_museum_button2009.jpg)
+[]Footnote/Bildnachweis: Foto nts
+
+**Bild:** [Ein öffenes Brief von Billy Bragg (Musiker) an Pussy Riot](pussy_riot_billy_brag.jpg)
+[]Footnote/Bildnachweis: http://elevatenoise.tumblr.com/post/29626534456/letter-from-billy-bragg-to-pussy-riot
+
+**Bild:** [Rosmarie Weinlich MoGA Salon Rejected Katalog Umschlag 2011](rosmarie_weinlich_moga.png)
+[]Footnote/Bildnachweis: Rosmarie Weinlich MoGA Salon Rejected Katalog Umschlag 2011
+
+**Bild:** [Joselito Elroee Facebook Status: Wenn du kein Beruf hast bist du Künstler, September 2012](joselito_elroee_fb_stat.png) 
+[]Footnote/Bildnachweis: https://www.facebook.com/joselito.elroee
+
+**Bild:** [Worker Artist T-Shirt als Profilbild bei Facebook](worker_artist_t-shirt.jpg)
+[]Footnote/Bildnachweis: https://www.facebook.com/branka.pavlovic
+
+**Bild:** [David Tartakover: I am here 2006](david_tartakover_i_am_here_2006.jpg)
+[]Footnote/Bildnachweis: http://saloona.co.il/osobayo/files/2011/08/1_wh.jpg
+
+
+neu und in Bearbeitung:
+**Bild:** [](.jpg)
+[]Footnote/Bildnachweis:
+
+
