@@ -501,13 +501,7 @@ Originalversion Englisch (Transkription)
 
 ## Lyrics zum scattern:
 
-### Artbitch CSS
-
-
-###
-
-###
-
+### CSS - Artbitch 
 
 	1. CSS - Artbitch
 
@@ -640,6 +634,7 @@ Originalversion Englisch (Transkription)
 	by SAALSCHUTZ - DAS IST NICHT MEIN PROBLEM 2 (2004)
 	Myspace Seite der Gruppe Saalschutz
 	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### DJ Koze AKA Adolf Noise - Zuviel Zeit?
 
 	4. DJ Koze AKA Adolf Noise - Zuviel Zeit?
 	TODO!
