@@ -2,21 +2,31 @@
 
 [^whereismymind]: Song bei *The Pixies* aus der Album *Surfer Rosa* (1988)
 
-Was, oder wer ist ein Künstler?
+**Was, oder wer ist ein Künstler?**
 
  > "Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt – aus irgendeinem Grund – jedoch an, 
  > es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen - Andy Warhole  [@Warhol:vonAbisZ, pp.130]
 
 
-Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was, oder wer ist ein Künstler? 
+Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was, oder wer ist heute ein Künstler? 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TODO: fragen weg, feststellungen her
+
 Wie stellt sich der Künstler selbst dar, was sind seine Aufgaben? Wie wird er von der Gesellschaft wahrgenommen? Existieren seit der Jahrtausendwende 
-in Anbetracht der vielen neuen technischen Entwicklungen, verschiedene “Künstlertypen”, die man definieren könnte? Was hat sich in dem 
+in Anbetracht der vielen neuen technischen Entwicklungen verschiedene “Künstlertypen”, die man definieren könnte? Was hat sich in dem 
 Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft geändert? Hatte Joseph Beuys recht und ist heute jeder ein Künstler? 
 Oder finden wir Andy Warhols Aussage bestätigt, dass alle ihre fünfzehn Minuten Ruhm bekommen werden, oder sind diese besagten fünfzehn Minuten gar vorbei und ab jetzt 
-sind alle berühmt? Das heisst: Gilt die Aussage "Das kann mein Kind auch machen" in diesem Sinne? Kann wirklich jeder lernen, ein Künstler zu werden?
+sind alle berühmt? Das heißt: Gilt die Aussage "Das kann mein Kind auch" in diesem Sinne? Kann wirklich jeder lernen, ein Künstler zu werden?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Wie manifestieren sich die heutigen Beziehungen zwischen den diversen Gliedern der Kunstwelt: Künstler, Galerist, Sammler, Kurator, Museum, 
-Auktionshaus und Publikum? Offenbar hat eine Wandlung, Eine Neigung zum autarkischen benehmen, eine Übernahme von den oben aufgelistete Funktionen durch KünstlerInnen selbst. Etymologisch kommt Kunst von "const" was soviel wie Können, Wissen, Kenntnis, bedeutet. Man sagt deswegen im deutschen auch "Kunst kommt vom Können" [^Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002]. Dieser Aphorismus hat sogar [einen eigenen Artikel in Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
+Auktionshaus und Publikum? Offenbar hat eine Wandlung, eine Neigung zum Autarkischen Benehmen, eine Übernahme von den oben aufgelistete Funktionen 
+durch Künstler selbst stattgefunden. Etymologisch kommt Kunst von "const" was soviel wie Können, Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen 
+auch "Kunst kommt vom Können" [^Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002]. 
+Dieser Aphorismus hat sogar einen eigenen Artikel auf die [Deutsche Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
 
 Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. 
 Hierzu ein Auszug aus [Meyers Online-Lexikon](http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie): 
