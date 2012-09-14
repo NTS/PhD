@@ -31,7 +31,9 @@ Es gibt die Tradition, von Marcel Duchamp angefangen, in der Künstler den Drang
 Kunstwelt zu ändern, die Institutionen dafür in Frage zu stellen. Künstler wie Martin Kippenberger und Timm Ulrichs (um nur 
 zwei Beispiele aus Deutschland zu nennen), haben sich mit ihrem Status als Künstler innerhalb der Kunstwelt auseinandergesetzt. Noch 
 ein gutes Beispiel gibt Timo Seghals Ansatz, der seine Werke nichtmal in Form von Dokumentation in Katalogen u. a. Medien verbreiten 
-lässt, sondern das authentische Kunsterlebnis nur vor Ort ermöglicht
+lässt, sondern das authentische Kunsterlebnis nur vor Ort ermöglicht, oder Santiago Sierra, der den Spanischen Pavillion in Venedig 
+im Jahr 2009 (TODO: check ob das Jahr stimmt) tit Zwei Türwächter versehen hat, und nur Besucher, die ein Spanisches Bürgerschaft zeigen 
+konnten, den Einlass ins Pavillion ermöglichte. Damit sind sehr viele, darunter berühmte Kuratoren und selbst Künstler, ausgeschlossen geblieben.
  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -51,8 +53,8 @@ Kunstakademien und meiner eigenen Erfahrung als Künstler und Kuratorin sowie au
 Möglichkeiten die im Augenblick umsetzbar sind, ergeben sich folgende Konsequenzen: Es entsteht ein Konflikt in der Essenz oder Natur, der Aufgabe 
 von Künstler. Wenn man die neuen technologischen Entwicklungen und Möglichkeiten betrachtet, stellt sich die akute Frage, ob das Geniale weiter dabei bleiben wird 
 einer Idee vom Kopf durch die Hand und von dort zum leeren Bogen zu übertragen (oder zu übersetzen, wie ich immer häufiger tendiere zu sagen), oder kann 
-es sein dass es reichen wurde und allein die Idee als Geisteseigentum von Künstler anerkannt wird, und damit die Künstlerische individuelle handschrift von sekundärer Wichtigkeit 
-sein wird. Die Entwicklung von selbstbestimmung der Urheberrechten im Angesicht vom *Creative Commons* [^footnote-[Link](http://creativecommons.org)], und ähnlichen 
+es sein dass es reichen wurde und allein die Idee als Geisteseigentum von Künstler anerkannt wird, und damit die Künstlerische individuelle Handschrift von sekundärer Wichtigkeit 
+sein wird. Die Entwicklung von Selbstbestimmung der Urheberrechten im Angesicht vom *Creative Commons* [^footnote-[Link](http://creativecommons.org)], und ähnlichen 
 Organisationen lässt jetzt schon ihre Marke in der Kunstwelt. 
 
 Künstler arbeiten 24/7, zu jeder Tages- und Nachtzeit und in der Regel bis zur ihrem Tod. Es gibt kaum Künstler, die sagen, "Ich höre auf zu malen". 
@@ -67,7 +69,6 @@ TODO: zu Genie erweitern, Zitate Norbert einfügen
 Auf der Istanbul Biennale 2011 wurde ein gemeinsames Ölgemälde aus der Gemäldeserie *Appointment with History* von 2007 von zwei verschiedenen 
 Künstler aus zwei verschieden Länder, Mona Vatamanu & Florin Tudor, die zu zweit an dieser Serie arbeiteten, ausgestellt. 
 Wie funktioniert eine solche Zusammenarbeit und was passiert mit dem Künstlerego bei Kooperationen?
-
 
 *S. 8 Wie verhalten sich die Parameter für den Erfolg und das Scheitern ..? Bezüglich „Künstlerhandschrift“ hat schon Ad Reinhardt postuliert, dass des Künstlers Spuren im Werk verschwinden sollten (ich weiß nicht, ob das hier relevant ist, wollte es aber anführen) Zum Thema „Aufhören mit der Kunst“ gibt’s ja ein wunderbares Kapitel bei Wolfgang Ullrich in „Tiefer Hängen“. Sorry, Mona & Florin ist auch mindestens 30-40 Jahre zu spät, mail-Art & viele Gemeinschaftsproduktionen haben dieses Thema immer schon in Frage gestellt, schönes Beispiel wie oft im Kunstbetrieb etwas aufgewärmt werden kann, es staunt der Laie, der Fachmann wundert sich ..*
 
