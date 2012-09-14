@@ -56,7 +56,7 @@ Möglichkeiten die im Augenblick umsetzbar sind, ergeben sich folgende Konsequen
 von Künstler. Wenn man die neuen technologischen Entwicklungen und Möglichkeiten betrachtet, stellt sich die akute Frage, ob das Geniale weiter dabei bleiben wird 
 einer Idee vom Kopf durch die Hand und von dort zum leeren Bogen zu übertragen (oder zu übersetzen, wie ich immer häufiger tendiere zu sagen), oder kann 
 es sein dass es reichen wurde und allein die Idee als Geisteseigentum von Künstler anerkannt wird, und damit die Künstlerische individuelle Handschrift von sekundärer Wichtigkeit 
-sein wird. Die Entwicklung von Selbstbestimmung der Urheberrechten im Angesicht vom *Creative Commons* [^footnote-[Link](http://creativecommons.org)], und ähnlichen 
+sein wird. (schon Ad Reinhardt postulierte, dass des Künstlers Spuren im Werk verschwinden sollten). Die Entwicklung von Selbstbestimmung der Urheberrechten im Angesicht vom *Creative Commons* [^footnote-[Link](http://creativecommons.org)], und ähnlichen 
 Organisationen lässt jetzt schon ihre Marke in der Kunstwelt. 
 
 Künstler arbeiten 24/7, zu jeder Tages- und Nachtzeit und in der Regel bis zur ihrem Tod. Es gibt kaum Künstler, die sagen, "Ich höre auf zu malen". 
@@ -109,10 +109,15 @@ Gesellschaft nach „durchgeknallten Künstlertypen“, die das unangepasste Gen
 Einer der stärksten Kräfte oder Motivation oder Drang, welche dem Künstler zugeschrieben werden, ist die der Erneuerung, denn Künstler haben 
 keinerlei Interesse, etwas zu machen, bzw. zu sagen, was schon einmal gemacht worden ist, sei es die Idee oder die materielle Ausführung. 
 hier könnte die Bedeutung der Postmoderne bzw. das Veralten des Avantgardebegriffes angeführt werden (Peter Bürger „Theorie der Avantgarde“)
-> Zitat:
 
-Die Gruppe *Azorro Collective* (P) zeigt in ihrer Videoarbeit *Everything Has Been Done* von 2003 sich selbst, wie sie zusammensitzen und nach neuen Ideen für ein ultimatives 
-Kunstwerk suchen und dabei immer wieder aufs Neue feststellen müssen: "Alles ist schon gemacht worden!" Und wenn es nach der Künstlergruppe *Azorro* stimmt, was kommt dann?
+Ger van Elk, ein Holländische Künstler, der auf drei dokumentas (5,6,& 7) ausgestellt hat, fasst es schön zusammen:
+ 
+> „Kunst ist und bleibt eine Sprache. Sprache aber heißt, mit Bedeutungen umzugehen [...] Für mich wäre es langweilig, etwas zu wiederholen [...] dann bleibt es doch eine ästhetische Variante. Ich verstehe mich nicht als Fabrik [...] bloße Varianten des Themas dagegen tragen nicht wirklich etwas Neues bei [...] und für mich ist Neugierde die einzige Maßgabe, Kunst zu machen [...] Auch die Antikunst ist wieder Kunst. Man kann nicht ohne Ästhetik Kunst machen. Alles wird immer sofort zum Stil, wird ästhetisch. Kunst ohne Stil zu machen ist ungeheuer schwierig. Ich versuche alles, was man nicht machen sollte.“ (Quelle: via nwh)
+
+
+Wie Kant schon sagte: „Obgleich ohne Zweck, ist die Kunst für sich selbst zweckmäßig.“ Die Gruppe *Azorro Collective* (P) zeigt in ihrer 
+Videoarbeit *Everything Has Been Done* von 2003 sich selbst, wie sie zusammensitzen und nach neuen Ideen für ein ultimatives Kunstwerk suchen 
+und dabei immer wieder aufs Neue feststellen müssen: "Alles ist schon gemacht worden!" Und wenn es nach der Künstlergruppe *Azorro* stimmt, was kommt dann?
 Kunst ist für jeder zugänglicher als je, denn sie ist nicht mehr nur im dafür vorgesehenen elaborierten Raum (White Cube) befindet, sondern zusätzlich im öffentlichen Raum und im Netz.
 inwieweit wird sich der Begriff des Künstlers durch diese Möglichkeiten (Videos auf youtube, z.B. geben eine Mischung von professionellen Beiträgen neben unreifen Amateur Versuche) 
 relativiert bzw. die ökonomische Basis durch die Unterminierung des Urheberrechts nochmals minimiert? Festzustellen ist, das selbst der ersehnte neuartigem Erfolg keine Garantie 
@@ -131,7 +136,4 @@ in dem sie sich selbst zu einer Marktkraft entwickeln müssen. Die Konsequenzen 
 **Bild:** [Azorro Collective: Everything Has Been Done 2003 Stillbild vom Video](azorro_everything_has_been_done_2.JPG) 
 []Footnote/Bildnachweis: Bildschirmfoto vom Video cc nts
 
-nwh
 
-*S. 8 Wie verhalten sich die Parameter für den Erfolg und das Scheitern ..? 
-Bezüglich „Künstlerhandschrift“ hat schon Ad Reinhardt postuliert, dass des Künstlers Spuren im Werk verschwinden sollten (ich weiß nicht, ob das hier relevant ist, wollte es aber anführen) Zum Thema „Aufhören mit der Kunst“ gibt’s ja ein wunderbares Kapitel bei Wolfgang Ullrich in „Tiefer Hängen“. 
