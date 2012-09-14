@@ -59,13 +59,14 @@ Große Formate werden vielleicht mühsam angefertigt, aber es gibt keinen Ruhezu
 ob sie nun eine Stelle besetzen oder nicht. In vielen Ländern können sie Mitglieder von Künstlervereinen werden, in Deutschland können sie zumindest 
 auch eine staatliche Unterstützung (dies gleicht einem Sozialhilfeempfänger) ergattern und so innerhalb einer sozialen Nische existieren.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+TODO: zu Genie erweitern, Zitate Norbert einfügen
 
 Auf der Istanbul Biennale 2011 wurde ein gemeinsames Ölgemälde aus der Gemäldeserie *Appointment with History* von 2007 von zwei verschiedenen 
 Künstler aus zwei verschieden Länder, Mona Vatamanu & Florin Tudor, die zu zweit an dieser Serie arbeiteten, ausgestellt. 
 Wie funktioniert eine solche Zusammenarbeit und was passiert mit dem Künstlerego bei Kooperationen?
 
-TODO: zu Genie erweitern, Zitate Norbert einfügen
 
 *S. 8 Wie verhalten sich die Parameter für den Erfolg und das Scheitern ..? Bezüglich „Künstlerhandschrift“ hat schon Ad Reinhardt postuliert, dass des Künstlers Spuren im Werk verschwinden sollten (ich weiß nicht, ob das hier relevant ist, wollte es aber anführen) Zum Thema „Aufhören mit der Kunst“ gibt’s ja ein wunderbares Kapitel bei Wolfgang Ullrich in „Tiefer Hängen“. Sorry, Mona & Florin ist auch mindestens 30-40 Jahre zu spät, mail-Art & viele Gemeinschaftsproduktionen haben dieses Thema immer schon in Frage gestellt, schönes Beispiel wie oft im Kunstbetrieb etwas aufgewärmt werden kann, es staunt der Laie, der Fachmann wundert sich ..*
 
@@ -75,8 +76,6 @@ werden, manifestieren sich in zahllosen Künstlergruppen und Kollaborationen und
 Wahrnehmung vieler Künstler, die heute mehr Optionen denn je haben, sich zu präsentieren. Durch das große Potential, das durch das 
 Internet und durch die Verbreitung von Kunst im öffentlichen Raum (permissiv oder eben nicht) zusätzlich möglich ist, können sich die Künstler 
 neben dem Solo Format des *White Cube*, der professionellen PR und dem Kritikersieb einer breiteren Öffentlichkeit stellen.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auch der Betrachter bleibt nicht mehr im alten Kunstbetriebsystem zurück, sondern wird mit künstlerischen Äußerungen immer unfreiwilliger 
 konfrontiert, da die Kunst sich nicht mehr auf dem für sie vorgesehenen Platz befindet, sondern überall sichtbar wird. Fragen wie "Ist das Kunst 
@@ -90,6 +89,7 @@ oder der documenta zu messen? Was hat sich an dem Werdegang des Künstler geänd
 beizubringen? Was ist gelungen, und wo sind die Gefahrenstellen?
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 TODO: zum Beruf Künstler
 Momentan sieht es so aus, als wäre ein Künstler erst erfolgreich [^footnote-damit ist der Erfolg sowohl wirtschaftlich, als auch vom Sozialstatus her gemeint], wenn er 
 achtzig Assistenten beschäftigen und bezahlen kann. Dadurch wird genau der angepasste Unternehmer in einem System, an das er gar nicht glaubt, als Vorbild inszeniert. 
@@ -97,7 +97,10 @@ Georg Baselitz, Olafur Eliasson oder Jeff Koons, alle drei anerkannte Künstler,
 z.B. *Monopol* dargestellt. Man muss den Markt reichlich und an diversen Stellen gleichzeitig beliefern. Manchmal passiert es sogar sehr schnell, siehe am Beispiel Jonathan Meese, 
 wie er sich selbst im WDR Dokumentarfilm [*Jonathan Meese - Eine Ameise der Kunst*](http://www.youtube.com/watch?v=Y_z41k65Sns&feature=related) darstellt. Mit 
 einem Pinselstrich überfliegt er mehrere Leinwände gleichzeitig, Tonbüsten werden ihm von Assistenten vorgefertigt, damit er im Anschluss ein paar Eingriffe macht 
-und 'fertig ist der Lack', denn der Galerist wartet auf die Ware. Es sind viele Museen und Galerien sowie Messen, auf denen neue Arbeiten gezeigt werden müssen, und der Künstler produziert sie fast wie am Fließband.
+und 'fertig ist der Lack', denn der Galerist wartet auf die Ware. Es sind viele Museen und Galerien sowie Messen, auf denen neue Arbeiten gezeigt werden müssen
+und der Künstler produziert sie fast wie am Fließband.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Einer der stärksten Kräfte oder Motivation oder Drang, welche dem Künstler zugeschrieben werden, ist die der Erneuerung, denn Künstler haben 
 keinerlei Interesse, etwas zu machen, bzw. zu sagen, was schon einmal gemacht worden ist, sei es die Idee oder die materielle Ausführung. Die Gruppe *Azorro 
