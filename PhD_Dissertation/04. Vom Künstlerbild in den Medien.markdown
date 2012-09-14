@@ -1,4 +1,4 @@
-# Vom Künstlerbild in den Medien
+## Vom Künstlerbild in den Medien
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 dieses Kapitel würde in seiner Endfassung auf Grammatik
@@ -11,7 +11,7 @@ was zum Verzicht auf das Ganze führen konnte.
 
 
 
-## Dorian Gray in CMKY
+### Dorian Gray in CMKY
 
 Was hat sich im Bild der Künstler in der Gesellschaft geändert und was ist eine Klischee
 geblieben und warum? Wandlung des Künstlerbild und sein Selbstbildnis durch web 2.0 *Der
@@ -37,7 +37,7 @@ nwh
  
 
 
-## Lisa Simpson & Claire Fisher
+### Lisa Simpson & Claire Fisher
 
 In Film, Fernsehen & Comics, werden die Eigenschaften und Gedankenwege von Künstler
 wiedergegeben, oft kritisch. Der Film *Basquiat*, von einem Künstler selber, nämlich Julian
@@ -84,7 +84,7 @@ Auch in Musik und von allem in manche Lyrics, ist ein Kritisches Blick zu entdec
 
 
 
-## Hi, My Name is Charlotte Young
+### Hi, My Name is Charlotte Young
 
 Zum Schluss möchte ich die Artist Statement von Charlotte Young, der auch über das Internet sich verbreitet hat besprechen. Hi, my Name is Charlotte Young... so fängt der kleinanzeige Film der Künstlerin, die Auf Englisch über sich als Künstlerin erzählt, währen die "Wahrheit" über sie als Untertitel läuft. Viele Künstler wurden dieses Diskrepanz zustimmen: 
 ??? 
@@ -92,7 +92,9 @@ creative "hire me" ad und gleichzeitig eine bissige Geständnis zur Diskrepanz z
 
 *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011
 
-Deutsche Übersetzung:
+Deutsche Übersetzung(Siehe Original Transkiption im Anhang):
+
+TODO: hier in zwei Kolumnen nach innen gerückt wäre klasse
 
 ** Stimme: ** 
 
@@ -169,81 +171,5 @@ Deutsche Übersetzung:
 
 ---
 
-Originalversion Englisch (Transkription)
-
-**Voice:**
-
-	Hey, I'm Charlotte Young
-	and I am a visual artist.
-	I work largely but not exclusively
-	through the medium of performance
-	I also make Videos and I am a published writer.
-
-	My art has been exhibited internationally
-	and shown alongside the work of artists of great renown.
-	For the main part my work is concerned with narrative, 
-	its varying forms and renderings.
-
-	I attempt to create fictional narratives,
-	and present them as varifyable truths,
-	questioning the nature of both fact and fiction,
-	and drawing the viewers attention to the line in 
-	which they meet.
-
-	I am influenced by international news reportage, 
-	documentaries, the art of the biopic, 
-	also written or filming accounts
-	of the lives of unusual individuals.
-
-	My work is currently in a state of flux.
-	I search, I aim to acquire further additions to my 
-	creative influences
-	by exploring new artistic territories.
-	In addition to my creative endeaveres, 
-	I can also be employed as a freelance practitioner,
-	and my contact details will appear at the bottom 
-	of this screen shortly.
-
-	E: charlotteemilyyoung@gmail.com
-	T:@charlotteyoung
-
-	Thanks.
-
-
-**Untertitel:**
-
-	Hello
-	My name is Charlotte Young
-	and I am a visual artist
-	I am an attention seeker
-	My Dad bout me a MacBook Pro
-	and my blog has over 100 hits.
-
-	I was in a group show in Cardiff 2 years ago
-	There was a piece in it by that bloke at college 
-	who was on the 'School of Saatchi' programme
-	but didn't win.
-
-	I like stories
-	different kinds of stories
-	I make things up and call it 'art'
-	but I don't tell people it's all made up
-	which makes me feel clever.
-
-	I watch a lot of television
-	and I've got all the Batman films on Blu-rayTM.
-	I haven't made anything in 8 months
-	I really need to make more contacts in the art world,
-	otherwise, I'm screwed.
-
-	So, I'm going to move to Berlin
-	or, at worst, Packham.
-	I am currently desperate for paid work 
-	and will do pretty much anything for cash.
-
-	E: charlotteemilyyoung@gmail.com
-	T:@charlotteyoung
-
----
 
 Ist Künstler ein Beruf? Erst wird Den Begriff Autor untersucht, auf seine zustimmigkeit für Künstler.
