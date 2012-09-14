@@ -44,10 +44,13 @@ die einen parallelen Apparat entwickeln, existieren können, und ob und wo sie s
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar sowie durch Vergleiche zu anderen 
 Kunstakademien und meiner eigenen Erfahrung als Künstler und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
 Möglichkeiten die im Augenblick umsetzbar sind, ergeben sich folgende Konsequenzen: Es entsteht ein Konflikt in der Essenz oder Natur, der Aufgabe 
-von Künstler. Wenn man die neuen technologischen Entwicklungen und Möglichkeiten betrachtet, bleibt das geniale in der Übertragung (oder Übersetzung) 
-einer Idee vom Kopf durch die Hand und von dort zum leeren Bogen? Oder wird es irgdendwannreichen, wenn die Idee, als Geisteseigentum von Künstler 
-anerkannt wird, und die Künstlerhandschrift von sekundärer Wichtigkeit? Was passiert mit Urheberrechten im Angesicht der Entwicklung vom *Creative 
-Commons* [^footnote-[Link](http://creativecommons.org)], und ähnlichen Organisationen in der Kunstwelt? 
+von Künstler. Wenn man die neuen technologischen Entwicklungen und Möglichkeiten betrachtet, stellt sich die akute Frage, ob das Geniale weiter dabei bleiben wird 
+einer Idee vom Kopf durch die Hand und von dort zum leeren Bogen zu übertragen (oder zu übersetzen, wie ich immer häufiger tendiere zu sagen), oder kann 
+es sein dass es reichen wurde und allein die Idee als Geisteseigentum von Künstler anerkannt wird, und damit die Künstlerische individuelle handschrift von sekundärer Wichtigkeit 
+sein wird. Die Entwicklung von selbstbestimmung der Urheberrechten im Angesicht vom *Creative Commons* [^footnote-[Link](http://creativecommons.org)], und ähnlichen 
+Organisationen lässt jetzt schon ihre Marke in der Kunstwelt. 
+
+TODO: zu Genie erweitern, Zitate Norbert einfügen
 
 Künstler arbeiten 24/7, zu jeder Tages- und Nachtzeit und in der Regel bis zur Ihrem Tod. Es gibt kaum Künstler die sagen, "Ich höre auf zu Malen". 
 Große Formate werden vielleicht mühsam angefertigt, aber es gibt keinen Ruhezustand, da sie immer kreieren oder schöpfen, egal was daneben passiert, 
