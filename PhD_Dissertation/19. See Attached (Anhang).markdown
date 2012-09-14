@@ -7,7 +7,7 @@
 1. Kiosk Fragebogen
 2. American dad
 
-## K3 - Der Fragebogen
+## K3: Der Fragebogen
 
 Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben wir das Model Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt mit sich
 administrative Information zu bekommen, neben Neigungen und Interesse an das Projekt und seine Inhalte zu spüren. Im gemischten Form (Amerikanisch und 
