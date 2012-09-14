@@ -84,15 +84,20 @@ oder kann das weg?" werden immer häufiger gehört und verweisen auf eine neue U
 die sich als etwas anderes tarnt und etwas anderes will, evoziert wohlmöglich ein unvorbereitetes Publikum.  
 
 Muss man, oder besser gefragt, kann man heutzutage noch jahrelang im Atelier *"brodeln"*, um dann erst die Welt mit einer epischen Aussage 
-zu 'beglücken'? Künstler experimentieren und probieren sowieso. Sind Andy Warhol, Jean-Michel Basquiat, oder Joseph Beuys ein Auslaufmodell? 
+zu 'beglücken'? Künstler experimentieren und probieren sowieso. Andy Warhol, Jean-Michel Basquiat, oder Joseph Beuys representieren ein Auslaufmodell. 
 Sind Scheitern und Erfolg von Künstler nur noch an dem erreichten Olymp in Form von Ausstellungen in den Großen Museen, auf Biennalen, 
-oder die documenta zu messen? Was hat sich an dem Werdegang des Künstler geändert, und wie sind die Defizite an Professionalität Kunststudenten 
+oder der documenta zu messen? Was hat sich an dem Werdegang des Künstler geändert, und wie sind die Defizite an Professionalität Kunststudenten 
 beizubringen? Was ist gelungen, und wo sind die Gefahrenstellen?
 
-Ist Ein Künstler erst erfolgreich, [^footnote-damit ist der Erfolg sowohl im Wirtschaftlichen, als auch vom Sozialstatus her], wenn er achtzig Assistenten 
-beschäftigen und bezahlen kann? Wird er dadurch nicht genau der angepasste Unternehmer an ein System, an das er gar nicht glaubt? Georg Baselitz, 
-Olafur Eliasson oder Jeff Koons werden ständig durch Interviews über ihren "Betrieb" in Kunstmagazinen wie z.B. *Monopol* dargestellt. Man muss den Markt  
-reichlich und an diversen Stellen gleichzeitig beliefern. Manchmal passiert es sogar sehr schnell, siehe am Beispiel Jonathan Meese, wie er sich selbst im WDR Dokumentarfilm [*Jonathan Meese - Eine Ameise der Kunst*](http://www.youtube.com/watch?v=Y_z41k65Sns&feature=related) darstellt. Mit einem Pinselstrich überfliegt er mehrere Leinwände gleichzeitig, Tonbüsten werden ihm von Assistenten vorgefertigt, damit er im Anschluss ein paar Eingriffe macht und 'fertig ist der Lack', denn der Galerist wartet auf die Ware. Es sind viele Museen und Galerien sowie Messen, auf denen neue Arbeiten gezeigt werden müssen, und der Künstler produziert sie fast wie am Fließband.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TODO: zum Beruf Künstler
+Momentan sieht es so aus, als wäre ein Künstler erst erfolgreich [^footnote-damit ist der Erfolg sowohl wirtschaftlich, als auch vom Sozialstatus her gemeint], wenn er 
+achtzig Assistenten beschäftigen und bezahlen kann. Dadurch wird genau der angepasste Unternehmer in einem System, an das er gar nicht glaubt, als Vorbild inszeniert. 
+Georg Baselitz, Olafur Eliasson oder Jeff Koons werden ständig durch Interviews über ihren "Betrieb" in Kunstmagazinen wie z.B. *Monopol* dargestellt. Man muss den Markt reichlich 
+und an diversen Stellen gleichzeitig beliefern. Manchmal passiert es sogar sehr schnell, siehe am Beispiel Jonathan Meese, wie er sich selbst im WDR Dokumentarfilm 
+[*Jonathan Meese - Eine Ameise der Kunst*](http://www.youtube.com/watch?v=Y_z41k65Sns&feature=related) darstellt. Mit einem Pinselstrich überfliegt er mehrere Leinwände 
+gleichzeitig, Tonbüsten werden ihm von Assistenten vorgefertigt, damit er im Anschluss ein paar Eingriffe macht und 'fertig ist der Lack', denn der Galerist wartet auf die Ware. 
+Es sind viele Museen und Galerien sowie Messen, auf denen neue Arbeiten gezeigt werden müssen, und der Künstler produziert sie fast wie am Fließband.
 
 Einer der stärksten Kräfte oder Motivation oder Drang, welche dem Künstler zugeschrieben werden, ist die der Erneuerung, denn Künstler haben 
 keinerlei Interesse, etwas zu machen, bzw. zu sagen, was schon einmal gemacht worden ist, sei es die Idee oder die materielle Ausführung. Die Gruppe *Azorro 
