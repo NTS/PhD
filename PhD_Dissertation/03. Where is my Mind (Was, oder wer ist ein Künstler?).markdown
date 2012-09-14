@@ -9,11 +9,6 @@
 
 
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was, oder wer ist heute ein Künstler? 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-TODO: fragen weg, feststellungen her
-
 Künstler stellten sich seit immer selbst als Beobachter von sich und die Welt dar. Aber was sind ihre 'Aufgaben' wenn sie solche haben? Wie werden sie von der Gesellschaft wahrgenommen? 
 Seit der Jahrtausendwende Existieren, in Anbetracht der vielen neuen technischen Entwicklungen, verschiedene “Künstlertypen”. Parallel hat sich in dem 
 Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft was geändert. Joseph Beuys Aussage wurde auf der einen Satz: "Jeder ein Künstler" reduziert, damit also den „Künstler“ relativiert das Originalzitat lautet: „... ich sage, es muss ein anderer Kunstbegriff geprägt werden, der sich auf jedermann bezieht, und nicht nur Sache der Künstler ist, sondern sich anthropologisch nur deklarieren lässt. D.h. jeder Mensch ist ein Künstler in dem Sinne, dass er etwas gestalten kann. Alle Fragen der Menschen können nur Fragen der Gestaltung sein (Soziales Gestalten, Rechtsgestaltung, Natur – und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“ (J. Beuys im Gespräch mit B. Blume u. H.  G. Prager vom 15.11.1975, D 6-Kat.I/156 f.). nicht nur Kinder können das, auch Affen (gemeinsam mit Arnulf Rainer), Elefanten (Komar und Melamid), und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb formaler Ähnlichkeiten.
@@ -21,7 +16,7 @@ Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft was geänd
 Oder finden wir Andy Warhols Aussage bestätigt, dass alle ihre fünfzehn Minuten Ruhm bekommen werden, oder sind diese besagten fünfzehn Minuten gar vorbei und ab jetzt 
 sind alle berühmt? Das heißt: Gilt die Aussage "Das kann mein Kind auch" in diesem Sinne? Kann wirklich jeder lernen, ein Künstler zu werden?
 
-Wie stellt sich der Künstler selbst dar, was sind seine Aufgaben? Wie wird er von der Gesellschaft wahrgenommen? Existieren seit der Jahrtausendwende 
+Wie stellt sich der Künstler selbst dar, was sind seine Aufgaben und wie wird er von der Gesellschaft wahrgenommen? Existieren seit der Jahrtausendwende 
 in Anbetracht der vielen neuen technischen Entwicklungen verschiedene “Künstlertypen”, die man definieren könnte? Was hat sich in dem 
 Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft geändert? Hatte Joseph Beuys recht und ist heute jeder ein Künstler? 
 Oder finden wir Andy Warhols Aussage bestätigt, dass alle ihre fünfzehn Minuten Ruhm bekommen werden, oder sind diese besagten fünfzehn Minuten gar vorbei und ab jetzt 
@@ -64,7 +59,7 @@ Weiter heißt es in Meyers Online-Lexikon:
 [^LadyGaga]: LadyGaga, Looking at me [Link] http://www.youtube.com/watch?v=2Hjm4D4LAGg]
 
 
-Wie wird der Künstler von anderen gesehen und beschrieben und stimmt es überein, wie Künstler sich selber beschreiben? In jedem Kunststudium wird über "Mimesis" 
+Der Künstler wird gern von anderen gesehen und beschrieben. Stimmt es überein, mit dem wie Künstler sich selber beschreiben? In jedem Kunststudium wird über "Mimesis" 
 (Nachahmung) sowie Platons Geniebegriff diskutiert. Ich würde gern folgendes Zitat aus Wolfgang Ullrichs Buch *Was war Kunst? Biografien eines Begriffs* als 
 Ausgangspunkt wählen. In seinem Versuch das *je ne sais quoi* (das gewisse Etwas, das unbeschreibliche zu fassen) zu erläutern, schreibt er: "Nach Kants Kritik 
 der Urteilskraft: 'Genie ist, nicht Geschicklichkeitsanlage zu dem, was nach irgendeiner Regel gelernt werden kann… selbst nicht beschreiben oder wissenschaftlich 
