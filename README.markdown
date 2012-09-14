@@ -60,6 +60,8 @@ Just Book [@Author:book]
 
 ## NTS shorthand
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 [@Author:book]
 [@Author:book, pp. xx]
 
