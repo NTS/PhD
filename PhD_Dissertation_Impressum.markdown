@@ -36,7 +36,7 @@ Diese Dissertation ist eine Kombination aus kapitel und Texte die während der R
 > Ich versichere ehrenwörtlich, dass ich nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen habe.
 
         
->    --------------------------------
+                                         --------------------------------
 
 
 
