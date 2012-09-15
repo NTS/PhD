@@ -1,15 +1,7 @@
 # Kunst ./. Kommunikation*
 
-> fill intro
 
-nwh 
-
-Was passiert mit dem Künstler im Zeitalter der unendlichen digitalen Reproduzierbarkeit seiner Arbeiten
-
-zur gegenwärtigen Paradigmenverschiebung 
-
-
-## Einleitung
+**Zur gegenwärtigen Paradigmenverschiebung*
 
 > „„Das Bewußtsein kann nicht kommunizieren, die Kommunikation kann nicht wahrnehmen.“ [@Luhmann:kunstges, pp. 86] 
 > Als Wahrgenommenes fasziniert das Kunstwerk das Bewusstsein, bildet also ein psychisches, kein soziales System. 
@@ -22,7 +14,9 @@ zur gegenwärtigen Paradigmenverschiebung
 > *Dr. Niels Werber* [-@Werber:nurkunst]
 
 
-In den 60er Jahren, im Zuge der Entmaterialisierung der Kunst, erweiterte die Konzeptkunst das Sehen durch das Denken. Das bloße Betrachten eines Kunstwerkes reichte zum Verständnis 
+
+Was passiert mit dem Künstler, sein Werk und dessen Vermittlungswege, im Zeitalter der unendlichen digitalen Reproduzierbarkeit von Information? 
+In den 1960er Jahren, im Zuge der Entmaterialisierung der Kunst, erweiterte die Konzeptkunst das Sehen durch das Denken. Das bloße Betrachten eines Kunstwerkes reichte zum Verständnis 
 nicht mehr aus: das Lesen von Titel, Anleitungen und anderen Informationen war nunmehr nötig, um in die Denkweise der Künstler ganz einzutauchen und Inhalte „richtig“ zu verstehen. 
 Die Leinwand oder das Objekt reichten als bloße Informationsträger nicht mehr aus, Kommunikation mit dem Kunstwerk oder mit dem Künstler war folglich durch eine Vielzahl von Kanälen nötig. 
 Eine Verschmelzung der Begriffe, Codes und Kategorien führte zu einer Weiterentwicklung künstlerischer Strategien, die auch in den Alltag hinein wirken und zu einer Verschiebung der 
@@ -41,11 +35,9 @@ Kunstmarkt und dem Apparat als solchem, es entsteht der Begriff “Artist’s Ar
 ## Digitalisierung und Vernetzung
 
 Vilèm Flusser schreibt [-@Flusser:Kommuni], dass auch wenn die Begriffe Schönheit, Originalität, Interesse, usw. schwierig zu definieren sind, so doch alles immer wieder auf die Information 
-zurückgeführt werden kann und Information will kommuniziert werden. 
-
-Übernimmt die Digitalisierung unserer Gesellschaft die Oberhand und bringt die hervorgebrachte elektronische Einsamkeit ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: 
-die KünstlerInnen, die nun nicht mehr nur lokal agieren, sondern globale Kulturströmungen verursachen. Das Quellenmaterial, die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, 
-ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar.
+zurückgeführt werden kann und Information will kommuniziert werden. Übernimmt die Digitalisierung unserer Gesellschaft die Oberhand und bringt die hervorgebrachte elektronische Einsamkeit 
+ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: die Künstler , die nun nicht mehr nur lokal agieren, sondern globale Kulturströmungen verursachen. Das Quellenmaterial, 
+die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar.
 
 Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgestattet und kann sich ungehindert innerhalb von Onlinedatenbanken bewegen. Sein Charakter ist vor allem als technisch 
 zu bezeichnen. Im Gegensatz zu seinen kunsthistorischen Vorgängern ist er autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, 
@@ -118,7 +110,7 @@ nwh *S. 70, ach das „Mem“ gibt’s auch noch, war mal hochaktuell, aber lang
 
 
 
-Welche Rolle spielen nun KünstlerInnen und die Kunst als Kommunikationsmedium? Wenn man die Schilder der „Occupy“-Bewegung und anderer Protestbewegungen als Beispiel nimmt, 
+Welche Rolle spielen nun Künstler  und die Kunst als Kommunikationsmedium? Wenn man die Schilder der „Occupy“-Bewegung und anderer Protestbewegungen als Beispiel nimmt, 
 stellt man fest, dass sich Statusmeldung auf Facebook und lustige Protestschilder auf Demonstrationen sehr ähnlich sind. In beiden Fällen ist es eine spontane Position, 
 die eine weitere Ebene erreicht hat. Diese Spontanität (man denkt natürlich auch an die Spontis und ihre Protestgraffiti in den 70er Jahren in Deutschland) wird durch 
 die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebenen: die der Strasse mit dem Computer „zuhause“; sie werden zu einer Realität. 
@@ -186,7 +178,7 @@ nwh *S. 71, 12.6 Anführen könnte man noch, wie z. B. die Werbung sich bei der 
 Kommunikation manifestiert sich als kollektives und kollegiales Feld. Welche Mitteilungsform erhält das Haptische und welche Stellung nehmen Daten ein? 
 Hat die Kunst eine andere Berechtigung, wird sie anders wahrgenommen, bietet sie eine Absolution? Wie entwickelt sich die Individualität in den immer 
 vielfältiger werdenden Kommunikationswegen, wo bricht sie auf und wo verschließt sie sich? Inwieweit wirkt sich die Entwicklung auf unsere Wahrnehmung 
-aus? Diese Art „Osmose“, hinterlässt bei vielen kunstorientierten Theoretikern Spuren und stößt auf das Interesse der KünstlerInnen auf der Meta-Ebene an. 
+aus? Diese Art „Osmose“, hinterlässt bei vielen kunstorientierten Theoretikern Spuren und stößt auf das Interesse der Künstler  auf der Meta-Ebene an. 
 
 
 ### Decepticons
@@ -235,7 +227,7 @@ drahtlose Technik, endlich Realität. Trotzdem verbleibt uns die Möglichkeit, d
 Flusser führt weiter aus: 
 „Man kann sagen, dass viele Bilder nicht versuchen, „konkrete“ Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen 
 wie die Welt ist, sondern, wie sie sein kann oder sein soll.“ [-@Flusser:Kommuni, pp. 111] 
-Kunst macht genau das: Oft voraus und nicht immer mit vollem Bewusstsein. Basiert die Kraft der KünstlerInnen als Vorhersehende auf ihrem Beobachtungsvermögen, 
+Kunst macht genau das: Oft voraus und nicht immer mit vollem Bewusstsein. Basiert die Kraft der Künstler  als Vorhersehende auf ihrem Beobachtungsvermögen, 
 das immer mehrere Parameter beinhaltet, z.B. auch solche von Anthropologen? 
 Eine Mischung aus Neugierde, der Suche nach der Wahrheit und Experimentierfreude erzeugt mutige Feststellungen in visueller Form.
 
@@ -304,7 +296,7 @@ jedoch sind ihm Rezeption, bzw. Verständnis des Betrachters nicht sekundär.
 Die oberste “Trennung” – die Trennung, die relationale Kanäle betrifft – stellt die letzte Stufe in der Umstellung auf die “Gesellschaft 
 des Spektakels” dar, wie von Guy Debord beschrieben. 
 Dies ist eine Gesellschaft, in der menschliche Beziehungen nicht mehr „unmittelbar erlebt“ werden, sondern in ihrer “spektakulären” 
-Darstellung zu verschwimmen beginnen.[@Bourriaud:Relational, pp. 9]
+Darstellung zu verschwimmen beg .[@Bourriaud:Relational, pp. 9]
 
 Die Werbung, die sich von der Begleiterscheinung des Kapitalismus parallel zur eigenen Kultur entwickelt hat, versucht ebenfalls uns 
 zu unterhalten. Welcher von den an visueller Kommunikation interessierte Mensch freut sich nicht, wenn ihm im Fernsehen oder vor einem Film im 
