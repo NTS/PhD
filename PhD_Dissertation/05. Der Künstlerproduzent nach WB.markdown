@@ -38,16 +38,16 @@ die Qualität des Kunstwerkes darf nicht wegen der politischen Intention nachlas
 das Künstler im politischen, nicht unbedingt klüger als andere Intellektuelle sind. Man muss sich in der eigenen konkreten Welt auskennen. 
 Man muss darüber informiert sein, wo und wie man publiziert und wie man selbst publizieren oder auch ein kooperativen Mitglied werden kann. 
  
-Wo läuft die Kreativität (oder Leistung) hin, und was passiert mit der individueller Anerkennung, wenn Künstler in Kooperationen oder als Berater 
-und Denkfabrikanten (Think Tanks), bis zur Stellen bei Konzernen eingestellt wird? Dient er als "Haus (Hof?) Kunstler (Narr?)" oder geht es hier 
-um einer Stelle mit monatlicher Ratenanzahlung? Der Zustand des Künstlers heute ist dem des Autors und anderen kreativ orientierten Menschen ähnlich. 
-Der Nachteil heute wäre, selbst viel mehr Arbeit zu haben, aber dafür eine höhere Prozent der Einnahmen kassieren zu können. 
+Wo läuft die Kreativität (oder Leistung) hin, und was passiert mit der individuellen Anerkennung, wenn Künstler in Kooperationen oder als Berater 
+und Denkfabrikanten (Think Tanks) bei Konzernen eingestellt werden? Dient er als "Haus (Hof?) Künstler (Narr?)" oder geht es hier womöglich
+um einer Stelle mit monatlicher Ratenanzahlung? Der Zustand des Künstlers heute ist dem des Autors und anderer kreativ orientierter Menschen ähnlich. 
+Der Nachteil heute wäre, selbst viel mehr Arbeit zu haben, aber dafür eine höhere Prozentzahl der Einnahmen kassieren zu können. 
 
 Die Arbeitsverhältnisse ändern sich, das ist eine Tatsache. Durch Automation und Computerisierung erübrigen sich ganze Sektoren.
 Der Zwang, aktiv zu sein und sich im spätkapitalistischen System zu vermarkten, verlangt vor allem eine Flexibilität, die in 
-Richard Sennett's Buch *der Flexibler Mensch* [-@Sennett:Mensch] überzeugend beschrieben wird. Sennett erklärt hier die neue 
-Strukturierung, vor allem die Zeit und die Wandlung des Arbeitsethos. Der Arbeitsmarkt wird für Alle eng. Genau aus diesem Grund 
-könnte die neu erwünschte Flexibilität den Markt mehr öffnen, um Künstler aufgrund ihrer eher flexibleren Arbeitsweise zu integrieren. 
+Richard Sennett's Buch *Der Flexible Mensch* [-@Sennett:Mensch] überzeugend beschrieben wird. Sennett erklärt hier die neue 
+Strukturierung, vor allem die Zeit und die Wandlung des Arbeitsethos. Der Arbeitsmarkt wird für alle eng. Genau aus diesem Grund 
+könnte die neu erwünschte Flexibilität den Markt für Künstler aufgrund ihrer eher flexibleren Arbeitsweise zu integrieren öffener. 
 
 Darüber hinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einen Dichter zurück zu führen ist, das heisst, der Begriff 
 wurde aus einer künstlerischen Beobachtung hergeleitet. 
@@ -58,9 +58,9 @@ Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast al
 beherrschen. An dieser Stelle ist auch der Begriff "Digitale Boheme" zu erwähnen, der bei der Künstlergruppe *Rosa* im gebrauch war, 
 und nach Erscheinung des Buches *Wir nennen es Arbeit* [@Friebe:Arbeit] von Holm Friebe und Sascha Lobo 2006, sich mindestens in der Deutsche Sprache 
 sich etabliert hat, um flexieble Arbeitsverhältnisse zu präsentieren. Reguläre Arbeitnehmer arbeiten nach vornehmlich geregelten 
-Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. KünstlerInnen kennen keine 'Freizeit', 
+Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. Künstler kennen keine 'Freizeit', 
 selbst wenn sie im Urlaub sind, sind sie weiter schöpferisch und kreativ tätig. Tageszeiten, Wochenpläne, Wochenende und Feiertage sind Strukturen, 
-an die sich KünstlerInnen grundsätzlich anpassen müssen. Die Kreativität jedoch kennt Strukturen dieser Art nicht. Sie benötigt die Freiheit und die 
+an die sich Künstler grundsätzlich anpassen müssen. Die Kreativität jedoch kennt Strukturen dieser Art nicht. Sie benötigt die Freiheit und die 
 'Todeslinie' (deadline) am Ende, damit überhaupt etwas festgelegt oder gar 'strukturiert' werden kann.
 
 Warhol dazu: "Leonardo da Vinci hat seine Auftraggeber immer davon überzeugt, dass die Zeit, in der er nachdachte, etwas wert war, sogar mehr wert als die Zeit, 
@@ -71,12 +71,12 @@ das Geschäft mit ihr ist, also 'das Business' an sich. (…) nachdem ich also '
 stieg ich in die Business-Kunst ein. [@Warhol:vonAbisZ, pp.86–87]
 
 Die Tatsache das der Arbeitsplatz längst nicht mehr die Entscheidung über den Wohnort bestimmt, gerade durch die 
-Globalisierung, haben vor allem KünstlerInnen bereits für sich festgestellt und sich dementsprechend angepasst. 
+Globalisierung, haben vor allem Künstler bereits für sich festgestellt und sich dementsprechend angepasst. 
 
 In *Die Legende vom Künstler* [@Kris:Legende] schreiben Ernst Kris und Otto Kurz wie der Künstler zu allen Zeiten unterschiedlich sein und agieren muss, 
 da die Gesellschaft nur bestimmte Sachen honoriert. Erneut ist also die Rede von Anpassung. Noch ein Argument von Benjamin: Ist man nicht nur Opfer 
 sondern auch Täter? Die vorgefundene Welt kann auch manipuliert werden. So existiert die Welt vs. ich bin funktionsgestört und ändere sie.
-Als KünstlerIn arbeitet man inzwischen auch im Kunstbetrieb. Warum sollten KünstlerInnen nur in bestimmten Bereichen arbeiten dürfen (z.B. Ausstellungsaufbau) 
+Als Künstler arbeitet man inzwischen auch im Kunstbetrieb. Warum sollten Künstler nur in bestimmten Bereichen arbeiten dürfen (z.B. Ausstellungsaufbau) 
 und an andere Stellen (z.B. Galerie) nicht? Wie Marcel Duchamp, Timm Ulrich; Martin Kippenberger, und viele Andere, die den Kunstbetrieb selbst als Material kreativ 
 gebrauchten (wie Andrea Fraser oder Lucas Samaras der laut Brian O'Doherty im *Atelier und Galerie Studio and cube* [@ODoherty:Cube]schon im Jahr 1964 sein Atelier 
 als Kunstwerk in der Galerie ausstellte. 
@@ -87,7 +87,7 @@ of the Art in Landform, mit Passport etc. ??? Während es in anderen Bereichen A
 Wenn man bei ein paar Biennalen und in großen Museen eine Soloausstellung verzeichnen kann, hat man alles erreicht. Manchen reicht dies nicht und sie kommentieren 
 oder schreiben über ihre Lebensverhältnisse oder Gedanken über die Kunst, als Metaebene.
 
-Also haben KünstlerInnen, bei dem Versuch ihre Freiheit zu erhalten eine Möglichkeit, die Verhältnisse so wie sie sind hinnehmen und innerhalb vom System reagieren,
+Also haben Künstler, bei dem Versuch ihre Freiheit zu erhalten eine Möglichkeit, die Verhältnisse so wie sie sind hinnehmen und innerhalb vom System reagieren,
 oder sie zu ändern.
 
 ---
