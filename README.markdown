@@ -79,3 +79,6 @@ Just Book [@Author:book]
 **Bild:** [Bildunterschrift [^fn-zum-bild]](~/Dropbox/MFA+NTS/...)
 
 [^LadyGaga] [^LadyGaga]:
+
+[^everydone]
+[^everydone]: Kunstwerk Titel der Kunstgruppe Azzoro, PL 2003
