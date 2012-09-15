@@ -11,7 +11,9 @@
 2. Transkriptionen Songs & Texts & Co.
 
 
-## K3: Der Fragebogen
+## K3 
+
+### Der Fragebogen
 
 Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben wir das Model Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt mit sich
 administrative Information zu bekommen, neben Neigungen und Interesse an das Projekt und seine Inhalte zu spüren. Im gemischten Form (Amerikanisch und 
@@ -263,9 +265,12 @@ Yes and I use it               1
 > "Ich wollte praktische Erfahrung für die Arbeit in einer Galerie mir aneignen."
 > "Praxisbezug" "Um über ausstellen nachzudenken"
 
-### Songs & Texts Tabellen full Version
 
-## American Dad - Episode *Knallbunt* 
+
+	
+## Songs & Texts Tabellen full Version
+
+###American Dad - Episode *Knallbunt* 
 
 
 Deutsche Fassung - Transcript
@@ -423,7 +428,7 @@ Deutsche Fassung - Transcript
     TOCHTER: „…und mir tut es leid das ich so unbegabt bin.“
 	
 	
-## Hi, (E)
+### Hey, I'm Charlotte Young (E)
 
 Originalversion Englisch (Transkription)
 
