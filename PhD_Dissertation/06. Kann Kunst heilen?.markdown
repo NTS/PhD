@@ -7,9 +7,9 @@ TODO: Bemerkungen nwh ganz unten
 Zu neuen Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender Ph.D.-Programme an Kunsthochschulen.
 
 
-Programme für Kunst & Design in der akademischen Welt. KünstlerInnen mischen sich in sozial-politischen Angelegenheiten ein und bedienen sich immer 
-mehr an Ausdrucksformen, die uns aus dem wissenschaftlichen Bereich bekannt sind. Was machen diese Formen für KünstlerInnen so attraktiv? Können 
-KünstlerInnen Theorie schreiben? Können und wollen KünstlerInnen Theorie als Praxis betreiben?
+Programme für Kunst & Design in der akademischen Welt. Künstler mischen sich in sozial-politischen Angelegenheiten ein und bedienen sich immer 
+mehr an Ausdrucksformen, die uns aus dem wissenschaftlichen Bereich bekannt sind. Was machen diese Formen für Künstler so attraktiv? Können 
+Künstler Theorie schreiben? Können und wollen Künstler Theorie als Praxis betreiben?
 
 Eine E-Mail in meiner Eingangspost, die ich ursprünglich ohne sie zu lesen löschen wollte, hat jedoch durch ihren Titel meine Aufmerksamkeit 
 geweckt: "Placebo für die Kunst gesucht, um die Effekte der Kunst auf das Gesundheitswesen zu studieren.“ Das Behring-Institut für medizinische Recherche, das in 
@@ -19,7 +19,7 @@ Patientenaufenthalt in Krankenhäusern, zur Verbesserung der Arbeitsbedingungen 
 Gesundheit fördert.“ Die Post kam via *E-Flux*, ein Online-Kunst-Nachrichten-Service, das neben der Ankündigung von Ausstellungen in der ganze Welt, auch Texte 
 über Kunst und Erziehung *Art & Education* veröffentlicht. 
 
-Die akademische wissenschaftliche Welt verfolgt mit Unruhe diese Entwicklung und zweifelt an der Fähigkeit, dass KünstlerInnen theoretische Texte und Dissertationen 
+Die akademische wissenschaftliche Welt verfolgt mit Unruhe diese Entwicklung und zweifelt an der Fähigkeit, dass Künstler theoretische Texte und Dissertationen 
 schreiben können, wenn diese nicht in traditioneller Art und Weise geschrieben sind. Viele Promovierende bestreiten eine künstlerische Freiheit, das heißt viele von ihnen wollen die 
 theoretischen Texte in Verbindung mit dem praktischen Teil wissen, welcher fünfzig Prozent der Promotion ausmacht. Sie wollen so schreiben, wie sie es als KünstlerIn 
 verstehen. Die geforderte Seitenmenge der Dissertation zeigt uns die systematische Verankerung des klassischen Schreibens auch an Kunstakademien, 
@@ -37,27 +37,27 @@ Versuchs- und bezahlter Arbeit zwischen experimenteller und Atelier, zwischen Mu
 deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”. [Link]: http://www.iat-research.com/index.php/about-the-institute
 
 Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläublichkeit gegenüber der 
-neuen Realität, einen Ph.D. Titel an KünstlerInnen zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]von 1978 bezieht sich der 
+neuen Realität, einen Ph.D. Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]von 1978 bezieht sich der 
 Wissenschaftstheoretiker Thomas S. Kuhn, der in Princeton Professor war, mit einer Bemerkung zum Verhältnis von Wissenschaft und Kunst auf einen noch früheren 
 Text von E. M. Hafner, *The New Reality in Art and Science* von 1969. Kuhn meint: „Je mehr man versucht Künstler von Wissenschaftler zu unterscheiden, 
 desto schwieriger wird diese Aufgabe“[-@Kuhn:Entstehung], jedoch betrachtet er dies als beunruhigend.
 
-Ist die Sorge seitens der Wissenschaft berechtigt? Was suchen KünstlerInnen in dem bisher für Wissenschaftler, Philosophen, Theoretiker und Kunsthistoriker 
+Ist die Sorge seitens der Wissenschaft berechtigt? Was suchen Künstler in dem bisher für Wissenschaftler, Philosophen, Theoretiker und Kunsthistoriker 
 geschlossenem Feld? Das Anlehnen sowie das Zitieren von theoretischen und philosophischen Texten als Basis künstlerischer Arbeit ist 
 zunehmend zu beobachten. Essentielle Zitate von Walter Benjamin und Theodor W. Adorno schmücken nicht nur die Texte, sie weisen auf eine Inspirationsquelle 
-von und für KünstlerInnen hin. Worte anderer Disziplinen bieten eine Interpretationshilfe, sie erläutern die Arbeit zunächst für die Künstler selbst und anschließend auch 
+von und für Künstler hin. Worte anderer Disziplinen bieten eine Interpretationshilfe, sie erläutern die Arbeit zunächst für die Künstler selbst und anschließend auch 
 für die Betrachter. Möglicherweise findet das visuelle Konzept des Künstlers eine Rückübersetzung in eine andere Sprache, nämlich die des Wortes. Eine Idee, 
 oder eine Beobachtung die in Worte gefasst wurde, zu welchem der Künstler ein Bild (im Sinne von Image) erstellt hat. Ist das Untermauern der visuellen Arbeit mit Worten, 
 die die Intention des Künstlers erläutern, nur eine Mode oder eine iterative Entwicklung des künstlerischen Werdegangs, der so mehr und mehr gefördert wird? Befinden wir 
-uns in dieser Entwicklung, weil die Intention nicht mehr nur allein aus der praktischen Arbeit klar abzulesen ist oder weil KünstlerInnen das Wort auch als visuelles Material betrachten?
+uns in dieser Entwicklung, weil die Intention nicht mehr nur allein aus der praktischen Arbeit klar abzulesen ist oder weil Künstler das Wort auch als visuelles Material betrachten?
 
 Welche Eigenschaften verbinden künstlerische und wissenschaftliche Recherche? Neugier, Kreativität, Experimentierfreude, die Forschung als Prozess, 
 Neues entdecken und zu erfinden. Laut Kuhn streben beide in ihren Fragestellungen nach Antworten. Der Unterschied beginnt damit, dass die Wissenschaft 
 nur sich selbst als Publikum hat, während die Kunst ein viel breiteres Publikum genießt. Aus heutiger Sicht lässt es sich relativieren, denn ein 
 neuer Typus entsteht: der „Akademische Künstler“. Die meisten Debatten um künstlerische Recherche sowie der Diskurs um Kunst im Öffentlichen Raum, um nur ein Beispiel zu nennen, 
-interessieren wiederum nur solche KünstlerInnen, die Master- und Ph.D.-Programme belegen solche Programme dann auch gründen, innerhalb dieser lehren und somit eine sehr spezifische 
+interessieren wiederum nur solche Künstler, die Master- und Ph.D.-Programme belegen solche Programme dann auch gründen, innerhalb dieser lehren und somit eine sehr spezifische 
 Zielgruppe ansprechen. Ein weiterer Unterscheid ist, dass der Künstler auch das Scheitern als Resultat präsentieren kann oder um es mit den Worten des Musikers 
-Genesis P. Orridge zu sagen: „Der Prozess ist das Produkt“. Die Wissenschaft kann sich das kaum leisten. KünstlerInnen können ein ästhetisches, aber durchaus hermetischen Werk 
+Genesis P. Orridge zu sagen: „Der Prozess ist das Produkt“. Die Wissenschaft kann sich das kaum leisten. Künstler können ein ästhetisches, aber durchaus hermetischen Werk 
 erzeugen, ein Bild von ihren Gedanken, von ihre Suche machen, während Wissenschaftler nach luzidem Schreiben streben, welches widerum ihren Gedanken ein Bild verleiht. 
 Recht und Anerkennung verlangen und erhalten beide. 
 
@@ -73,12 +73,12 @@ aber die Entwicklung seiner Projekte visuell und ist ein gutes Beispiel für das
 darum, was die Kunst über sich selbst sagen will. Dies fasste Hirschhorn auch in eine Mindmap, **Bild:** [Hirschhorn Mindmap] eine seit Ende der neunziger Jahre sehr 
 beliebte Ausdrucksform, welche auch aus einer anderen Disziplin entlehnt wurde.
 
-KünstlerInnen suchen ständig nach neuen Strategien, weil diese auf ihre Individualität und Originalität verweisen, KünstlerInnen sind geltungsbedürftig veranlagt, 
+Künstler suchen ständig nach neuen Strategien, weil diese auf ihre Individualität und Originalität verweisen, Künstler sind geltungsbedürftig veranlagt, 
 sie wollen Aufmerksamkeit. Recherche ist nötig, um etwas Neues hervorzuheben. Eine iterative Entwicklung der Theorie in der Kunst lässt sich an folgendem Beispiel erklären: 
 Nachahmung, Fakes (wie in Fälschungen) und Plagiate sowie Hommagen, führen zur Aneignungskunst und erzeugen dadurch auch Selbstreferenzen. Die Kunst kreist also um sich und um
 ihr eigenes Selbst. Auch wenn alle Medien bedient worden sind, kann die Geschichte nie zu Ende erzählt werden. Als Beobachter und Kritiker, als Erzähler, 
-schauen sich die KünstlerInnen genau um, um neue Ausdrucksmöglichkeiten zu entwickeln, die im Grunde einer Bereicherung des Pinselsortiments in der Werkzeugkiste gleichen. 
-KünstlerInnen kreieren außer Objekten und Gemälden auch Musik, Filme, Videos, Fotos, Interventionen, in verschiedenen Formen, und erfinden stets neue Strategien, um ihre Arbeit 
+schauen sich die Künstler genau um, um neue Ausdrucksmöglichkeiten zu entwickeln, die im Grunde einer Bereicherung des Pinselsortiments in der Werkzeugkiste gleichen. 
+Künstler kreieren außer Objekten und Gemälden auch Musik, Filme, Videos, Fotos, Interventionen, in verschiedenen Formen, und erfinden stets neue Strategien, um ihre Arbeit 
 nicht nur sichtbar zu machen, sondern wahrgenommen zu werden. Sie schleichen sich als Geschäftsleute ein, machen Werbung, halten Vorträge, wollen die Weltverbessern. Nun, wenn alles 
 „Fake“ ist und nicht echt, kann es auch als Entertainment rezipiert werden. Bernard Hoffert schreibt in „Taking Art Seriously“:"Understanding Studio Research: Kunst ernst zu nehmen 
 bedeutet nicht nur, dass wir ihrkreatives Potenzial verstehen, sondern auch wie wir ihr Forschungs-Wissen nutzen können, um parallel zu anderen Disziplinen und zur 
@@ -86,10 +86,10 @@ Entwicklung zur Kultur beizutragen.http://artandeducation.net/ oder wie es auf d
 “Künstlerische Forschung setzt sich mit demEntstehungsprozess eines Kunstwerkes auseinander und entwickelt auf der Schnittstelle von Kunst und Wissenschaft neue 
 Methoden zur Erforschung und Abbildung des Verhältnisses von Individuum und Gesellschaft”.
 
-Es stellt sich weniger die Frage, ab wann KünstlerInnen zu Wissenschaftlern werden, sondern wo der Punkt ist, an dem die wissenschaftliche Auseinandersetzung zur Kunst wird und von 
+Es stellt sich weniger die Frage, ab wann Künstler zu Wissenschaftlern werden, sondern wo der Punkt ist, an dem die wissenschaftliche Auseinandersetzung zur Kunst wird und von 
 Anderen auch als solche anerkannt wird. Aber wie erkennt man Kunst, die sich als Wissenschaft zeigt? Dieser Diskurs erscheint sinnlos, überrascht er doch auf eher angenehme als 
 anstrengende Weise. Es ist nicht echt, es ist „nur“ Kunst. Also harmlos, nicht wahr, fiktiv. Diese Aussagen können auch verärgern: Was ist mit Verantwortung? Was mit Nachhaltigkeit? 
-KünstlerInnen unternehmen Projekte und bewegen sich weiter hinein in neue Bereiche. Sie lenken die Aufmerksamkeit von sich auf Problematiken in soziale, politische Bereiche und setzen 
+Künstler unternehmen Projekte und bewegen sich weiter hinein in neue Bereiche. Sie lenken die Aufmerksamkeit von sich auf Problematiken in soziale, politische Bereiche und setzen 
 innerhalb der Kunstwelt ein positives Zeichen. Kann diese Art von gesellschaftspolitischen - und sozialen Projekte, über die Kunstwelt hinaus eine Wirkung zeigen? Simon Sheikh meint:
 
 > Diese derzeitige Situation im kulturellen und auch im politischen Feld führt zu einer möglichen - manchmal strategischen, manchmal eher unwillkürlichen - Radikalisierung 
@@ -99,7 +99,7 @@ innerhalb der Kunstwelt ein positives Zeichen. Kann diese Art von gesellschaftsp
 > Partikularität und Universalität, öffentlichen Räumen und aktivistischen Strategien, Netzwerken und WählerInnenschaften. (...) Dazu ist die permanente Verhandlung,
 > Übersetzung und Artikulation zwischen interessierten Einzelnen und Gruppen notwendig. Netzwerke müssen entwickelt werden, um Praxen und Theorien
 > zu vergleichen und zu vermitteln. Kunst bewirkt natürlich etwas, aber Kunst ist nicht genug … 
-! Quelle: Simon Sheikh 10/2004 Repräsentation, Anfechtung und Macht: KünstlerInnen als öffentliche Intellektuelle
+! Quelle: Simon Sheikh 10/2004 Repräsentation, Anfechtung und Macht: Künstler als öffentliche Intellektuelle
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Fehlt: Pussy Riot:  
