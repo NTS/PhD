@@ -19,6 +19,8 @@ darüber zu äußern.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+    TODO: MOVE! TO >
+
 Meiner Meinung nach existiert eine Verschiebung der Aufgabenverteilung. Es gibt keine Fronten mehr zwischen Künstler oder Kunstwerk. 
 Der Künstler übernimmt Aufgaben und Funktionen, die sonst von Professionellen ausgeführt werden. Das heißt Dienstleistungen werden autark 
 übernommen. Als ich studiert habe, durfte ich nicht einmal ausstellen. Wir hatten während des Studiums schlichtweg Ausstellungsverbot. 
@@ -41,11 +43,12 @@ Parameter kennenlernen.
 
 ## Das Format Fachkurs
 
-Den Künstlerischen Mitarbeiter der Fakultät Gestaltung steht eine große Freiheit zu, pro Semester ein Fachkurs oder ein Workshop, mit Inhalt 
+Den Künstlerischen Mitarbeitern der Fakultät Gestaltung steht eine große Freiheit zu, pro Semester einen Fachkurs oder einen Workshop mit Inhalt 
 ihrer Wahl anzubieten. Parallel zu den Projekten werden im Studiengang Freie Kunst auch Seminare, Workshops und Fachkurse angeboten. In der Regel 
-werden Fertigkeiten im Bereich Computerprogramme (video und Digitale Bildbearbeitung), oder Buchbinderei, um nur ein Paar Beispiele zu nennen. 
-Es war meine Aufgabe, das, was ich vermitteln möchte, an diese Format anzupassen. und das, was man in praktische Fachkurse. 2007, begKünstlerd mit 
-meiner Stellenbesetzung, habe ich folgende Fachkurse abgehalten, die alle um das Studium Freie Kunst und das professionelle künstlerische Umfeld kreisen. 
+werden Fertigkeiten im Bereich Computerprogramme (Video und digitale Bildbearbeitung), oder Buchbinderei, um nur ein paar Beispiele zu nennen. 
+Es war meine Aufgabe, das, was ich vermitteln möchte, an diese Formate anzupassen. 2007, beginnend mit meiner Stellenbesetzung, habe ich folgende 
+Fachkurse abgehalten, die alle um das Studium Freie Kunst und das professionelle künstlerische Umfeld kreisen. Zu jeden Vorlesungsverzeichnis Antrag, 
+habe ich Notizen oder ein ganzes Text hinzugefügt, um die Erfahrungen und Authentische Momente festzuhalten.
 
 **Bild:** [Foto Kiosk auf'm Tisch geritzt](images/bild.jpg)
 
@@ -54,7 +57,7 @@ meiner Stellenbesetzung, habe ich folgende Fachkurse abgehalten, die alle um das
 WS 2007/08
 
 In diesem Fachkurs werden alle Facetten und Schritte einer Ausstellung, von der Idee bis zur Eröffnung vorbereitet. 
-Thematisiert und praktiziert werden: Kontakt zur Galerie; Finanzierung; Terminplan; Pressearbeit; Künstler- Assistenz; 
+Thematisiert und praktiziert werden: Kontakt zur Galerie; Finanzierung; Terminplan; Pressearbeit; Künstler-Assistenz; 
 Objektbau und Werkstatt; Ausstellungsaufbau und Eröffnung. All dies wird durch die Begleitung einer kommenden Ausstellung 
 in der ACC Galerie Weimar, mit dem Galeristen Frank Motz, sowie dem Künstler Nikos Arvanitis realisiert.
 
@@ -62,9 +65,9 @@ Notizen
 
 Von der Idee über den Plan und die Materialanschaffung, Kunstwerke zu erzeugen. Die Pressearbeit spielte eine Rolle. Der Ablauf der 
 Ausstellung und die Künstlerassistenz sind wichtig. Damit kann man 'üben' und lernen, mit Aufbau Problematiken sich besser zu konfrontieren.
-praktisches Beispiel hierfür war das Künstler- Duo *Barking Dogs United* der eine große Solo Ausstellung in der ACC Galerie in Weimar zu 
+Praktisches Beispiel hierfür war das Künstler- Duo *Barking Dogs United* das eine große Solo Ausstellung in der ACC Galerie in Weimar zu 
 verwirklichen hatte. Darauf aufbauend, boten wir einen Fachkurs an. Sechs Studenten nahmen daran teil. Sie arbeiteten zu in allen 
-Tätigkeitsfeldern, und konnten auf grund dieser Erfahrung probieren, ob dass Assistenz ein Künstlerberuf für sie in Frage käme. 
+Tätigkeitsfeldern, und konnten auf Grund dieser Erfahrung probieren, ob Assistenz ein Künstlerberuf für sie in Frage käme. 
 
 **Bild:** [Foto BDU Aufbau im ACC](images/bild.jpg)
 
