@@ -1,33 +1,37 @@
 # Kann Kunst heilen? 
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+zu Akademie trifft!
+TODO: Bemerkungen nwh ganz unten
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ## Theorie vs. Praxis
 
-TODO: Bemerkungen nwh ganz unten
+
  
 Zu neuen Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender Ph.D.-Programme an Kunsthochschulen.
 
-
-Programme für Kunst & Design in der akademischen Welt. Künstler mischen sich in sozial-politischen Angelegenheiten ein und bedienen sich immer 
-mehr an Ausdrucksformen, die uns aus dem wissenschaftlichen Bereich bekannt sind. Was machen diese Formen für Künstler so attraktiv? Können 
-Künstler Theorie schreiben? Können und wollen Künstler Theorie als Praxis betreiben?
+Künstler mischen sich in sozial-politische Angelegenheiten ein und bedienen sich immer mehr an Ausdrucksformen, die uns aus 
+dem wissenschaftlichen Bereich bekannt sind. Was machen diese Formen für Künstler so attraktiv? Können Künstler Theorie schreiben? 
+Können und wollen Künstler Theorie als Praxis betreiben?
 
 Eine E-Mail in meiner Eingangspost, die ich ursprünglich ohne sie zu lesen löschen wollte, hat jedoch durch ihren Titel meine Aufmerksamkeit 
-geweckt: "Placebo für die Kunst gesucht, um die Effekte der Kunst auf das Gesundheitswesen zu studieren.“ Das Behring-Institut für medizinische Recherche, das in 
-Deutschland und in den Niederlanden aktiv ist, sucht nach Kunstprojekten, die zu Folgendem passen: „Die Ergebnisse vieler Studien zeigen ein positives Ergebnis in 
-Bezug auf die Behandlung von Patienten und zeigen, dass Kunst zur Reduktion der Medikamente für den Patienten verwendet werden kann, zur Verkürzung des
-Patientenaufenthalt in Krankenhäusern, zur Verbesserung der Arbeitsbedingungen führt und die Arzt / Patient Beziehung und die Verbesserung der psychischen 
-Gesundheit fördert.“ Die Post kam via *E-Flux*, ein Online-Kunst-Nachrichten-Service, das neben der Ankündigung von Ausstellungen in der ganze Welt, auch Texte 
-über Kunst und Erziehung *Art & Education* veröffentlicht. 
+geweckt: "Placebo für die Kunst gesucht, um die Effekte der Kunst auf das Gesundheitswesen zu studieren.“ Das Behring-Institut für medizinische 
+Recherche, das in Deutschland und in den Niederlanden aktiv ist, sucht nach Kunstprojekten, die zu Folgendem passen: „Die Ergebnisse vieler Studien 
+zeigen ein positives Ergebnis in Bezug auf die Behandlung von Patienten und zeigen, dass Kunst zur Reduktion der Medikamente für den Patienten 
+verwendet werden kann, zur Verkürzung desPatientenaufenthalts in Krankenhäusern, zur Verbesserung der Arbeitsbedingungen führt und die Arzt / Patient 
+Beziehung und die Verbesserung der psychischen Gesundheit fördert.“ Die Post kam via *E-Flux*, ein Online-Kunst-Nachrichten-Service, das neben der 
+Ankündigung von Ausstellungen in der ganze Welt, auch Texte über Kunst und Erziehung *Art & Education* veröffentlicht. 
 
 Die akademische wissenschaftliche Welt verfolgt mit Unruhe diese Entwicklung und zweifelt an der Fähigkeit, dass Künstler theoretische Texte und Dissertationen 
-schreiben können, wenn diese nicht in traditioneller Art und Weise geschrieben sind. Viele Promovierende bestreiten eine künstlerische Freiheit, das heißt viele von ihnen wollen die 
-theoretischen Texte in Verbindung mit dem praktischen Teil wissen, welcher fünfzig Prozent der Promotion ausmacht. Sie wollen so schreiben, wie sie es als KünstlerIn 
-verstehen. Die geforderte Seitenmenge der Dissertation zeigt uns die systematische Verankerung des klassischen Schreibens auch an Kunstakademien, 
-in denen vom Grundstudium an ebenfalls Theorieseminare angeboten werden: Zum Diplom werden üblicherweise ca. 20 Seiten schriftliche Arbeit gefordert, im 
-Masterabschluss sind 40 Seiten und im Ph.D. ca. 80 Seiten. Die Beschäftigung mit der Metaebene, das Streben nach dem Definieren des Prozesses vom eigenen 
-Tun, ist kein Einzelfall: neben Kolloquien und Konferenzen, über Themen wie Kunst und Design, die Avantgarde und das Kuratorium, ist das Thema künstlerische 
-Recherche innerhalb der Institutionen, die solch ein Ph.D.-Programm anbieten, inzwischen fest verankert. Seit geraumer Zeit häufen sich auch die Online Magazine 
-wie *Artistic Research UK.org*, die sich diesem Thema widmen.
+schreiben können, wenn diese nicht in traditioneller Art und Weise geschrieben sind. Viele Promovierende bestreiten eine künstlerische Freiheit, das heißt 
+viele von ihnen wollen die theoretischen Texte in Verbindung mit dem praktischen Teil wissen, welcher fünfzig Prozent der Promotion ausmacht. 
+Sie wollen so schreiben, wie sie es als KünstlerIn verstehen. Die geforderte Seitenmenge der Dissertation zeigt uns die systematische Verankerung 
+des klassischen Schreibens auch an Kunstakademien, in denen vom Grundstudium an ebenfalls Theorieseminare angeboten werden: Zum Diplom werden üblicherweise 
+ca. 20 Seiten schriftliche Arbeit gefordert, im Masterabschluss sind 40 Seiten und im Ph.D. ca. 80 Seiten. Die Beschäftigung mit der Metaebene, 
+das Streben nach dem Definieren des Prozesses vom eigenen Tun, ist kein Einzelfall: neben Kolloquien und Konferenzen, über Themen wie Kunst und Design, 
+die Avantgarde und das Kuratorium, ist das Thema künstlerische Recherche innerhalb der Institutionen, die solch ein Ph.D.-Programm anbieten, 
+inzwischen fest verankert. Seit geraumer Zeit häufen sich auch die Online Magazine wie *Artistic Research UK.org*, die sich diesem Thema widmen.
 
 Ein gutes Beispiel für diese Auseinandersetzung ist die Arbeit von Hagen Betzwieser, der seit 2001 das *Institut für Allgemeine Theorie* in Stuttgart, in Zusammenarbeit mit 
 mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Leiter der Akademie Schloss Solitude beschreibt die Tätigkeit von Betzwieser wie folgend: 
