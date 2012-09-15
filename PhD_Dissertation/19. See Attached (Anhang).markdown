@@ -603,13 +603,13 @@ Originalversion Englisch (Transkription)
 	Ich fragte sie: 
 	kennst du dich bei Kunst aus?
 	Dann gestand ich ihr
-	Ich plane ein Kunstraub
+	Ich plane einen Kunstraub
 	Ich sagte ihr:
 	Ich frage dich, 
 	Welche Kunst ich rauben soll und welche Kunst nicht
 
 	Ich fragte sie: 
-	Stimmt es, dass du was von Kunst weisst?
+	Stimmt es, dass du was von Kunst weißt?
 	Sie sagte mir: 
 	"Ich bewege mich in entsprechendem Dünstkreis"
 	Ich sagte da zu ihr:
