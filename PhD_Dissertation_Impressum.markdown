@@ -36,9 +36,9 @@ Die Arbeit wurde bisher weder im In- noch im Ausland in gleicher oder ähnliche
 Ich versichere ehrenwörtlich, dass ich nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen habe.
 
 ~~~~~ {#signature-NTS}
-
-
---------------------------------
+    
+    
+     --------------------------------
 ~~~~~
 
 
