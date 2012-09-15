@@ -7,26 +7,31 @@
 
 
 Zu Goethes Zeit wurde per Hand geschrieben. Um ihn herum gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
-zu lektorieren, Bilder und Rechte zu besorgen, zu layouten, gestalten, verlegen, vermarkten und eventuell zu übersetzten. Heute liegt die Regie größtenteils bei 
+zu lektorieren, Bilder und Rechte zu besorgen, zu layouten, gestalten, verlegen, vermarkten und eventuell zu übersetzen. Heute liegt die Regie größtenteils bei 
 dem Autor selbst und bei seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum, 
-Sammler, Kunstmesse etc. noch immer funktioniert. Jedoch betätigt sich der Künstler oft auch selbst im Kuratorischen, layouten von Werbematerial und in 
-Verbreitungen durch das Web 2.0. Ist der Künstler gezwungen alles selbst zu können?: Ein Kurator zu sein, Texte zu schreiben und seine Bilder zu beschriften?
+Sammler, Kunstmesse etc. noch immer funktioniert. Jedoch betätigt sich der Künstler oft auch selbst im Kuratorischen, Layouten von Werbematerial und in 
+Verbreitungen durch das Web 2.0. Ist der Künstler gezwungen, alles selbst zu können?: Ein Kurator zu sein, Texte zu schreiben und seine Bilder zu beschriften?
 
 nwh
 *Zu S. 31 etc.: Schon zu meiner Zeit als Kunststudent wurde als positives Element des Künstler-Daseins die Tatsache einer „vorindustriellen“ Handwerkstätigkeit mit mehr oder minder qualitätvollen Produkten oder absichtlichem Dilettantismus diskutiert, quasi ein bastelndes Allround-Genie (der „bricoleur“ war gerade in Mode gekommen) mit Abenteuerstatus. Da hat sich nicht viel geändert – außer dass man mit den „modernen Medien“ noch fitter sein muss bzw. Hacker-Qualitäten entwickeln müsste, um sie überhaupt hinterfragen zu können, geschweige denn genial einzusetzen. Hier musste sich der Künstler wieder der Industrie unterordnen und ihre Richtlinien einhalten, um nur annähernd konkurrenzfähig zu bleiben.*
 
 Die Verhältnisse heutzutage zeigen, dass man vielfältig sein muss. Es bleibt einem nichts weiter übrig, man muss alles können oder anders formuliert: 
-man ist gezwungen alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an Andere (Handwerker, Techniker, Grafiker, etc.), 
-die man wohlmöglich dafür bezahlt. Irgendwann erkennt man, das man wie ein Dirigent, über sich und über alle anderen, die für einen produzieren, arbeitet.
- 
+man ist gezwungen alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an andere (Handwerker, Techniker, Grafiker, etc.), 
+die man wohlmöglich dafür bezahlt. Irgendwann erkennt man, das man wie ein Dirigent über sich und über alle anderen, die für einen produzieren, arbeitet.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+TODO: Schleifen
+
 Werden damit Kreativität und Produktivität miteinander vermischt?
 
 Die Verhältnisse zwischen Kunst und Arbeit sind nicht neu und dennoch erscheinen zurzeit unzählige Bücher und Reader, die sich unter Titeln wie *Work, Work,
-Work A Reader on Art and Labour* [@author:book] oder *Are you working too much Post-Fordism, Precarity and the Labor of Art* [@author:book] mit den 
+Work. A Reader on Art and Labour* [@author:book] oder *Are you working too much Post-Fordism, Precarity and the Labor of Art* [@author:book] mit den 
 Veränderungen in diesem Zusammenhang beschäftigen. Das ist an sich phänomenal. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
-Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 immer noch für richtig. In seiner Rede spricht er davon, das der Autor 
+Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 immer noch für richtig. In seiner Rede spricht er davon, dass der Autor 
 sich nicht in die Politik einmischen sollte, sondern darin seine Kraft ausüben müsse, worin er kompetent ist. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
 man davon beigebracht bekommen, weitergeben oder lehren? Dies sind die Kernfragen, die mich interessieren und um die es in dieser Dissertation geht. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Im gesamten Text Benjamins könnte man durchaus das Wort *Autor* mit dem Wort *Künstler* austauschen. Die Aussage bliebe ähnlich, denn - 
 die Qualität des Kunstwerkes darf nicht wegen der politischen Intention nachlassen. Im *Der Autor als Produzent* trägt Benjamin die die bekannte These 
