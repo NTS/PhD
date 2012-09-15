@@ -89,20 +89,21 @@ kann und damit sind nicht Ländersprachen gemeint, sondern eher die Sprachen und
 einer “Professionalisierungsmaßnahme”. 
 
 Der Akademische Grad wird zunehmend als Voraussetzung für die Tätigkeit als Dozent oder Professoren in akademischen Positionen gefordert. Die Fortsetzung des Kunststudiums 
-im Ph.D.-Format nimmt global zu, jedoch finden Künstler mit akademischen Titel ihren Standpunkt noch nicht. Für die theoretischen Akademiker sind sie zu sehr Künstler, 
+im Ph.D.-Format nimmt global zu, jedoch finden Künstler mit akademischen Titeln ihren Standpunkt noch nicht. Für die theoretischen Akademiker sind sie zu sehr Künstler, 
 während sie für die Kunstpraxis als „zu theoretisch“ wahrgenommen werden. Ob sich dieser Trend in den nächsten Generationen ändert und Künstler erst als Universitätsprofessoren 
 den Titel ergattern werden, oder bereits bevor sie sich auf solche Stellen bewerben, bleibt offen. Verglichen mit den Stellenangeboten für Kuratoren in großen Museen und anderen 
 Institutionen, wo Kunstpraxis eingefügt werden soll (also: kein Job ohne Titel), wird klar, das die Messlatte immer höher gesetzt wird.
 
 Das Phd wird von niemand geliebt, für die Wissenschaftler ist das kunst, für die Kunst Wissenschaft.
-nwh *S. 46 ... ich habe noch immer den starken Verdacht, dass der Kunstbetrieb den PhD gar nicht braucht, ihn sogar als „Streber“ auf Kosten der eigenen Obsession sieht - siehe den Erfolg von Meese*
+nwh *S. 46 ... ich habe noch immer den starken Verdacht, dass der Kunstbetrieb den PhD gar nicht braucht, ihn sogar als „Streber“ auf Kosten der eigenen Obsession 
+sieht - siehe den Erfolg von Meese*
 
-Wer bewirbt sich bei solchen Aufbaustudien, aus welchem Grund und zu welchem Zweck? Viele Studierende versuchen Wissen zu erwerben und gehen anschließend zurück in ihre
+Wer bewirbt sich bei solchen Aufbaustudien, aus welchem Grund und zu welchem Zweck? Viele Studierende versuchen, Wissen zu erwerben und gehen anschließend zurück in ihre
 Heimatländer. Einige aus Osteuropa und Südamerika versuchen diese Gelegenheit als Sprungbrett nach Westeuropa zu nutzen, wo Budgets für Kultur und Kunst noch mehr als großzügig verwendet
 werden. Also handelt es sich dabei auch um eine kulturelle Migration. Auf jeden Fall entsteht ein neues internationales Netzwerk von Künstlern, Kuratoren und zum Teil neu entstandenen 
-Arbeitsgruppen. Künstler die sich an verschiedene kulturelle Organisationen angedockt haben und es bevorzugen geographische und kulturellen Grenzen zu ignorieren (bzw. zu durchforsten). 
-Sie arbeiten in Richtung der Legitimität des Künstlers als ein interdisziplinärer Unternehmer. Dieser ist bemüht innovative Lösungen zu finden, er strebt und sucht diverse alternative 
-Lösungen. Er nimmt gesellschaftliche Segmentierung und falsch gestellten Meinungen über das Andere, das Fremde wahr, und arbeitet von sich aus oder im Auftrag an einer Aufklärung. 
+Arbeitsgruppen. Künstler, die sich an verschiedene kulturelle Organisationen angedockt haben und es bevorzugen geographische und kulturelle Grenzen zu ignorieren (bzw. zu durchforsten). 
+Sie arbeiten in Richtung der Legitimität des Künstlers als ein interdisziplinärer Unternehmer. Dieser ist bemüht, innovative Lösungen zu finden, er strebt und sucht diverse alternative 
+Lösungen. Er nimmt gesellschaftliche Segmentierung und falsch gestellte Meinungen über das Andere, das Fremde wahr, und arbeitet von sich aus oder im Auftrag an einer Aufklärung. 
 (Das Projekt der Gruppe Wocheklausur ist als beispielhaft für die Osmose zwischen Kunst und Sozialarbeit zu sehen). Dass diese Tendenz kein Zufall ist, kann die zunehmende Präsenz solcher 
 Künstlergruppen auf internationalen Kunstbiennalen, (die sich auch seit 1990 maßlos vermehrten), bestätigen. Das Künstlernomadentum nimmt zu, auch thematisch wandelt es sich von land- und 
 nationalbezogener Kunst. Die Leiter der 12. documenta, Ruth Noack und Roger Buergel haben bei allen Exponatsbeschriftungen und Etiketten, beim gesamten Ausstellungsaufbau auf das Mitteilen 
@@ -110,29 +111,42 @@ des Herkunftslandes der Künstler verzichtet und stattdessen ihre künstlerische
 Biennalen die Vertretung und dazu die große Exponierung von Künstlern in ihren eigenen Länder zunehmen. Die Kuratoren der großen Ausstellungen widmen sich politischen und globalen Themen. 
 Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden komplexer. 
 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    TODO: MOVE! museums und so
+
 Parallel dazu werden auch immer mehr Künstler als Kuratoren beschäftigt - die Berlin Biennale wählte schon mindestens zweimal Künstler als Kuratoren, 
 erst Maurizio Cattelan (2006), dann Artur Żmijewski (2012). Im Jahr 1997 hatte es noch für Unruhe gesorgt, als sich die Schweiz für die Künstlerin Pipilotti Rist als künstlerische Leitung 
 der Expo-Ausstellung entschied.
 
-    TODO: (!BILD) - The next Biennial should be curated by an artist!
+    TODO: (!BILD) - The next Biennial should be curated by an artist! next_documenta_should_be _curated_by_an_artist.png
 
 Was bedeutet der öffentliche Raum für die Kunst? Derzeit gibt es kaum eine Biennale von Venedig bis Istanbul, ohne Außenstellen und ortbezogener, temporärer 
 Kunst. Oft widmet man sich Gebäuden außerhalb der klassischen Strukturen ihrer Ausstellungsräume. Der Übergang aus dem Reich der Museen und Galerien als 
-Institutionen mit hierarchischer Entscheidungskompetenz, zur Kommunikation mit externen Parteien wie die Gemeinde oder die Stadtverwaltung ist zu einem 
+Institutionen mit hierarchischer Entscheidungskompetenz zur Kommunikation mit externen Parteien wie die Gemeinde oder die Stadtverwaltung ist zu einem 
 integralen Bestandteil geworden. Ob es gewollt ist oder nicht, Kunst drängt sich automatisch in den öffentlichen Raum.
 
 An dieser Stelle soll trotzdem unterschieden werden zwischen genehmigten Kunstprojekten und Street Art, welche beide auf sozialem Handeln basieren und von 
 der Anerkennung und dem Recht der freien Meinungsäußerung Gebrauch machen. Hier sei ein einschlägiges Zitat aus der “Gewinnwarnung” des Erev-Rav Kunst-Online 
-Magazins angeführt: “… Wir wollen rekrutierte Kunst. Kunst, die sich an das Leben rekrutiert, die sich mit der Umwelt interagiert. Kunst, die Umwelt ist. Kunst, 
-deren Materialien die Straße, die Stadt, die Katastrophe, der Alltag und die große Langeweile des Krieges heute, ist. Der Krieg der Identitätskarten, der Papiere, 
-der E - Mails und die Grenzen, die das Schrecken von uns verstecken. Deren subversive Kunst ist ihre Präsenz, ihre Zugänglichkeit, in der Tatsache, 
-dass sie das Leben angreift, im politischen lebt, das sie das Spinnennetz der Sprache und ihre Wimpern ist … ”. (Zitat sprachlich unkorrekt!)
+Magazins angeführt: 
+
+>“… Wir wollen rekrutierte Kunst. Kunst, die sich aus dem Leben rekrutiert, die mit der Umwelt interagiert. Kunst, die Umwelt ist. Kunst, 
+>deren Materialien die Straße, die Stadt, die Katastrophe, der Alltag und die große Langeweile des Krieges heute, ist. Der Krieg der Identitätskarten, der Papiere, 
+>der E - Mails und die Grenzen, die das Schreckliche von uns verbirgt. Deren subversive Kunst ist ihre Präsenz, ihre Zugänglichkeit, in der Tatsache, 
+>dass sie das Leben angreift, im Politischen lebt, das sie das Spinnennetz der Sprache und ihre Wimpern ist … ”. (Zitat sprachlich unkorrekt!) (TODO: SOURCE)
+
 Die Grenzen zwischen politischer Kunst, welche sich mit den negativen Auswirkungen der sozio-ökonomischen Ära des Spätkapitalismus auseinandersetzt, 
 und reiner sozialer Arbeit, verwischen sich. Auch die Rolle des Künstlers, der auf diese sozialen Phänomene verweist, vermischt sich mit seiner eigenen Neigung 
 zur Selbst-Ausbeutung als Aktivist. Eine oberflächige Prüfung und einige Angebote von Kulturstiftungen und finanziellen Ressourcen, die seit geraumer Zeit für diverse 
 Förderprojekte in ganz Europa rekrutieren, lassen verstehen, dass sogar die Politik in der Kunstwelt eine unerschöpfliche (und arme) Garnison fand. Willig zum Söldner 
-zu werden, während die Künstler glauben, selbst die Entscheidungen zu treffen, wofür sie zu kämpfen haben. Nur wenige schaffen es durch diese Verhältnisse hindurch zu 
-schleichen, um das Bild von sich selbst als Künstler, und Kunst als Kunst zu erhalten.
+zu werden, während die Künstler glauben, selbst die Entscheidungen zu treffen, wofür sie zu kämpfen haben. Nur wenige schaffen es durch diese neue Agit Prop artige Verhältnisse 
+zu durchblicken, um das Bild von sich selbst als Künstler, und Kunst als Kunst zu erhalten.
+
+    +Hier sheikh?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
