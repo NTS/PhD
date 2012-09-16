@@ -491,7 +491,7 @@ Thank you for taking part in this Fachkurs!
 
 ### Tabelle 
 
-    TODO: Chart pie wäre besser!
+ 
 
 ---
 
@@ -507,31 +507,31 @@ Thank you for taking part in this Fachkurs!
 
     Fakultät: 
 
-Fakultät        			Personen 
-----            			-----
-Freie Kunst     			 17
-Visuelle Kommunikation       3
-Lehramt Kunst      			 3
-Architektur			         1
-Medien				         2
-Produktdesign		         1
+Fakultät        			  Personen 
+----            			  -----
+Freie Kunst     			   17
+Visuelle Kommunikation         3
+Lehramt Kunst      			   3
+Architektur			           1
+Medien				           2
+Produktdesign		           1
 ----   -----
 
 
     Semester:
 
- S     P
----   ---
- 1     1
- 2     3
- 3     4
- 4     2
- 5     4
- 6     3
- 7     6
- 8     8
- 9     5
----   ---
+ S        P
+---      ---
+ 1.       1
+ 2.       3
+ 3.       4
+ 4.       2
+ 5.       4
+ 6.       3
+ 7.       6
+ 8.       8
+ 9.       5
+---      ---
 
 
 
