@@ -115,8 +115,10 @@ http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg
 []Footnote/Bildnachweis:
 
 
-
 Biderauswahl, die im Diss. noch nicht eingeteilt sind:
+
+**Bild:** [] () []Footnote/Bildnachweis:
+
 
 
 **Bild:** [] (thomas_hirschhorn_Buchsleeve.jpg) []Footnote/Bildnachweis:
@@ -124,8 +126,6 @@ Biderauswahl, die im Diss. noch nicht eingeteilt sind:
 **Bild:** [] (thomas_hirschhorn_mindmap.jpg) []Footnote/Bildnachweis:
 
 **Bild:** [] (thomas_hirschhorn_Buch_seite.jpg) []Footnote/Bildnachweis:
-
-**Bild:** [] (charlotte_young_artist_statement.png) []Footnote/Bildnachweis:
 
 **Bild:** [] () []Footnote/Bildnachweis:
 
