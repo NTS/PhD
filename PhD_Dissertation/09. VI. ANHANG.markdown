@@ -563,13 +563,13 @@ Beides          			  4
     Fragebogen Teil II #6 (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator d.Sonstiges (was?)
 
 
-F               			  P
-----------    			    -----
-Künstler        			  9
-Galerist        			  1 
-Kurator                       1
-Mehrere                       4
-----------    				-----
+F               			 P
+----------    			   -----
+Künstler        			 9
+Galerist        			 1 
+Kurator                      1
+Mehrere                      4
+----------    			   -----
 
 
 
