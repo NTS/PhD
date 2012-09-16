@@ -507,14 +507,14 @@ Thank you for taking part in this Fachkurs!
 
     Fakultät: 
 
-F        P  
-----   -----
-FK      17
-VK       3
-LAK      3
-A        1
-M        2
-PD       1
+Fakultät        			Personen 
+----            			-----
+Freie Kunst     			 17
+Visuelle Kommunikation       3
+Lehramt Kunst      			 3
+Architektur			         1
+Medien				         2
+Produktdesign		         1
 ----   -----
 
 
