@@ -554,7 +554,7 @@ Beides          			  4
 
 
 
-    Fragebogen Teil II Frage #6 (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator d.Sonstiges (was?)
+    Fragebogen Teil II Frage #6: (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator d.Sonstiges (was?)
 
 
 F               			 P
@@ -568,7 +568,7 @@ Mehrere                      5
 
 
 
-    Fragebogen Teil II Frage #7 Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
+    Fragebogen Teil II Frage #7: Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
 
 
 F							 P
@@ -581,7 +581,7 @@ Beides                       4
 
 
 
-    Fragebogen Teil III Frage #5 Welche Ausstellung haben sie am besten gefunden?
+    Fragebogen Teil III Frage #5: Welche Ausstellung fanden sie am besten?
 
 
 K                     		  P
@@ -619,18 +619,18 @@ KoMa
 
 
 
-    15
+    Fragebogen Teil III Frage #15: Wie schätzen Sie die Arbeit auf Basecamp?
 
 -------------------------    -----
-practical                      2
-good & complicated             1
-good & easy                    2
-good & easy & practical        2
-good & practical               1
+Praktisch                      2
+Gut & kompliziert              1
+Gut & Einfach                  2
+Gut & Einfach & Praktisch      2
+Gut & Praktisch                1
 -------------------------    -----
 
 
-    17
+    Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform für Dein eienes Prokect?
 
 -------------------------    -----
 Yes                            4
@@ -639,13 +639,6 @@ I use it                       0
 similar pro. already           1
 Yes and I use it               1
 -------------------------    -----
-
-
-
-    Grunde dabei zusein: 
-
-> "Ich wollte praktische Erfahrung für die Arbeit in einer Galerie mir aneignen."
-> "Praxisbezug" "Um über ausstellen nachzudenken"
 
 
 **BILDER**  TODO: Ein Paar Bilder vom Frabo hinzufügen, weil sie lustig sind und zeigen wie Künstler denken!
