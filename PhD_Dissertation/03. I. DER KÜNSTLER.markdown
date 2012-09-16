@@ -17,33 +17,25 @@ Existieren, in Anbetracht der vielen neuen technischen Entwicklungen, verschiede
 Gesellschaft was geändert. Joseph Beuys Aussage wurde auf der einen Satz: "Jeder ein Künstler" reduziert, damit also den „Künstler“ relativiert das Originalzitat lautet: „... ich sage, 
 es muss ein anderer Kunstbegriff geprägt werden, der sich auf jedermann bezieht, und nicht nur Sache der Künstler ist, sondern sich anthropologisch nur deklarieren lässt. D.h. jeder Mensch 
 ist ein Künstler in dem Sinne, dass er etwas gestalten kann. Alle Fragen der Menschen können nur Fragen der Gestaltung sein (Soziales Gestalten, Rechtsgestaltung, Natur – 
-und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“ (J. Beuys im Gespräch mit B. Blume u. H. G. Prager vom 15.11.1975, D 6-Kat.I/156 f.). 
-nicht nur Kinder können das, auch Affen (gemeinsam mit Arnulf Rainer), Elefanten (Komar und Melamid), und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb formaler Ähnlichkeiten.
-
-Oder finden wir Andy Warhols Aussage bestätigt, dass alle ihre fünfzehn Minuten Ruhm bekommen werden, oder sind diese besagten fünfzehn Minuten gar vorbei und ab jetzt 
-sind alle berühmt? Das heißt: Gilt die Aussage "Das kann mein Kind auch" in diesem Sinne? Kann wirklich jeder lernen, ein Künstler zu werden?
+und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“ 
+TODO: LINK(J. Beuys im Gespräch mit B. Blume u. H. G. Prager vom 15.11.1975, D 6-Kat.I/156 f.). 
 
 Wie stellt sich der Künstler selbst dar, was sind seine Aufgaben und wie wird er von der Gesellschaft wahrgenommen? Existieren seit der Jahrtausendwende 
 in Anbetracht der vielen neuen technischen Entwicklungen verschiedene “Künstlertypen”, die man definieren könnte? Was hat sich in dem 
 Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft geändert? Hatte Joseph Beuys recht und ist heute jeder ein Künstler? 
 Oder finden wir Andy Warhols Aussage bestätigt, dass alle ihre fünfzehn Minuten Ruhm bekommen werden, oder sind diese besagten fünfzehn Minuten gar vorbei und ab jetzt 
-sind alle berühmt? Das heißt: Gilt die Aussage "Das kann mein Kind auch" in diesem Sinne? Kann wirklich jeder lernen, ein Künstler zu werden?
+sind alle berühmt? Das heißt: Gilt die Aussage "Das kann mein Kind auch" in diesem Sinne? (Nicht nur Kinder können das, auch Affen (Arnulf Rainer), oder Elefanten (Komar und Melamid), 
+und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb formaler Ähnlichkeiten). Kann wirklich jeder lernen, ein Künstler zu werden?
 
-zitate nwh einfügen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+TODO: zitate nwh einfügen
 **Bild:** <81. Dan Perjovschi> (postmodern ex-communist)? artist mit kamera auf sich gestellt
 
-Wie manifestieren sich die heutigen Beziehungen zwischen den diversen Gliedern der Kunstwelt: Künstler, Galerist, Sammler, Kurator, Museum, 
-Auktionshaus und Publikum? Offenbar hat eine Wandlung, eine Neigung zum Autarkischen Benehmen, eine Übernahme von den oben aufgelistete Funktionen 
-durch Künstler selbst stattgefunden. Etymologisch kommt Kunst von "const" was soviel wie Können, Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen 
-auch "Kunst kommt vom Können" [^Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002]. 
-Dieser Aphorismus hat sogar einen eigenen Artikel auf die [Deutsche Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
 
-Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. 
-Hierzu ein Auszug aus [Meyers Online-Lexikon](http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie): 
-"Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden Kunst, als Schöpfer oder 
-Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". 
+Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von "const" was soviel wie Können, 
+Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch "Kunst kommt vom Können" [^Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002]. 
+Dieser Aphorismus hat sogar einen eigenen Artikel auf die [Deutsche Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
+Hierzu ein Auszug aus [Meyers Online-Lexikon](http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie): "Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
+Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". 
 
 
 **Bild:** [03.1.Künstler_nach_Pons.jpg](images/bild.png)
@@ -66,7 +58,7 @@ Weiter heißt es in Meyers Online-Lexikon:
 [^LadyGaga]: LadyGaga, Looking at me [Link] http://www.youtube.com/watch?v=2Hjm4D4LAGg]
 
 
-Der Künstler wird gern von anderen gesehen und beschrieben. Stimmt es überein, mit dem wie Künstler sich selber beschreiben? In jedem Kunststudium wird über "Mimesis" 
+Der Künstler wird gern von anderen gesehen und beschrieben, aber stimmt es überein, mit dem wie Künstler sich selber beschreiben? In jedem Kunststudium wird über "Mimesis" 
 (Nachahmung) sowie Platons Geniebegriff diskutiert. Ich würde gern folgendes Zitat aus Wolfgang Ullrichs Buch *Was war Kunst? Biografien eines Begriffs* als 
 Ausgangspunkt wählen. In seinem Versuch das *je ne sais quoi* (das gewisse Etwas, das unbeschreibliche zu fassen) zu erläutern, schreibt er: "Nach Kants Kritik 
 der Urteilskraft: 'Genie ist, nicht Geschicklichkeitsanlage zu dem, was nach irgendeiner Regel gelernt werden kann… selbst nicht beschreiben oder wissenschaftlich 
@@ -111,6 +103,11 @@ Künstler wie Josef Beuys und Andy Warhol wussten das für ihre Zwecke zu nutzen
 Lebzeiten und nicht erst nach dem Tod als berühmt und reich zu erscheinen hatte. In der USA war der Meister in Sachen Selbstdarstellung Andy Warhol.
 
 TODO: Gedanke zum unterschied USA - Europa bzw DE
+Und weil Du so viel Warhol zitierst: interessant wäre in diesem Zusammenhang auch ein Direktvergleich der Zeitgenossen Beuys und Warhol. Ersterer verkörpert für mich den beinahe klassischen Künstlertypus mit genialen Einfällen, formaler Gewagtheit und Sicherheit, Ironie und Präsenz – ABER trotzdem gesellschaftspolitisch innovativ und seriös (Gründer der Freien Universität, der Grünen Partei, nahm alle Studenten auf und kämpfte gegen verkrustete Strukturen und Bürokratie). 
+Und jetzt muss ich „leichenfleddern“: Warhol hatte zwar seine „factory“, was auf einen Teamgeist schließen ließe (und z. T. auch funktionierte), letzten Endes war er aber ein Einzelkämpfer (mehr als Beuys), der das Glück hatte, als guter/anerkannter Werbegraphiker auf den Kunstpfad zu gelangen und damit berühmt zu werden und weitermachen zu können.
+Letzten Endes hat er „nur“ die Strategien des Kapitals, des Marktes, der PR perpetuiert und nicht in Frage gestellt. (Über seine Persönlichkeit als verklemmter Katholik & seine fragwürdige Privatsammlung schweige ich mich aus).
+Könnte auch eine Polarität zartfctwischen Schamane und Kaufmann darstellen.
+Mir scheint, dass die Diskrepanzen zwischen Europa und den USA sich in diesen beiden Persönlichkeiten gut darstellen.
 
 Wenn man die Bilder Warhols mit Arbeiten von Fotografen wie der US-amerikanischen Fotografin Annie Leibowitz, die während der 1980er für das Musik Magazin *The Rolling Stone* 
 viele US-amerikanische Musiker und Künstler fotografiert hat vergleicht, liegt bei Warhol das Zentrum in der Technik, während bei Leibowitz der Schwerpunkt eher 
