@@ -176,7 +176,7 @@ in seinen Erfahrungen, dass ich darüber ein separaten Text geschrieben habe, de
 ~~~~~ { .editorial-content }
 TODO: 
 
- **nwh *S. 78 Prinzipiell leuchtet mir schon ein, dass die theoretischen Exkurse mit Praxisbespielen, hier KOCA, aufgelockert werden, ab und zu erscheint es mir allerdings willkürlich bzw. argumentativ nicht immer schlüssig!? Also überlegen, wo’s wirklich passt, bzw. zur Gänze im Praxisteil (wie Fachkurse, Diskussion, Marke 6 etc.)**
+ **nwh S. 78 Prinzipiell leuchtet mir schon ein, dass die theoretischen Exkurse mit Praxisbespielen, hier KOCA, aufgelockert werden, ab und zu erscheint es mir allerdings willkürlich bzw. argumentativ nicht immer schlüssig!? Also überlegen, wo’s wirklich passt, bzw. zur Gänze im Praxisteil (wie Fachkurse, Diskussion, Marke 6 etc.)**
 ~~~~~
 
 
