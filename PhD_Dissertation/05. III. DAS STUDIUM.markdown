@@ -141,7 +141,7 @@ Magazins angeführt:
 
 
 
-# What's the Difference?[^whatsthediff]
+## What's the Difference?[^whatsthediff]
 
 
 [^whatsthediff]: Dr. Dre "What's The Difference" (feat. Eminem, Phish, Xzibit)(http://www.azlyrics.com/lyrics/drdre/whatsthedifference.html#) 
@@ -153,6 +153,7 @@ Magazins angeführt:
 
 
     TODO: Bemerkungen nwh ganz unten Basiert auf Text geschrieben für Prof. Reck im Rahmen seiner Grad. Sem. ...
+	Quellen einfügen
 
 
 ## Theorie vs. Praxis
