@@ -576,12 +576,12 @@ Mehrere                       4
     Fragebogen Teil II #7 Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
 
 
-F				P
-----------    -----
-Management      0
-Kreativ         5
-Beides          4
-----------    -----
+F							 P
+----------    			   -----
+Management      			 0
+Kreativ         			 5
+Beides                       4
+----------    			   -----
 
 
 
