@@ -15,12 +15,6 @@ mini Inhalt:
 3. Lyrics zum scattern
 
 
-  
- 
-  
-
-
-
 ## 5-Jahres-Plan
 
 Ich verstehe meine Aufgabe als Künstlerische Assistentin darin, alle Aspekte der Kunst und der Öffentlichkeitsarbeit systematisch zu untersuchen 
@@ -87,15 +81,7 @@ und die Übersetzung vom gesammeltes Material zur Präsentation, bzw. die Wandlu
 
 [^fachkurse-vlv]: Alle Fachkurs Beschreibungen beziehen sich auf der Online Vorlesungsverzeichnis der Professur Freie Kunst Fakultät Gestaltung auf der 
 Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English, und es richtete sich an der Studierenden aller Fakultäten.
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Dies ist eine Zusammenfassung alle drei Fachkurse, 
-siehe hier die Originalfassung aus dem
-BUW Vorlesungsverzeichnis:
-
-hier korrektur bitte
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dies ist eine Zusammenfassung alle drei Fachkurse, TODO: siehe hier die Originalfassung aus dem BUW Vorlesungsverzeichnis:
 
 WS 2007/08 + SS 2009 + WS 2009/10 
 
