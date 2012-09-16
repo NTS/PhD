@@ -1,13 +1,5 @@
 # 5-Jahres-Plan
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* dieses Kapitel würde in seiner Endfassung auf Grammatik nicht überprüft.
-es Fehlen die Notizen zu den 3 letzte Ausstellungen in FK K1-3
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
 Ich verstehe meine Aufgabe als Künstlerische Assistentin darin, alle Aspekte der Kunst und der Öffentlichkeitsarbeit systematisch zu untersuchen 
 und das Wissen über Funktionsweisen des Kunstmarktes und die Entstehung guter Kunst zu vermitteln. Es geht hierbei um Kompetenzen, die nicht 
 zwangsläufig zum Wissen eines Künstlers gehören müssen, jedoch können und eventuell sollten. Ich finde es wichtig zu wissen, wie unser Umfeld 
@@ -52,7 +44,7 @@ habe ich Notizen oder ein ganzes Text hinzugefügt, um die Erfahrungen und Authe
 
 **Bild:** [Foto Kiosk auf'm Tisch geritzt](images/bild.jpg)
 
-### ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
+#### ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
 
 WS 2007/08
 
@@ -71,7 +63,7 @@ Tätigkeitsfeldern, und konnten auf Grund dieser Erfahrung probieren, ob Assiste
 
 **Bild:** [Foto BDU Aufbau im ACC](images/bild.jpg)
 
-### ‚Hebräisch für Anfänger’ ‚Künstlerische Forschung I’
+#### ‚Hebräisch für Anfänger’ ‚Künstlerische Forschung I’
 
 SS 2008
 
@@ -88,7 +80,7 @@ es gibt zu Materialsortierung. Was ist ein Notizbuch, wie ein überblick zu scha
 und die Übersetzung vom gesammeltes Material zur Präsentation, bzw. die Wandlung dessen zu ein Kunstwerk (*Realtional Art*) 
 
 
-### ‚K3 - wenn Künstler Kunst kuratieren’ (1-3)[^fachkursevlv]
+#### ‚K3 - wenn Künstler Kunst kuratieren’ (1-3)[^fachkursevlv]
 
 [^fachkurse-vlv]: Alle Fachkurs Beschreibungen beziehen sich auf der Online Vorlesungsverzeichnis der Professur Freie Kunst Fakultät Gestaltung auf der 
 Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English, und es richtete sich an der Studierenden aller Fakultäten.
@@ -163,9 +155,9 @@ keine Stelle der StadtWerke benennt. Wir haben uns für Timm Ulrichs Aufkleber �
 Als nächstes bauten wir das ‚KoCA*Inn*’, ein umfangreiches Ereignis, von dem der Kiosk ein Teil war. Unter dem Gruppennamen *Urbandae* haben sie 
 mit dem Kiosk-Team eine besondere Art der Kooperation eingegangen, die von zwei Künstlergruppen. Positiv hervorheben möchte ich in diesem Fall
 die Stadt Weimar die mit den Genehmigungsvorgängen immer mit uns freundlich und großzügig umgegangen ist. Das Ereignis von 14 Tagen war so überwältigend 
-in seinen Erfahrungen, dass ich darüber ein separaten Text geschrieben habe, der auch einer der Grundsteine diese Dissertation für mich bedeutet
+in seinen Erfahrungen, dass ich darüber ein separaten Text geschrieben habe, der auch einer der Grundsteine diese Dissertation für mich bedeutet.
 
-## Exile on Main Street[^exilemainstreet]
+##### Exile on Main Street[^exilemainstreet]
 
 	
 [^exilemainstreet]: Exile on Main Street: Album Titel, *The Rolling Stones*, 1972.
@@ -312,7 +304,7 @@ die Installation bis zur ursprünglich geplanten Abbau und die Übergabe des Kio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-### 'The names may change, but the game stays the same'* 
+#### 'The names may change, but the game stays the same'* 
 
 SS 2010
 
@@ -334,7 +326,7 @@ Galerien, den öffentlichen Raum, aber auch Kunstvereine und Plattformen wie Mes
 zwischen Akademie und Kunstmarkt diskutiert. 
 
 
-### ‚Kochen mit Wasser’
+#### ‚Kochen mit Wasser’
 
 SS 2011  (Mit Dipl.-Künstl. Anke Hannemann)
 
@@ -361,7 +353,7 @@ Positionen, auch aus den Medien, haben wir nochmals in Bezug auf uns reflektiert
 Leute im Fachkurs, was für die Rundgänge etwas längere Zeit bedeutete, und etwas weniger persönliches Kontakt, im Vehältnis zu andere Fachkurse.
 
 
-### ‚Miller's Crossing’
+##### ‚Miller's Crossing’
 
 SS 2012 (Mit Dipl.-Künstl. Anke Hannemann & Sean Miller, University of Florida, USA.)
 
@@ -387,7 +379,7 @@ mit abschließendem Reader.
 
    
 
-### ‚Im entsprechenden Dunstkreis’
+#### ‚Im entsprechenden Dunstkreis’
 
 WS 2012/13 (Mit Dipl.-Künstl. Anke Hannemann)
 
