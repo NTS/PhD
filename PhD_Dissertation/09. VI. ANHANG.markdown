@@ -1,13 +1,22 @@
 # See Attached (Anhang)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Hier ist noch keine Rechtsschreibungkorrektur stattgefunden
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+mini Inhalt:
 
 1. 5-Jahres-Plan
 
-  - a. vlv text K3
-  - b. Kiosk Fragebogen
+- Das Format Fachkurs
+- Fachkurse: VLV & Notitzen
+- Exile on Mainstreet
+- Der K3 Fragebogen
+
+ 2. Transkribierten Texte in Voller Version
+ 3. Lyrics zum scattern
+
+
+  
+ 
   
 2. Transkriptionen Songs & Texts & Co.
 
@@ -151,7 +160,8 @@ mit dem Kiosk-Team eine besondere Art der Kooperation eingegangen, die von zwei 
 die Stadt Weimar die mit den Genehmigungsvorgängen immer mit uns freundlich und großzügig umgegangen ist. Das Ereignis von 14 Tagen war so überwältigend 
 in seinen Erfahrungen, dass ich darüber ein separaten Text geschrieben habe, der auch einer der Grundsteine diese Dissertation für mich bedeutet.
 
-##### Exile on Main Street[^exilemainstreet]
+
+## Exile on Main Street[^exilemainstreet]
 
 	
 [^exilemainstreet]: Exile on Main Street: Album Titel, *The Rolling Stones*, 1972.
@@ -346,7 +356,7 @@ Positionen, auch aus den Medien, haben wir nochmals in Bezug auf uns reflektiert
 Leute im Fachkurs, was für die Rundgänge etwas längere Zeit bedeutete, und etwas weniger persönliches Kontakt, im Vehältnis zu andere Fachkurse.
 
 
-##### ‚Miller's Crossing’
+#### ‚Miller's Crossing’
 
 SS 2012 (Mit Dipl.-Künstl. Anke Hannemann & Sean Miller, University of Florida, USA.)
 
@@ -394,7 +404,7 @@ Es werden Kritiken geschrieben oder Berichte verfassten, ein Versuch, sich von a
 
 
 
-#### VLV Text Kiosk K3
+#### VLV Text Kiosk K3 - Vollständig
 
 + **Wenn Künstler Kunst kuratieren (K3)**
     - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, 
@@ -429,7 +439,7 @@ Es werden Kritiken geschrieben oder Berichte verfassten, ein Versuch, sich von a
     - Dokumentation, Finanzbericht und Übergabe
 	
 
-### Der Fragebogen
+## Der K3 Fragebogen
 
 Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben wir das Model Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt mit sich
 administrative Information zu bekommen, neben Neigungen und Interesse an das Projekt und seine Inhalte zu spüren. Im gemischten Form (Amerikanisch und 
@@ -684,12 +694,12 @@ Yes and I use it               1
 
 
 	
-## Songs & Texts Tabellen full Version
+## Texte 
 
-###American Dad - Episode *Knallbunt* 
+### American Dad - Episode *Knallbunt* 
 
 
-Deutsche Fassung - Transcript
+Deutsche Fassung - Transkript
 
     SOHN: „ Sei nicht deprimiert Dad, hier das ist ein Geschenk für dich.“
 
@@ -924,7 +934,7 @@ Originalversion Englisch (Transkription)
 ---
 
 
-## Lyrics zum scattern:
+## Lyrics zum scattern
 
 ### CSS - Artbitch 
 
