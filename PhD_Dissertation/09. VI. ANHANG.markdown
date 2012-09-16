@@ -632,12 +632,11 @@ Gut & Praktisch                1
 
     Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform für Dein eienes Prokect?
 
--------------------------    -----
-Yes                            4
-No                             1
-I use it                       0
-similar pro. already           1
-Yes and I use it               1
+-------------------------     -----
+Ja                             4
+Nein                           1
+Ich nutze es schon             1
+Ich nutze ein ähnliches schon  1
 -------------------------    -----
 
 
