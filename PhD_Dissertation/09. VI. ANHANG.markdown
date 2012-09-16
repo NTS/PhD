@@ -499,7 +499,7 @@ Thank you for taking part in this Fachkurs!
 
 ---
 
-    **Teilung der angeschriebene Studenten nach Fakultät:**
+    Teilung der angeschriebene Studenten nach Fakultät:
 
 Fakultät        			 Personen (P)
 ----            			 -----
@@ -514,18 +514,18 @@ Produktdesign		          1
 
     Semesterhöhe der Teilnehmer:
 
- S       					  P
-----      					 -----
- 1.       					  1
- 2.       					  3
- 3.       					  4
- 4.       					  2
- 5.       					  4
- 6.       					  3
- 7.                           6
- 8.       					  8
- 9.       					  5
-----      					 ----
+ Semester       					  P
+----      					        -----
+ 1.       					 		 1
+ 2.       					  		 3
+ 3.       					         4
+ 4.       					         2
+ 5.       					         4
+ 6.       					         3
+ 7.                                  6
+ 8.       					         8
+ 9.       					         5
+----      					       -----
 
 
 
@@ -554,7 +554,7 @@ Beides          			  4
 
 
 
-    Fragebogen Teil II #6 (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator d.Sonstiges (was?)
+    Fragebogen Teil II Frage #6 (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator d.Sonstiges (was?)
 
 
 F               			 P
@@ -568,7 +568,7 @@ Mehrere                      5
 
 
 
-    Fragebogen Teil II #7 Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
+    Fragebogen Teil II Frage #7 Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
 
 
 F							 P
@@ -581,7 +581,7 @@ Beides                       4
 
 
 
-    Fragebogen Teil 3: #5 
+    Fragebogen Teil III Frage #5 Welche Ausstellung haben sie am besten gefunden?
 
 
 K                     		  P
