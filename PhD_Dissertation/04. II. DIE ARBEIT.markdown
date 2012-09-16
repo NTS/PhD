@@ -117,7 +117,7 @@ oder schreiben über ihre Lebensverhältnisse oder Gedanken über die Kunst als 
 
 Also haben Künstler bei dem Versuch, ihre Freiheit zu erhalten eine Möglichkeit, die Verhältnisse so wie sie sind hinzunehmen und innerhalb des Systems zu reagieren,oder sie zu ändern.
 
----
+
 
 **Bild:** [bild Benedikt Brown Arbeit Arbeit los]()
 
@@ -126,33 +126,31 @@ Also haben Künstler bei dem Versuch, ihre Freiheit zu erhalten eine Möglichkei
 
 ## Would you like to be modified?[^modified]
 
-[^modified]: Aus einem Dialog zwischen Roy und Tyrell, Blade Runner
-en.wikiquote.org/wiki/Blade_Runner Roy: It's not an easy thing to meet your maker. Tyrell: What can he do for you? 
-Roy: Can the maker repair what he makes? Tyrell: Would you like to be modified ?
+[^modified]: Aus einem Dialog zwischen Roy und Tyrell, aus der Film *Blade Runner* (1982 Regie: Ridly Scott)
+en.wikiquote.org/wiki/Blade_Runner 
+
+Roy: "It's not an easy thing to meet your maker. 
+Tyrell: What can he do for you? 
+Roy: Can the maker repair what he makes? 
+Tyrell: Would you like to be modified ?
 
 *(Gegen/Argumente)*
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-TODO! eventuell zum nächsten Kapitel >
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-im Jahr 2007 fragt sich Sigrid Schade in einem Symposium  (Akademie)
-
-zur Akademie trifft... Geisteswissenschaft und Humanismus, diese werden als eine unlukrative wahrgenommen, "Weil man da nicht Geld verdienen kann". 
 
 
 Die heutige Orientierung des Kapitalismus als auch des Sozialismus bedeutet, Alle sollen Arbeiten. Was definiert Arbeitslosigkeit 
 bei Künstlern? Sie müssen überleben, wenn sie kein Kunst verkaufen, müssen sie nach Arbeit suchen. 
-
-Muss man selber machen? When I was an Artist: BDU Manifest. Auftragskunst
+In der Akademie ist die Rede von "Raus aus dem Elfenbeinturm (TODO Source)" im Jahr 2007 fragt sich S igrid Schade in einem Symposium 
 
 Politisch aktiv plus Art = Artivist
 in meinem Masterarbeit habe ich mich auf überregionale Selbstorganisation in Städten und international-verbundenen Gruppen in diversen Länder, und auch politische Initiativen
 
-1. Walter Benjamin Der Autor als Produzent 1934 (http://www.texturen-online.net/methodik/benjamin/autor-als-produzent/)
-1. Roland Barthes *Death of the Author* 1967
-1. Sennet *Der Flexibler Mensch* 1998
-1. *wir nennen es Arbeit - Die digitale Boheme* 2004
+
+zur Akademie trifft... Geisteswissenschaft und Humanismus, diese werden als eine unlukrative wahrgenommen, "Weil man da nicht Geld verdienen kann". 
+
+
+
+
+
 1. Schawelka > zu Kunstmarkt?
 1. Yaakov Mishori > Akademie!
 
@@ -176,6 +174,9 @@ und der Künstler produziert sie fast wie am Fließband. Meese steht stellvertre
 Gesellschaft nach „durchgeknallten Künstlertypen“, die das unangepasste Genie als Unterhaltungsmodell verkörpern.  
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Bild:** [Jeff Koons mit seiner Mitarbeiter, Foto: Jason Schmidt für Monopol.jpg](jeff_koons_und_mitarbeiter.jpg)  
+[]Footnote/Bildnachweis: foto Jason Schmidt Monopol, Publikation suchen)
 
 
 ## Why, are the artists poor?[^whyartistspoor]
