@@ -590,50 +590,50 @@ Beides                       4
 TODO ??? Tabelle
 
 
-F							P
-----------    			-----
-Ja              			7
-Nein            			0
-Vielleicht      			?
-----------    			-----
+F							  P
+----------    				-----
+Ja              			  7
+Nein            			  0
+Vielleicht      			  ?
+----------    				-----
 
 
 
     Fragebogen Teil 3: #5 
 
 
-K                     		P
-----------------    	-----
-Nationalkiosk         		0
+K                     		   P
+----------------    	     -----
+Nationalkiosk         		   0
 
-Eigenkiosk            		0
+Eigenkiosk            		   0
 
-Kioskwerke            		1
+Kioskwerke            		   1
 
-KoCa inn              		0
+KoCa inn              		   0
 
-KOP                   		0
+KOP                   		   0
 
-KoMA                  		1
+KoMA                  		   1
 
-KSA                   		0
+KSA                   		   0
 
-DNA                   		3
+DNA                   		   3
 
-Alle                  		1
+Alle                  		   1
 
-KoMa &                		1
+KoMa &                		   1
 KSA
 
-Kioskwerke &         		1
+Kioskwerke &         		   1
 KOP &
 KSA
 
-Nationalkiosk &       		1
+Nationalkiosk &       		   1
 Kioskwerke &
 KOP &
 KoMa
-----------------    	-----
+----------------    	     -----
 
 
 
