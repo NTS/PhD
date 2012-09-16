@@ -7,7 +7,7 @@
 ## Kunstnomaden + Internetz
 
 ~~~~~ { .editorial-content }
-TODO: In Kapitel teilen
+TODO: Move to BUW
 
  **nwh *S. 78 Prinzipiell leuchtet mir schon ein, dass die theoretischen Exkurse mit Praxisbespielen, hier KOCA, aufgelockert werden, ab und zu erscheint es mir allerdings willkürlich bzw. argumentativ nicht immer schlüssig!? Also überlegen, wo’s wirklich passt, bzw. zur Gänze im Praxisteil (wie Fachkurse, Diskussion, Marke 6 etc.)**
 ~~~~~
@@ -23,10 +23,10 @@ TODO: In Kapitel teilen
 TODO: woanders hin!
 
 Als Leitmotiv für die anstehende Ausstellungsserie wurde von der Gruppe KISOK09 das Thema Aneignung gewählt. Mit diesem Thema als Ausgangspunkt – Künstler 
-interagieren mit anderen Künstlern – war das Anliegen der Ausstellungsserie, sich mit dem gegenwärtigen Phänomen der mutual reference, der Wiederverwendung und Anpassung 
+interagieren mit anderen Künstlern – war das Anliegen der Ausstellungsserie, sich mit dem gegenwärtigen Phänomen der *mutual reference*, der Wiederverwendung und Anpassung 
 von Kunst zu beschäftigen. In unserem digitalen Zeitalter sind wir mit einer quantitativen und qualitativen Fülle sowie der schnellen Entstehung und Verbreitung von 
-Appropriation Art-Projekten konfrontiert. Besonders prägend ist das Phänomen, dass Künstler an das geistige Eigentum anderer Künstler und lokaler Kunstinstitutionen 
-anknüpfen. Zum Beispiel: Weimarer Nationaltheater mit Benedikt Brauns *Deutsche National Kiosk*, Galerie Eigenheim mit Anke Hannemanns *Eigenkiosk*, Stadtwerke Weimar 
+Aneignungs Kunstprojekten konfrontiert. Besonders prägend ist das Phänomen, dass Künstler an das geistige Eigentum anderer Künstler und lokaler Kunstinstitutionen 
+anknüpfen. Zum Beispiel: Weimarer Nationaltheater mit Benedikt Brauns *Deutscher National Kiosk*, Galerie Eigenheim mit Anke Hannemanns *Eigenkiosk*, Stadtwerke Weimar 
 mit Anna Giersters *StadtwerksKiosk* und internationale Institutionen wie dem MoMA mit Felix Rufferts „KoMA“. Die Aneignung beinhaltete das subversive Verändern der 
 Logos der Institutionen, der Einladungskarten und Websites. 
 
@@ -37,12 +37,12 @@ Namen gemacht und ist seit 2001 Bezugspunkt für KünstlerInnen wie für die Uni
 
 Weimars "Kunstmeile", die Heinrich Heine Straße, besteht nun aus dem Neuen Museum, den Galerien marke.6 und Eigenheim, der Fotothek, der Kunsthalle Harry Graf Kessler und dem Kiosk. 
 Seit April 2009 wurde der Kiosk, der zuvor den Namen KoCA (Kiosk of Contemporary Art) trug, unter diesem Konzept geführt. So verlangte jede Ausstellung nach einem neuen Schild, 
-einer neuen Website und einer neuen Corporate Identity, die sich an den Ideen der ausstellenden KünstlerInnen orientierte. Die Jury des KIOSK09 bestand aus den TeilnehmerInnen 
+einer neuen Website und einer neuen Corporate Identity, die sich an den Ideen der ausstellenden KünstlerInnen orientierte. Die Jury des KIOSK09 bestand aus den Teilnehmer 
 meines Fachkurses „When Artists Curate Art“, der Bauhaus-Universität Weimar. Die Ausschreibung wurde an ausgewählte Alumni geschickt, von denen schließlich das 
 KIOSK09 Kuratorium eine Auswahl für die Ausstellungen traf. 
 
 Der Name KoCA Inn wurde gleich am Anfang von der deutsch-brasilianischen Gruppe URBANDÆ und der Künstlerin und Projektkoordinatorin Daniela Brasil vorgeschlagen. 
-Der Name macht deutlich, dass dort, ebenso wie im Hotel Miranda ??? Hier erklären oder einfügen, was das Hotel Miranda ist/war ??? in der Marienstraße, Menschen übernachten 
+Der Name macht deutlich, dass dort, ebenso wie im anderen Projektteil *Hotel Miranda* in der Marienstraße 10, Menschen übernachten 
 würden; und so begann die Aneignung der Institution ‘Kiosk of Contemporary Art’. Der Kiosk der vielen Namen, wurde schließlich zum KoCA Inn. Als sich die Kooperation mit der 
 Gruppe URBANDÆ weiter entwickelte und sich mit ihr das Konzept zu einer favela wandelte, traten mehrere Fragen auf: Ist dieser Kiosk einer von vielen social-community human 
 plastics, wie etwa die Aktionen von WochenKlausur als leitendes Beispiel, oder ist er ein neues Experiment einer interdisziplinären Vereinigung von Architektur, Urbanistik, 
@@ -58,7 +58,7 @@ wir mit den Nachbarn des Kiosks, die uns alle gut gestimmt schienen.
 
 „… The rights to express, talk, gather, convey ideas, demonstrate, etc. are not a frame of the democratic game, but provide the circumstances that allow the existence of this game”. 
 
-Wenn ich meine Erfahrungen hier mit der internationalen Situation vergleiche, muss ich feststellen, dass die deutsche Regierung sowie öffentliche Finanzierung, solchen 
+Wenn ich meine Erfahrungen hier mit der internationalen Situation vergleiche, muss ich feststellen, dass die deutsche Regierung sowie öffentliche Finanzierung solchen 
 öffentlichen Projekten sehr großzügig und ermutigend gegenüber stehen. Der KoCA Inn wurde vom Fonds "Soziokultur" finanziert, was die Umsetzung einer utopischen Idee für 
 einen kurzen Zeitraum erlaubte. Dank dieser Unterstützung war die Finanzierung dieses Projekts kein großes Problem. Die Unterstützung wurde genutzt, um eine schöne, sichere und 
 baumfreundliche "favela" zu bauen. Die Hauptstruktur wurde um den Kiosk herum gebaut, sie wurde um eine Küche, Toiletten und um alle weiteren notwendigen Vorrichtungen ergänzt. 
@@ -66,16 +66,18 @@ Die grundlegende Struktur war installiert und erlaubte, dass die Inhalte dieses 
 Grenzen an Freizügigkeit aus und erlaubte so das Durchbrechen der Grenzen von innen. Nach dem Ende der Planung war es an der Zeit zu beobachten, welches Ergebnis 
 sich durch die Einflüsse des „street factor“ und des öffentlichen Raums ergeben und wie die Bürger es annehmen würden. 
 
-Viele verschiedene Aktionen, von Kochen über Vorträge und allgemeinen Treffen bis zu Live Musik und Partys, fanden täglich statt. Diese Ereignisse wurden für alle Passanten 
+Viele verschiedene Aktionen, von Kochen über Vorträge und allgemeine Treffen bis zu Live Musik und Partys fanden täglich statt. Diese Ereignisse wurden für alle Passanten 
 gut sichtbar, an einem schwarzen Brett bekannt gegeben. Einige Veranstaltungen waren außerhalb konventioneller Grenzen, so etwa der Workshop „Freiheit spielen“, 
-bei dem drei jugendliche Strafgefangene der JAA Weimar zwischen 16 und 17 Jahren von einem Künstler, einer Mitarbeiterin von Boje e.V. und, hauptsächlich einem Mitglied 
-von Color Violence e.V., begleitet wurden. Die drei kamen täglich zum Kiosk, wo sie willkommene Gäste waren und ihnen die Möglichkeit gegeben wurde, an einem anderen Ort als der JAA Weimar zu sein und diesen zu erfahren. Ein anderes Ereignis war das DATENPICKNICK, das an einem Samstag Nachmittag von KIOSK09 und der freien Initiative FeiNT.org unter der 
+bei dem drei jugendliche Strafgefangene der JAA Weimar zwischen 16 und 17 Jahren von einem Künstler, einer Mitarbeiterin von Boje e.V. und hauptsächlich einem Mitglied 
+von Color Violence e.V., begleitet wurden. Die drei kamen täglich zum Kiosk, wo sie willkommene Gäste waren und ihnen die Möglichkeit gegeben wurde, an einem anderen Ort 
+als der JAA Weimar zu sein und diesen zu erfahren. Ein anderes Ereignis war das DATENPICKNICK, das an einem Samstag Nachmittag von KIOSK09 und der freien Initiative FeiNT.org unter der 
 Leitung von Bernd Naumann und Max Albrecht durchgeführt wurde. Dort konnten Musik und Filme in einer gemütlichen Atmosphäre, inklusive Kochen, getauscht werden.  
 
 Eine Gruppe Interessierter brachte ihre Computer, Kabel und Speichermedien mit und saß in einem „open air private Salon“ zusammen. Anders als in einem Internetcafe, 
 in dem die Menschen fast ausschließlich allein an einem Tisch sitzen, gab es am Kiosk aktive Kommunikation; hier wurden intensiv Eindrücke und Meinungen ausgetauscht. 
 Diese Aktion am Kiosk zeigte, dass ein bestimmtes Verlangen besteht, Boxen zu verlassen und sich zu verbinden. Das veränderte die natürliche Tendenz der Mitglieder dieser digital 
-community allerdings nicht, sie dokumentierten und uploadeten weiterhin permanent Eindrücke ins Internet, jedoch nicht in der selben Intensität, die normalerweise als normal angesehen worden wäre. ??? was meinst du hier mit normalerweise und normal, genauer differenzieren ??? Einige unternahmen die Anstrengung, zu schreiben, iPhone Bilder zu versenden und twits zu veröffentlichen während sie dort "herum hingen", so zum Beispiel: 
+community allerdings nicht, sie dokumentierten und uploadeten weiterhin permanent Eindrücke ins Internet, jedoch nicht in der selben Intensität, die normalerweise als normal angesehen worden wäre. 
+Einige unternahmen die Anstrengung, zu schreiben, iPhone Bilder zu versenden und twits zu veröffentlichen während sie dort "herum hingen", so zum Beispiel: 
 
 > “EINS78 @skinnermike ich sitze auf der Straße, vor einem Kiosk. Von innen ist eine Projektion eines lustigen brasilianischen trash Films im Fenster”.
 
@@ -93,7 +95,7 @@ dass wir in der Kunstszene mittlerweile sehr vertraut im Umgang mit Dokumentatio
 Vielleicht war es das Fehlen der Notwendigkeit, das Ereignis während seiner Existenz zu beschreiben, was die totale Teilnahme und den Austausch von Input und Output, der während 
 der Aktion stattfand, ermöglichte. Dinge wurden persönlich weitergegeben und der KoCA Inn wurde so, wie sein Name vorschlägt, zur Sucht. Es war zu besonders, um auf Facebook "getaggt" zu werden. 
 
-“Faveliziere dich selbst und der Rest wird folgen”, schien zum Motto des Projekts zu werden. Es war kalt und dennoch entwickelte sich eine Hängemattenkultur. Mitglieder beider Teams schliefen und übernachteten während der zwei Wochen am KoCA Inn. Auswärtige Reisende hörten von dem Projekt und blieben ebenfalls als Übernachtungsgäste. Die Interaktionen involvierte alle Themen wie Toleranz, Kommunikation, Raum geben, schaffen und nehmen. Es schien, als hätte jeder seine Rolle gefunden und dabei dennoch seine Individualität behalten. Wir gewannen an Erfahrung und an 
+“Faveliziere dich selbst und der Rest wird folgen”, schien zum Motto des Projekts zu werden. Es war kalt und dennoch entwickelte sich eine Hängemattenkultur. Mitglieder beider Teams schliefen und übernachteten während der zwei Wochen am KoCA Inn. Auswärtige Reisende hörten von dem Projekt und blieben ebenfalls als Übernachtungsgäste. Die Interaktionen involvierten alle Themen wie Toleranz, Kommunikation, Raum geben, schaffen und nehmen. Es schien, als hätte jeder seine Rolle gefunden und dabei dennoch seine Individualität behalten. Wir gewannen an Erfahrung und an 
 Verantwortungsgefühl für einander. Diese Kreuzung bot einen Raum für alle, die nach einem solchen suchten: Ständig war eine Mischung aus Künstlern, Kunstliebhabern, Wohnungslosen, 
 sozialen Aussteigern, Geeks, Nerds und alternativ lebenden Menschen am Kiosk anzutreffen. So hat es URBANDÆ geschafft unsere Herzen zu "brasilianisieren". Dieses Happening fand im und um den Kiosk herum statt, auf dem Bürgersteig, unter dem Baum, vor und über der Küche, an einer von Weimars meist befahrenen Straßenkreuzungen und sogar auf einer gegenüberliegenden Verkehrsinsel. 
 
