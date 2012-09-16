@@ -45,7 +45,11 @@ Sammler, Kunstmesse etc. noch immer funktioniert. Jedoch betätigt sich der Kün
 Verbreitungen durch das Web 2.0. Ist der Künstler gezwungen, alles selbst zu können?: Ein Kurator zu sein, Texte zu schreiben und seine Bilder zu beschriften?
 
 nwh
-*Zu S. 31 etc.: Schon zu meiner Zeit als Kunststudent wurde als positives Element des Künstler-Daseins die Tatsache einer „vorindustriellen“ Handwerkstätigkeit mit mehr oder minder qualitätvollen Produkten oder absichtlichem Dilettantismus diskutiert, quasi ein bastelndes Allround-Genie (der „bricoleur“ war gerade in Mode gekommen) mit Abenteuerstatus. Da hat sich nicht viel geändert – außer dass man mit den „modernen Medien“ noch fitter sein muss bzw. Hacker-Qualitäten entwickeln müsste, um sie überhaupt hinterfragen zu können, geschweige denn genial einzusetzen. Hier musste sich der Künstler wieder der Industrie unterordnen und ihre Richtlinien einhalten, um nur annähernd konkurrenzfähig zu bleiben.*
+*Zu S. 31 etc.: Schon zu meiner Zeit als Kunststudent wurde als positives Element des Künstler-Daseins die Tatsache einer „vorindustriellen“ Handwerkstätigkeit 
+mit mehr oder minder qualitätvollen Produkten oder absichtlichem Dilettantismus diskutiert, quasi ein bastelndes Allround-Genie (der „bricoleur“ war gerade in 
+Mode gekommen) mit Abenteuerstatus. Da hat sich nicht viel geändert – außer dass man mit den „modernen Medien“ noch fitter sein muss bzw. Hacker-Qualitäten entwickeln 
+müsste, um sie überhaupt hinterfragen zu können, geschweige denn genial einzusetzen. Hier musste sich der Künstler wieder der Industrie unterordnen und ihre 
+Richtlinien einhalten, um nur annähernd konkurrenzfähig zu bleiben.*
 
 Die Verhältnisse heutzutage zeigen, dass man vielfältig sein muss. Es bleibt einem nichts weiter übrig, man muss alles können oder anders formuliert: 
 man ist gezwungen alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an andere (Handwerker, Techniker, Grafiker, etc.), 
@@ -129,7 +133,9 @@ Also haben Künstler bei dem Versuch, ihre Freiheit zu erhalten eine Möglichkei
 ## Would you like to be modified?[^modified]
 
 [^modified]: Aus einem Dialog zwischen Roy und Tyrell, Blade Runner
-en.wikiquote.org/wiki/Blade_Runner Roy: It's not an easy thing to meet your maker. Tyrell: What can he do for you? Roy: Can the maker repair what he makes? Tyrell: Would you like to be modified ?
+en.wikiquote.org/wiki/Blade_Runner Roy: It's not an easy thing to meet your maker. Tyrell: What can he do for you? 
+Roy: Can the maker repair what he makes? Tyrell: Would you like to be modified ?
+
 *(Gegen/Argumente)*
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -163,7 +169,7 @@ in meinem Masterarbeit habe ich mich auf überregionale Selbstorganisation in St
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TODO: zum Beruf Künstler > ?
+TODO: 
 
 Momentan sieht es so aus, als wäre ein Künstler erst erfolgreich [^footnote-damit ist der Erfolg sowohl wirtschaftlich, als auch vom Sozialstatus her gemeint], wenn er 
 achtzig Assistenten beschäftigen und bezahlen kann. Dadurch wird genau der angepasste Unternehmer in einem System, an das er gar nicht glaubt, als Vorbild inszeniert. 
