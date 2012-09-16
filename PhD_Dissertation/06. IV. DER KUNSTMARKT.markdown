@@ -1,4 +1,4 @@
-# V. DER KUNSTMARKT
+# IV. DER KUNSTMARKT
 
 ##  Akademie trifft Kunstmarkt
 
@@ -115,7 +115,7 @@ USA: 33
 DE: 17
 UK: 9
 
-# Das Konstrukt Bauhaus Essentials
+## Das Konstrukt Bauhaus Essentials
 
 TODO: mit 11 zusammenfügen
 
