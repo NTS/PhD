@@ -1,6 +1,7 @@
 
 # V. DAS NETZTEIL
 
+
 ## Kunst ./. Kommunikation*
 
 
@@ -170,7 +171,7 @@ für fünf Minuten innerhalb der verkehrsreiche Station eingefroren stehen gebli
 
 nwh *S. 71, 12.6 Anführen könnte man noch, wie z. B. die Werbung sich bei der Kunst(geschichte) bedient.*
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
     TODO: RAUS>
 ### Transformers
@@ -258,7 +259,7 @@ Und Information will kommuniziert werden.“ [-@Flusser:Kommuni]
 **Bild:** [Jake and Dinos Chapman: „Hell“, 2000 (Quelle: [East Cost Post](http://eastcoastpost.co/2010/10/12/to-scale/))](../pix/10._true_art/fucking-hell.jpg)
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Todo raus bis hier
 
 
 ### Von der Migration ins Nomadentum
