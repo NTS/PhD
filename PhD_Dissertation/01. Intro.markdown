@@ -2,7 +2,7 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 nwh: allgemein zur Orthographie: aufpassen, manchmal wird durch den Blocksatz absurd getrennt!
-nts: geschlechtergerechte Sprache abgesagt.
+nts: geschlechtergerechte Sprache reverted (sorry, Anki!).
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ich bin 1965 in Jerusalem geboren, lebe und arbeite seit zwanzig Jahren in Deutschland, ab 1990 auch als freischaffende Künstlerin und Kuratorin. 
