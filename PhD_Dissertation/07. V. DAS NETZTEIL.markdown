@@ -35,7 +35,7 @@ Kunstmarkt und dem Apparat als solchem, es entsteht der Begriff “Artist’s Ar
 **Bild:** [Justin Hansch: „Best friends painting“, 2010](../pix/10._true_art/Justin.Hansch.best_friends_painting.jpg)
 
 
-## Digitalisierung und Vernetzung
+### Digitalisierung und Vernetzung
 
 Vilèm Flusser schreibt [-@Flusser:Kommuni], dass auch wenn die Begriffe Schönheit, Originalität, Interesse, usw. schwierig zu definieren sind, so doch alles immer wieder auf die Information 
 zurückgeführt werden kann und Information will kommuniziert werden. Übernimmt die Digitalisierung unserer Gesellschaft die Oberhand und bringt die hervorgebrachte elektronische Einsamkeit 
@@ -52,7 +52,7 @@ politischen Club eines bestimmten Ortes an, sondern wandert in eine andere Sphä
 kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.  
 
 
-## Kunst & Kommunikation
+### Kunst & Kommunikation
 
 Auf welchen Kommunikationsebenen hat sich die Kunst entwickelt? 
 Inwieweit bedienen sich Künstler neuer Strategien, um durch Kommunikation eine weiter reichende Aufmerksamkeit zu erlangen? 
@@ -87,7 +87,7 @@ Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn d
 [@Barck:Aisthesis, pp. 105]
 
 
-## Protest: Digital & Global
+### Protest: Digital & Global
 
 Der *Digital Native*[^footnote-digital-native] wird zu einer politischen und globalen Persönlichkeit. 
 
@@ -150,7 +150,7 @@ Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert
 Interessensgruppen und *Circles*. So entstehen Meme, die nach Walter Benjamin „in unserem kollektiven Bildwissen“ durch Reproduzierbarkeit und wiederholte Erscheinung zu Ikonen werden. 
 
 
-## Kunst ⊕ Freiheit
+### Kunst ⊕ Freiheit
 
 Nach meiner Beobachtung wird die Sprache der Kunst in allen Bereichen immer mehr als Werkzeug zum „Freien Agieren“ übernommen. Das heißt auch, dass durch 
 Verbreitung von künstlerischen Strategien und die Nutzung ihrer Codes Politik gemacht wird. Eine Aussage oder Aktion hat mehr Chance auf Duldung, wenn sie 
@@ -173,7 +173,7 @@ nwh *S. 71, 12.6 Anführen könnte man noch, wie z. B. die Werbung sich bei der 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     TODO: RAUS>
-## Transformers
+### Transformers
 
 **Autobots**
 
@@ -222,7 +222,7 @@ Das Suchen nach Erklärungen wird dem Nutzer überlassen, seine Informationen si
 drahtlose Technik, endlich Realität. Trotzdem verbleibt uns die Möglichkeit, diese Informationen bei sich zu behalten und zu markieren, zu kopieren und zu speichern.
 
 
-## Kunst als Prophezeihung
+### Kunst als Prophezeihung
 
 **Bild:** [Viktor Hertz: „Honest Logos“ (Quelle: [behance.net](http://www.behance.net/gallery/Honest-logos/1222137))](../pix/1._Honest_Logos/_11_Honest_logos-5.jpeg)
 
@@ -261,7 +261,7 @@ Und Information will kommuniziert werden.“ [-@Flusser:Kommuni]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-## Von der Migration ins Nomadentum
+### Von der Migration ins Nomadentum
 
 Künstler bedienen sich an allem, was die Welt zu bieten hat, alles ist eine Quelle Philosophie und Kunsttheorie machen da keine Ausnahme. 
 Laut Geert Lovink, Gründungsdirektor des medientheoretischen [Institute of Network Cultures (INC)](http://networkcultures.org) mit Sitz an der 
@@ -288,7 +288,7 @@ Gelingt dies, so sind sie froh, ihre Idee korrekt kommuniziert zu haben. Stets b
 sie lassen sich dabei auch von Theoretikern beeinflussen.
 
 
-## Attention Whores
+### Attention Whores
 
 Dr. Georg Hehn reflektiert in seinem Artikel „Der Genius und die gelangweilten Anderen“[@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. 
 Seiner Meinung nach scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
@@ -518,7 +518,7 @@ Paul Graham hackes & Painters
 <http://paulgraham.com/desres.html>
 
 
-## Die Aktöre sagen:
+### Die Aktöre sagen:
 
     die Wirtschaft
     die Biennalen
@@ -530,7 +530,7 @@ Paul Graham hackes & Painters
     die Kuratoren
 
 
-## Die Künstler sagen: Fuck you!
+### Die Künstler sagen: Fuck you!
 
 ~~~~~
 fuck the curators - we curate ourselves
@@ -578,26 +578,14 @@ Akademie herzlich willkommen, aber er wird nicht nur gelobt. Es wird weiter rech
 man etwas erreichen. Wie schon erwähnt, ich glaube es entwickeln sich zwei Künstlersorten, ich fürchte jedoch, dass die meisten heutzutage zuerst reich und berühmt 
 werden und dann sterben wollen.
 
-## The process is the product![^process-product]
+### The process is the product![^process-product]
 
 [^process-product]: Album by Genesis P. Orridge
 
 
 * scheitern als Erfolg
 
-# Outro
-
-es sind ver Jahre
-
-    ??? ab hier zum outro ???
-
-Es ist auch eine 
-Möglichkeit und meiner Meinung nach werden mehrere Künstlersorten entstehen, die 80 Assistenten haben. Und sie erledigen nicht nur die Arbeit 
-der Kunst, sondern machen auch die Buchhaltung und alles was dazugehört. Ich selbst habe Fotografie studiert und Kunst um öffentlichen Raum gemacht. 
-Ich habe alle diese Sachen gelernt. Und wir sind auch fähig dazu, da alle Computer haben, um alle Arbeiten zu erledigen und die Fähigkeit entwickeln, 
-Dienstleistungen anzubieten oder für andere Künstler zu arbeiten. Mittlerweile werde ich zu Projekten eingeladen, welche über 2 Jahre laufen und 
-ich bekomme 25000.- Euro dafür, die ich an Studenten verteile. Somit bin ich als Künstler auch Arbeitgeber, das gefällt mir am besten. 
-Der Künstlerassistent ist ein wichtiger Punkt.
+rassistent ist ein wichtiger Punkt.
 
 
 Ja so hat es alles angefangen. Mitte im Kunstmachen und kuratieren und masterstudium, während ich an der UDK in Berlin als Gaststuent ein Semester verbracht habe, habe ich ein Zimmer mit andere Künstlerin in Berin geteilt. Zum kurzbesuch in Israel, erhielte ich die Anfrage, ein Artikel für ein Kunstmagazin zu schreiben. Ich habe über den Prozess der Professionaliesierung angefangen nachzudenken. Und es hat gestachelt. In der Zeit seitdem bin ich mit meine Gedanken immer Parallel und permanent auf diese Ebene geblieben. 
