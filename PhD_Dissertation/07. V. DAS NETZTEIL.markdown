@@ -327,7 +327,7 @@ TODO: echter name des seminars
 
 
 
-# Wo ist eigentlich...?
+## Wo ist eigentlich...?
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * auch, in Bearbeitung
@@ -398,7 +398,7 @@ Fonti in Kassel:
 http://www.tlz.de/web/zgt/kultur/detail/-/specific/Bauhaus-Studenten-zeigten-Installation-zur-Documenta-1144759424
 
 
-# Next Project.
+## Next Project.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 das ist das schlußwort. es steht viel drin, noch
