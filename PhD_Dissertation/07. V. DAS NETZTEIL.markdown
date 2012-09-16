@@ -18,7 +18,6 @@
 > *Dr. Niels Werber* [-@Werber:nurkunst]
 
 
-
 Was passiert mit dem Künstler, sein Werk und dessen Vermittlungswege, im Zeitalter der unendlichen digitalen Reproduzierbarkeit von Information? 
 In den 1960er Jahren, im Zuge der Entmaterialisierung der Kunst, erweiterte die Konzeptkunst das Sehen durch das Denken. Das bloße Betrachten eines Kunstwerkes reichte zum Verständnis 
 nicht mehr aus: das Lesen von Titel, Anleitungen und anderen Informationen war nunmehr nötig, um in die Denkweise der Künstler ganz einzutauchen und Inhalte „richtig“ zu verstehen. 
@@ -55,37 +54,18 @@ kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.
 
 ### Kunst & Kommunikation
 
-Auf welchen Kommunikationsebenen hat sich die Kunst entwickelt? 
-Inwieweit bedienen sich Künstler neuer Strategien, um durch Kommunikation eine weiter reichende Aufmerksamkeit zu erlangen? 
-
+Auf welchen Kommunikationsebenen hat sich die Kunst entwickelt? Inwieweit bedienen sich Künstler neuer Strategien, um durch Kommunikation eine weiter reichende Aufmerksamkeit zu erlangen? 
 Wird Kunst heute als Kommunikationsweg benutzt oder bedient sich die Kommunikation künstlerischer Strategien? Hierbei spielt die Umkehrung von Wort in Bild und Bild in Wort 
 eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der Straße. Die Gemeinsamkeiten beider Plattformen werden durch die Anwendung ähnlicher Strategien sichtbar.[^footnote-oeffraumnetz] 
-
 [^footnote-oeffraumnetz]: In der „Kunst im öffentlichen Raum“ wurde der öffentliche Raum schon auf das Internet ausgeweitet
 
-**Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der
- Künstler unverständlich.** 
-Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst 
-selber. Weiter meint Hehn, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, 
-„sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“ 
-[@Hehn:Genius, pp. 4]. 
-
-„Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[@Hehn:Genius, pp. 2]
+Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. Weiter meint Hehn, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[@Hehn:Genius, pp. 4]. „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[@Hehn:Genius, pp. 2]
 Die Exilierung des Sakralen aus der Sphäre des künstlerischen Erlebens änderte nichts an ihrem Status als der wahren Wirklichkeit. Die Künstler kommunizierten nicht mit ihren 
 Rezipienten, sie schritten ihnen voran. Das Bedürfnis nach Aufklärung, Erklärung und Vermittlung ist Kern der schöpferischen Kraft, ein inneres Bild in die materielle Welt zu übersetzen, 
 „…und der Künstler zeigt sich als Virtuose der Kommunikation, dessen künstlerische Leistung gerade auf Meta-kommunikativer Kreativität beruht. Er mag provozieren, verfremden oder verstören, 
 er mag überhöhen oder ins Lächerliche ziehen, er mag visionär oder fehlgelagert arbeiten, immer ist der Vektor seiner kreativen Explosion auf den Rezipienten gerichtet.“ 
-[@Hehn:Genius, pp. 2] 
-
-Für den heutigen Künstler heißt das, immer die Zielgruppe im Visier zu haben, und zunehmend sind das nicht nur kulturorientierte Menschen. 
-Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig vom Kunstapparat, seine Arbeit sieht. 
-Die Kunstkritik inklusive, die ihm einerseits zur Verfügung steht, aber andererseits auch an ihm verdient. 
-Hier wird gleichzeitig ein Problemfeld aufgemacht, nämlich: 
-
-Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn das Kunstwerk nicht ausschließlich durch die diversen Komponenten dieses Apparats 
-(Galerist, Kurator, Käufer, Kunstkritiker) transportiert wird? Oder, um es mit Marcel Duchamp zu sagen: 
-„Soviel Künstler, soviele Einzelausstellungen, soviele Händler und Sammler und Kritiker, die nichts anderes sind als Läuse an den Hintern der Künstler!“
-[@Barck:Aisthesis, pp. 105]
+[@Hehn:Genius, pp. 2] Für den heutigen Künstler heißt das, immer die Zielgruppe im Visier zu haben, und zunehmend sind das nicht nur kulturorientierte Menschen. 
+Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig vom Kunstapparat, seine Arbeit sieht. Die Kunstkritik inklusive, die ihm einerseits zur Verfügung steht, aber andererseits auch an ihm verdient. Hier wird gleichzeitig ein Problemfeld aufgemacht, nämlich: Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn das Kunstwerk nicht ausschließlich durch die diversen Komponenten dieses Apparats (Galerist, Kurator, Käufer, Kunstkritiker) transportiert wird? Oder, um es mit Marcel Duchamp zu sagen: „Soviel Künstler, soviele Einzelausstellungen, soviele Händler und Sammler und Kritiker, die nichts anderes sind als Läuse an den Hintern der Künstler!“ [@Barck:Aisthesis, pp. 105]
 
 
 ### Protest: Digital & Global
