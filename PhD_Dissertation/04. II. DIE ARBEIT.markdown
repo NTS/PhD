@@ -29,8 +29,6 @@ Ist Künstler aber ein Beruf? Erst wird der Begriff Autor untersucht, auf seine 
 
 
 
-
-
 ## Künstler = Autor + Produzent 
 
 **Der Kunstproduzent nach WB**
@@ -43,18 +41,7 @@ Zu Goethes Zeit wurde per Hand geschrieben. Um ihn herum gab es einen Apparat vo
 zu lektorieren, Bilder und Rechte zu besorgen, zu layouten, gestalten, verlegen, vermarkten und eventuell zu übersetzen. Heute liegt die Regie größtenteils bei 
 dem Autor selbst und bei seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum, 
 Sammler, Kunstmesse etc. noch immer funktioniert. Jedoch betätigt sich der Künstler oft auch selbst im Kuratorischen, Layouten von Werbematerial und in 
-Verbreitungen durch das Web 2.0. Ist der Künstler gezwungen, alles selbst zu können?: Ein Kurator zu sein, Texte zu schreiben und seine Bilder zu beschriften?
-
-nwh
-*Zu S. 31 etc.: Schon zu meiner Zeit als Kunststudent wurde als positives Element des Künstler-Daseins die Tatsache einer „vorindustriellen“ Handwerkstätigkeit 
-mit mehr oder minder qualitätvollen Produkten oder absichtlichem Dilettantismus diskutiert, quasi ein bastelndes Allround-Genie (der „bricoleur“ war gerade in 
-Mode gekommen) mit Abenteuerstatus. Da hat sich nicht viel geändert – außer dass man mit den „modernen Medien“ noch fitter sein muss bzw. Hacker-Qualitäten entwickeln 
-müsste, um sie überhaupt hinterfragen zu können, geschweige denn genial einzusetzen. Hier musste sich der Künstler wieder der Industrie unterordnen und ihre 
-Richtlinien einhalten, um nur annähernd konkurrenzfähig zu bleiben.*
-
-Die Verhältnisse heutzutage zeigen, dass man vielfältig sein muss. Es bleibt einem nichts weiter übrig, man muss alles können oder anders formuliert: 
-man ist gezwungen alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an andere (Handwerker, Techniker, Grafiker, etc.), 
-die man wohlmöglich dafür bezahlt. Irgendwann erkennt man, das man wie ein Dirigent über sich und über alle anderen, die für einen produzieren, arbeitet.
+Verbreitung durch das Web 2.0. Ist der Künstler gezwungen, alles selbst zu können?: Ein Kurator zu sein, Texte zu schreiben und seine Bilder zu beschriften?
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 TODO: Schleifen
@@ -88,6 +75,18 @@ könnte die neu erwünschte Flexibilität den Markt für Künstler aufgrund ihre
 
 Darüber hinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapital-list auf einen Dichter zurück zu führen ist, das heisst, der Begriff 
 wurde aus einer künstlerischen Beobachtung hergeleitet. 
+
+nwh
+*Zu S. 31 etc.: Schon zu meiner Zeit als Kunststudent wurde als positives Element des Künstler-Daseins die Tatsache einer „vorindustriellen“ Handwerkstätigkeit 
+mit mehr oder minder qualitätvollen Produkten oder absichtlichem Dilettantismus diskutiert, quasi ein bastelndes Allround-Genie (der „bricoleur“ war gerade in 
+Mode gekommen) mit Abenteuerstatus. Da hat sich nicht viel geändert – außer dass man mit den „modernen Medien“ noch fitter sein muss bzw. Hacker-Qualitäten entwickeln 
+müsste, um sie überhaupt hinterfragen zu können, geschweige denn genial einzusetzen. Hier musste sich der Künstler wieder der Industrie unterordnen und ihre 
+Richtlinien einhalten, um nur annähernd konkurrenzfähig zu bleiben.*
+
+Die Verhältnisse heutzutage zeigen, dass man vielfältig sein muss. Es bleibt einem nichts weiter übrig, man muss alles können oder anders formuliert: 
+man ist gezwungen alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an andere (Handwerker, Techniker, Grafiker, etc.), 
+die man wohlmöglich dafür bezahlt. Irgendwann erkennt man, das man wie ein Dirigent über sich und über alle anderen, die für einen produzieren, arbeitet.
+
 
 Das Internet hat die Arbeitsverhältnisse weiter verändert. Jeder ist heute in der Lage, seine Geschäfte von Zuhause zu erledigen.  
 Unbefristete Stellenangebote sind immer seltener zu finden. Man arbeitet entweder von einer befristeten Stelle zur nächsten oder von einem kurzfristigen 
