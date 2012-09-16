@@ -2,7 +2,7 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 nwh: allgemein zur Orthographie: aufpassen, manchmal wird durch den Blocksatz absurd getrennt!
-nts: geschlechtergerechte Sprache reverted (sorry, Anki!).
+nts: Geschlechtsgerechte Sprache reverted (Sorry, Anki!).
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ich bin 1965 in Jerusalem geboren, lebe und arbeite seit zwanzig Jahren in Deutschland, ab 1990 auch als freischaffende Künstlerin und Kuratorin. 
@@ -43,5 +43,5 @@ sich und ich werde diese Erfahrungen hier in alle ihren Facetten darstellen, aus
 oder Transkribierte Texte aus Bücher, Interviews, Videos, Musik und aus dem Internet. 
 
 Eine kleine Erklärung: 
-Das Wort *Künstler* kommt in diese Dissertation ca. 500 mal vor. Wenn ich *Künstler* schreibe, meine ich sowohl Künstler als auch KünstlerInnen, weil ich geschlechtergerechte Sprache für sehr umständig halte. 
+Das Wort *Künstler* kommt in diese Dissertation ca. 500 mal vor. Wenn ich *Künstler* schreibe, meine ich sowohl Künstler als auch KünstlerInnen, weil ich geschlechtsgerechte Sprache für sehr umständig halte. 
 
