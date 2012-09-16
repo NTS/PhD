@@ -434,6 +434,31 @@ und das kann man durch Buchhaltung nur schwerer machen.
 
 (Bandname)
 
+
+    TODO: MOVE! museums und so
+
+Parallel dazu werden auch immer mehr Künstler als Kuratoren beschäftigt - die Berlin Biennale wählte schon mindestens zweimal Künstler als Kuratoren, 
+erst Maurizio Cattelan (2006), dann Artur Żmijewski (2012). Im Jahr 1997 hatte es noch für Unruhe gesorgt, als sich die Schweiz für die Künstlerin Pipilotti Rist als künstlerische Leitung 
+der Expo-Ausstellung entschied.
+
+    TODO: (!BILD) - The next Biennial should be curated by an artist! next_documenta_should_be _curated_by_an_artist.png
+
+Was bedeutet der öffentliche Raum für die Kunst? Derzeit gibt es kaum eine Biennale von Venedig bis Istanbul, ohne Außenstellen und ortbezogener, temporärer 
+Kunst. Oft widmet man sich Gebäuden außerhalb der klassischen Strukturen ihrer Ausstellungsräume. Der Übergang aus dem Reich der Museen und Galerien als 
+Institutionen mit hierarchischer Entscheidungskompetenz zur Kommunikation mit externen Parteien wie die Gemeinde oder die Stadtverwaltung ist zu einem 
+integralen Bestandteil geworden. Ob es gewollt ist oder nicht, Kunst drängt sich automatisch in den öffentlichen Raum.
+
+An dieser Stelle soll trotzdem unterschieden werden zwischen genehmigten Kunstprojekten und Street Art, welche beide auf sozialem Handeln basieren und von 
+der Anerkennung und dem Recht der freien Meinungsäußerung Gebrauch machen. Hier sei ein einschlägiges Zitat aus der “Gewinnwarnung” des Erev-Rav Kunst-Online 
+Magazins angeführt: 
+
+>“… Wir wollen rekrutierte Kunst. Kunst, die sich aus dem Leben rekrutiert, die mit der Umwelt interagiert. Kunst, die Umwelt ist. Kunst, 
+>deren Materialien die Straße, die Stadt, die Katastrophe, der Alltag und die große Langeweile des Krieges heute, ist. Der Krieg der Identitätskarten, der Papiere, 
+>der E - Mails und die Grenzen, die das Schreckliche von uns verbirgt. Deren subversive Kunst ist ihre Präsenz, ihre Zugänglichkeit, in der Tatsache, 
+>dass sie das Leben angreift, im Politischen lebt, das sie das Spinnennetz der Sprache und ihre Wimpern ist … ”. (Zitat sprachlich unkorrekt!) (TODO: SOURCE)
+
+
+
 > was ist mit Bologna
 
 Man muss bedenken, dass im Laufe der letzten zehn Jahre die Bologna-Reform die Institutionen durchlief und eine Beschleunigung sowie das Herausschicken von Fachgemäß "unreifen" Absolventen hervorbrachte. In den Medien werden dann diese Almni so beschrieben: "Die Absolventen seien nicht die "Persönlichkeiten", die die Wirtschaft braucht" (präsident Der Hochschul-Rektoren in der Süddeutsche Zeitung in Artikel xy erschienen am 14.08.2012)
