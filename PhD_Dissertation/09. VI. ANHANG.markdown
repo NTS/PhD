@@ -505,9 +505,9 @@ Thank you for taking part in this Fachkurs!
 
 ---
 
-    Fakultät: 
+    Teilung der angeschriebene Studenten nach Fakultät: 
 
-Fakultät        			  Personen 
+Fakultät        			  Personen (P)
 ----            			  -----
 Freie Kunst     			   17
 Visuelle Kommunikation         3
@@ -518,24 +518,24 @@ Produktdesign		           1
 ----   -----
 
 
-    Semester:
+    Semesterhöhe der Teilnehmer:
 
- S        P
----      ---
- 1.       1
- 2.       3
- 3.       4
- 4.       2
- 5.       4
- 6.       3
- 7.       6
- 8.       8
- 9.       5
----      ---
+ S       					   P
+---      					  ---
+ 1.       					   1
+ 2.       					   3
+ 3.       					   4
+ 4.       					   2
+ 5.       					   4
+ 6.       					   3
+ 7.                            6
+ 8.       					   8
+ 9.       					   5
+---      					  ---
 
 
 
-    Teilnahme K3
+    Teilnahme an Fachkurse einmalig / mehrere
 
 
  Fachkurs         P
@@ -547,7 +547,7 @@ Produktdesign		           1
 
 
 
-    Fragebogen Teil I Frage #7
+    Fragebogen Teil I Frage #7: Wollen Sie lieber: Reich oder Berühmt werden? 
 
 
 F               P
