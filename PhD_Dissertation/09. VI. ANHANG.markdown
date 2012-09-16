@@ -521,7 +521,7 @@ Produktdesign		           1
     Semesterhöhe der Teilnehmer:
 
  S       					   P
----      					  ---
+----      					  -----
  1.       					   1
  2.       					   3
  3.       					   4
@@ -531,36 +531,36 @@ Produktdesign		           1
  7.                            6
  8.       					   8
  9.       					   5
----      					  ---
+----      					  ----
 
 
 
     Teilnahme an Fachkurse einmalig / mehrere
 
 
- Fachkurs         P
--------         -----
-  1/3            19
-  2/3             3
-  3/3             6
--------         -----
+ Fachkurs        			   P
+-------                      -----
+  1/3                         19
+  2/3                         3
+  3/3                         6
+-------                      -----
 
 
 
     Fragebogen Teil I Frage #7: Wollen Sie lieber: Reich oder Berühmt werden? 
 
 
-F               P
-----------    -----
-Reich           1
-Berühmt         3
-Beides          4
-----------    -----
+F               			  P
+----------    				-----
+Reich           			  1
+Berühmt         			  3
+Beides          			  4
+----------                  -----
 
 
 
 
-    Fragebogen Teil II #6 (FB Teil I/II):
+    Fragebogen Teil II #6 (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator d.Sonstiges (was?)
 
 
 F               P
