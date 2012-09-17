@@ -42,6 +42,10 @@ a:-webkit-any-link {
 	cursor: hand;
 }
 
+.footnoteRef {
+vertical-align: super;
+font-size: smaller;
+}
 /* HEADINGS */
 
 h1, h2, h3, h4, h5, h6 {

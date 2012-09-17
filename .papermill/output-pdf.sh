@@ -2,6 +2,8 @@
 
 # This script is called from the ../Makefile
 
+source ~/.profile
+
 # Where we are
 BASE_DIR="$(pwd)"
 
@@ -54,7 +56,7 @@ do
 		--csl=".papermill/CSL/din-1505-2.csl" \
 		\
 		--to=latex \
-		--latex-engine=xelatex \
+		--latex-engine="/usr/texbin/xelatex" \
 		--template="./.papermill/nts.latex" \
 		--no-tex-ligatures \
 		--variable=lang:DE \
@@ -79,4 +81,4 @@ do
 done
 
 # CLEANUP
-rm PhD_Dissertation_After-Title.generated.latex "PhD_Dissertation_Impressum.generated.latex" "Version.markdown"
+rm PhD_Dissertation_After-Title.generated.latex "PhD_Dissertation_Impressum.generated.latex" "Version.markdown" "Version.generated.latex"

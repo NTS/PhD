@@ -1,0 +1,579 @@
+
+# V. DAS NETZTEIL
+
+
+## Kunst ./. Kommunikation*
+
+
+**Zur gegenwärtigen Paradigmenverschiebung*
+
+> „„Das Bewußtsein kann nicht kommunizieren, die Kommunikation kann nicht wahrnehmen.“ [@Luhmann:kunstges, pp. 86] 
+> Als Wahrgenommenes fasziniert das Kunstwerk das Bewusstsein, bildet also ein psychisches, kein soziales System. 
+> Begnügte man sich damit, wäre Kunst ein absolut idiosynkratisches Vergnügen der Rezipienten; zum 
+> sozialen Phänomen wird sie erst, sofern sie auch Kommunikation ist. 
+> Tatsächlich provoziert Kunst geradezu Kommunikation, und zwar weil sie wahrgenommen wird, 
+> denn „wenn andere einen als wahrnehmend beobachten, kann man das Wahrnehmen nicht gut bestreiten. 
+> Auf diese Weise wird unnegierbare Sozialität erreicht.“ [@Luhmann:kunstges, pp. 36]“
+> 
+> *Dr. Niels Werber* [-@Werber:nurkunst]
+
+
+Was passiert mit dem Künstler, sein Werk und dessen Vermittlungswege, im Zeitalter der unendlichen digitalen Reproduzierbarkeit von Information? 
+In den 1960er Jahren, im Zuge der Entmaterialisierung der Kunst, erweiterte die Konzeptkunst das Sehen durch das Denken. Das bloße Betrachten eines Kunstwerkes reichte zum Verständnis 
+nicht mehr aus: das Lesen von Titel, Anleitungen und anderen Informationen war nunmehr nötig, um in die Denkweise der Künstler ganz einzutauchen und Inhalte „richtig“ zu verstehen. 
+Die Leinwand oder das Objekt reichten als bloße Informationsträger nicht mehr aus, Kommunikation mit dem Kunstwerk oder mit dem Künstler war folglich durch eine Vielzahl von Kanälen nötig. 
+Eine Verschmelzung der Begriffe, Codes und Kategorien führte zu einer Weiterentwicklung künstlerischer Strategien, die auch in den Alltag hinein wirken und zu einer Verschiebung der 
+Wahrnehmung von Kunst, ihren Indikatoren und Aufgabenbereichen führte. Künstler suchten nach neuen Wegen den Betrachter – über den white cube hinaus – zu erreichen, z.B. in der „Kunst in 
+öffentlichen Raum“, die nicht mehr nur die Form einer Skulptur oder eines Denkmals wahrt.
+
+Es stellt sich die Frage, welcher kommunikativen Strategien sich die Künstler im Zeitalter der Digitalisierung und Vernetzung behelfen. Seit einigen Jahren findet eine Verschiebung 
+in der Wahrnehmung und den Aufgabenbereichen zwischen Künstlern und den Vermittlungsapparaten wie Galerien, Museen, Kuratoren, Sammlern, etc. statt, die ihre Spuren bei den Philosophen 
+der Kunstwelt hinterlässt und bei den Künstlern großes Interesse weckt. Die Kunst stellt ihre eigenen Entstehungsprozesse auf der Meta-Ebene dar: Künstler beschäftigen sich mit dem 
+Kunstmarkt und dem Apparat als solchem, es entsteht der Begriff “Artist’s Artist” (*Künstler für Künstler*), als Bezeichnung für einen Künstler der in seiner Kunst vermehrt kritische 
+Äußerungen über die Kunstwelt an sich vermittelt.
+
+**Bild:** [Justin Hansch: „Best friends painting“, 2010](../pix/10._true_art/Justin.Hansch.best_friends_painting.jpg)
+
+Auf welchen Kommunikationsebenen hat sich die Kunst entwickelt? Inwieweit bedienen sich Künstler neuer Strategien, um durch Kommunikation eine weiter reichende Aufmerksamkeit zu erlangen? 
+Wird Kunst heute als Kommunikationsweg benutzt oder bedient sich die Kommunikation künstlerischer Strategien? Hierbei spielt die Umkehrung von Wort in Bild und Bild in Wort 
+eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der Straße. Die Gemeinsamkeiten beider Plattformen werden durch die Anwendung ähnlicher Strategien sichtbar.[^footnote-oeffraumnetz] 
+[^footnote-oeffraumnetz]: In der „Kunst im öffentlichen Raum“ wurde der öffentliche Raum schon auf das Internet ausgeweitet
+
+Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. Weiter meint Hehn, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[@Hehn:Genius, pp. 4]. „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[@Hehn:Genius, pp. 2]
+Die Exilierung des Sakralen aus der Sphäre des künstlerischen Erlebens änderte nichts an ihrem Status als der wahren Wirklichkeit. Die Künstler kommunizierten nicht mit ihren 
+Rezipienten, sie schritten ihnen voran. Das Bedürfnis nach Aufklärung, Erklärung und Vermittlung ist Kern der schöpferischen Kraft, ein inneres Bild in die materielle Welt zu übersetzen, 
+„…und der Künstler zeigt sich als Virtuose der Kommunikation, dessen künstlerische Leistung gerade auf Meta-kommunikativer Kreativität beruht. Er mag provozieren, verfremden oder verstören, 
+er mag überhöhen oder ins Lächerliche ziehen, er mag visionär oder fehlgelagert arbeiten, immer ist der Vektor seiner kreativen Explosion auf den Rezipienten gerichtet.“ 
+[@Hehn:Genius, pp. 2] Für den heutigen Künstler heißt das, immer die Zielgruppe im Visier zu haben, und zunehmend sind das nicht nur kulturorientierte Menschen. 
+Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig vom Kunstapparat, seine Arbeit sieht. Die Kunstkritik inklusive, die ihm einerseits zur Verfügung steht, aber andererseits auch an ihm verdient. Hier wird gleichzeitig ein Problemfeld aufgemacht, nämlich: Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn das Kunstwerk nicht ausschließlich durch die diversen Komponenten dieses Apparats (Galerist, Kurator, Käufer, Kunstkritiker) transportiert wird? Oder, um es mit Marcel Duchamp zu sagen: „Soviel Künstler, soviele Einzelausstellungen, soviele Händler und Sammler und Kritiker, die nichts anderes sind als Läuse an den Hintern der Künstler!“ [@Barck:Aisthesis, pp. 105]
+
+
+### Digitalisierung und Vernetzung
+
+
+Vilèm Flusser schreibt [-@Flusser:Kommuni], dass auch wenn die Begriffe Schönheit, Originalität, Interesse, usw. schwierig zu definieren sind, so doch alles immer wieder auf die Information 
+zurückgeführt werden kann und Information will kommuniziert werden. Übernimmt die Digitalisierung unserer Gesellschaft die Oberhand und bringt die hervorgebrachte elektronische Einsamkeit 
+ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: die Künstler , die nun nicht mehr nur lokal agieren, sondern globale Kulturströmungen verursachen. Das Quellenmaterial, 
+die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar.
+
+Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgestattet und kann sich ungehindert innerhalb von Onlinedatenbanken bewegen. Sein Charakter ist vor allem als technisch 
+zu bezeichnen. Im Gegensatz zu seinen kunsthistorischen Vorgängern ist er autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, 
+sondern aus eigener Initiative. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“.[^footnote-virtuell]
+
+[^footnote-virtuell]: Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
+Verlängerung derselben ist. Auch die Selbst- und Anerkennung als Angehöriger einer Strömung geht nun über die politische, soziale und lokale Ebene hinaus. Man gehört nicht mehr einem bestimmten 
+politischen Club eines bestimmten Ortes an, sondern wandert in eine andere Sphäre und tritt dort mit Menschen aufgrund des gemeinsamen Interesses in Kontakt. Man teilt die gleiche Meinung und 
+kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.  
+
+
+
+
+### Protest: Digital & Global
+
+Der *Digital Native*[^footnote-digital-native] wird zu einer politischen und globalen Persönlichkeit. 
+
+[^footnote-digital-native]: lt. [Wikipedia: ](https://de.wikipedia.org/wiki/Digital_Native) Als *Digital Natives* werden Personen bezeichnet, die zu einer Zeit aufgewachsen sind, 
+in der bereits digitale Technologien wie Computer, das Internet, Mobiltelefone und MP3s verfügbar waren. Als Antonym existiert der Begriff des *Digital Immigrant* 
+(dt.: „digitaler Einwanderer“ oder „digitaler Immigrant“) für jemanden, der diese Dinge erst im Erwachsenenalter kennengelernt hat. 
+
+*Digital Natives* bekommen ihre Information längst aus andere Quellen, als die offizielle Nachrichtkanäle im Funk & Fernseher und haben gelernt, sie auf ihre Echtheit zu prüfen. 
+Man kann feststellen, dass in vielen Fällen die Entwicklung der „Occupy“- Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien durch Twitter 
+und Facebook nicht nur mitgeteilt und verfolgt, sondern eben auch organisiert wurden. Durch ihre Verbreitung wurden sie zur Inspiration für Initiativen in anderen Ländern. 
+Allerdings hat sich gezeigt, dass die klassischen Medien die digitalen Netzwerke beobachteten und eine Gegenstrategie entwickelten, nämlich die des gezielten Desinteresses. 
+
+Dass diese Medien zunehmend durch politische Mächte kontrolliert und gesteuert werden, ist hinreichend bekannt. 
+
+Obwohl die Menschen ihre Rede- und Informationsfreiheit auf alternativen Plattformen ausüben, haben die klassischen Medien weiter ihre übliche Taktik verfolgt: durch gezielte 
+Missachtung und geringe Berichterstattung die Kommunikation zu drosseln, also bewusst *nicht* zu kommunizieren, mit gemischten Ergebnissen. Auf Twitter hat das Motto 
+“The Revolution will not be televised” dadurch eine ganz neue Bedeutung bekommen.
+
+
+**Meme**
+
+Wenn man die Schilder der „Occupy“-Bewegung und anderer Protestbewegungen als Beispiel nimmt, 
+stellt man fest, dass sich Statusmeldungen auf Facebook und lustige Protestschilder auf Demonstrationen sehr ähnlich sind. In beiden Fällen ist es eine spontane Position, 
+die eine weitere Ebene erreicht hat. Diese Spontanität (man denkt natürlich auch an die Spontis und ihre Protestgraffiti in den 1970er Jahren in Deutschland) wird durch 
+die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebenen: die der Straße mit dem Computer „zuhause“; sie werden zu einer Realität. 
+Das Internet ist und kann nur die Verlängerung der physischen Realität sein, da wir selbst die Inhalte dieses Kanals erstellen und einspeisen.
+
+Einige dieser Inhalte sind als Internet-Phänomen zu Memes geworden. Als Meme wird ein Konzept in Form eines Links oder einer Bild-, Ton- und Videodatei bezeichnet, 
+die sich schnell über das Internet verbreitet.[^footnote-mem]
+
+[^footnote-mem]: Ein Mem ist eine Gedankeneinheit, die sich durch Kommunikation ihrer Träger vervielfältigt. 
+    Mit dem kulturellen Mem-Konzept als Pendant zum biologischen Gen veranschaulichte 1976 der Evolutionsbiologe Richard Dawkins das 
+Prinzip der natürlichen Selektion, deren Grundeinheit Replikatoren von Informationen sind. 
+    Den Begriff erklärte er als selbst gewähltes Kunstwort, das sich auf den griechischen Terminus μίμημα, Mimeme („etwas Nachgemachtes“ beruft. 
+    Als Memetik wird das daraus abgeleitete Prinzip der Informationsweitergabe bezeichnet. Das Mem findet seinen Niederschlag in der „Memvorlage“ 
+(im Gehirn oder einem anderen Speichermedium) und der „Memausführung“ (zum Beispiel Kommunikation).
+
+    (Quellen: [Wikipedia: Mem](http://de.wikipedia.org/wiki/Mem), [Wikipedia: Internet-Phänomen](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen))
+
+
+**ACAB**
+
+Das Verhalten des Polizisten John Pike während eines Protests an der UC Davis in Kalifornien wurde zwar ursprünglich von Journalisten ausreichend bebildert, 
+die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension, nachdem Remixe aus dem Netz ihn einmal quer durch die Kunstgeschichte *mashten*. 
+
+**Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis. Photograph: Brian Nguyen/Reuters [Quelle: Guardian](http://www.guardian.co.uk/commentisfree/2011/nov/23/pepper-spraying-cop-photoshop-justice)](../pix/John_(The_Pepperspray_cop)_Pike_Meme/police-officer-pepper-spr-007.jpeg)
+
+**Bild:** [Sunday Afternoon [Quelle: Business Week](http://www.businessweek.com/finance/occupy-wall-street/archives/2011/11/beyond_uc_david_worse_tactics_than_pepper_spray.html)](../pix/John_(The_Pepperspray_cop)_Pike_Meme/sundayafternoon.jpeg)
+
+**Bild:** [Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass) [Quelle: Washington Post](http://www.washingtonpost.com/blogs/arts-post/post/pepper-spray-cop-works-his-way-through-art-history/2011/11/21/gIQA4XBmhN_blog.html)](../pix/John_(The_Pepperspray_cop)_Pike_Meme/gIQAO1Y3kN_gallery.jpeg)
+
+**Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth (Courtesy Brady Hall, pepper Spraying Cop Tumblr.) [Quelle: Washington Post](http://www.washingtonpost.com/blogs/arts-post/post/pepper-spray-cop-works-his-way-through-art-history/2011/11/21/gIQA4XBmhN_blog.html)](../pix/John_(The_Pepperspray_cop)_Pike_Meme/pepper-spray-cop9.jpeg)
+
+Den Konflikt zwischen dem Machtkampf und menschlichen Bedürfnissen hat wiederum Marcel Walldorf in seiner lebensechten Plastik "Pinkelnde Petra" (2010) auf dem Punkt gebracht:
+
+**Bild:** [ Marcel Walldorf: „Pinkelnde Petra“, 2010  [Quelle: Rebelart](http://www.rebelart.net/diary/marcel-walldorf-pinkelnde-petra-2010/007644/)](../pix/John_(The_Pepperspray_cop)_Pike_Meme/pinkelnde-petra.jpeg) 
+
+Wie werden solche Einzelbilder zum Meme? Sie werden zuerst im Netz und digital produziert und zirkuliert, ihr Ursprung aber kommt meist aus dem nichtvirtuellen 
+Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert, selektiert, reproduziert und re-reprojiziert und reisen so durch die Kanäle, 
+Interessensgruppen und *Circles*. So entstehen Meme, die nach Walter Benjamin „in unserem kollektiven Bildwissen“ durch Reproduzierbarkeit und wiederholte Erscheinung zu Ikonen werden. 
+
+
+### Kunst ⊕ Freiheit
+
+Nach meiner Beobachtung wird die Sprache der Kunst in allen Bereichen immer mehr als Werkzeug zum „Freien Agieren“ übernommen. Das heißt auch, dass durch 
+Verbreitung von künstlerischen Strategien und die Nutzung ihrer Codes Politik gemacht wird. Eine Aussage oder Aktion hat mehr Chance auf Duldung, wenn sie 
+der Form nach Kunst ist, auch (und gerade) wenn durch sie Widerstand signalisiert wird. „Ist das Kunst, oder kann das weg“ ist zu einer gängigen Haltung 
+geworden: Wenn es Kunst ist, und gar genehmigt wurde, dann muss es gar nicht weg, das ist eine Tatsache. 
+
+Außerdem ist die Kunst seit Mitte des 20. und weiter im 21. Jahrhundert immer stärker in die soziale Arbeit eingedrungen und hat sich dort etabliert. 
+Der individuelle Kampf wird übernommen, um Änderungen von sozialen Verhältnissen und die eigenen Überzeugungen von alternativem Verhalten zu manifestieren, 
+sowohl in der Kunst als auch im Alltag.  
+
+Künstlerische Strategien wie Flashmobbing[^footnote-flashmob] werden auf einen Punkt gebracht, an dem man eingreift, um das Utopische in die reale Welt zu 
+setzen. Das persönliche Erlebnis dieser (und ähnlicher) Ereignisse muss intensiv gewesen sein, jedoch wird ihre Einmaligkeit durch die vielfältige Verbreitung 
+im Internet via Youtube wieder aufgehoben und führt so wieder zu verstärkter Aufmerksamkeit.  
+
+[^footnote-flashmob]: Bestes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen sich in alltäglichen Positionen 
+für fünf Minuten innerhalb der verkehrsreiche Station eingefroren stehen geblieben sind, um auf die Beschleunigung der Lebens aufmerksam zu machen. <https://youtu.be/jwMj3PJDxuo>
+
+nwh *S. 71, 12.6 Anführen könnte man noch, wie z. B. die Werbung sich bei der Kunst(geschichte) bedient.*
+
+
+
+    TODO: RAUS>
+### Transformers
+
+**Autobots**
+
+Kommunikation manifestiert sich als kollektives und kollegiales Feld. Welche Mitteilungsform erhält das Haptische und welche Stellung nehmen Daten ein? 
+Hat die Kunst eine andere Berechtigung, wird sie anders wahrgenommen, bietet sie eine Absolution? Wie entwickelt sich die Individualität in den immer 
+vielfältiger werdenden Kommunikationswegen, wo bricht sie auf und wo verschließt sie sich? Inwieweit wirkt sich die Entwicklung auf unsere Wahrnehmung 
+aus? Diese Art „Osmose“, hinterlässt bei vielen kunstorientierten Theoretikern Spuren und stößt das Interesse der Künstler auf der Meta-Ebene an. 
+
+
+**Decepticons**
+
+Ikonographische Symbole mit einer gewandelten Aussage, nämlich einer widersprüchlicheren oder kritischeren als ursprünglich intendiert, 
+oder eine Interpretation derer, die mit den Mitteln des Mimikry und der Aneignung, visuell oder semantisch die Aussage ändert, sind in der 
+Street Art in den letzten 20 Jahren immer üblicher geworden. 
+
+Durch eine kleine Veränderung eines Zeichens oder den Austausch von Buchstaben, geben Stencils oft eine mutierte Variante von Firmenlogos, 
+wie z.B. Nike oder Adidas, wieder.  
+
+Ein Logo mutiert Buchstaben zu einem Bild. Mit bestehendem Design und Layout wird nun eine kleine subversive Kommunikation angeboten. 
+Schon ein einziger Buchstabentausch kann manchmal die Bedeutung ändern, doch der Erkennungsgrad bleibt durch seinen kommunikativen Vermittlungsweg, 
+d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geringer Qualität noch sofort erkannt wird. 
+
+**Bild:** [„Viva La Resolution“ (Quelle: [Internet](https://encrypted.google.com/search?q=viva+la+resolution&hl=en&prmd=imvns&tbm=isch&tbo=u&source=univ&sa=X&ei=t7N3T_ndIZHMsga9o7SvBA&ved=0CDMQsAQ&biw=1345&bih=632))](../pix/9._Logo_games/Viva-la-Resolution2.jpg)
+
+Durch die wiederholte Erscheinung dieser mutierten Bilder, werden Meinungen im öffentlichen Raum kommuniziert und bieten in dem Sinne das symbolische Bild, 
+das auch für 1000 Worte stehen kann. Dies ist eine sehr bekannte Strategie der Street- und Graffiti Art, aber auch der T-Shirt-Kultur. Es ist erstaunlich, 
+was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, oft mit kulturell-, sozial, aber auch politischer Aussage in die Öffentlichkeit getragen wird. 
+
+**Bild:** [Giancio: „Logo T-Shirt“ (Quelle: [redbubble.net](http://www.redbubble.com/people/giancio/works/5951382-logo-fake-art?p=t-shirt))](../pix/9._Logo_games/work.5951382.2.fig,orange,mens,ffffff.jpeg)
+
+Mindestens seit der 1970er Jahre tragen wir Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit uns herum. Als ich 12 Jahre alt war, hieß es entweder Adidas, 
+Levis und Lee als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation 
+der Mode oder Anti-Mode (Hipsterie), ist als kulturelles Merkmal nicht weg zu denken. Individualität und Wohlstand werden durch Gestaltung und Design transportiert.
+
+
+„Travelling without moving“ wird, vor allem durch 
+drahtlose Technik, endlich Realität. Trotzdem verbleibt uns die Möglichkeit, diese Informationen bei sich zu behalten und zu markieren, zu kopieren und zu speichern.
+
+
+### Kunst als Prophezeihung
+
+**Bild:** [Viktor Hertz: „Honest Logos“ (Quelle: [behance.net](http://www.behance.net/gallery/Honest-logos/1222137))](../pix/1._Honest_Logos/_11_Honest_logos-5.jpeg)
+
+Flusser führt weiter aus: 
+„Man kann sagen, dass viele Bilder nicht versuchen, „konkrete“ Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen 
+wie die Welt ist, sondern, wie sie sein kann oder sein soll.“ [-@Flusser:Kommuni, pp. 111] Obwohl er Bild im algemein meint, wie Image,
+macht Kunst genau das: Oft voraus und nicht immer mit vollem Bewusstsein. Basiert die Kraft der Künstler  als Vorhersehende auf ihrem Beobachtungsvermögen, 
+das immer mehrere Parameter beinhaltet, z.B. auch solche von Anthropologen? 
+Eine Mischung aus Neugierde, der Suche nach der Wahrheit und Experimentierfreude erzeugt mutige Feststellungen in visueller Form.
+
+**Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010 (Quelle: Bidoun Magazin Arts and Culture From the Middle east, Bazaar II, 2010)](../pix/10._true_art/Art_and_Freedom.jpeg) 
+
+Flussers Äußerungen der Kunst gegenüber in diesem Text sollte man aber aus der heutigen Sicht eher kritisch betrachten, vor allem wenn man das 
+epistemologische Narrativ wahrnimmt: „Man kann nicht zeigen, wie sich die Dinge verhalten sollen, ohne gezeigt zu haben, wie sie sich tatsächlich 
+verhalten, also ein Dèontologisches Motiv“ [-@Flusser:Kommuni]. 
+
+Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Technik und ihre Ersetzung durch Technick an. Für ihn werden Bilder zu 
+Kunstwerken, sobald sie aufhören, der dominante 
+Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können. Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, 
+gerade mit der Entwicklung der „Vergleichbaren Ästhetik“ als Kunstsparte.[^footnote-relationalaest]
+
+[^footnote-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch „Relational Aesthetics“ Kunst als eine Aktivität, die aus der Produktion von 
+Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), Aktionen und Objekten. [@Bourriaud:Relational]
+
+
+
+
+### Von der Migration ins Nomadentum
+
+Künstler bedienen sich an allem, was die Welt zu bieten hat, alles ist eine Quelle Philosophie und Kunsttheorie machen da keine Ausnahme. 
+Laut Geert Lovink, Gründungsdirektor des medientheoretischen [Institute of Network Cultures (INC)](http://networkcultures.org) mit Sitz an der 
+Hogeschool van Amsterdam, lassen sich Künstler, Medien- und Design-Forscher längst von Theoretikern wie Deleuze und Guattari, Derrida, 
+Baudrillard und Virilio beeinflussen. Medientheoretiker wie Kittler, Zielinski oder Bolz belegten oder belegen höhere Funktionen 
+in deutschen Kunsthochschulen, und das zur einer Zeit in der, wie Lovink schreibt „die westliche Gesellschaft eine Rauschphase 
+intensiver Spekulation durchlief – mit Wertpapieren und Devisen, Immobilien, Malerei und Theorie.“[@Lovink:Dark, pp. 39]
+
+Künstler sind zunehmend ortsunabhängig, die Migrationsraten steigen und das Leben als Immigrant beeinflusst ihre Weltanschauung. 
+Übernimmt der Digitalisierungsprozess in unserer Gesellschaft die Oberhand? Elektronische Einsamkeit bringt ein Kybernetisches 
+Ödland hervor, das aber auf den vorherigen Paradigmen beruht. Dazu gehört eine Aristokratie, die einen tiefen Hass auf die Online-Massen hegt, 
+doch in der Wirklichkeit ist zunehmend von den „Netz-Kindern“ zu hören (wobei diese sich im Gegensatz zu vorherigen „Generationen“ 
+nicht über eine Altersgruppe definieren lässt, wie der polnische Dichter Piotr Czerski in seinem Text ["Wir, die Netz-Kinder"](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt). 
+
+Die sog. “Millenials” sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein-und-die-selbe Realität. Muttersprache und Fremdsprache werden 
+durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung ersetzt. „Der virtuelle Intellektuelle ist vor allem ausgestattet mit technischen Kompetenzen 
+und kann sich ungehindert innerhalb von Online-Datenbanken, Listenkulturen, Suchmachienen und Hypertext-Umgebungen bewegen. Tut er auch, heutzutage.“[@Lovink:Dark, pp. 39]
+Sein Charakter ist vor allem als technisch zu bezeichnen, aber im Gegensatz zu seinen Vorgängern, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern hat 
+sein Milieu im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
+„Ziel der Demokratisierung der Medien ist die Abschaffung aller Formen medialisierter Repräsentation und künstlicher Verknappung von Kanälen. Die technischen Möglichkeiten, Menschen 
+für sich sprechen zu lassen, (...) durch Kommunikationswerkzeuge“ [@Lovink:Dark, pp. 39]. So gesehen treiben Künstler stets eine Art säkulare Exegesis, 
+oder haben hermeneutische Züge, ob mit oder ohne Bewusstsein. So etwas nennen sie dann künstlerische Recherche: In erster Linie für sich selbst, aber auch für ihr Publikum. 
+Gelingt dies, so sind sie froh, ihre Idee korrekt kommuniziert zu haben. Stets bieten sie eine kritische Interpretation von Ereignissen, aus der Geschichte, dem Alltag, aber 
+sie lassen sich dabei auch von Theoretikern beeinflussen.
+
+
+### Attention Whores
+
+Dr. Georg Hehn reflektiert in seinem Artikel „Der Genius und die gelangweilten Anderen“[@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. 
+Seiner Meinung nach scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
+„It’s not the What, it’s the How“. 
+Er zählt die vier Komponenten, die als Form-Inhalt-Dynamiken zu beschreiben sind: 
+Produzent / Form / Inhalt / Konsument. 
+„Jedes Verstehen ist heute ein Verstehen von Relationen, alles Wahrnehmen ein Wahrnehmen von Elementen in kodierten Systemen – nicht nur 
+Raum und Zeit.“[@Hehn:Genius]. Kunst ist unverbindliche Kommunikation. Der Künstler besitzt den Drang, seine Erkenntnisse zu vermitteln, 
+jedoch sind ihm Rezeption, bzw. Verständnis des Betrachters nicht sekundär. 
+
+Die oberste “Trennung” – die Trennung, die relationale Kanäle betrifft – stellt die letzte Stufe in der Umstellung auf die “Gesellschaft 
+des Spektakels” dar, wie von Guy Debord beschrieben. 
+Dies ist eine Gesellschaft, in der menschliche Beziehungen nicht mehr „unmittelbar erlebt“ werden, sondern in ihrer “spektakulären” 
+Darstellung zu verschwimmen beg .[@Bourriaud:Relational, pp. 9]
+
+Die Werbung, die sich von der Begleiterscheinung des Kapitalismus parallel zur eigenen Kultur entwickelt hat, versucht ebenfalls uns 
+zu unterhalten. Welcher von den an visueller Kommunikation interessierten Menschen freut sich nicht, wenn ihm im Fernsehen oder vor einem Film im 
+Kino eine „clevere Werbung“ entgegen kommt und ein intellektuelles Rätsel, eine geistige Erfrischung darbietet? Wir fordern Kino und Fernsehen selbst heraus. 
+
+Wir wollen immer bessere Qualität, eine prompte Lieferung, zu einer selbstbestimmen Zeit, zu unserem Tagesablauf passend, der nicht von 
+einer der Drei „Zentralen“ ARD/ZDF, PRO7/SAT1 und RTL bestimmt wird. 
+
+Thomas Raab schreibt im Vorwort zu seinem Buch „Avantgarde-Routine“: 
+„Einstweilen ist der Kunstdiskurs, d.h. die Rhetorik zur Fertigung der Aura des Kunstwerks, gekommen, um zu bleiben. 
+Gemeinsam ist allen Avantgardekünstlern der Glaube an die Kunst als ein besseres, umfassenderes Erkenntnismittel gegenüber der Wissenschaft".
+[@Raab:Avantgarde]  
+
+**Bild:** [Richard Hamilton: „Just what is it that makes today's homes so different, so appealing?“, 1956. Quelle: [Internet](http://www.collegefesch.fr/disciplines_f/Hist-art_f/Pop-Art_f/)](../pix/10._true_art/justwhatisitthatmakestodayshomessod.jpg)
+
+Kunst hat sich als Rohr zur Freisprache etabliert. Die Menschen versuchen sie als Strategien, Künstler, wie auch andere, nutzen sie als eine 
+demokratische Plattform. 
+
+
+* Entstanden im Rahmen und Inspiration vom Graduierten Seminar Kunst & Kommunikation bei Dr. Frank Hartmann 2010/11
+TODO: echter name des seminars
+
+
+
+## Wo ist eigentlich...?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* auch, in Bearbeitung
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Wenn ich als  Künstler Erfahrungen und Kenntnisse sowie das Know-how überwiegend selbstständig gesammelt habe, zum Beispiel durch eine zusätzliche Ausbildung, 
+einer Selbstuntersuchung oder sogar durch Experimentieren im Rahmen des Kiosks und in den Fachkursreihen zu Themen rund um die Kunstwelt, sind all diese Dingen 
+als konsequente Reaktion auf meine Selbstanalyse und künstlerische Recherche entstanden. Es ist noch etwas früh festzustellen, wie die Wirkung auf den Werdegang 
+der Studierenden sein wird. Einige Beispiele zeigen aber, das mehrere der Studierenden sich alternativ bewegen, entweder noch während des Studiums oder direkt 
+nach dem Abschluss: Valenta; Albrecht; Patermann; Weinlich; Braun; Hannemann;
+ 
+    ???  TODO:   Hier fehlen die Erklärungen zu den einzelnen Leuten ???   
+
+Es sind hier hauptsächlich Studierende aus der Gruppe der Kiosk'ler, ausstellende FachkursteilnehmerInnen, aber auch StudentInnen, die an anderen 
+Fachkursen teilnahmen und währenddessen ihre Strategien für das Diplom entwickelten, Ausstellungsräume eröffneten und diese leiten oder selbst 
+dort ausstellten. Das Interdisziplinäre in den Kursen brachte auch Studierende aus anderen Fakultäten, wie z.B. aus den Medien und der Architektur 
+mit in die Gruppe hinein. Diese konnte so um unterschiedliche Fertig- und Fähigkeiten sowie Interessen bereichert werden.
+???? eventuell 15 raus ????
+
+Es gibt viele unter meinen StudentInnen, die sich beim TKM (Thüringer Kunstministerium) bewerben und Stipendien erhalten. 
+Eine Studentin hat in Zusammenarbeit mit einer anderen die ‚MOGA Salon Rejected’ geschaffen. Sie haben einen Caravan in einem White Cube 
+umfunktioniert und docken sich wie ein Parasit an Galerien an, um in ihrer Wohnwagen-Galerie die  Künstler auszustellen, 
+die von der jeweiligen Galerie abgelehnt wurden. Sie schaffte es auch, eine Studentin die wir in unserem Projekt ablehnten, zur 
+*Summaery* in unserer großen Ausstellung im ‚Salon Rejected’ auszustellen. Drei meiner StudentInnen arbeiten in der Marke.6, dem 
+studentischen Aussstellungsbetrieb der Bauhaus-Universität Weimar und erledigen dort auch das coaching. Zwei StudentInnen arbeiten in der 
+ACC Galerie als Assistenten und ein Student von mir hat in Erfurt schon eine Produzentengalerie eröffnet. Eine Masterandin veröffentlichte 
+vor ein paar Tagen eine Netzausstellung auf ihrer Facebook-Seite, eine Retrospektive mit Bildern und Schrift.  
+
+
+Ich bin am schreiben.
+Gerade kam meine ehemalige Studentin Simone Weikelt durch meiner Atelier Tür rein. Sie will mich fragen, ob ich bereit wäre, an ihre 
+nächste Ausstellung teilzunehmen. Sie will nicht meine Kunst ausstellen, sondern mich. Sie meint, dass was übrig bleiben wird, 
+nach ende der *Materialschlacht*, ist nur das Künstlerfigur und seine Fähigkeiten. Ich müsste natürlich sofort an Marina Abramovic's 
+Werk *The artist is present* denken. Die Anwesenheit, und Ideen haben sollten reichen.
+
+Aber was ist mit der Tatsache, dass  Künstler aus sich herauszuschöpfen? Ist das irgendwie begrenzt? Simone meint, dass wir 
+Künstler uns durch die Schöpfung selbst uns begrenzen. dazu den Workflow Mechanismus, in dem man an Projekte arbeitet, 
+
+Rosmarie Weinlich hat ihre Diplomarbeit über der Erfolg der Künstler und die ihm vorliegende Marktstrukturen geschrieben, 
+und öffnet in ihre Arbeit ein Dialog mit dem Kunstmarkt, sowie seine Agenten, die Galeristen gleichzeitig  durch diverse Strategien
+
+Benedikt Braun hat zu sein Diplom ein Kunstmarkt Ouvre vorbereitet, mit Retrospektive, wenn auch fiktive Ausstellung in eine fiktive 
+Galerie mit (einem echtem) Katalog in dem schreiben fiktive Kunsthistoriker und andere Kenner über ihm und seiner Arbeit. 
+Direkt nach sein Diplom, ist er Harz4 Empfänger worden, und hatte zum Thema ein neues Arbeitzykus begonnen. 
+Bene studierte erst Visuelle Kommunikeeation, aber der ist nicht der einzige, es immigrieren immer wieder, 
+Studenten aus andere Studiengänge, oder beantragen ein Doppelstudium.
+
+Foto: der Kunstbewüßte mensch investiert heute schon in der Künstler Benedeikt Braun
+
+Simone's Besuch war erfrischend und gab mir Kraft, weiter zu machen.
+
+sogar unsere Fernseherzeiten sind und werden immer flexiebler. Wir können sehen was wir wollen und wann wir wollen, also viel selektiver. 
+
+Simone meinte, der Künstler begrenzt sich durch seine Schöpfung, das heisst, er produziert, und wenn das raus ist stellt er fest, 
+das kann nicht alles gewesen sein
+
+Alma & anthony machen vorwiegend Kunst im netz
+
+Wenn man so will, ist diese Recherche für die Studierenden entstanden, ihre eigenen Ergebnisse sollen ihnen dann zur weiteren 
+Untersuchung dienen. 
+
+
+- m.6 / K.6 (maxie/luke)
+- MoGA
+- Benedikt Braun
+
+Fonti in Kassel:
+http://www.tlz.de/web/zgt/kultur/detail/-/specific/Bauhaus-Studenten-zeigten-Installation-zur-Documenta-1144759424
+
+
+## Next Project.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+das ist das schlußwort. es steht viel drin, noch
+nicht geordnet. womöglich rausschmeissen, was nicht
+hier drin gehört
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+> "I went from being an artist that makes things to being an artist that makes things happen" - Jeremy Deller
+> **Jeremy Deller**, Künstler, Turner Price Gewinner 2006 
+
+
+## Where do we go from here?[^gofromhere]
+
+[^gofromhere]: (song Yoko Ono)
+
+
+!!! New york Magazin bericht!!!
+Kritiker den Erfolgrezept in New York zerreissen.
+
+Auf zu United States of the Arts!
+
+??? hier fehlt noch einiges ???  
+die Verdrosselung der Meinungsfreiheit durch Kontrolle. Wenn die *documenta*, die Occupy Bewegung unterstützt und Zelte auf ihre Wiese vor der 
+Fridericianum duldet, wenn nicht fast unterstützt.
+
+??? das ist alle fragmentarisch. muss ausformuliert werden ???
+also es ist aber erst 2012 und gleich sind alle Menschen Künstler, weil die Künstler es nicht mehr sind?
+wenn man die Kritik von NY Magazin on how to be successful in the artworld eine sehr zynisches vade-mecum geliefert (who to know where to go etc) 
+aber auch eine sehr gute assesment des Kunstmarkt zustands geschrieben, der in seine Dämmerung zu sinken scheint. 
+weil die künstler machen nicht mehr mit, weil künstler wirklich daran hängen, was man von ihre arbeit hält, 
+und wenn sie in das komplex reinfallen (ich will das alles mich lieben, aber wenn alle mich lieben kann es nicht gut sein.
+
+weil Studenten öffnen Galerien, Kunstprofessor öffnet Galerie, Akademie stellt im Ministerien aus, erst Kultus, dann Wirtschaft.
+Fakultät soll Drittmittel aqkuirieren. 
+die Beziehungen zwischen Künstler und sein dasein sind stets in eigene Beobachtung und im wandeln. dieses Prozeß wird, 
+wie alles von Künstler auch gestalten. es steht fest, man muss es nur sehen wollen
+
+(mem all artstyle belongs to...!)
+
+[^wobei] [^wobei]:(Wobei die ursprünglichen Initiativen eher den Künstlern zugeschrieben werden sollen und zwar auf Grund ihres wachsenden Bedarfs, ihren Beitrag an den Aufgaben der Gesellschaft eben mittels ihre künstlerische Arbeit zu manifestieren.)
+
+
+- Zitat Simon Sheik, wohin? Diese derzeitige Situation im kulturellen und auch
+im politischen Feld führt zu einer möglichen - manchmal strategischen,
+manchmal eher unwillkürlichen - Radikalisierung statt des Mainstreamings
+kritischer Praxen in Kunst und Aktivismus. Es ist ein Kampf an zwei Fronten,
+der sich gegen den aktuellen politischen Mainstream ebenso richtet wie nach
+innen, indem er politische Identitäten und Plattformen schafft: Was können
+wir füruns selbst tun? Solche Bemühungen benötigen ein Mehr an Reflexion
+über die Begriffe Kultur und Politik, aber auch über Identitätskonstruktionen
+und Verständnisse von Lokalität, oder auch über die Vermittlung zwischen
+Partikularität und Universalität, öffentlichen Räumen und aktivistischen
+Strategien, Netzwerken und WählerInnenschaften. In der Schaffung von
+Entsprechungen und Übersetzung können wir vom AIDS-Aktivismus lernen,
+wie der Künstler und Aktivist Gregg Bordowich vorgeschlagen hat:
+MEDICINE INTO MY BODY NOW. Dazu ist die permanente Verhandlung,
+Übersetzung und Artikulation zwischen interessierten Einzelnen und Gruppen
+notwendig. Netzwerke müssen entwickelt werden, um Praxen und Theorien
+zu vergleichen und zu vermitteln. Kunst bewirkt natürlich etwas, aber Kunst
+ist nicht genug … Simon Sheikh 10/2004 Repräsentation, Anfechtung und
+Macht: KünstlerInnen als öffentliche Intellektuelle
+
+**Bild:** [Justin_Hansch_Happy_Artists.jpg](images/bild.jpg)
+
+Ansonsten heißt es dem inneren Drang zu folgen, etwas zu tun oder zu lassen. Das ist das schwerean das Daseins des Künstlers
+und das kann man durch Buchhaltung nur schwerer machen. 
+
+
+## 10 years after
+
+
+(Bandname)
+
+
+    TODO: MOVE! museums und so
+
+Parallel dazu werden auch immer mehr Künstler als Kuratoren beschäftigt - die Berlin Biennale wählte schon mindestens zweimal Künstler als Kuratoren, 
+erst Maurizio Cattelan (2006), dann Artur Żmijewski (2012). Im Jahr 1997 hatte es noch für Unruhe gesorgt, als sich die Schweiz für die Künstlerin Pipilotti Rist als künstlerische Leitung 
+der Expo-Ausstellung entschied.
+
+    TODO: (!BILD) - The next Biennial should be curated by an artist! next_documenta_should_be _curated_by_an_artist.png
+
+Was bedeutet der öffentliche Raum für die Kunst? Derzeit gibt es kaum eine Biennale von Venedig bis Istanbul, ohne Außenstellen und ortbezogener, temporärer 
+Kunst. Oft widmet man sich Gebäuden außerhalb der klassischen Strukturen ihrer Ausstellungsräume. Der Übergang aus dem Reich der Museen und Galerien als 
+Institutionen mit hierarchischer Entscheidungskompetenz zur Kommunikation mit externen Parteien wie die Gemeinde oder die Stadtverwaltung ist zu einem 
+integralen Bestandteil geworden. Ob es gewollt ist oder nicht, Kunst drängt sich automatisch in den öffentlichen Raum.
+
+An dieser Stelle soll trotzdem unterschieden werden zwischen genehmigten Kunstprojekten und Street Art, welche beide auf sozialem Handeln basieren und von 
+der Anerkennung und dem Recht der freien Meinungsäußerung Gebrauch machen. Hier sei ein einschlägiges Zitat aus der “Gewinnwarnung” des Erev-Rav Kunst-Online 
+Magazins angeführt: 
+
+>“… Wir wollen rekrutierte Kunst. Kunst, die sich aus dem Leben rekrutiert, die mit der Umwelt interagiert. Kunst, die Umwelt ist. Kunst, 
+>deren Materialien die Straße, die Stadt, die Katastrophe, der Alltag und die große Langeweile des Krieges heute, ist. Der Krieg der Identitätskarten, der Papiere, 
+>der E - Mails und die Grenzen, die das Schreckliche von uns verbirgt. Deren subversive Kunst ist ihre Präsenz, ihre Zugänglichkeit, in der Tatsache, 
+>dass sie das Leben angreift, im Politischen lebt, das sie das Spinnennetz der Sprache und ihre Wimpern ist … ”. (Zitat sprachlich unkorrekt!) (TODO: SOURCE)
+
+
+
+> was ist mit Bologna
+
+Man muss bedenken, dass im Laufe der letzten zehn Jahre die Bologna-Reform die Institutionen durchlief und eine Beschleunigung sowie das Herausschicken von Fachgemäß "unreifen" Absolventen hervorbrachte. In den Medien werden dann diese Almni so beschrieben: "Die Absolventen seien nicht die "Persönlichkeiten", die die Wirtschaft braucht" (präsident Der Hochschul-Rektoren in der Süddeutsche Zeitung in Artikel xy erschienen am 14.08.2012)
+
+47 Europäischen Staaten führten diese Bologna-Reform in den Landesweiten Universitäten ein und natürlich wurden unterdessen auch die Kunstakademien und Kunsthochschulen gefordert, 
+diese durchzusetzen. ??? hier ist vielleicht zu erwähnen, dass alle Kunsthochschulen dtl. das Diplom in der Kunst behielten, keineswegs jedoch für andere kreative Studiengänge wie VK, Produktdesign usw. bitte genau recherchieren ???
+Für die kreativen Studiengänge bedeutet dies eine doppelte Anpassung, die enorme Verkürzung des Studiums und ein großes Mehr an Professionalisierung - die Vorbereitung für das Leben nach der Universität - innerhalb 
+der Studienzeit. Diese Entwicklung unterbindet den Laborgedanken eines Studiums auf drastische Weise und verhindert eine intensive Auseinandersetzung mit Nachbarthemen, sodass keine Zeit zum testen, probieren und experimentieren bleibt.  
+
+    ??? textfetzen ???
+
+unbeachtet von Fremden aussterben, den dies verlagert sich auf die öffentlichkeit, durch ausstellungen, Fertigung 
+
+aus der perspektive der Bauhaus universität, wo Produkt eher ganz präsent ist wird die ermutigung zum frühverkauf mitgetragen
+
+andersrum meint Yaakov Mishori, leiter der
+
+Yaakov Mishori, der Leiter von Avni Kunstinstitution
+Avni Institute of Art and Design, kommentierte:
+"Es dauerte Jahrzehnte, um loszuwerden, der Kunstszene Syndrom 'edle Wilde'. Weitere Jahrzehnte vergehen, bis Sie in der Lage, sich aus dem neuen Syndrom 
+zu befreien sind: der gebildete Künstler-Syndrom. Dies ist ein gebildeter Künstler, der zu "normalen Bürger" sein will: das ist ein bisschen Psychoanalytiker, 
+Soziologe einige, manche besuchen, einige Kommentator, manche Modeschöpfer, einen Schatz, einige Tksortn, manche Sexualforscher, von einem kleinen Netzwerk, 
+einem beliebten und Philosoph Architekt Potenzial. Tausende eingereicht es in seinem Kopf die Namen der Künstler, Kuratoren, Museumsdirektoren, Galeristen, 
+die Namen der Messen und Biennale und ist auch ein bisschen wild."   Bit.
+??? Zitat bitte überprüfen, da sind Fehler ???
+
+??? Dieses Zitat auch überprüfen. das scheint von einer Maschine übersetzt. ich verstehe kein wort ???
+"Gebildeten Künstler-Syndrom" hat sich zum Teil an der Mündung der Aktion, die Künstler gewachsen, mit formalen Bildungsniveau. Künstler, die meisten von 
+ihnen mit nicht geringer Gefühl der Minderwertigkeit des geistigen geladen, einige sogar ohne formale Bildung komplette und bewährte, aber mit Sicherheit 
+ausgestattet mit der Weisheit und das Wissen der anderen, mit dem gebildeten formale, die Weisheit der Wissenschaft, von denen viele Intellektuelle, 
+die ein normales Leben zu leben mit einer Schicht aus Zwischen-grau Heimat der Universität und ihrer unmittelbaren Umgebung. machen Kunstakademien 
+Lehreinrichtungen versorgte sie Positionen des Einflusses und der reichlich vorhandenen Einnahmequellen. Das Treffen ist eine intellektuelle Appell 
+an Künstler und Wissenschaftler Attraktivität und wilden Leidenschaften, die Arbeit in einem anderen Ort. Wenn Sie starren einander ehrlich wird ein 
+verzerrtes Spiegelbild von sich selbst erkennen
+
+<http://www.haaretz.co.il/gallery/art/1.1791742>
+
+BB7
+<http://artwiki.org/Special:BrowseData/Artist>
+
+Paul Graham hackes & Painters
+<http://www.paulgraham.com/hp.html>
+<http://paulgraham.com/desres.html>
+
+
+### Die Aktöre sagen:
+
+    die Wirtschaft
+    die Biennalen
+    wievile noch kommen
+    fuck the nationality
+    die galleristen
+    take what u can as long as it works
+    lucrativity
+    die Kuratoren
+
+
+### Die Künstler sagen: Fuck you!
+
+~~~~~
+fuck the curators - we curate ourselves
+fuck the galerist we sell ourselves
+fuck the press we publish ourselves
+fuck the museum we have the street
+fuck pr or space, we have internet 2.0
+fuck the academy we teach and learn ourselves?
+fuck being an artist who makes things, rather be an artist which makes thigs happen
+
+וצרות התערוכה, נירית יעקב ויעל וישניצקי לוי, מדגישות כי הן הגיעו לתפקידן הנוכחי מן הצד השני של המתרס - שתיהן אמניות. עובדה זו משפיעה על האופן שבו הן רואות את מעשה האוצרות, כמבקש "להימנע מהתפקיד הכוחני של האוצר ומהסירוס שיכול להתגלם ביחסים בין גלריה, אוצר ואמן. קודם כל, הדבר בא לידי ביטוי בכך שהתערוכה מוצגת בגלריה בנימין, שהינה גלריה שיתופית. כמו כן, אנו נותנות מקום גם להנכחת עבודות שרירותיות ומפתיעות בתערוכה - לדוגמה, האמן עוז מלול יוצר עבורה עבודה פיסולית שעדיין איננו יודעות לחלוטין את כל הפרטים עליה".
+~~~~~
+
+- BDU Manifesto
+
+    die konsequenten für mich
+    für die Lehre: 
+    für die Praxis
+
+    nenne die prototype:
+    Kunstmarktkünstler
+    Künstlerkünstler
+
+    ???? die folgenden 3 Abschnitte sind noch sehr salopp und stichpunktartig geschrieben und auch sprunghaft in den Gedanken  ????
+
+Die Konsequenz dieser Eigeninitiativen ist, dass ein Künstler heute auch ohne eine Galerie existieren und seine Werke bekannt machen kann. Die Vermittlung liegt in der eigenen Hand. Natürlich führt das auch zu vielen offenen Fragen, man muss sich anpassen und wer entscheidet über die Qualität der Arbeiten, usw. 
+Sind es die Marktkräfte? Ich glaube, sie sind noch stark genug. Wenn man malt, dann muss man die Zeit dazu haben, bei Konzeptkunst jedoch ist man froh, 
+wenn man über die Ideen und Konzepte nachdenkt. Es gibt immer die Prozessphasen, dann die technische Umsetzung. Welcher Künstler hat es nicht gerne, 
+auch einmal Hilfe zu beanspruchen und andere Personen als sich selbst mit zu beschäftigen? Mir liegt es nicht daran, jedes Foto selbst zu kaschieren usw. 
+Das Resultat ist nicht unbedingt immer von der eigenen Handarbeit abhängig. Aber das sage ich aus meiner Perspektive und bezüglich der Kunst, 
+die ich mache. Immer mit Zweifel verbunden, die kann man niemandem ersparen. 
+
+Man sollte auch nicht immer nur mit der Deadline im Kopf arbeiten. KünstlerInnen arbeiten fast nur mit Deadlines, in dem Glauben alles in den letzten 24h 
+hinzubekommen. In vielen Fällen funktioniert das auch, man kann fast gar nicht anders. Man muss lernen, ein größeres Bewusstsein für das gesamte Jahr zu entwickeln und nicht nur für den Zeitpunkt der jeweiligen Ausstellung. So guckt der Künstler auf den Kalender und meint: ‚Oh nein, ich habe dieses Jahr nur Zwei Ausstellungen 
+gemacht’. Es gibt aber noch viele Sachen, die im Umlauf sind. ??? welche Sachen ??? Es steht die Kooperation dem Alleingang gegenüber, der Umgang mit Geld und dem Web muss 
+geändert werden. Zum Wort Netzwerk würde ich sagen: ‚Ihr seid das Netzwerk’. Mein Netzwerk besteht zumeist aus den internationalen MFA Leuten aus unserem
+Masterprogramm "Kunst im öffentlichen Raum und neue künstlerische Strategien". Während meines Studiums im Programm galt ich als deutsche Studentin und durfte so für ein Semester ins Ausland. Ich habe es in Tifte, Berlin gemacht. 
+
+Man behält die internationalen Kontakte, die man knüpft, selbst dann wenn viele inzwischen wieder in ihren Heimatländern leben. Jeden Monat treffe ich jemanden von damals, real oder auf Facebook usw. 
+Ich bin sogar von einer ehemaligen Kommilitonin für eine Ausstellung, die sie kuratierte nach Serbien eingeladen worden. Das sinnvollste, was man derzeit im Studium anbieten 
+kann ist, aufzuzeigen wie es draußen läuft, weg von der Suggerierung des Sprungs ins kalte Wasser. So kann man sich besser bewegen, wissen und verstehen, 
+das heißt die Parameter kennenlernen. Der Rest verbleibt dem inneren Drang, etwas zu tun oder zu lassen. Es ist der schwere Werdegang eines Künstlers, 
+des künstlerischen Daseins und das kann man weder durch Buchhaltung noch durch Organisation vermindern. Bei mir bleibt ein Experiment übrig. Der Kunstmarkt ist bei der 
+Akademie herzlich willkommen, aber er wird nicht nur gelobt. Es wird weiter recherchiert. Es ist wie ein Labor und innerhalb dieses Labors kann 
+man etwas erreichen. Wie schon erwähnt, ich glaube es entwickeln sich zwei Künstlersorten, ich fürchte jedoch, dass die meisten heutzutage zuerst reich und berühmt 
+werden und dann sterben wollen.
+
+### The process is the product![^process-product]
+
+[^process-product]: Album by Genesis P. Orridge
+
+
+* scheitern als Erfolg
+
+rassistent ist ein wichtiger Punkt.
+
+
+Ja so hat es alles angefangen. Mitte im Kunstmachen und kuratieren und masterstudium, während ich an der UDK in Berlin als Gaststuent ein Semester verbracht habe, habe ich ein Zimmer mit andere Künstlerin in Berin geteilt. Zum kurzbesuch in Israel, erhielte ich die Anfrage, ein Artikel für ein Kunstmagazin zu schreiben. Ich habe über den Prozess der Professionaliesierung angefangen nachzudenken. Und es hat gestachelt. In der Zeit seitdem bin ich mit meine Gedanken immer Parallel und permanent auf diese Ebene geblieben. 
+
+And now, if you will excuse me, I am going to make some art.
