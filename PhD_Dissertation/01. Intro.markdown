@@ -2,7 +2,7 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 nwh: allgemein zur Orthographie: aufpassen, manchmal wird durch den Blocksatz absurd getrennt!
-nts: Geschlechtsgerechte Sprache reverted (Sorry, Anki!).
+nts: Geschlechtsgerechte Sprache .
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ich bin 1965 in Jerusalem geboren, lebe und arbeite seit zwanzig Jahren in Deutschland, ab 1990 auch als freischaffende Künstlerin und Kuratorin. 
@@ -43,5 +43,4 @@ sich und ich werde diese Erfahrungen hier in all ihren Facetten darstellen, aus 
 oder transkribierten Texten aus Büchern, Interviews, Videos, Musik und aus dem Internet. 
 
 Eine kleine Erklärung: 
-Das Wort *Künstler* kommt in diese Dissertation ca. 500 mal vor. Wenn ich *Künstler* schreibe, meine ich sowohl Künstler als auch KünstlerInnen, weil ich geschlechtsgerechte Sprache für sehr umständig halte. 
-??? Äh, ich würde ehrlich gesagt nicht schreiben, weil ich … für sehr umständlich halte, sondern eben nur erklären, dass du damit KünstlerInnen meinst. Ich würde mich da allerdings nochmal absichern, ob das so legitim ist ???
+Das Wort *Künstler* kommt in diese Dissertation ca. 500 mal vor. Wenn ich *Künstler* *Student* oder *Kurator* schreibe, meine ich sowohl Künstler als auch KünstlerInnen, StudentInnen und KuratorInnen. - ob das so geschrieben legitim ist ???
