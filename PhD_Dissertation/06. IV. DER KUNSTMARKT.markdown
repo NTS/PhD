@@ -10,7 +10,7 @@ Das ist auch eine Art Anpassung, an einem Apparat der alles organisiert. Wie vie
 
 leben: 69
 tot: 28
-unklar (Künstlerpaare von denen einen gestorben ist): 3
+Künstlerpaare von denen einen gestorben ist: 3
 Frauen: 13
 
 In folgenden Länder geteilt:
