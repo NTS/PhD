@@ -127,7 +127,7 @@ Zu Beginn stand die marke.6 als studentisch geführte Universitätsgalerie. Im A
 
 ## Sind Kunstmarkt und Kunststudium kompatibel?
 
-- Ein Podiumsdiskussion 
+**Ein Podiumsdiskussion** 
 
 Im Rahmen der ersten *Bauhaus Essentials* Ausstellung und anlässlich der Teilnahme der Grafe-Kreativ-Preisgewinner an der preview im Berlin 
 lud die Universitätsgalerie marke.6 zur Präsentation des Ausstellungsreaders sowie zum Podiumsgespräch "Sind Kunstmarkt und Kunststudium kompatibel?" ein.
@@ -140,10 +140,6 @@ Es diskutierten: Frank Motz (ACC Weimar), Silke Opitz (Projektkoordinatorin der 
 der Bauhaus-Universität und Gästen.
 
 Moderation: Naomi T. Salmon
-
-
-nwh *Ab S. 62, die Diskussion ist aufschlussreich und inhaltlich relevant, zur ARTHÜR könnte man noch bemerken, dass es eine gut gemeinte Aktion in einer strukturschwachen Region (auch kunstmäßig) war/ist und meiner Meinung nach die Organisation/Gestaltung von Seiten der Künstler eine Notlösung darstellt – weil keine wichtige Galerie, Presse, Sammler überhaupt anreisen würden.*
-
 
 
 NAOMI TEREZA SALMON (NTS): 
@@ -191,7 +187,8 @@ FRANK MOTZ:
    Es gibt sie nicht mehr. Andererseits ist es aber auch etwas Positives, wenn Initiativen im Rhythmus von 3 - 5 Jahren kommen und gehen. Es zeugt von Kampf - und Gefechtsbereitschaft 
    der jungen Künstlerschaft. So etwas wünsche ich mir auch bei den älteren Künstlern. 
    
-   Es handelt sich um Ligen. So kommt es auch zu merkwürdigen Konstrukten wie der ARTHUER, einer Kunstmesse, auf welcher der Künstler selbst versucht, sich zu vermarkten. Dies ist etwas Besonderes. 
+   Es handelt sich um Ligen. So kommt es auch zu merkwürdigen Konstrukten wie der ARTHUER, einer Kunstmesse, auf welcher der Künstler selbst versucht, sich zu vermarkten.[^ARTHUER][footnote-bla]: zur ARTHÜR könnte man noch bemerken, dass es eine gut gemeinte Aktion in einer strukturschwachen Region (auch kunstmäßig) war, und hoffentlich noch ist. Die Organisation und Gestaltung von Seiten der Künstler stellt eine Notlösung dar – weil keine wichtige Galerie, Presse, Sammler überhaupt anreisen würden.
+   Dies ist etwas Besonderes. 
    Ich weiß nicht, ob es andernorts solche Künstlermessen gibt. Wie also geht man mit dem zeitgenössischen Kunstrahmen um, mit Erscheinungen, die es auf kommerzieller Ebene eigentlich nicht gibt? 
    Also kommt es zu solchen Hilfskonstruktionen. Wenn man sagt, dass der Künstler heutzutage sein Selbstpromoter ist, gute Kunst produzieren und die Frage ‚Wie erreiche ich meine Kundschaft?’ 
    gewinnbringend beantworten muss, dann spricht man von einem Künstler mit den Fähigkeiten einer ‚eierlegenden Wollmilchsau’, einem Alleskönner. Man wünscht es keinem, so sein zu müssen, 
@@ -257,8 +254,7 @@ DIRK TESCHNER:
    Das beste Beispiel ist Gerhard Niedling, welcher mit dem Studium aufhörte, erfolgreich auf dem Markt war, es aber bitter bereute, da er sehr viele Seiten seiner Ausbildung verpasst hat.“
 
 
-die Diskussion zeigt, wie relevant das Thema zur Zeit ist, zur ARTHÜR sollte noch bemerkt werden, dass es eine gut gemeinte Aktion in einer strukturschwachen Region (auch kunstmäßig) war/ist und meiner 
-Meinung nach die Organisation/Gestaltung von Seiten der Künstler eine Notlösung darstellt – weil keine wichtige Galerie, Presse, Sammler überhaupt anreisen würden.*
+Die Diskussion zeigt, wie relevant das Thema zur Zeit ist.
 
 Mittlerweile geht die Bauhaus Essentials und die Marke.6, in den dritte Runde zu Preview Berlin Kunstmesse, diesmal mit 5 Studenten, davon zwei Gaststudenten aus Spanien, die 
 die Entscheidung getroffen haben, zur BUW zu wechseln. Die Berlin preview, eine Art Fair, seit 2004 existent Im Hangar 2 des ehemaligen Flughafens Berlin-Tempelhof und hat ihre 
