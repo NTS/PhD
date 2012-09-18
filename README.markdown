@@ -82,3 +82,21 @@ Just Book [@Author:book]
 
 [^everydone]
 [^everydone]: Kunstwerk Titel der Kunstgruppe Azzoro, PL 2003
+
+[@Author:book]
+[@Author:book, pp. xx]
+
+[^txt]
+[^txt]: xxxxxxxxxxxxxxxxxxxxxxxx
+
+[^txt]
+[^txt]: txt [Link] http://www…]
+
+
+
+**Bild:** [txt](http:… .jpg)
+
+**Bild:** [ ]
+**Bild:** [Foto K3 bei der Arbeit](images/bild.jpg)[^k3]
+
+**Bild:** [Bildunterschrift [^fn-zum-bild]](~/Dropbox/MFA+NTS/...

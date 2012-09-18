@@ -60,7 +60,10 @@ Dienstleistung, Recht und Ordnung, Aktivismus und das Identifizieren von Konflik
 Angebot findet mittlerweile in einer mehr oder weniger geordneten Art und Weise seinen Platz im Lehrprogramm für Künstler.
 
 Deutschland kann für viele als ein Künstlerparadies (in Relation zu andere Länder, versteht sich) verstanden werden. Die allgemeinen Studiengebühren sind sehr 
-niedrig, in Weimar liegen sie zur Zeit bei ca. 137.- Euro pro Semester. Erst nachdem man die Regelstudienzeit überschritten hat, muss man 500.- Euro pro Semester zahlen, was immer noch ein lächerlicher Betrag im Vergleich zu den Gebühren z.B. in den USA und Großbritannien, ist. Nach dem Studium und mit Verweis auf eine künstlerische Tätigkeit kann sich jeder, der beweisen kann, dass er ein Künstler ist, in die Künstlersozialkasse eintragen, was ein einmaliges Modell in Europa bildet. [LINK](http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html). Zusätzlich, wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch die Deutsche Verfassung mittels Art. 5 Abs. 3 des Grundgesetzes (GG) gewährleistet. [LINK](https://de.wikipedia.org/wiki/Kunstfreiheit) ``TODO: Orig. Verfassungsparagraph linken`` 
+niedrig, in Weimar liegen sie zur Zeit bei ca. 137.- Euro pro Semester. Erst nachdem man die Regelstudienzeit überschritten hat, muss man 500.- Euro pro Semester zahlen, 
+was immer noch ein lächerlicher Betrag im Vergleich zu den Gebühren z.B. in den USA und Großbritannien, ist. Nach dem Studium und mit Verweis auf eine künstlerische Tätigkeit 
+kann sich jeder, der beweisen kann, dass er ein Künstler ist, in die Künstlersozialkasse eintragen, was ein einmaliges Modell in Europa bildet. [LINK](http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html). 
+Zusätzlich, wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch die Deutsche Verfassung mittels Art. 5 Abs. 3 des Grundgesetzes (GG) gewährleistet. [LINK](hhttp://www.gesetze-im-internet.de/gg/art_5.html) 
 Auch finden Künstler große finanzielle Unterstützung durch unzählige Wettbewerbsmöglichkeiten und Stipendienangebote.
 
 
@@ -90,7 +93,12 @@ den Titel ergattern werden, oder bereits bevor sie sich auf solche Stellen bewer
 Institutionen, wo Kunstpraxis eingefügt werden soll (also: kein Job ohne Titel), wird klar, das die Messlatte immer höher gesetzt wird.
 
 Das Phd wird von niemand geliebt, für die Wissenschaftler ist das Kunst, für die Kunst ein Wissenschaft, und der Kunstbetrieb kann den PhD auch nicht gebrauchen, ihn vielleicht sogar 
-als „Streber“ auf Kosten der eigenen Obsession sieht? Wer bewirbt sich bei solchen Aufbaustudien, aus welchem Grund und zu welchem Zweck? Viele Studierende versuchen, Wissen zu erwerben und gehen anschließend zurück in ihre Heimatländer. Einige aus Osteuropa und Südamerika versuchen diese Gelegenheit als Sprungbrett nach Westeuropa zu nutzen, wo Budgets für Kultur und Kunst noch mehr als großzügig verwendet werden. Also handelt es sich dabei auch um eine kulturelle Migration. Auf jeden Fall entsteht ein neues internationales Netzwerk von Künstlern, Kuratoren und zum Teil neu entstandenen Arbeitsgruppen. Künstler, die sich an verschiedene kulturelle Organisationen angedockt haben und es bevorzugen geographische und kulturelle Grenzen zu ignorieren (bzw. zu durchforsten). Sie arbeiten in Richtung der Legitimität des Künstlers als ein interdisziplinärer Unternehmer. Dieser ist bemüht, innovative Lösungen zu finden, er strebt und sucht diverse alternative Lösungen. Er nimmt gesellschaftliche Segmentierung und falsch gestellte Meinungen über das Andere, das Fremde wahr, und arbeitet von sich aus oder im Auftrag an einer Aufklärung. 
+als „Streber“ auf Kosten der eigenen Obsession sieht? Wer bewirbt sich bei solchen Aufbaustudien, aus welchem Grund und zu welchem Zweck? Viele Studierende versuchen, Wissen zu erwerben 
+und gehen anschließend zurück in ihre Heimatländer. Einige aus Osteuropa und Südamerika versuchen diese Gelegenheit als Sprungbrett nach Westeuropa zu nutzen, wo Budgets für Kultur und Kunst 
+noch mehr als großzügig verwendet werden. Also handelt es sich dabei auch um eine kulturelle Migration. Auf jeden Fall entsteht ein neues internationales Netzwerk von Künstlern, Kuratoren 
+und zum Teil neu entstandenen Arbeitsgruppen. Künstler, die sich an verschiedene kulturelle Organisationen angedockt haben und es bevorzugen geographische und kulturelle Grenzen zu ignorieren 
+(bzw. zu durchforsten). Sie arbeiten in Richtung der Legitimität des Künstlers als ein interdisziplinärer Unternehmer. Dieser ist bemüht, innovative Lösungen zu finden, er strebt und sucht 
+diverse alternative Lösungen. Er nimmt gesellschaftliche Segmentierung und falsch gestellte Meinungen über das Andere, das Fremde wahr, und arbeitet von sich aus oder im Auftrag an einer Aufklärung. 
 (Das Projekt der Gruppe Wocheklausur ist als beispielhaft für die Osmose zwischen Kunst und Sozialarbeit zu sehen). Dass diese Tendenz kein Zufall ist, kann die zunehmende Präsenz solcher 
 Künstlergruppen auf internationalen Kunstbiennalen, (die sich auch seit 1990 maßlos vermehrten), bestätigen. Das Künstlernomadentum nimmt zu, auch thematisch wandelt es sich von land- und 
 nationalbezogener Kunst. Die Leiter der 12. documenta, Ruth Noack und Roger Buergel haben bei allen Exponatsbeschriftungen und Etiketten, beim gesamten Ausstellungsaufbau auf das Mitteilen 
@@ -115,7 +123,7 @@ Quellen einfügen
 
 
 Es entwickeln sich neuen Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender Ph.D.-Programme an Kunsthochschulen, und merkbarem Auftieg der Zahl
-an Kolloquien, Konferenzen und Diskussionen über Künstlerische Rescherche (Artistic Research).
+an Kolloquien, Konferenzen und Diskussionen über Künstlerische Recherche (Artistic Research).
 
 Künstler mischen sich, unteranderem in sozial-politische Angelegenheiten ein und bedienen sich immer mehr an Ausdrucksformen, die uns aus 
 dem wissenschaftlichen Bereich bekannt sind. Was machen diese Formen für Künstler so attraktiv? Können Künstler Theorie schreiben? 
@@ -146,7 +154,7 @@ Bereich, in der Grauzone, wo es keine Unterscheidung zwischen Fiktion und Wissen
 Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, 
 deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”. [Link]: http://www.iat-research.com/index.php/about-the-institute
 
-Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläubligkeit gegenüber der 
+Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläubigkeit gegenüber der 
 neuen Realität, einen Ph.D. Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??] von 1978 bezieht sich der 
 Wissenschaftstheoretiker Thomas S. Kuhn, der in Princeton Professor war, mit einer Bemerkung zum Verhältnis von Wissenschaft und Kunst auf einen noch früheren 
 Text von E. M. Hafner, *The New Reality in Art and Science* von 1969. Kuhn meint: „Je mehr man versucht Künstler von Wissenschaftlern zu unterscheiden, 
@@ -199,11 +207,7 @@ Entwicklung zur Kultur beizutragen. (http://artandeducation.net/) oder wie es au
 “Künstlerische Forschung setzt sich mit dem Entstehungsprozess eines Kunstwerkes auseinander und entwickelt auf der Schnittstelle von Kunst und Wissenschaft neue 
 Methoden zur Erforschung und Abbildung des Verhältnisses von Individuum und Gesellschaft”.
 
-Als solches braucht jeder Diplomant, der sein Studium beendet hat Strategien, um ein Unterschied machen zu können auf dem überfülltem Feld, das ihm draußen erwartet. 
-Vom Kunst allein zu Leben, dafür muss man schon die Business  an sich verächtete skills
-> insert Zitat nwh
-
-
+Als solches braucht jeder Diplomant der sein Studium beendet hat Strategien, um ein Unterschied machen zu können auf dem überfülltem Feld, das ihm draußen erwartet. 
 
 
 
