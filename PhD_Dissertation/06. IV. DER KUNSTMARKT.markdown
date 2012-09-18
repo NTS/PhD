@@ -4,6 +4,20 @@
 
 nwh *S. 58-60 evtl. sollen die Bauhaus-Essentials im Anschluss an die Beschreibung Uni-Galerie, Marke 6 und die Textfetzen (Künstlerrankings, Erfolgsliste) woanders untergebracht werden?*
 
+Es gibt für Künstler die bekannte weg, die aus der Beziehung zu den Institutionen um ihm herum entsteht, von Unbekannt zum Star (Meese). 
+Das ist auch eine Art Anpassung, an einem Apparat der alles organisiert. Wie viele lebende Künstler unter den Top 100 Artists of today bei 
+*Artfacts*, z.B. sind in einer Liste die 100 Top Künstler (richtig am 23. August 2012) folgendes geteilt:
+
+leben: 69
+tot: 28
+unklar (Künstlerpaare von denen einen gestorben ist): 3
+Frauen: 13
+
+In folgenden Länder geteilt:
+USA: 33
+DE: 17
+UK: 9
+
 Bekannt ist, wie 'es läuft' in den Kunstakademien. Wenn ein Diplomand gut ist, wird er von seinem Professor gefordert, zur Teilnahme an eine Ausstellung eingeladen, 
 der Name wird als Tip weiter gereicht, Kontakte werden geknöpft. Aber wie gehen Kunstakademien damit um, die Fertigkeit der Studierenden beim erlassen der Akademie zu fordern?
  
@@ -39,35 +53,28 @@ n.n. fertig, eventuell mit anders kombinieren
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-Der Bedarf an offiziellen Ausstellungsräumen in Kunstakademien hat sich aus der USA, wo solche schon Mitte der 80er Jahre gegründet worden sind, importieren lassen.
-Im Fälle der Bauhaus Universität Weimar haben über die Jahre die verschiedene Rektoren eine andere Verständniss von der Wichtigkeit eines Ausstellensorts für die Studenten.
-
-
-nicht so an der Bauhaus Uni, wo die Gallerie, nach eine sehr kurze zeit als unabhängiges Institution gestanden, 
-
-Bezüglich Neu-Deli, meine Beobachtung: seinerzeit konnte ich hierbei das 1.x die so genannte „Frauen-Power“ beobachten, die bei der ersten eigeninitiativen 
-Uni-Galerie ja hauptsächlich vom „schwachen Geschlecht“ getragen war und neben der Organisation auch den Großteil der handwerklichen Adaptionen in der Post realisiert 
-haben. 
-sofort danach wurde es als aufgabe für die Studenten selber mit eine 
-Koordinationsstelle und als Gast unter einem andere Infrastruktur (bis Data im Keller des neues Museum)
- 
-Und zur ACC-Galerie könnte man, falls notwendig, noch erwähnen, wie wackelig das Engagement seitens der Uni-Leitung hinsichtlich einer Uni-Galerie angelegt war, 
-da eine neu eingestellte Kulturmanagerin gemeinsam mit dem Rektor Bauer-Wabnegg die bestens funktionierende Kooperation leichtfertigst gecancelt hat.*
- 
-
-TODO: Formatierung
-
-indi > acc > stiftung weimar klassik.
-marke.6 > kiosk.6
-bauhaus essentials > Gräfe Preis + Jury + Preview Berlin
 Im Rahmen meine Aufgaben als Künstlerische Assistentin habe ich im Umfeld der Fakultätsgremien als Beiratmitgliederin der studentische Galerie der Bauhaus 
 Universitätmit dem Namen marke6 Tätig.Die universitätsgalerie gab es set dem Jahr X in verschiedene Formen, erst ls sebständig in der "Neu-Deli", 
 bei der Post vor der große Renovierung und umwidmung der obere Etage zu einem Fitneßcenter!) zur  Gast,  
 
 ab 2001 wanderte die Galerie unter der Name Bauhaus Universitäts galerie als Untermieter der Expandierte ACC Galerie
 
-Weimar ist eine sehr kleine Stadt mit übergroßem Kulturangebot
+Der Bedarf an offiziellen Ausstellungsräumen in Kunstakademien hat sich aus der USA, wo solche schon Mitte der 80er Jahre gegründet worden sind, importieren lassen.
+Im Fälle der Bauhaus Universität Weimar haben über die Jahre die verschiedene Rektoren eine andere Verständniss von der Wichtigkeit eines Ausstellensorts für die Studenten.
+Nicht so an der Bauhaus Universität Weimar. Als erstes gab es eine unabhängige eigeninitiativen Namens *Neu-Deli* die sich Räume über die Post am Goetheplatz in Weimar gemietet hat.
+Die Räume waren schön und sehr passend zur Kunstausstellungen, mit hohe Decken und Stahlsäule sowie viel Licht. 
+
+wo die Gallerie eine sehr kurze Zeit nach ihre Entstehung als bei der ersten  
+Uni-Galerie ja hauptsächlich vom „schwachen Geschlecht“ getragen war und neben der Organisation auch den Großteil der handwerklichen Adaptionen in der Post realisiert 
+haben. 
+
+sofort danach wurde es als aufgabe für die Studenten selber mit eine 
+Koordinationsstelle und als Gast unter einem andere Infrastruktur (bis Data im Keller des neues Museum)
+ 
+Und zur ACC-Galerie könnte man, falls notwendig, noch erwähnen, wie wackelig das Engagement seitens der Uni-Leitung hinsichtlich einer Uni-Galerie angelegt war, 
+da eine neu eingestellte Kulturmanagerin gemeinsam mit dem Rektor Bauer-Wabnegg die bestens funktionierende Kooperation leichtfertigst gecancelt hat.*
+
+Weimar ist eine sehr kleine Stadt mit übergroßem Kulturangebot und Viele Institutionen
 die Beziehungen mit der ACC Gallerie:
 Vortragsreihe Herzblut mit Professren der Uni
 Ausstellen von Künstler (bis auf Studenten, nur in seltene Fälle) seltene zusagen zu Master/Diplomarbeit Vorstellungen.
@@ -92,7 +99,7 @@ Es gab Künstler,  die das nicht immer gut fanden, was wir machten.
 Die 3 besten Arbeiten wanderten von der Hauptausstellung nach Berlin und zurück. Dazu gab es auch einen Reader und das entsprechende Echo aus der Presse. 
 Koordination und Initiative geht von den Studenten aus. Sie halten die Hand darüber und organisieren auch die Ausstellungen.
 
----
+> Leere inhaltlose aussage!
 
 weitere Textfetzen
 
@@ -108,19 +115,13 @@ werden muss überwiegend und wichtiger, als Prozesse zu beobachten
 es ist möglich, die studierenden beizubringen, wie sie die dinge nach dem Studium "besser" angehen können. ob dieses in der tat besser ist oder 
 nicht, ist eine ganz andere Frage.
 
-Es gibt für Künstler die bekannte weg, die aus der Beziehung zu den Institutionen um ihm herum entsteht, von Unbekannt zum Star (Meese). 
-Das ist auch eine Art Anpassung, an einem Apparat der alles organisiert. Wie viele lebende Künstler unter den Top 100 Artists of today bei 
-*Artfacts*, z.B. sind in einer Liste die 100 Top Künstler (richtig am 23. August 2012) folgendes geteilt:
 
-leben: 69
-tot: 28
-unklar (Künstlerpaare von denen einen gestorben ist): 3
-Frauen: 13
 
-In folgenden Länder geteilt:
-USA: 33
-DE: 17
-UK: 9
+TODO: Formatierung
+
+indi > acc > stiftung weimar klassik.
+marke.6 > kiosk.6
+
 
 ## Das Konstrukt Bauhaus Essentials
 
