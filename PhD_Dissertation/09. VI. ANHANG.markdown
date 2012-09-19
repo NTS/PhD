@@ -656,7 +656,9 @@ Deutsche Fassung - Transkript
 
 > SOHN: „Hey vergiss das Bild nicht, vielleicht kannst du es ja in deinem Büro aufhängen.“
 
-    VATER: „ Mein Sohn ich werde es irgendwo hinhängen wo Jeder es sehen kann.“
+> VATER: „ Mein Sohn ich werde es irgendwo hinhängen wo Jeder es sehen kann.“
+
+
 
     GALERIST: „Entschuldigung, aber ich zahle Ihnen 1000 Dollar für dieses Kunstwerk dort hinten.
 
