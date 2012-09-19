@@ -353,9 +353,6 @@ http://www.tlz.de/web/zgt/kultur/detail/-/specific/Bauhaus-Studenten-zeigten-Ins
 
 ### CSS - Artbitch 
 
-
-	1. CSS - Artbitch
-
 	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
 	My art is called egocentric soft porno
 	Or maybe it's just narcisism
