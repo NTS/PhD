@@ -1,8 +1,9 @@
 # Intro (Vorbemerkung)
 
-    Algemeine Bemerkungen:
-    nwh: allgemein zur Orthographie: aufpassen, manchmal wird durch den Blocksatz absurd getrennt!
-    Anke: Sichern ob Geschlechtsungerechte Sprache Bemerkungen unten gilt?
+> Algemeine Bemerkungen:
+> nwh: allgemein zur Orthographie: aufpassen, manchmal wird durch den Blocksatz absurd getrennt!
+> Anke: Sichern ob Geschlechtsungerechte Sprache Bemerkungen unten gilt?
+> unfertiges unter TODO markiert
 	
 
 
