@@ -183,11 +183,11 @@ jedoch an ein System anpassen, welches (anders) reguliert ist und Zeitbegrenzte 
 
 
 > "Was ich an meinem Beruf am meisten möge ? Ich liebe es am meisten, eine Pressemitteilung per Mail von den Kuratoren, 
-von alle Teilnehmer der Ausstellung und von der PR Agentur die sie unterstützt, dann alles erneut auf Facebook zu lesen, dann per SMS zu bekommen, 
-dann Erinnerung auf der Veranstaltungsseite an dem Tag noch mal, dann Fotos aus der Eröffnung. Eine Woche später kommt Nachricht über ein
-Podiumsdiskussion oder Galeriegespräch in Anwesenheit alle Kuratoren und teilnehmende Künstler, dies kommt erneut von alle 
-Kuratoren und teilnehmende Künstler und die Agentur, dann noch ein Anruf von der Agentur ob ich vorhabe dahin zu kommen, dann Nachricht 
-über die vorstehende Finessage per Mail, Facebook und SMS"
+> von alle Teilnehmer der Ausstellung und von der PR Agentur die sie unterstützt, dann alles erneut auf Facebook zu lesen, dann per SMS zu bekommen, 
+> dann Erinnerung auf der Veranstaltungsseite an dem Tag noch mal, dann Fotos aus der Eröffnung. Eine Woche später kommt Nachricht über ein
+> Podiumsdiskussion oder Galeriegespräch in Anwesenheit alle Kuratoren und teilnehmende Künstler, dies kommt erneut von alle 
+> Kuratoren und teilnehmende Künstler und die Agentur, dann noch ein Anruf von der Agentur ob ich vorhabe dahin zu kommen, dann Nachricht 
+> über die vorstehende Finessage per Mail, Facebook und SMS"
 
 Die erste Kommentar darauf:
 
@@ -198,18 +198,15 @@ Diesen Status, den die Kulturagentin Galia Yahav auf ihrer Facebook Seite notier
 Also, tun alle im ermöglichten Kommunikationswahn etwas, manche ihre Arbeit und manche gern umsonst. Die heutige Orientierung des Kapitalismus als auch die 
 des Sozialismus bedeutet, Alle sollen Arbeiten. Was definiert Arbeitslosigkeit bei Künstlern? Sie müssen überleben, wenn sie kein Kunst verkaufen, müssen sie nach Arbeit suchen. 
 
-1. Schawelka > zu Kunstmarkt? Die Vorteile die man hat, wenn man in die Top Liste steht sind...
+
+
 
     TODO: **Bild** [William Powhida, Studio Kalender, Mixed Media, 2006 The Stiller Collection](SCAN! aus *The Making of Art* + Bibex eintragen!)
 
 	    TODO: hier zu ende schreiben
 		
 		
-		In seinem Buch Kunst die hängen bleibt schreibt Karl Schawelka: "Die Vorteile, die Man als Künstler hat, wenn man zu den Top Ten gehört, sind denn auch beträchtlich. Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse. Künstler erhalten sie nicht allein von ihren Sammlern." [@Schawelka:Kunsthngenbleibt, pp. 228] Auf der *Artists of today* Liste bei 
-		*Artfacts*,[Link](http://www.artfacts.net) z.B. sind in einer Liste die 100 Top Künstler (richtig am 23. August 2012) folgendes geteilt: lebend: 69 tot: 28 Künstlerpaare von denen einen gestorben ist: 3
-		Frauen: 13 Interessanterweise sind sie in folgenden Länder geteilt: USA: 33 DE: 17 UK: 9 der Rest verteilt sich über Europa, Asien etc. 
-
-
+		
 
 
 	
@@ -241,8 +238,6 @@ Es wird immer mehr Fachwissen über den Kunstbetrieb in den Akademien vermittelt
 
 Bekannt ist, man soll was Gescheites studieren, wie soll man schon als Künstler Arbeit finden? Er lehrt andere, wie ein Künstler zu werden, es ist selbst ein Beruf. ???wer lehrt was, da isst missverständlich ??? macht Filme (schon längst √ macht Musik besetzt stellen innerhalb der Kunst- und Kulturinstitutionen um sich herum, kuratiert andere Künstler, schreibt Bücher √ öffnet eigene Kulturzentren, Galerien, Büros und Läden. und diese Art von Professionalisierung und Flexibilität fängt schon im Studium an.
 
-
-SONG: Künstler sind nicht un....!
 
 Kunst-Therapie kann man schon seit Langem studieren, neuerdings BA/MA-mäßig, in der Vergangenheit sind mir auch viele Beispiele von Kollegen bekannt, die das nebenbei auf Honorarbasis machten. Die Umfrage wundert mich dahingehend, da man um den positiven Effekt spätestens seit Prinzhorn weiß und selbst die Kunsterziehung in den Schulen dient zur psychologischen Entlastung des allgemeinen Schulbetriebs.*
 
