@@ -650,11 +650,11 @@ Deutsche Fassung - Transkript
 
 > SOHN: „ Zum Teil soll es meine Teenagerbeklemmung darstellen, doch in erster Linie ist es ein Muku.“
 
-    MUTTER: „Das ist sehr hübsch“
+> MUTTER: „Das ist sehr hübsch“
 
-    VATER: „ Meine Seele würde ich verkaufen um berühmt zu werden.“
+> VATER: „ Meine Seele würde ich verkaufen um berühmt zu werden.“
 
-    SOHN: „Hey vergiss das Bild nicht, vielleicht kannst du es ja in deinem Büro aufhängen.“
+> SOHN: „Hey vergiss das Bild nicht, vielleicht kannst du es ja in deinem Büro aufhängen.“
 
     VATER: „ Mein Sohn ich werde es irgendwo hinhängen wo Jeder es sehen kann.“
 
@@ -793,8 +793,8 @@ Deutsche Fassung - Transkript
     VATER:  „Ich habe ihnen ein Gegengeschenk mitgebracht, ist das ein Kunstwerk oder nur ein Behältnis mit äußerst wirksamen K.O- Spray?
 
     SOHN: „Dad es tut mir Leid das ich kein berühmter Künstler geworden bin, den du ausnutzen kannst.“
-
-    TOCHTER: „…und mir tut es leid das ich so unbegabt bin.“
+	
+	> TOCHTER: „…und mir tut es leid das ich so unbegabt bin.“
 	
 	
 	
