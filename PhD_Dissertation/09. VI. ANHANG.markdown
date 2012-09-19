@@ -488,15 +488,11 @@ Thank you for taking part in this Fachkurs!
 
 
 
-### Tabelle 
+### Bewertung Fachkurs Kiosk Fragebogen
 
  
+Teilung der angeschriebene Studenten nach Fakultät:
 
-    Bewertung Fachkurs Kiosk Frabo 
-
-
-
-    Teilung der angeschriebene Studenten nach Fakultät:
 
 Fakultät        			 Personen (P)
 ----            			 -----
@@ -509,7 +505,7 @@ Produktdesign		          1
 ----   -----
 
 
-    Semesterhöhe der Teilnehmer:
+Semesterhöhe der Teilnehmer:
 
  Semester       					  P
 ----      					        -----
@@ -526,7 +522,7 @@ Produktdesign		          1
 
 
 
-    Teilnahme an Fachkurse einmalig / mehrere
+Teilnahme an Fachkurse einmalig / mehrere:
 
 
 Fachkurs        			  P
@@ -538,7 +534,7 @@ Fachkurs        			  P
 
 
 
-    Fragebogen Teil I Frage #7: Wollen Sie lieber: Reich oder Berühmt werden? 
+Fragebogen Teil I Frage #7: Wollen Sie lieber: Reich oder Berühmt werden? 
 
 
 F               			  P
@@ -549,9 +545,7 @@ Beides          			  4
 ----------                  -----
 
 
-
-
-    Fragebogen Teil II Frage #6: (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator d.Sonstiges (was?)
+Fragebogen Teil II Frage #6: (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator d.Sonstiges (was?)
 
 
 F               			 P
@@ -564,8 +558,7 @@ Mehrere                      5
 
 
 
-
-    Fragebogen Teil II Frage #7: Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
+Fragebogen Teil II Frage #7: Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
 
 
 F							 P
@@ -576,9 +569,7 @@ Beides                       4
 ----------    			   -----
 
 
-
-
-    Fragebogen Teil III Frage #5: Welche Ausstellung fanden sie am besten?
+Fragebogen Teil III Frage #5: Welche Ausstellung fanden sie am besten?
 
 
 K                     		  P
@@ -615,8 +606,8 @@ KoMa
 ----------------    	     -----
 
 
+Fragebogen Teil III Frage #15: Wie schätzen Sie die Arbeit auf Basecamp?
 
-    Fragebogen Teil III Frage #15: Wie schätzen Sie die Arbeit auf Basecamp?
 
 -------------------------    -----
 Praktisch                      2
@@ -627,7 +618,8 @@ Gut & Praktisch                1
 -------------------------    -----
 
 
-    Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform für Dein eienes Prokect?
+Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform für Dein eigenes Projekt?
+
 
 -------------------------     -----
 Ja                             4
@@ -645,10 +637,13 @@ Ich nutze ein ähnliches schon  1
 ## Texte 
 
 
+
 ### American Dad - Episode *Knallbunt* 
 
 
 Deutsche Fassung - Transkript
+
+---
 
     SOHN: „ Sei nicht deprimiert Dad, hier das ist ein Geschenk für dich.“
 
@@ -802,7 +797,10 @@ Deutsche Fassung - Transkript
 
     TOCHTER: „…und mir tut es leid das ich so unbegabt bin.“
 	
+
+---	
 	
+
 ### Hey, I'm Charlotte Young (E)
 
 Originalversion Englisch (Transkription)
