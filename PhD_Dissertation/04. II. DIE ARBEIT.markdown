@@ -178,6 +178,7 @@ jedoch an ein System anpassen, welches (anders) reguliert ist und Zeitbegrenzte 
 
 ## Why, are the artists poor?[^whyartistspoor]
 
+    TODO: dieses Kapitel ist nur Teilweise mit  Rechtsscheibungkorrektur 
 
 [^whyartistspoor]: nach dem Buchtitel von Hans Abbing *Why are the artists poor?*
 
