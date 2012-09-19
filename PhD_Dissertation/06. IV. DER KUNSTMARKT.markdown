@@ -63,7 +63,7 @@ nicht, ist eine ganz andere Frage.
 
 Wie sieht der Kunstbetrieb in Weimar um die Universität herum aus? Weimar gehört die UNESCO-Welterbe, ist eine sehr kleine Stadt mit 60.000 Einwohner und ca. 6.000 Studenten und
 hat einem übergroßem Kulturangebot und Viele Institutionen. Außer der Stiftung Weimar Klassik, Goethe-Nationalmuseum, Schiller Museum, Schlossmuseum, Goethe Schiller Archive und alle Historische Wohnhäuser, und auch für das Neues Museum zuständig ist, gibt es die Musikhochschule Franz Liszt, Das Bauhaus Museum, die Gedenkstätte Buchenwald, Stadtmuseum
-Kunsthalle Harry Graf Kessler und das Haus am Horn. Der Galerie Landschaft ist etwas begrenzter. Als Hauptgalerie für Zeitgenössische Kunst steht seit 1988 die ACC Galerie unter der Langjährige Leitung von Frank Motz, der für seine Tätigkeiten in Sache Zeitgenössische Kunst und Kooperationen mit der Stadt im Europäischen Kulturjahr 1999 den Weimarpreis  erhielte. Das ACC Weimar ist ein gemeinnütziger Kunstverein mit eine Galerie, Internationales Atelierprogramm, regelmäßige Veranstaltungen und ein Café-Restaurant. Im Jahr 2006 wurde die Galerie Eigenheim - Raum für zeitgenössische Kunst und Kommunikation von Konstantin Bayer, selbst Künstler und ein BUW Absolvent gegründet und stellt vorwiegend Bauhaus Alumni aus. (Seit gerümer Zeit befindet sich die Galerie auch auf Kunstmessen und shows wie Bloom in Köln und auf dem Preview Berlin.)
+Kunsthalle Harry Graf Kessler und das Haus am Horn. Der Galerie Landschaft ist etwas begrenzter. Als Hauptgalerie für Zeitgenössische Kunst steht seit 1988 die ACC Galerie unter der Langjährige Leitung von Frank Motz, der für seine Tätigkeiten in Sache Zeitgenössische Kunst und Kooperationen mit der Stadt im Europäischen Kulturjahr 1999 den Weimarpreis  erhielte. Das ACC Weimar ist ein gemeinnütziger Kunstverein mit eine Galerie, Internationales Atelierprogramm, regelmäßige Veranstaltungen und ein Café-Restaurant. 
 
 Die Beziehungen zwischen der ACC Galerie:
 Vortragsreihe Herzblut mit Professren der Uni
@@ -293,6 +293,10 @@ der Studierenden sein wird. Einige Beispiele zeigen aber, das mehrere der Studie
 nach dem Abschluss: Valenta; Albrecht; Patermann; Weinlich; Braun; Hannemann;
  
     ???  TODO:   Hier fehlen die Erklärungen zu den einzelnen Leuten ???   
+	
+	
+Im Jahr 2006 wurde die Galerie Eigenheim - Raum für zeitgenössische Kunst und Kommunikation von Konstantin Bayer, selbst Künstler und ein BUW Absolvent gegründet und stellt vorwiegend Bauhaus Alumni aus. (Seit gerümer Zeit befindet sich die Galerie auch auf Kunstmessen und shows wie Bloom in Köln und auf dem Preview Berlin und vergibt ein Stipendium.) + Bild Benedikt Braun Super Arm Solo Exhibition
+	-
 
 Es sind hier hauptsächlich Studierende aus der Gruppe der Kiosk'ler, ausstellende FachkursteilnehmerInnen, aber auch StudentInnen, die an anderen 
 Fachkursen teilnahmen und währenddessen ihre Strategien für das Diplom entwickelten, Ausstellungsräume eröffneten und diese leiten oder selbst 
