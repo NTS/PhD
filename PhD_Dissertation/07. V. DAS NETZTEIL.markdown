@@ -498,7 +498,8 @@ Paul Graham hackes & Painters
 
 ### Die Künstler sagen: Fuck you!
 
-~~~~~
+    TODO!
+
 fuck the curators - we curate ourselves
 fuck the galerist we sell ourselves
 fuck the press we publish ourselves
@@ -508,7 +509,7 @@ fuck the academy we teach and learn ourselves?
 fuck being an artist who makes things, rather be an artist which makes thigs happen
 
 וצרות התערוכה, נירית יעקב ויעל וישניצקי לוי, מדגישות כי הן הגיעו לתפקידן הנוכחי מן הצד השני של המתרס - שתיהן אמניות. עובדה זו משפיעה על האופן שבו הן רואות את מעשה האוצרות, כמבקש "להימנע מהתפקיד הכוחני של האוצר ומהסירוס שיכול להתגלם ביחסים בין גלריה, אוצר ואמן. קודם כל, הדבר בא לידי ביטוי בכך שהתערוכה מוצגת בגלריה בנימין, שהינה גלריה שיתופית. כמו כן, אנו נותנות מקום גם להנכחת עבודות שרירותיות ומפתיעות בתערוכה - לדוגמה, האמן עוז מלול יוצר עבורה עבודה פיסולית שעדיין איננו יודעות לחלוטין את כל הפרטים עליה".
-~~~~~
+
 
 - BDU Manifesto
 
