@@ -166,6 +166,7 @@ der auch einer der Grundsteine diese Dissertation für mich bedeutet*.
 	
 [^exilemainstreet]: Exile on Main Street: Album Titel, *The Rolling Stones*, 1972.
 
+
     TODO: QUELLEN!
 	* Dieser Text ist... 
 
@@ -422,7 +423,6 @@ für die junge Generation aus ihrer Sicht bedeutet, erläutern.Jeder versucht f�
 Will man zum Beispiel reich oder berühmt werden?  Im Mittelpunkt aller drei Fachkurse steht das Wissen um den Kunstbetrieb. Jeder Teilnehmende 
 stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Information benötigt, um im Kunstbetrieb zu funktionieren.
 
-TODO: ??? Einfügen Frabos 1-3 (als Text, nur die Fragen), für hier oder als Anhang 24. ???
 
 
 ### Alle Fragen
@@ -492,11 +492,9 @@ Thank you for taking part in this Fachkurs!
 
  
 
----
-
     Bewertung Fachkurs Kiosk Frabo 
 
----
+
 
     Teilung der angeschriebene Studenten nach Fakultät:
 
@@ -639,10 +637,13 @@ Ich nutze ein ähnliches schon  1
 -------------------------    -----
 
 
+
 **BILDER**  TODO: Ein Paar Bilder vom Frabo hinzufügen, die zeigen wie Künstler denken!
+
 
 	
 ## Texte 
+
 
 ### American Dad - Episode *Knallbunt* 
 
@@ -879,7 +880,7 @@ Originalversion Englisch (Transkription)
 	E: charlotteemilyyoung@gmail.com
 	T:@charlotteyoung
 
----
+
 
 
 ## Lyrics zum scattern
