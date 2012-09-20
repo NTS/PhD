@@ -215,8 +215,8 @@ andere Funktionen, wir können uns frei in ihnen bewegen.
 
 Wahrscheinlich wird es noch lange den traditionellen Weg, die bekannten Rituale zwischen Künstler und Käufer geben. Der Künstler malt und der Galerist verkauft. 
 Es gibt mittlerweile viele Künstler, die eine Galerie aufmachen und Galeristen, die in die Akademien gehen, so zum Beispiel der Galerist Kristian Jarmuschek von 
-*Jarmuschek+Partner* Berlin, der inzwischen seine Initiative *Preview Academy* 
-auch international ausweiten möchte und gern Unterricht in Sachen Kunstmarkt gibt. Das bedeutet auch, dass sich die Ebenen, die Institutionen vermischen, was viele neue Fragen mit sich bringt. 
+*Jarmuschek+Partner* Berlin, der inzwischen seine Initiative *Preview Academy* auch international ausweiten möchte und gern Unterricht in Sachen Kunstmarkt gibt. 
+Das bedeutet auch, dass sich die Ebenen, die Institutionen vermischen, was viele neue Fragen mit sich bringt. 
 
 Ich verkörpere diese Sorte Künstler, und das unterrichte ich - in gewisse umfang muss ich mich anpassen, und gewisse Systeme im umlaufen 
 akzeptieren, aber mit den technischen und digitalen Möglichkeiten von heute kann ich noch viel unabhängiger werden. Wer diese neue 
@@ -226,8 +226,8 @@ Arbeit durchzubringen. Der Aspekt der Technologie
 
 Künstler ähneln immer noch die Schamanen. Sie sehen voraus sie beobachten, vergleichen und ziehen Schlüssel aus dem was sie sehen, und dies übersetzen sie in gestalterischen Form,
 schreiben Manifeste. Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, (Die des Künstlers, die Aktuere im Kunstbetrieb, die Akademie, die Theoretiker) verweist auf der bisherige erste 
-Teilung zwischen Businesskünstler und Sozialkünstler (auch Artivist genannt), die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebskünstler (Galerist, Kurator) 
-der theoretischen, (oder akademischen) und der Netzkünstler, die Kunstländer im Netz gründen Kunstpolitik machen oder die Kunstdiktatur prophezeien (Meese). 
+Teilung zwischen Businesskünstler und Sozialkünstler (auch Artivist genannt), die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), 
+Kunstbetriebskünstler (Galerist, Kurator) der theoretischen, (oder akademischen) und der Netzkünstler, die Kunstländer im Netz gründen Kunstpolitik machen oder die Kunstdiktatur prophezeien (Meese). 
 
 Es ist Ende 2012 und gleich sind alle Menschen Künstler, während die Künstler es vielleich bald selber nicht mehr sind? Maler werden es immer geben, aber es wird nicht mehr 
 *Jeder Mensch ist ein Künstler* heissen, sondern *Alles ist Kunst!* 
@@ -268,6 +268,10 @@ ein Kunstmagazin zu schreiben. Ich habe über den Prozess der Professionalisieru
 und permanent auf diese Ebene geblieben. 
 
 
+
+<space>
+	
+	
 
 And now, if you will excuse me, I am going to make some art.
 
