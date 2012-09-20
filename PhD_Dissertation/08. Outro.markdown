@@ -3,11 +3,10 @@
 [^gofromhere]: (Song by Yoko Ono aus dem Album)
 
 
-Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, (Die des Künstlers, die Aktuere im Kunstbetrieb, die Akademie, die Theoretiker) verweist auf der bisherige erste Teilung zwischen 
-Businesskünstler und Sozialkünstler (auch Artivist genannt), die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebkünstler (Galerist, Kurator)
-der theoretischen, oder akademischen und der Netzkünstler. 
+Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, verweist auf der bisherige erste Teilung zwischen Businesskünstler und Sozialkünstler (auch Artivist genannt), 
+die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebkünstler (Galerist, Kurator) der theoretischen, oder akademischen und der Netzkünstler. 
 
-
+(Die des Künstlers, die Aktuere im Kunstbetrieb, die Akademie, die Theoretiker) 
 1. Künstler
 2. Kunstbetriebkünstler (Galerist, Kurator)
 3. Akademie (10 Years after)
@@ -74,6 +73,12 @@ machen Kunstakademien Lehreinrichtungen versorgte sie Positionen des Einflusses 
 an Künstler und Wissenschaftler Attraktivität und wilden Leidenschaften, die Arbeit in einem anderen Ort. Wenn Sie starren einander ehrlich wird ein 
 verzerrtes Spiegelbild von sich selbst erkennen
 
+
+#### Der Kunstlerkurator
+Künstler als Kuratoren ist eine Tatsache geworden. Eine neue Macht und Einfluss Position, neben bessere, wenn nicht zusätzliches Einkommenquelle. Für die Frischgewordenen Freischaffende Kuratoren,
+frisch aus etweigliche Kuratorenschulen (Nichtkünstler sind gemeint)
+bedeutet dies sogar noch wenigere Gelegenheiten. Zwei Künstlerinnen die sich als KuratorInnen einer Ausstellung präsentierten meinten zu Ihre Etscheidung: "Wir haben übernommen, um die Machtposition einen externen Kurator und die möglichkeit einer Kastration, die sonst unterhalb Galerie, Kurator und Künstler und deren Beziehungen vorkommen mag. Erstens haben wir eine Kommunale Galerie ausgesucht, und zweitens lassen wir Raum auch für die Platzierung von Eigenmächtigkeit und überraschende Positionen, von denen wir noch nicht alle Information erhalten haben." (TODO: SOURCE)
+
 aus der Perspektive der Bauhaus universität, wo Produkt eher ganz präsent ist wird die Ermutigung zum Frühverkauf mitgetragen, ist die Willigkeit sich "Verkaufen zu wollen" vielleicht hoher
 
 <http://www.haaretz.co.il/gallery/art/1.1791742>
@@ -82,12 +87,13 @@ BB7
 <http://artwiki.org/Special:BrowseData/Artist>
 
 
-Künstler als Kuratoren ist eine Tatsache geworden. Eine neue Macht und Einfluss Position, neben bessere, wenn nicht zusätzliches Einkommenquelle. Für die Frischgewordenen Freischaffende Kuratoren,
-frisch aus etweigliche Kuratorenschulen (Nichtkünstler sind gemeint)
-bedeutet dies sogar noch wenigere Gelegenheiten. Zwei Künstlerinnen die sich als KuratorInnen einer Ausstellung präsentierten meinten zu Ihre Etscheidung: Wir haben übernommen, um die Machtposition einen externen Kurator und die möglichkeit einer Kastration, die sonst unterhalb Galerie, Kurator und Künstler und deren Beziehungen vorkommen mag. Erstens haben wir eine Kommunale Galerie ausgesucht, und zweitens lassen wir Raum auch für die Platzierung von Eigenmächtigkeit und überraschende Positionen, von denen wir noch nicht alle Information erhalten haben.
 
 
-weil Studenten öffnen Galerien, Kunstprofessor öffnet Galerie, Akademie stellt im Ministerien aus, erst Kultus, dann Wirtschaft. Fakultät soll Drittmittel aqkuirieren. 
+Ab Sommer 2012 hat ein Mitarbeiter der Bauhaus-Universität, mit Unterstützung vom Thüringer Ministerium für Arbeit, Wirtschaft und Technologie, eine Galerie in Berlin Mitte, unter dem Namen *OCA Gallery* [Link](http://www.oca-gallery.com) eröffnet. Was für die Künstler gilt, gilt auch für die Institutionen. Es gibt immer mehr Biennalen, Kunstmessen und Ausstellungsmöglichkeiten. 
+An dieser Stelle muss man erwähnen, dass das Karussel „Kunstbetrieb“ eigentlich fast nur intern funktioniert. In so gut wie allen Juries sitzen Kuratoren, Galeristen, Museumsleute 
+und wer nicht „en vogue“ ist, kriegt auch kein Stipendium, selbst in sog. anonymen Wettbewerben ist man zumeist informiert, wer wer ist oder was eingereicht wurde.
+
+Studenten öffnen Galerien, Akademie stellt im Ministerien aus, erst Kultus, dann Wirtschaft. Fakultät soll Drittmittel aqkuirieren. 
 die Beziehungen zwischen Künstler und sein dasein sind stets in eigene Beobachtung und im wandeln. dieses Prozeß wird, 
 wie alles von Künstler auch gestalten. es steht fest, man muss es nur sehen wollen
 
@@ -211,14 +217,16 @@ scheitern manchmal auch eine legitimer Resultat. Der Weg in manche Fälle Tatsch
 
 Meiner Meinung nach existiert eine Verschiebung der Aufgabenverteilung. Es gibt keine Fronten mehr zwischen Künstler oder Kunstwerk. 
 Der Künstler übernimmt Aufgaben und Funktionen, die sonst von Professionellen ausgeführt werden. Das heißt Dienstleistungen werden autark 
-übernommen. Als ich studiert habe, durfte ich nicht einmal ausstellen. Wir hatten während des Studiums schlichtweg Ausstellungsverbot. 
+übernommen. 
+
+Als ich studiert habe, durfte ich nicht einmal ausstellen. Wir hatten während des Studiums schlichtweg Ausstellungsverbot. 
 Heute gestalte ich das Motiv der Ausstellungseinladungen selbst und habe das Sagen über die Schriftart, die ich mag und die ich nicht mag. 
 Ich habe das Wort wie den Überblick über alles und ich werde aufgefordert Texte, über meine Kunst zu schreiben. Wir übernehmen diese und 
-andere Funktionen, wir können uns frei in ihnen bewegen. Wir sind gut darin, weil wir nicht mehr so stark auf andere, Dritte angewiesen 
-sind. Wahrscheinlich wird es noch lange den traditionellen Weg, die bekannten Rituale zwischen Künstler und Käufer geben. 
-Der Künstler malt und der Galerist verkauft. Es gibt mittlerweile viele Künstler, die eine Galerie aufmachen und Galeristen, die in die Akademien gehen, 
-so zum Beispiel der Galerist Christian Jarmuschek von *Jarmuschek+Partner* Berlin, der inzwischen seine Initiative *Preview Academy* auch international ausweiten möchte 
-und gern Unterricht in Sachen Kunstmarkt gibt. Das bedeutet auch, dass sich die Ebenen, die Institutionen vermischen, was viele neue Fragen mit sich bringt. 
+andere Funktionen, wir können uns frei in ihnen bewegen. 
+
+Wahrscheinlich wird es noch lange den traditionellen Weg, die bekannten Rituale zwischen Künstler und Käufer geben. Der Künstler malt und der Galerist verkauft. Es gibt mittlerweile viele Künstler, 
+die eine Galerie aufmachen und Galeristen, die in die Akademien gehen, so zum Beispiel der Galerist Christian Jarmuschek von *Jarmuschek+Partner* Berlin, der inzwischen seine Initiative *Preview Academy* 
+auch international ausweiten möchte und gern Unterricht in Sachen Kunstmarkt gibt. Das bedeutet auch, dass sich die Ebenen, die Institutionen vermischen, was viele neue Fragen mit sich bringt. 
 
 Ich verkörpere diese Sorte Künstler, und das unterrichte ich - in gewisse umfang muss ich mich anpassen, und gewisse Systeme im umlaufen 
 akzeptieren, aber mit den technischen und digitalen Möglichkeiten von heute kann ich noch viel unabhängiger werden. Wer diese neue 
@@ -228,6 +236,10 @@ Arbeit durchzubringen. Der Aspekt der Technologie
 
 Künstler ähneln immer noch die Schamanen. Sie sehen voraus sie beobachten, vergleichen und ziehen Schlüssel aus dem was sie sehen, und dies übersetzen sie in gestalterischen Form,
 schreiben Manifeste.
+
+Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, verweist auf der bisherige erste Teilung zwischen Businesskünstler und Sozialkünstler (auch Artivist genannt), 
+die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebkünstler (Galerist, Kurator) der theoretischen, oder akademischen und der Netzkünstler. 
+
 
 - Der nächste Künstlertypus: (see BDU manifest) Künstler arbeiten an eine utopische zustand. da sie selber kreieren, halten sie 
 es vielleicht für egal, falls es scheitern konnte. 
