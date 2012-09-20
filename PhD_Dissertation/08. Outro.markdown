@@ -24,8 +24,6 @@ weil die künstler machen nicht mehr mit, weil künstler wirklich daran hängen,
 und wenn sie in das komplex reinfallen (ich will das alles mich lieben, aber wenn alle mich lieben kann es nicht gut sein.
 
 
-Die Künstlerin Esther Shalev-Gerz meinte schon 2004 das die Künstlerkooperationen und Künstlerkooperativen sind das, was kommen soll. 
-Ein Staatenlosen Pavillion in der Venedig Biennale zu iniziieren war schon 2004 eine Idee der im Gespräch zwischen uns bei einem Treffen in Paris 2004. 
 
 Künstlerstädte (mit Realen Pass) errichten sich im virtuellen Cyberspace des Internets. 
 
@@ -112,62 +110,37 @@ auch zum Parallel laufen kommen konnte. Es steht die Kooperation dem Alleingang 
 
 Goethe Zitat (TODO)
 
-4.
 
-H. U. Reck zu den wesentlichen Tendenzen der Künste des XX. Jahrhunderts:
+Zum Netzkünstler:
 
-2.) Intensive Verbindung von Gattungen und Medien zu einem Verbund zwecks Koppelung unterschiedlichster Reize und Sinne.
-
-3.) Theoretische Begründung der Integration von neuen Maschinen und Apparaten in den Entwurf der Künste. Erweiterung der üblichen Nutzung der Maschinen zur Erschließung neuer Erlebnisweisen.
-„Kunst hat ihre konstruktive Kompetenz gegenüber Geräten, Wissenschaft, Technik, generell: gegenüber dem Erkenntnisfortschritt, verloren.“
-„Wenn Kunst in dieser Hinsicht nicht innovativ ist, dann trägt sie nichts zum Verständnis der Technologien bei. Dann bleibt sie Oberfläche, Dekor .. eine unwesentliche Verschönerung des Fremden.“
+H. U. Reck zu den wesentlichen Tendenzen der Künste des XX. Jahrhunderts erklärt die Theoretische Begründung der Integration von neuen Maschinen und Apparaten in den Entwurf der Künste. 
+Erweiterung der üblichen Nutzung der Maschinen zur Erschließung neuer Erlebnisweisen: „Kunst hat ihre konstruktive Kompetenz gegenüber Geräten, Wissenschaft, Technik, generell: gegenüber 
+dem Erkenntnisfortschritt, verloren.“„Wenn Kunst in dieser Hinsicht nicht innovativ ist, dann trägt sie nichts zum Verständnis der Technologien bei. Dann bleibt sie Oberfläche, Dekor (...)
+eine unwesentliche Verschönerung des Fremden.“
 
 Technologie:
 > H. U. Reck zu den wesentlichen Tendenzen der Künste des XX. Jahrhunderts:
-**„Die Kunst hat entschieden die zentrale Lenkung der visuellen Kultur verloren. Sie hat keine Prägekraft mehr für die ganze Kultur .. Sie will auch gar nicht mehr die gesellschaftliche Imagination anleiten, wie das seit der Renaissance für einige Jahrhunderte der Fall gewesen ist. Kunst wird künftig .. für Eliten verfertigt, sich an Spezialisten wenden, ein spezifisches Lebensgefühl erzeugen, das mit den Formationskräften der Gesellschaft, aber auch den Energieschüben oder Zwängen von Wissenschaft und Technologie nicht mehr kooperativ, sondern wohl vornehmlich in Gestalt von Konflikten verbunden ist.“**
+„Die Kunst hat entschieden die zentrale Lenkung der visuellen Kultur verloren. Sie hat keine Prägekraft mehr für die ganze Kultur .. Sie will auch gar nicht mehr die gesellschaftliche Imagination anleiten, wie das seit der Renaissance für einige Jahrhunderte der Fall gewesen ist. Kunst wird künftig .. für Eliten verfertigt, sich an Spezialisten wenden, ein spezifisches Lebensgefühl erzeugen, das mit den Formationskräften der Gesellschaft, aber auch den Energieschüben oder Zwängen von Wissenschaft und Technologie nicht mehr kooperativ, sondern wohl vornehmlich in Gestalt von Konflikten verbunden ist.“**
+
+ 
+Die Kunstwelt hat 2008 während der Großen Wirtschaftskriese erstaunliche Stabilität verwiesen. 
 
 
-die Kunstwelt hat 2008 während der Großen Wirtschaftskriese erstaunliche Stabilität verwiesen. 
+Zahllosen Biennalen gibt es schon, mittlerweile würde allein Das nach Nationalität getrennte Pavillonkonzept der Biennale in Venedig mehrfach in Frage gestellt. Die Künstlerin Esther Shalev-Gerz meinte schon 
+2004 das die Künstlerkooperationen und Künstlerkooperativen sind das, was kommen soll. Ein Staatenlosen Pavillon in der Venedig Biennale zu initiieren war auch schon 2004 eine Idee der im Gespräch 
+zwischen uns bei einem Treffen in Paris 2004, und in der Letzt hat es in form von Grafitti existiert.
 
-
-Zu den Biennalen: 
-Zahllosen gibt es schon, wieviele werden noch kommen?
-
-Das Nationalitätskonzept, selbst auf die letzte Biennale in Venedig (54.) fuck the nationality
 
 BB7 war eine Politische Veranstaltung und öffnete ein Artistwiki <http://artwiki.org/Special:BrowseData/Artist>
 
 
-    
-die Galeristen suchen zusätzliche Qualitäten als Services zum anbieten
-    
-die Kuratoren
-
-... und die nächste documenta soll von einem Künstler kuratiert werden
-
-zu theorie...
+... und die nächste Documenta soll von einem Künstler kuratiert werden.
 
 
-### Die Künstler sagen gern F**k you!
-
-**Bild:** [ ]
-**Bild:** [txt](images/bild.jpg)[^footnote]
-
-fuck the curators - we curate ourselves
-fuck the galerist we sell ourselves
-fuck the press we publish ourselves
-fuck the museum we have the street
-fuck pr or space, we have internet 2.0
-fuck the academy we teach and learn ourselves?
-fuck being an artist who makes things, rather be an artist which makes thigs happen
+**Bild** und die nächste Documenta soll von einem Künstler kuratiert werden.
 
 
-- BDU Manifesto
 
-    die konsequenten für mich
-    für die Lehre: 
-    für die Praxis
-    
 
 ### The Process is the product![^process-product]
 
@@ -208,7 +181,7 @@ Es ist Ende 2012 und gleich sind alle Menschen Künstler, während die Künstler
 Der nächste Künstlertypus: (see BDU manifest) Künstler arbeiten immer gen einem utopische zustand, weil sie sie selber kreieren können, und halten es vielleicht im schlimmsten Fall für egal, 
 falls sie zu Lebenszeit scheitern. 
 
-**BILD** BDU Manifest (unten!)
+**BILD** BDU Manifest
 
 
 
