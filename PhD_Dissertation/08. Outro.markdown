@@ -3,10 +3,11 @@
 [^gofromhere]: (Song by Yoko Ono aus dem Album)
 
 
-Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, verweist auf der bisherige erste Teilung zwischen Businesskünstler und Sozialkünstler (auch Artivist genannt), 
-die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebkünstler (Galerist, Kurator) der theoretischen, oder akademischen und der Netzkünstler. 
+Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, (Die des Künstlers, die Aktuere im Kunstbetrieb, die Akademie, die Theoretiker) verweist auf der bisherige erste Teilung zwischen 
+Businesskünstler und Sozialkünstler (auch Artivist genannt), die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebskünstler (Galerist, Kurator) 
+der theoretischen, (oder akademischen) und der Netzkünstler. 
 
-(Die des Künstlers, die Aktuere im Kunstbetrieb, die Akademie, die Theoretiker) 
+
 1. Künstler
 2. Kunstbetriebkünstler (Galerist, Kurator)
 3. Akademie (10 Years after)
@@ -15,7 +16,6 @@ Businesskünstler
 Sozialkünstler
 Politisch aktiv plus Art = 
 Akademischenkünstler
-
 Kunstmarktkünstler
 Künstlerkünstler
 Filmmacherkünstler.
@@ -76,14 +76,9 @@ Künstler als Kuratoren ist eine Tatsache geworden. Eine neue Macht und Einfluss
 aus neu existierende Kuratorenschulen (hier sind Nichtkünstler gemeint) bedeutet dies sogar noch wenigere Arbeitsgelegenheiten. Zwei Künstlerinnen die sich als KuratorInnen einer Ausstellung präsentierten 
 meinten zu Ihre Etscheidung: "Wir haben übernommen, um die Machtposition einen externen Kurator und die möglichkeit einer Kastration, die sonst unterhalb Galerie, Kurator und Künstler und deren Beziehungen 
 vorkommen mag. Erstens haben wir eine Kommunale Galerie ausgesucht, und zweitens lassen wir Raum auch für die Platzierung von Eigenmächtigkeit und überraschende Positionen, von denen wir noch nicht alle 
-Information erhalten haben." (TODO: SOURCE)
+Information erhalten haben." (TODO: SOURCE) <http://www.haaretz.co.il/gallery/art/1.1791742>
 
-aus der Perspektive der Bauhaus universität, wo Produkt eher ganz präsent ist wird die Ermutigung zum Frühverkauf mitgetragen, ist die Willigkeit sich "Verkaufen zu wollen" vielleicht hoher
 
-<http://www.haaretz.co.il/gallery/art/1.1791742>
-
-BB7
-<http://artwiki.org/Special:BrowseData/Artist>
 
 
 
@@ -113,15 +108,21 @@ Technologie:
 
 die Kunstwelt hat 2008 während der Großen Wirtschaftskriese erstaunliche Stabilität verwiesen. 
 
-die Biennalen: Zahllosen gibt es schon, wievile werden noch kommen?
+
+Zu den Biennalen: 
+Zahllosen gibt es schon, wieviele werden noch kommen?
 
 Das Nationalitätskonzept, selbst auf die letzte Biennale in Venedig (54.) fuck the nationality
+
+BB7 war eine Politische Veranstaltung und öffnete ein Artistwiki <http://artwiki.org/Special:BrowseData/Artist>
+
+
     
 die Galeristen suchen zusätzliche Qualitäten als Services zum anbieten
     
 die Kuratoren
 
-... und die nächste documenta soll von einem 
+... und die nächste documenta soll von einem Künstler kuratiert werden
 
 zu theorie...
 
@@ -163,8 +164,8 @@ oder Nonvirtuell: im Netz
 als alternative zum jetzigen White cube auswahl
 
 Die Konsequenz dieser Eigeninitiativen ist, dass ein Künstler heute auch ohne eine Galerie existieren und seine Werke bekannt machen kann. 
-Die Vermittlung liegt in der eigenen Hand. Natürlich führt das auch zu vielen offenen Fragen, man muss sich anpassen und wer entscheidet über die Qualität der Arbeiten, usw. 
-Sind es die Marktkräfte? Ich glaube, sie sind noch stark genug. Wenn man malt, dann muss man die Zeit dazu haben, bei Konzeptkunst jedoch ist man froh, 
+Die Vermittlung liegt in der eigenen Hand. Natürlich führt das auch zu vielen offenen Fragen, man muss sich anpassen und wer entscheidet über die Qualität 
+der Arbeiten, usw. Sind es die Marktkräfte? Ich glaube, sie sind noch stark genug. Wenn man malt, dann muss man die Zeit dazu haben, bei Konzeptkunst jedoch ist man froh, 
 wenn man über die Ideen und Konzepte nachdenkt. Es gibt immer die Prozessphasen, dann die technische Umsetzung. Welcher Künstler hat es nicht gerne, 
 auch einmal Hilfe zu beanspruchen und andere Personen als sich selbst mit zu beschäftigen? Mir liegt es nicht daran, jedes Foto selbst zu kaschieren usw. 
 Das Resultat ist nicht unbedingt immer von der eigenen Handarbeit abhängig. Aber das sage ich aus meiner Perspektive und bezüglich der Kunst, 
@@ -236,8 +237,9 @@ Arbeit durchzubringen. Der Aspekt der Technologie
 Künstler ähneln immer noch die Schamanen. Sie sehen voraus sie beobachten, vergleichen und ziehen Schlüssel aus dem was sie sehen, und dies übersetzen sie in gestalterischen Form,
 schreiben Manifeste.
 
-Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, verweist auf der bisherige erste Teilung zwischen Businesskünstler und Sozialkünstler (auch Artivist genannt), 
-die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebkünstler (Galerist, Kurator) der theoretischen, oder akademischen und der Netzkünstler. 
+Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, (Die des Künstlers, die Aktuere im Kunstbetrieb, die Akademie, die Theoretiker) verweist auf der bisherige erste Teilung zwischen 
+Businesskünstler und Sozialkünstler (auch Artivist genannt), die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebskünstler (Galerist, Kurator) 
+der theoretischen, (oder akademischen) und der Netzkünstler. 
 
 
 - Der nächste Künstlertypus: (see BDU manifest) Künstler arbeiten an eine utopische zustand. da sie selber kreieren, halten sie 
@@ -258,7 +260,11 @@ es vielleicht für egal, falls es scheitern konnte.
 
 
 
-## The B-Side (Outro #2)
+
+
+
+
+# The B-Side (Outro #2)
 
 xy August 2012.
 Ich bin im Atelier am schreiben.
