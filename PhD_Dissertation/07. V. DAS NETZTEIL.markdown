@@ -464,7 +464,9 @@ BB7
 
 Künstler als Kuratoren ist eine Tatsache geworden. Eine neue Macht und Einfluss Position, neben bessere, wenn nicht zusätzliches Einkommenquelle. Für die Frischgewordenen Freischaffende Kuratoren,
 frisch aus etweigliche Kuratorenschulen (Nichtkünstler sind gemeint)
-bedetet dies sogar noch wenigere Gelegenheiten
+bedeutet dies sogar noch wenigere Gelegenheiten. Zwei Künstlerinnen die sich als KuratorInnen einer Ausstellung präsentierten meinten zu Ihre Etscheidung: Wir haben übernommen, um die Machtposition einen externen Kurator und die möglichkeit einer Kastration, die sonst unterhalb Galerie, Kurator und Künstler und deren Beziehungen vorkommen mag. Erstens haben wir eine Kommunale Galerie ausgesucht, und zweitens lassen wir Raum auch für die Platzierung von Eigenmächtigkeit und überraschende Positionen, von denen wir noch nicht alle Information erhalten haben.
+
+
 ### Die Aktöre sagen:
 
     die Wirtschaft
@@ -477,9 +479,10 @@ bedetet dies sogar noch wenigere Gelegenheiten
     die Kuratoren
 
 
-### Die Künstler sagen: Fuck you!
+### Die Künstler sagen gern F**k you!
 
-    TODO!
+**Bild:** [ ]
+**Bild:** [txt](images/bild.jpg)[^footnote]
 
 fuck the curators - we curate ourselves
 fuck the galerist we sell ourselves
@@ -488,8 +491,6 @@ fuck the museum we have the street
 fuck pr or space, we have internet 2.0
 fuck the academy we teach and learn ourselves?
 fuck being an artist who makes things, rather be an artist which makes thigs happen
-
-וצרות התערוכה, נירית יעקב ויעל וישניצקי לוי, מדגישות כי הן הגיעו לתפקידן הנוכחי מן הצד השני של המתרס - שתיהן אמניות. עובדה זו משפיעה על האופן שבו הן רואות את מעשה האוצרות, כמבקש "להימנע מהתפקיד הכוחני של האוצר ומהסירוס שיכול להתגלם ביחסים בין גלריה, אוצר ואמן. קודם כל, הדבר בא לידי ביטוי בכך שהתערוכה מוצגת בגלריה בנימין, שהינה גלריה שיתופית. כמו כן, אנו נותנות מקום גם להנכחת עבודות שרירותיות ומפתיעות בתערוכה - לדוגמה, האמן עוז מלול יוצר עבורה עבודה פיסולית שעדיין איננו יודעות לחלוטין את כל הפרטים עליה".
 
 
 - BDU Manifesto
@@ -502,9 +503,11 @@ fuck being an artist who makes things, rather be an artist which makes thigs hap
     Kunstmarktkünstler
     Künstlerkünstler
 
-    ???? die folgenden 3 Abschnitte sind noch sehr salopp und stichpunktartig geschrieben und auch sprunghaft in den Gedanken  ????
 
-Die Konsequenz dieser Eigeninitiativen ist, dass ein Künstler heute auch ohne eine Galerie existieren und seine Werke bekannt machen kann. Die Vermittlung liegt in der eigenen Hand. Natürlich führt das auch zu vielen offenen Fragen, man muss sich anpassen und wer entscheidet über die Qualität der Arbeiten, usw. 
+
+
+Die Konsequenz dieser Eigeninitiativen ist, dass ein Künstler heute auch ohne eine Galerie existieren und seine Werke bekannt machen kann. 
+Die Vermittlung liegt in der eigenen Hand. Natürlich führt das auch zu vielen offenen Fragen, man muss sich anpassen und wer entscheidet über die Qualität der Arbeiten, usw. 
 Sind es die Marktkräfte? Ich glaube, sie sind noch stark genug. Wenn man malt, dann muss man die Zeit dazu haben, bei Konzeptkunst jedoch ist man froh, 
 wenn man über die Ideen und Konzepte nachdenkt. Es gibt immer die Prozessphasen, dann die technische Umsetzung. Welcher Künstler hat es nicht gerne, 
 auch einmal Hilfe zu beanspruchen und andere Personen als sich selbst mit zu beschäftigen? Mir liegt es nicht daran, jedes Foto selbst zu kaschieren usw. 
@@ -528,7 +531,7 @@ werden und dann sterben wollen.
 
 
 
-[^process-product]: Album by Genesis P. Orridge
+
 
 
 * scheitern als Erfolg
@@ -601,11 +604,6 @@ Maler wird es immer geben
 
 
 
-Ich bin am schreiben.
-Gerade kam meine ehemalige Studentin Simone Weikelt durch meiner Atelier Tür rein. Sie will mich fragen, ob ich bereit wäre, an ihre 
-nächste Ausstellung teilzunehmen. Sie will nicht meine Kunst ausstellen, sondern mich. Sie meint, dass was übrig bleiben wird, 
-nach ende der *Materialschlacht*, ist nur das Künstlerfigur und seine Fähigkeiten. Ich müsste natürlich sofort an Marina Abramovic's 
-Werk *The artist is present* denken. Die Anwesenheit, und Ideen haben sollten reichen.	
 
 
 
@@ -619,6 +617,7 @@ Werk *The artist is present* denken. Die Anwesenheit, und Ideen haben sollten re
 
 
 ### The Process is the product![^process-product]
+[^process-product]: Album by Genesis P. Orridge
 
 
 
