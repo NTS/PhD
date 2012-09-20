@@ -1,6 +1,6 @@
-# Outro
+# Where do we go from here?[^gofromhere] / Outro
 
-## Where do we go from here?[^gofromhere]
+
 
 [^gofromhere]: (Song by Yoko Ono aus dem Album)
 
@@ -236,15 +236,9 @@ es vielleicht für egal, falls es scheitern konnte.
 
 
 
-
-
-
 ## oder: Is your Art Necessary?[^necessary] 
 
 [^necessary] : (Buchtitel)
-
-
-
 
 
 
