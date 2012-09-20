@@ -3,10 +3,7 @@
 [^gofromhere]: (Song by Yoko Ono aus dem Album)
 
 
-Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, (Die des Künstlers, die Aktuere im Kunstbetrieb, die Akademie, die Theoretiker) verweist auf der bisherige erste Teilung zwischen 
-Businesskünstler und Sozialkünstler (auch Artivist genannt), die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebskünstler (Galerist, Kurator) 
-der theoretischen, (oder akademischen) und der Netzkünstler. 
-
+Die Gegenwart revisited
 
 1. Künstler
 2. Kunstbetriebkünstler (Galerist, Kurator)
@@ -20,10 +17,6 @@ Kunstmarktkünstler
 Künstlerkünstler
 Filmmacherkünstler.
 
-also es ist 2012 und gleich sind alle Menschen Künstler, während die Künstler es nicht mehr sind? Maler wird es immer geben, und es wird nicht mehr 
-*Jeder Mensch ist ein Künstler* heissen, sondern *Alles ist Kunst!*
-
-Kunstländer (im Netz) Kunstpolitik, Kunstdiktatur (Meese) 
 
 wenn man die Kritik von NY Magazin on how to be successful in the artworld eine sehr zynisches vade-mecum geliefert (who to know where to go etc) 
 aber auch eine sehr gute assesment des Kunstmarkt zustands geschrieben, der in seine Dämmerung zu sinken scheint. 
@@ -172,12 +165,6 @@ Das Resultat ist nicht unbedingt immer von der eigenen Handarbeit abhängig. Abe
 die ich mache. Immer mit Zweifel verbunden, die kann man niemandem ersparen. 
 
 
-
-
-
-
-
-
 Man sollte auch nicht immer nur mit der Deadline im Kopf arbeiten. Künstler arbeiten fast nur mit Deadlines, in dem Glauben alles in den letzten 24h 
 hinzubekommen. In vielen Fällen funktioniert das auch, man kann fast gar nicht anders. Als Professioneller Künstler muss aber lernen, eine größere Bewusstsein 
 für das gesamte Bild zu entwickeln und nicht nur auf das Werk selber, und für den Zeitpunkt der jeweiligen Ausstellungen und die nächste zwei, drei Projekte, die manchmal, je größer der Erfolg 
@@ -198,15 +185,15 @@ man etwas erreichen. Wie schon erwähnt, ich glaube es entwickeln sich zwei Kün
 werden und dann sterben wollen.
 
 
-* scheitern als Erfolg
-
-Ressistenz ist ein wichtiger Punkt. 
-
-Fazit geteilt auf die Perspektive des Staates / Museums / Gallerie / Sammler / Berichterstattung (PR)
 
 Die Einsamkeit des Projektes 
 im  New York Magazine of Contemporary Art and Theory schrieb Boris Groys in der erste Ausgabe
 http://ny-magazine.blogspot.de/2009/03/issue-11-loneliness-of-project-by-boris.html
+
+
+
+### The Process is the product![^process-product]
+[^process-product]: Album by Genesis P. Orridge
 
 
 Im Züge der Anpassung an der Kapitalismus nehmen Künstler selbstinitiative, wie Santiago Sierra zum Beispiel, der von Annahme Kulturgewidmeten Geld resourcen und 
@@ -239,13 +226,16 @@ schreiben Manifeste.
 
 Der Ist-zustand, aus alle bisherige Perspektiven gesammelt, (Die des Künstlers, die Aktuere im Kunstbetrieb, die Akademie, die Theoretiker) verweist auf der bisherige erste Teilung zwischen 
 Businesskünstler und Sozialkünstler (auch Artivist genannt), die sich als Typus entwickelten. Dazu kommen der Künstlerkünstler (Im Diskurs agierend), Kunstbetriebskünstler (Galerist, Kurator) 
-der theoretischen, (oder akademischen) und der Netzkünstler. 
+der theoretischen, (oder akademischen) und der Netzkünstler.
 
-
-- Der nächste Künstlertypus: (see BDU manifest) Künstler arbeiten an eine utopische zustand. da sie selber kreieren, halten sie 
+Es ist Ende 2012 und gleich sind alle Menschen Künstler, während die Künstler es nicht mehr sind? Maler wird es immer geben, und es wird nicht mehr 
+*Jeder Mensch ist ein Künstler* heissen, sondern *Alles ist Kunst!* Kunstländer (im Netz) Kunstpolitik, Kunstdiktatur (Meese) 
+ 
+Der nächste Künstlertypus: (see BDU manifest) Künstler arbeiten an eine utopische zustand. da sie selber kreieren, halten sie 
 es vielleicht für egal, falls es scheitern konnte. 
 
 **BILD** BDU Manifest (unten!)
+
 
 
 
@@ -254,9 +244,6 @@ es vielleicht für egal, falls es scheitern konnte.
 [^necessary] : (Buchtitel)
 
 
-
-### The Process is the product![^process-product]
-[^process-product]: Album by Genesis P. Orridge
 
 
 
