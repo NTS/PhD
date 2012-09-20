@@ -268,22 +268,24 @@ TODO: echter name des seminars!
 
 ## Next Project.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-das ist das schlußwort. es steht viel drin, noch
-nicht geordnet. womöglich rausschmeissen, was nicht
-hier drin gehört
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 > "I went from being an artist that makes things to being an artist that makes things happen" - Jeremy Deller
 > **Jeremy Deller**, Künstler, Turner Price Gewinner 2006 
 
+**Bild:** [Bildschirmfoto](jeremy_deller_on_my_iphone.png)
 
 ## Where do we go from here?[^gofromhere]
 
+[^gofromhere]: (song Yoko Ono)
+
+## oder: Is your Art Neccessary?[^neccessary] 
+
+[^neccessary]: (Buchtitel)
+
 **Der Fall Pussy Riot**
 
-Ein Beispiel dafür, dass Kunst doch ein Unterschied machen kann, Zeigt uns der Fall von *Pussy Riot*.
+Beispiele wie Künstler einem Sozial- oder politischen Unterschied versuchen zu machen, sind hier schon genug diskutiert worden. Zum Schluss und aus aktuellem Anlaß,
+möchte ich ein Paar weitere Aspekte die mit der Fall von *Pussy Riot* .
 
 *Pussy Riot* ist eine Punk-Rock Band von russischen feministischen im August 2011 in Moskau gegründet. Drei Bandmitglieder, Jekaterina Samuzewitsch, 30,
  Nadeschda  Tolokonnikowa, 22, und Marija Aljochina, 24, wurden wegen des Verdachts der Unruhen in öffentlichen Raum festgenommen, nachdem sie eine Kathedrale 
@@ -294,12 +296,12 @@ Frauen im Land aufmerksam. Die Aufführungen finden an ungewöhnlichen Orten, wi
 und bunten Kleider.Die Band arbeitet als ein Aktivisten Kollektiv: es sind 10 Musiker, und weiter 15 Menschen auf der technischen Seite, die die entstandenen Videoclips auf 
 dem Internet hochladen. Die Weibliche Mitglieder nennen sich *Fischsuppe*, *Katze*, *Hut* und *Schuhmacher.* Seit der Verhaftung, und noch 
 stärker nach dem Urteil, genießt *Pussy Riot* breite Unterstützung von vielen westlichen Musikern, darunter die Band "Faith No More" 
-Madonna, "Red Hot Chili Peppers", Björk und Paul McCartney. (Kurze Fassung der Nachrichten Meldung *Kollektiv in Bewegung* von Uri Zer Aviv für Haaretz Zeitung am 20.08.2012 http://www.haaretz.co.il/gallery/music/1.1805128 15.09.2012 13:40 Aus dem Heb. übersetzt von nts)
+Madonna, "Red Hot Chili Peppers", Björk und Paul McCartney. (Kurze Fassung der Nachrichten Meldung *Kollektiv in Bewegung* von Uri Zer Aviv für 
+Haaretz Zeitung am 20.08.2012 http://www.haaretz.co.il/gallery/music/1.1805128 15.09.2012 13:40 Aus dem Heb. übersetzt von nts)
 
-Auf Facebook ist nach dem Urteil folgenden "Zettel" auf mehrere Blog Seiten gepostet:
+Auf Facebook ist nach dem Urteil folgenden "Zettel" auf mehrere Blog Seiten hochgeladen und geteilt worden:
 
-(pussy_riot_billy_brag.jpg)
-
+**Bild:** [Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung](jeremy_deller_on_my_iphone.png)(pussy_riot_billy_brag.jpg)
 
 Der Theoretiker und Publizist Slavoj Žižek schreibte über Pussy Riot:
 
@@ -311,9 +313,18 @@ Der Theoretiker und Publizist Slavoj Žižek schreibte über Pussy Riot:
 (http://dangerousminds.net/comments/the_true_blasphemy_slavoj_zhizhek_on_pussy_riot)
 
 
+im Diskussion mit Norbert Hinterberger meinte er: "*Pussy Riot* sind ein gutes Beispiel für gesellschaftspolitisch erfolgreichen Dilettantismus unter dem Motto „Der Zweck heiligt die Mittel“. 
+Mir ist das aber noch allemal lieber als PC-weichgespülte Mitleidsattitüden und viele Formen der „Sozialkunst“!" Die Grenzen zwischen politischer Kunst, welche sich mit den negativen Auswirkungen 
+der Sozio-ökonomischen Ära des Spätkapitalismus auseinandersetzt, und reiner sozialer Arbeit, wie am Beispiel der Künstlergruppen Wochenklausur oder *Reinigungsgesellschaft*, die sich als "künstlerisches Unternehmen 
+an der Schnittstelle zwischen Kunst und Gesellschaft" verstehen" [Link](http://www.reinigungsgesellschaft.de/) verwischen langsam. mehrere Kunstinstitutionen erkennen diese neue Tendenz und 
 
+Auch die Rolle des Künstlers, der auf diese sozialen Phänomene verweist, vermischt 
+sich mit seiner eigenen Neigung zur Selbst-Ausbeutung als Aktivist. Eine oberflächige Prüfung und einige Angebote von Kulturstiftungen und finanziellen Ressourcen, die seit geraumer Zeit für diverse 
+Förderprojekte in ganz Europa rekrutieren, lassen verstehen, dass sogar die Politik in der Kunstwelt eine unerschöpfliche (und arme) Garnison fand. Willig zum Söldner 
+zu werden, während die Künstler glauben, selbst die Entscheidungen zu treffen, wofür sie zu kämpfen haben. Nur wenige schaffen es durch diese neue Agit Prop artige Verhältnisse 
+zu durchblicken, um das Bild von sich selbst als Künstler, und Kunst als Kunst zu erhalten.
 
-*S. 38 Pussy Riot sind ein gutes Beispiel für gesellschaftspolitisch erfolgreichen Dilettantismus unter dem Motto „Der Zweck heiligt die Mittel“. Mir ist das aber noch allemal lieber als PC-weichgespülte Mitleidsattitüden und viele Formen der „Sozialkunst“!*
+Im Züge der *Occupy Bewegung* in verschiedene Länder, gab es auch Auseinandersetzungen von Künstler dem Institution
 
 Alles zeigt auf Aufstand, danach folgen neue Strukturen, Verdrängung und Opportunismus
 
@@ -321,17 +332,10 @@ OCCUPY MUSEUM FOLGTE IM SOMMER 2011 / Die dokumenta, geführt und kuratiert von 
 
 Foto: Occupy dOCUMENTA(13)
 
-Die Grenzen zwischen politischer Kunst, welche sich mit den negativen Auswirkungen der sozio-ökonomischen Ära des Spätkapitalismus auseinandersetzt, 
-und reiner sozialer Arbeit, verwischen sich. Auch die Rolle des Künstlers, der auf diese sozialen Phänomene verweist, vermischt sich mit seiner eigenen Neigung 
-zur Selbst-Ausbeutung als Aktivist. Eine oberflächige Prüfung und einige Angebote von Kulturstiftungen und finanziellen Ressourcen, die seit geraumer Zeit für diverse 
-Förderprojekte in ganz Europa rekrutieren, lassen verstehen, dass sogar die Politik in der Kunstwelt eine unerschöpfliche (und arme) Garnison fand. Willig zum Söldner 
-zu werden, während die Künstler glauben, selbst die Entscheidungen zu treffen, wofür sie zu kämpfen haben. Nur wenige schaffen es durch diese neue Agit Prop artige Verhältnisse 
-zu durchblicken, um das Bild von sich selbst als Künstler, und Kunst als Kunst zu erhalten.
-
-   
+[Picture](http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)
 
 
-[^gofromhere]: (song Yoko Ono)
+
 
 
 !!! New york Magazin bericht!!!
