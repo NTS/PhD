@@ -3,23 +3,26 @@
 
 ## Where is my Mind?[^whereismymind]  
 
-[^whereismymind]: Song bei *The Pixies* aus dem Album *Surfer Rosa* (1988)
+[^whereismymind]: Song der *The Pixies*, aus dem Album *Surfer Rosa* (1988)
 
+TODO
 
 ## Was, oder wer ist ein Künstler?
 
- > "Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt – aus irgendeinem Grund – jedoch an, 
- > es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen - Andy Warhol  [@Warhol:vonAbisZ, pp.130]
+ > "Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt -- aus irgendeinem Grund -- jedoch an, 
+ > es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen. \
+  -- Andy Warhol  [@Warhol:vonAbisZ, pp.130]
 
 
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was oder wer ist heute ein Künstler? Künstler stellten sich seit jeher 
 selbst als Beobachter von sich und der Welt dar. Aber was sind ihre 'Aufgaben', wenn sie denn solche haben? Wie werden sie von der Gesellschaft wahrgenommen? Seit der Jahrtausendwende 
-existieren in Anbetracht der vielen neuen technischen Entwicklungen, verschiedene “Künstlertypen”. Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der 
-Gesellschaft etwas geändert. Joseph Beuys Aussage wurde auf den einen Satz: "Jeder Mensch ist ein Künstler" reduziert, damit also der „Künstler“ relativiert. Das Originalzitat lautet: „... Ich sage, 
+existieren in Anbetracht der vielen neuen technischen Entwicklungen, verschiedene "Künstlertypen". Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der 
+Gesellschaft etwas geändert. Joseph Beuys Aussage wurde auf den einen Satz: "Jeder Mensch ist ein Künstler" reduziert, damit also der "Künstler" relativiert. Das Originalzitat lautet: „... Ich sage, 
 es muss ein anderer Kunstbegriff geprägt werden, der sich auf jedermann bezieht und nicht nur Sache der Künstler ist, sondern sich anthropologisch nur deklarieren lässt. D.h. jeder Mensch 
 ist ein Künstler in dem Sinne, dass er etwas gestalten kann. Alle Fragen der Menschen können nur Fragen der Gestaltung sein (Soziales Gestalten, Rechtsgestaltung, Natur – 
-und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“ 
-TODO: LINK(J. Beuys im Gespräch mit B. Blume u. H. G. Prager vom 15.11.1975, D 6-Kat.I/156 f.). 
+und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“[^source-beuysprager]
+ 
+[^source-beuysprager]: J. Beuys im Gespräch mit B. Blume u. H. G. Prager vom 15.11.1975, D 6-Kat.I/156
 
 Wie stellt sich der Künstler selbst dar, was sind seine Aufgaben und wie wird er von der Gesellschaft wahrgenommen? Existieren seit der Jahrtausendwende 
 in Anbetracht der vielen neuen technischen Entwicklungen verschiedene “Künstlertypen”, die man definieren könnte? Was hat sich in dem 
@@ -33,14 +36,14 @@ und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb fo
 
 
 Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von "const" was soviel wie Können, 
-Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch "Kunst kommt vom Können" [^Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002]. 
-Dieser Aphorismus hat sogar einen eigenen Artikel bei Wikipedia [Deutsche Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
+Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch "Kunst kommt vom Können".[^book-etymode](Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002.) Dieser Aphorismus hat sogar einen eigenen [Artikel bei deutschsprachigen Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
 Hierzu ein Auszug aus [Meyers Online-Lexikon](http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie): "Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
 Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". 
 
 
-**Bild:** [Der Künstler Begriff nach Pons](kuenstler_nach_pons.png) 
-[]Footnote/Bildnachweis: Scan nts 
+**Bild:** [Der Künstler Begriff nach Pons[^source-kuenstler_nach_pons]](kuenstler_nach_pons.png) 
+
+[^source-kuenstler_nach_pons]: Scan nts 
 
 
 
@@ -59,7 +62,7 @@ Weiter heißt es in Meyers Online-Lexikon:
 ## Looking at you (looking at me)[^LadyGaga]
 
 
-[^LadyGaga]: LadyGaga, Looking at me [Link] http://www.youtube.com/watch?v=2Hjm4D4LAGg]
+[^LadyGaga]: LadyGaga, "Looking at me" [Link](http://www.youtube.com/watch?v=2Hjm4D4LAGg)
 
 
 Der Künstler wird gern von anderen gesehen und beschrieben, aber stimmt es mit dem wie Künstler sich selber beschreiben, überein? In jedem Kunststudium wird über "Mimesis" 
@@ -81,12 +84,14 @@ ist: Wer wirft den Blick auf die Künstler und wie verflochten sind dadurch die 
 Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten:
 
 
-**Bild:** [Französischer Künstlermütze zu ersteigen bei E-bay](french_artist_golf_cap_by_ebay.png) 
-[]Footnote/Bildnachweis: http://www.ebay.com/sch/i.html?_sacat=0&_nkw=french+artist+cap&LH_AvailTo=0&LH_PrefLoc=2
+**Bild:** ["Französische Künstlermütze", zu ersteigen bei E-bay[^source-french_artist_golf_cap_by_ebay]](french_artist_golf_cap_by_ebay.png) 
+
+[^source-french_artist_golf_cap_by_ebay]: <http://www.ebay.com/sch/i.html?_sacat=0&_nkw=french+artist+cap&LH_AvailTo=0&LH_PrefLoc=2>
 
 
 **Bild:** [Model Naomi Campbell im Künstlerlook für Vivian Westwood](naomi_campbell_for_vivian_westwood.jpg) 
-[]Footnote/Bildnachweis: TODO: source Scan nts nachschlagen
+
+[^source-naomi_campbell_for_vivian_westwood]: TODO: source Scan nts nachschlagen
 
 	
 Dieser "Look" entspricht eher dem Typ "Armer Künstler", oder dem daraus entstandenen Klischee. In seinem Buch *Why Are Artists Poor?*[-@Abbing:poor] von 
@@ -100,7 +105,9 @@ wird ein Text des Kunstkritikers Rene Ricard aus seinem Schreiben *The Radiant C
 aus dem Slum herauskommen, indem sie sich selbst als Medium benutzen. Das verdiente Geld beweist den Wert des Künstlers". Wenn es früher massenhaft 
 Bilder von Künstlern im eigenen Atelier, neben ihrer Staffelei, vor der eigenen Arbeit gab, so hat sich parallel zur Entwicklung der Fotografie als 
 dokumentarisches Medium, eine langsame Auflösung des Künstler getrennt von seiner Arbeit vollzogen. Er wird per se nicht mehr durch oder neben 
-seinem Werk erkannt, sondern auf Grund seiner Berühmtheit autark davon als Person. [^footnote][^Denken wir an Picasso oder Paul Klee in den 
+seinem Werk erkannt, sondern auf Grund seiner Berühmtheit autark davon als Person. [^fn-picassoswfoto]
+
+[^fn-picassoswfoto]: [^Denken wir an Picasso oder Paul Klee in den 
 Schwarzweiß-Fotografien von Henri Cartier-Bresson].
 
 Mit dem Fotografieboom der 80er Jahre des vorigen Jahrhunderts ist das Bewusstsein der Künstler hinsichtlich der Wirkung ihres Aussehens gestiegen. 
@@ -123,7 +130,7 @@ vergleichen, so scheint es, dass diese davon nichts halten und eher ihre gediege
 
 
 **Bild:** [Jörg Immendorf, Foto: Andrea Strappert 2001](joerg-immendorf-by-andrea-strappert-2001.jpg) 
-[]Footnote/Bildnachweis: source netz
+[TODO](Footnote/Bildnachweis: source netz)
 
 
 Es gilt jedoch weiter die ungeschriebene Regel: Bei Ausstellungseröffnungen sollte der Künstler nicht wohlhabender aussehen als sein Galerist oder sein Sammler. 
@@ -131,7 +138,7 @@ Andy Warhol machte sich Gedanken über sein Selbstbildnis, in "Die Philosophie d
 Spiegel sehe, werde ich NICHTS sehen. Man nennt mich immer einen Spiegel, und wenn ein Spiegel in einen Spiegel sieht, was ist dann zu sehen? Wenn ich in den 
 Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen."[@source:tag, pp. 14] Und  Anna Marie Freybourg schreibt: "Dass ihm 
 innerhalb und ebenso außerhalb der Kunstwelt der Status eines großen Stars, ja einer legendären Kultfigur zukommt, scheint ganz maßgeblich auch in der Inszenierung
-seiner Person und ihrer öffentlichen medialen Präsenz begründet zu sein. TODO [@Author:book, pp. 12](SOURCE: pp12 Aus: Die Inszenierung des Künstlers (Anna Marie Freybourg (Hg.) jovis 2008 
+seiner Person und ihrer öffentlichen medialen Präsenz begründet zu sein. [TODO: SOURCE]([@Author:book, pp. 12] : pp12 Aus: Die Inszenierung des Künstlers. Anna Marie Freybourg (Hg.), jovis 2008.) 
 
 Das Bild fungiert nicht als Mittel der Selbsterkenntnis, sondern in erster Linie als Mittel der Selbstdefinition, denn es gibt Warhol die Möglichkeit, 
 sich so zu zeigen, wie er von anderen gesehen werden will.“ (Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat). Warhols Anerkennung 
@@ -140,15 +147,16 @@ Thema des Künstlerseins auf eine höhere, fast bis auf die Metaebene gehoben, d
 
 
 **Bild:** [Stickers mit Zitate von Andy Warhol, Museumshop am Hamburger Bahnhof, Berlin 2009](warhol_stickers.png) 
-[]Footnote/Bildnachweis: source Foto nts 
-
 
 **Bild:** [Im Zukunft werden Alle für fünfzehn Minuten berühmt, Sticke auf Visitenkarten Etoui, 2009](warhol_etoui.jpg) 
-[]Footnote/Bildnachweis: source Foto nts
 
+**Bild:** [Ha-Ha Funny Buttons: "Deine 15 Minuten sind um"[^source-button15min]](warhol_your_15_minutes_are_up.jpg) 
 
-**Bild:** [Ha-Ha Funny Buttons: Deine 15 Minuten sind ab](warhol_your_15_minutes_are_up.jpg) 
-[]Footnote/Bildnachweis: (Button gekauft im Museum Hamburger Bahnhof Berlin, 2009)
+[^source-warhol_etoui]: source Foto nts
+
+[^source-warhol_stickers]: source Foto nts 
+
+[^source-button15min]: (Button gekauft im Museum Hamburger Bahnhof Berlin, 2009)
 
 
 
@@ -163,7 +171,7 @@ Laut Vorwort zum Heft *Im Modell des 'Künstler-Künstlers'* steckt offenkundig 
 Voraussetzung für einen "Hype". Im Heft wird das Thema "Referenzierung" angesprochen. Ich möchte gern dieses Phänomen auf einer anderen Ebene demonstrieren und zwar 
 in Form eines Versuchs der Dekonstruktion des Künstlermythos, wie es in der umfangreichen Ausstellung “Kult des Künstlers” 2009 in den Staatlichen Museen zu Berlin 
 zu sehen war. Durch Bilder, Zitate und Wiedergabe von Arbeitsweisen wurden Künstler wie Joseph Beuys, Jeff Koons und Andy Warhol, Alberto Giacometti, Paul Klee und 
-Martin Kippenberger, etc. “bloßgestellt”. Es war die Idee, mit Hilfe einer Werbekampagne so plakativ wie möglich (Bild plus Zitat) dem Betrachter schnell eine Art 
+Martin Kippenberger, etc. "bloßgestellt". Es war die Idee, mit Hilfe einer Werbekampagne so plakativ wie möglich (Bild plus Zitat) dem Betrachter schnell eine Art 
 Selbstbildnis der Künstler zu zeigen. Das Resultat zeigte die (alle sehr berühmten) Künstler in einem Zwielicht als faul, unseriös, in manchen Fällen sogar 
 verrückt und bereit zu allem ihren Senf dazu zu geben.
 
@@ -187,12 +195,14 @@ im Stil vom “Kult des Künstlers” vorproduzieren.
 Zur Mainstreaming gehören auch andere Verkaufsgelegenheiten, der "Markt" bleibt nicht gleichgültig, das Thema ist interessant genug und im Jahr 2010 hat die 
 "Kunst Reproduktionsfirma" *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht:
 
-**Bild:** [Kunstmarkt Brettspiel, von Franz-Benno Delonge, Flyer, Prestel Verlag 2007](kunstmarkt_prestel_flyer.jpg) 
-[]Footnote/Bildnachweis: Scan vom Original nts
+**Bild:** [Kunstmarkt Brettspiel, von Franz-Benno Delonge, Flyer, Prestel Verlag 2007[^source-kunstmarkt_prestel_flyer]](kunstmarkt_prestel_flyer.jpg) 
+
+[^source-kunstmarkt_prestel_flyer]: Scan vom Original nts
 
 
-**Bild:** [Kunstmarkt Brettspiel, von Franz-Benno Delonge, Prestel Verlag 2007 Detail: 2 Spielekarten](kunstmarkt_prestel_2karten.jpg) 
-[]Footnote/Bildnachweis: Scan vom Original nts http://www.gamesweplay.de/kunstmarkt.html
+**Bild:** [Kunstmarkt Brettspiel, von Franz-Benno Delonge, Prestel Verlag 2007 Detail: 2 Spielekarten[^source-kunstmarkt_prestel_2karten]](kunstmarkt_prestel_2karten.jpg)
+ 
+[^source-kunstmarkt_prestel_2karten]: Scan vom Original nts <http://www.gamesweplay.de/kunstmarkt.html>
 
 
 Ein Blick von außen auf den Künstler verleiht einen Ausdruck über die unausgesprochene Leichtigkeit des Künstlerseins auch durch Bücher wie 
@@ -200,23 +210,26 @@ Ein Blick von außen auf den Künstler verleiht einen Ausdruck über die unausge
 sondern eher ein "Knigge für Vernissagen" darstellt und in dem alle Klischees über Künstler in einer sehr verdaulichen Form aufgezeigt sind. 
 Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblößt sich selbst weiter und zwar ganz. 
  
-TODO: Weitere Bilder Richtig verteilen
+[TODO](Weitere Bilder Richtig verteilen)
 
 **Bild:** [Mundspray, Dana Wyse, Verstehen Sie Moderne Kunst auf Anhieb, Objekt, 2004](understand_modern_art_object.jpg) 
-[]Footnote/Bildnachweis: Mundspray Dana Wyse, Size:1.5 cm x 7.5 cm Packaging size:11 cm x 15 cm 7.5 ml http://www.blueq.com/
+
+[^source-understand_modern_art_object]: Mundspray Dana Wyse, Size:1.5 cm x 7.5 cm Packaging size:11 cm x 15 cm 7.5 ml http://www.blueq.com/
 
 
+**Bild:** [Barking Dogs United, FX I 2008[^source-bdu_fx_1]](bdu_fx_1.png)
 
-**Bild:** [Barking Dogs United, FX I 2008](bdu_fx_1.png)
-[]Footnote/Bildnachweis: cc nts
-
-
-**Bild:** [Barking Dogs United, FX II 2008](bdu_fx_2.png)
-[]Footnote/Bildnachweis:cc nts
+[^source-bdu_fx_1]: cc nts
 
 
-**Bild:** [Barking Dogs United, FX III 2008](bdu_fx_3.png)
-[]Footnote/Bildnachweis: cc nts
+**Bild:** [Barking Dogs United, FX II 2008[^source-bdu_fx_2]](bdu_fx_2.png)
+
+[^source-bdu_fx_2]: cc nts
+
+
+**Bild:** [Barking Dogs United, FX III 2008[^source-bdu_fx_3]](bdu_fx_3.png)
+
+[^source-bdu_fx_3]: cc nts
 
 
 
@@ -238,17 +251,20 @@ Als Dependence zu Immendorfs *Ich wollte Künstler werden* vom 1972 ist das Mime
 Die erste Version des Mimes wurde im Februar 2012 auf *facebook* publiziert, und beschreibt die Rezeption des Schaffens eines Berufssegments 
 aus unterschiedlichen Perspektiven.
 
-**Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme](garnet_hertz_contemporary_artist_fb_meme.jpg) 
-[]Footnote/Bildnachweis: (http://knowyourmeme.com/memes/what-people-think-i-do-what-i-really-do)
+**Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme[^source-garnet_hertz_contemporary_artist_fb_meme]](garnet_hertz_contemporary_artist_fb_meme.jpg) 
+
+[^source-garnet_hertz_contemporary_artist_fb_meme]: TODO <http://knowyourmeme.com/memes/what-people-think-i-do-what-i-really-do>
  
-**Bild:** [What Artists Do, Pie Chart auf Mylife 600](what_artists_do_mylife-600.jpg)
+**Bild:** [What Artists Do, Pie Chart auf Mylife 600[^source-what_artists_do_mylife]](what_artists_do_mylife-600.jpg)
+
+[^source-what_artists_do_mylife]: TODO
 
 
 ### Lisa Simpson & Claire Fisher
 
 In Film, Fernsehen & Comics werden die Eigenschaften und Gedankenwege von Künstlern oft kritisch wiedergegeben. Der Film *Basquiat*, 
 selbst von einem Künstler, nämlich Julian Schnabel entworfen, beschäftigt sich mit dem inneren Konflikt zwischen dem innerlichen Drang nach Ruhm,
-und die fehlende Kompetenz, das erreichte Ziel zu genießen, ja auszuhalten. Künstler zweifeln gern. Der US- amerikanische Fernseh -Kanal HBO hat in seiner Serie *Six Freet Under* die Künstler in mehr als einer Persönlichkeit wiedergegeben. Eine der Hauptrollen, die Tochter
+und die fehlende Kompetenz, das erreichte Ziel zu genießen, ja auszuhalten. Künstler zweifeln gern. Der US- amerikanische Fernseh -Kanal HBO hat in seiner Serie *Six Feet Under* die Künstler in mehr als einer Persönlichkeit wiedergegeben. Eine der Hauptrollen, die Tochter
 Claire Fisher, wächst in einem Familien-Bestattungsunternehmen auf, fotografiert gern, strebt nach Ausdruck ihrer kreativen Kräfte und entscheidet 
 sich für die Kunsthochschule. In der gesamten vierten Staffel begleitet der Zuschauer ihre ersten Schritte in und bei der Konfrontationen mit der
 Kunstwelt. Alles wird sehr überlegt und kritisch dargestellt, Claire findet ihren Weg und erreicht ihre Ziele. In der Abschluss Episode 
@@ -256,8 +272,9 @@ wird die Zukunft jeder Hauptrolle bis zum Tod im Schnellmodus dargestellt und Cl
 Leibowitz. Trotz all dem wird sie im Promo Plakat von Fan Art mit Pinsel und an der Staffelei abgebildet. 
 
 
-**Bild:** [HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*](claire_fisher-milestogo1440.jpg) 
-[]Footnote/Bildnachweis: http://www.dearly-devoted.com/Miscellaneous%20Wallpapers/milestogo1440.jpg
+**Bild:** [HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*[^source-claire_fisher]](claire_fisher-milestogo1440.jpg)
+ 
+[^source-claire_fisher]: <http://www.dearly-devoted.com/Miscellaneous%20Wallpapers/milestogo1440.jpg>
 
 
 Diskrepanzen in der Wahrnehmung des Zuschauers? In die Comic Serie *American dad* macht der

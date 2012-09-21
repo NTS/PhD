@@ -1,10 +1,10 @@
 # Everything Has Been Done[^everydone]  (Einleitung)
 
 
-[^everydone]: Kunstwerk Titel der Kunstgruppe Azzoro, PL 2003
+[^everydone]: Titel eines Kunstwerks der Kunstgruppe Azzoro, PL 2003
 
 
-> "I am bored with that line. I never use it anymore. My new line is: in 15 minutes everybody will be famous" - Andy Warhol
+> "I am bored with that line. I never use it anymore. My new line is: in 15 minutes everybody will be famous" -- Andy Warhol
 
 Wenn ein junger Mensch Künstler werden will, findet er eine neue Welt vor: Kunsthochschulen und Kunstakademien, Galerien und 
 alternative Ausstellungsräume, Museen und Künstlerhäuser, Förderungen, Wettbewerbe und Open-calls, Sammler, Kuratoren, Kunstkritiker, 
@@ -52,25 +52,25 @@ von Künstlern. Wenn man die neuen technologischen Entwicklungen und Möglichkei
 einer Idee vom Kopf durch die Hand und von dort zum leeren Bogen zu übertragen (oder zu übersetzen, wie ich immer häufiger tendiere zu sagen), oder kann 
 es sein, dass es reichen würde und allein die Idee als Geisteseigentum vom Künstler anerkannt wird und damit die künstlerische individuelle Handschrift von 
 sekundärer Wichtigkeit sein wird. (Schon Ad Reinhardt postulierte, dass des Künstlers Spuren im Werk verschwinden sollten). Die Entwicklung von Selbstbestimmung der 
-Urheberrechte im Angesicht vom *Creative Commons* [^footnote-[Link](http://creativecommons.org)] und ähnlichen Organisationen hinterlässt jetzt schon ihre Marke in der Kunstwelt. 
+Urheber-Rechte im Angesicht vom [*Creative Commons*](http://creativecommons.org) und ähnlichen Organisationen hinterlässt jetzt schon ihre Marke in der Kunstwelt. 
 
 Künstler arbeiten 24/7, zu jeder Tages- und Nachtzeit und in der Regel bis zur ihrem Tod. Es gibt kaum Künstler, die sagen, "Ich höre auf zu malen". 
 Große Formate werden vielleicht mühsam angefertigt, aber es gibt keinen Ruhezustand, da sie immer kreieren oder schöpfen, egal was daneben passiert, 
 ob sie nun eine akademische Stelle besetzen oder nicht. In vielen Ländern können sie Mitglieder von Künstlervereinen werden, in Deutschland können sie zumindest 
 auch eine staatliche Unterstützung (dies gleicht einem Sozialhilfeempfänger) ergattern und so innerhalb einer sozialen Nische existieren. Viele Künstler 
-suchen nach neue Strategien und gehen Kooperationen ein. Das ist nicht neu, wenn man Mail Art als kooperative Kunst bezeichnen kann, viele Gemeinschaftsproduktionen 
+suchen nach neue Strategien und gehen Kooperationen ein. Das ist nicht neu, wenn man *Mail Art* als kooperative Kunst bezeichnen kann, viele Gemeinschaftsproduktionen 
 haben dieses Thema immer schon in Frage gestellt. Trotzdem vermehren sich heute mehr als je Kooperationen von Künstlern aus verschiedenen Ländern und mit unterschiedlichen Mentalitäten.
 
 Der Künstler als Genie ist eher ein Individuum, welches nicht nur insgeheim an seinen Ideen arbeitet, sondern diese auch nach ihre Fertigstellung schützt. Als solches
 gibt es manche Komponenten, die jeder sicherlich ungern teilen kann und will. Zu kooperieren ist für ansonsten sehr Individuellen und Persönlichkeiten die genau darauf 
-behaaren welche zu sein (nämlich Künstler), nicht selbstverständlich. Laut „Zeit“-Wissen 42/2011 über „Genies“ braucht es sieben Zutaten dafür: Bildung, Kreativität, 
-Inspiration, Intuition, Unabhängigkeit, Beharrlichkeit und Glück.“ Allein alle sieben zu besitzen fordert viel. In Kooperationen mit anderen Künstler kann es einfacher werden, 
+behaaren welche zu sein (nämlich Künstler), nicht selbstverständlich. Laut „Zeit“-Wissen Ausgabe 42/2011 über „Genies“ braucht es sieben Zutaten dafür: Bildung, Kreativität, 
+Inspiration, Intuition, Unabhängigkeit, Beharrlichkeit und Glück. Allein alle sieben zu besitzen fordert viel. In Kooperationen mit anderen Künstler kann es einfacher werden, 
 wenn verschiedene Werte und Skills in einem Pool zusammenkommen und jeder etwas davon mitnehmen kann. Die Rede ist hier nicht nur von Kooperative zwecks besserer Wirtschaft, sondern 
 Ideen-Pools, begleitet von Arbeitsteilung, die ermöglicht sowohl inhaltlich, als auch technisch wie auch wirtschaftlich von jedem das beste an Eigenschaften und Skills zu nutzen. Das was einer am liebsten macht, auch machen lassen, in eine Art gerechten Teilung, von der alle nur profitieren. Die Werke oder die Resultate oder sog. Projekte
 werden gemeinschaftlich, in der Regel unter einem Gruppennamen getragen. 
 
 Die Bereitschaft zur Veränderung im Verhältnis zum Künstler und seiner Ideen und Schöpfung, seine Bereitschaft auf den eigenen Namen, Signatur und damit persönliche 
-Anerkennung und der Verzicht auf Ego-Pflege , die in diesem Zusammenhang von jedem verlangt werden, manifestieren sich in zahllosen Künstlergruppen und 
+Anerkennung und der Verzicht auf Ego-Pflege, die in diesem Zusammenhang von jedem verlangt werden, manifestieren sich in zahllosen Künstlergruppen und 
 Kollaborationen. Sie zeigen auf eine Verschiebung in der Wahrnehmung vieler Künstler, die heute mehr Optionen denn je haben, sich zu präsentieren. Durch das große Potential, das durch das 
 Internet und durch die Verbreitung von Kunst im öffentlichen Raum (permissiv oder eben nicht) zusätzlich möglich ist, können sich die Künstler 
 neben dem Solo Format des *White Cube*, der professionellen PR und dem Kritikersieb einer breiteren Öffentlichkeit stellen.
@@ -84,51 +84,55 @@ Muss man, oder besser gefragt, kann man heutzutage noch jahrelang im Atelier *"b
 zu 'beglücken'? Künstler experimentieren und probieren sowieso. Andy Warhol, Jean-Michel Basquiat, oder Joseph Beuys repräsentieren in diesem Hinsicht
 ein Auslaufmodell. Sind Scheitern und Erfolg von Künstlern nur noch an dem erreichten Olymp in Form von Ausstellungen in den Großen Museen, auf Biennalen, 
 oder der documenta zu messen? Was hat sich an dem Werdegang des Künstlers geändert und wie sind die Defizite an Professionalität den Kunststudenten 
-beizubringen? Was ist gelungen und wo sind die Gefahrenstellen? ??? dieser Satz wiederholt sich hier ???
+beizubringen? Was ist gelungen und wo sind die Gefahrenstellen? ??? TODO dieser Satz wiederholt sich hier ???
 
 Einer der stärksten Kräfte oder Motivation oder Drang, welche dem Künstler zugeschrieben werden, ist die der Erneuerung, denn Künstler haben 
 keinerlei Interesse, etwas zu machen, bzw. zu sagen, was schon einmal gemacht worden ist, sei es die Idee oder die materielle Ausführung. 
 Hier könnte die Bedeutung der Postmoderne bzw. das Veralten des Avantgardebegriffes angeführt werden (Peter Bürger „Theorie der Avantgarde“)
 
-Ger van Elk, ein Holländische Künstler, der auf drei dokumentas (5,6,& 7) ausgestellt hat, fasst es schön zusammen:
+Ger van Elk, ein holländischer Künstler, der auf drei *dokumenta*s (Nr. 5, Nr. 6 und Nr. 7) ausgestellt hat, fasst es schön zusammen:
  
-> „Kunst ist und bleibt eine Sprache. Sprache aber heißt, mit Bedeutungen umzugehen [...] Für mich wäre es langweilig, etwas zu wiederholen [...] dann bleibt es doch eine ästhetische Variante. Ich verstehe mich nicht als Fabrik [...] bloße Varianten des Themas dagegen tragen nicht wirklich etwas Neues bei [...] und für mich ist Neugierde die einzige Maßgabe, Kunst zu machen [...] Auch die Antikunst ist wieder Kunst. Man kann nicht ohne Ästhetik Kunst machen. Alles wird immer sofort zum Stil, wird ästhetisch. Kunst ohne Stil zu machen ist ungeheuer schwierig. Ich versuche alles, was man nicht machen sollte.“ (Quelle: via nwh)
+> „Kunst ist und bleibt eine Sprache. Sprache aber heißt, mit Bedeutungen umzugehen [...] Für mich wäre es langweilig, etwas zu wiederholen [...] dann bleibt es doch eine ästhetische Variante. Ich verstehe mich nicht als Fabrik [...] bloße Varianten des Themas dagegen tragen nicht wirklich etwas Neues bei [...] und für mich ist Neugierde die einzige Maßgabe, Kunst zu machen [...] Auch die Antikunst ist wieder Kunst. Man kann nicht ohne Ästhetik Kunst machen. Alles wird immer sofort zum Stil, wird ästhetisch. Kunst ohne Stil zu machen ist ungeheuer schwierig. Ich versuche alles, was man nicht machen sollte.“ (Quelle:  TODO via nwh)
 
-Wie Kant schon sagte: „Obgleich ohne Zweck, ist die Kunst für sich selbst zweckmäßig.“ Die Gruppe *Azorro Collective* (P) zeigt in ihrer 
+Wie Kant schon sagte: "Obgleich ohne Zweck, ist die Kunst für sich selbst zweckmäßig." Die Gruppe *Azorro Collective* (P) zeigt in ihrer 
 Videoarbeit *Everything Has Been Done* von 2003 sich selbst, wie sie zu viert zusammensitzen und nach neuen Ideen für ein ultimatives Kunstwerk suchen 
 und dabei immer wieder aufs Neue feststellen müssen: "Alles ist schon gemacht worden!" Die Arbeit wurde auch als Katalog gedruckt, und heisst 
-*A tragedy in 3 acts, without an epilogue*. (Krakow, Bunkier Sztuki, 2003.) Und wenn die Aussage der Künstlergruppe *Azorro* stimmt, was kommt dann?
+*A tragedy in 3 acts, without an epilogue*. (TODO Krakow, Bunkier Sztuki, 2003.) Und wenn die Aussage der Künstlergruppe *Azorro* stimmt, was kommt dann?
 Kunst ist für jeden zugänglicher als je, denn sie ist nicht mehr nur im dafür vorgesehenen elaborierten Raum (White Cube), sondern zusätzlich im 
-öffentlichen Raum und im Netz. Inwieweit wird sich der Begriff des Künstlers durch diese Möglichkeiten (Videos auf youtube, z.B. geben eine Mischung von 
-professionellen Beiträgen neben unreiferen Amateur Versuchen wider) relativiert bzw. die ökonomische Basis durch die Unterminierung des Urheberrechts nochmals minimiert? 
+öffentlichen Raum und im Netz. Inwieweit wird sich der Begriff des Künstlers durch diese Möglichkeiten relativiert bzw. die ökonomische Basis durch die Unterminierung des Urheberrechts nochmals minimiert?[^fn-netvideo] 
 Ez zeigen sich ähnliche Symptome und Diskussionen über Urheberrechte in den Bereichen Musik, Literatur etc. Festzustellen ist, das selbst der ersehnte 
 neuartigem Erfolg keine Garantie für finanzielle Sicherheit darstellt.
 
-Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne das Kunstvermittlungs- und Verkaufssysteme zu gebrauchen. Jedoch 
+[^fn-netvideo]: Das Angebot von [YouTube](http://youtube.com) z.B. setzt sich aus einer Mischung von 
+professionellen Beiträgen neben unreiferen Amateurversuchen zusammen.
+
+Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlungs- und Verkaufssysteme zu gebrauchen. Jedoch 
 fordert es von ihnen einen ziemlich hohen Preis, nämlich, in dem sie sich selbst zu einer Marktkraft entwickeln müssen. Die Konsequenzen sind klar: weniger 
-das Geldproblem, aber mehr die des Zeit haben für die Kunst. Das kann kompensiert werden, und ist heute durch die technologische Entwicklungen, möglicher als je. Darüber
-hinaus bin ich der festen Überzeugung, das dies auf eine kreative Weise, für werdende Künstler innerhalb der akademischer Welt zugeschnitten und während des Studium 
-durchaus vermittelbar sei.
+das *"Geldproblem"*, aber mehr die des *"Zeit haben für die Kunst"*. Das kann jedoch kompensiert werden und ist heute durch die technologische Entwicklungen möglicher als je. Darüber
+hinaus bin ich der festen Überzeugung, das dies auf eine kreative Weise, für werdende Künstler innerhalb der akademischer Welt zugeschnitten und eingebettet in das Studium 
+durchaus vermittelbar sein kann.
 
 Wie manifestieren sich die heutigen Beziehungen zwischen den diversen Gliedern der Kunstwelt: Künstler, Galerist, Sammler, Kurator, Museum, 
 Auktionshaus und Publikum? Offenbar hat eine Wandlung, eine Neigung zum autarkischen Benehmen, eine Übernahme von den oben aufgelistete Funktionen 
 durch Künstler selbst, stattgefunden. Ist Andy Warhols Aussage bestätigt, dass alle ihre fünfzehn Minuten Ruhm bekommen werden, oder sind diese besagten 
 fünfzehn Minuten gar vorbei und ab jetzt sind alle berühmt? 
 
-Es muss unterschieden werden zwischen der Kunst an sich, (gemeint sind die endlosen Überlegungen was Kunst sein mag, bzw. ihre Qualität, und wie und wer sie messen soll und kann) 
+Es muss unterschieden werden zwischen der Kunst an sich,[^fn-kunstansich] 
 und zwischen dem Künstler als Figur und Person, als Arbeiter und Produzent, sowie die Verhältnisse zwischen all diesen Elementen. Deswegen stellte ich mir die Frage, was 
 oder wer ist ein Künstler.
 
+[^fn-kunstansich]: Gemeint sind die endlosen Überlegungen was Kunst sein mag, bzw. ihre Qualität, und wie und wer sie messen soll und kann.
 
-**Bild:** [Azorro Collective: Everything Has Been Done 2003 (Audio Transkription)](azorro_everything_has_been_done_1.JPG) 
-[]Footnote/Bildnachweis: ???
+**Bild:** [Azorro Collective: Everything Has Been Done 2003 (Audio Transkription)[^source-azorro_everything]](azorro_everything_has_been_done_1.JPG) 
 
-**Bild:** [Azorro Collective: Everything Has Been Done 2003 Stillbild vom Video](azorro_everything_has_been_done_2.JPG) 
-[]Footnote/Bildnachweis: Bildschirmfoto vom Video cc nts
+**Bild:** [Azorro Collective: Everything Has Been Done 2003 Stillbild vom Video[^source-azorro_everything2]](azorro_everything_has_been_done_2.JPG) 
 
-**Bild:** **Bild:** [Vuk Vidor Art history (part one - version C) 2004-2009 Silkscreen](vuk_vidor_art_history.jpg) 
-[]Footnote/Bildnachweis: http://thirddrawerdown.com/shop/product/Art-History-Part-c-vuk-vidor/
+**Bild:** [Vuk Vidor Art history (part one - version C) 2004-2009 Silkscreen[^source-vuk_vidor_art_history]](vuk_vidor_art_history.jpg) 
 
+[^source-azorro_everything]: TODO
+
+[^source-azorro_everything2]: Bildschirmfoto vom Video cc nts
+
+[^source-vuk_vidor_art_history]: <http://thirddrawerdown.com/shop/product/Art-History-Part-c-vuk-vidor/>
  
-
 
