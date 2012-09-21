@@ -50,3 +50,13 @@ native: chapters
 	${PANDOC} "PhD_Dissertation.generated.markdown" --to=native --output="PhD_Dissertation.generated.hs"
 	#open PhD_Dissertation.hs
 	
+# GIT viz
+viz:
+	gource --title PhD.nts --auto-skip-seconds 3 --follow-user "Naomi T. Salmon" --viewport 1920x1080 --output-framerate 30
+
+viz2file:
+	gource --title PhD.nts --auto-skip-seconds 3 --follow-user "Naomi T. Salmon" --viewport 1920x1080 --output-framerate 30 --output-ppm-stream phdntsgource.ppm
+	
+viz-install:
+	brew update
+	brew install gource
