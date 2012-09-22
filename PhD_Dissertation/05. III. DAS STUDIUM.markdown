@@ -172,7 +172,7 @@ geschlossenem Feld? Das Anlehnen sowie das Zitieren von theoretischen und philos
 zunehmend zu beobachten. Essentielle Zitate von Walter Benjamin und Theodor W. Adorno schmücken nicht nur die Texte, sie weisen auf eine Inspirationsquelle 
 von und für Künstler hin. Worte anderer Disziplinen bieten eine Interpretationshilfe, sie erläutern die Arbeit zunächst für die Künstler selbst und anschließend auch 
 für die Betrachter. Möglicherweise findet das visuelle Konzept des Künstlers eine Rückübersetzung in eine andere Sprache, nämlich die des Wortes. Eine Idee, 
-oder eine Beobachtung, die in Worte gefasst wurde, zu welchem der Künstler ein Bild (im Sinne von Image) erstellt hat. Ist das Untermauern der visuellen Arbeit mit Worten, 
+oder eine Beobachtung, die in Worte gefasst wurde, zu welcher der Künstler ein Bild (im Sinne von Image) erstellt hat. Ist das Untermauern der visuellen Arbeit mit Worten, 
 die die Intention des Künstlers erläutern, nur eine Mode oder eine iterative Entwicklung des künstlerischen Werdegangs, die so mehr und mehr gefördert wird? Befinden wir 
 uns in dieser Entwicklung, weil die Intention nicht mehr nur allein aus der praktischen Arbeit klar abzulesen ist oder weil Künstler das Wort auch als visuelles Material betrachten?
 
@@ -181,14 +181,14 @@ TODO Einfügen Zitat Adorno (aus Zitatenbase)
 
 Welche Eigenschaften verbinden künstlerische und wissenschaftliche Recherche? Neugier, Kreativität, Experimentierfreude, die Forschung als Prozess, 
 Neues entdecken und zu erfinden. Laut Kuhn streben beide in ihren Fragestellungen nach Antworten. Der Unterschied beginnt damit, dass die Wissenschaft 
-nur sich selbst als Publikum hat, während die Kunst ein viel breiteres Publikum genießt. Aus heutiger Sicht lässt es sich relativieren, denn ein 
+nur sich selbst als Publikum hat während die Kunst ein viel breiteres Publikum genießt. Aus heutiger Sicht lässt sich dieser Sachverhalt relativieren, denn ein 
 neuer Typus entsteht: der „Akademische Künstler“. Die meisten Debatten um künstlerische Recherche sowie der Diskurs um Kunst im öffentlichen Raum, um nur ein Beispiel zu nennen, 
-interessieren wiederum nur solche Künstler, die Master- und Ph.D.-Programme belegen, solche Programme dann auch gründen, innerhalb dieser lehren und somit eine sehr spezifische 
+interessieren wiederum nur solche Künstler, die Master- und Ph.D.-Programme belegen, bzw. solche Programme dann auch gründen, innerhalb dieser lehren und somit eine sehr spezifische 
 Zielgruppe ansprechen. Ein weiterer Unterschied ist, dass der Künstler auch das Scheitern als Resultat präsentieren kann oder um es mit den Worten des Musikers 
 Genesis P. Orridge zu sagen: „Der Prozess ist das Produkt“. Die Wissenschaft kann sich das kaum leisten. Künstler können ein ästhetisches, aber durchaus hermetisches Werk 
 erzeugen, ein Bild von ihren Gedanken, von ihrer Suche kreieren, während Wissenschaftler nach luzidem Schreiben streben, welches wiederum ihren Gedanken ein Bild verleiht. 
 Recht und Anerkennung verlangen und erhalten beide. In dem 2008 erschienenem Buch *The artist as public Intellectual* hat Hirschhorn seinen Beitrag *About art in 
-public space – the space of public life*, [@Wulffen:Public, pp. 72-103] 
+public space – the space of public life* genannt [@Wulffen:Public, pp. 72-103] 
 
 [TODO](links, quellen)
 
@@ -199,8 +199,8 @@ public space – the space of public life*, [@Wulffen:Public, pp. 72-103]
 **Bild:** [Thomas Hirschhorn: Mindmap[@Wulffen:Public]](thomas_hirschhorn_mindmap.jpg)
 
 
-Als Ausstellungseinladung hat Hirschhorn eine Art visualisierten Text über seinen künstlerischen Werdegang publiziert. Der Beitrag gibt seine Recherche zur Arbeit selbst 
-als gestalteten Raum wieder, beschreibt dabei aber die Entwicklung seiner Projekte visuell und ist ein gutes Beispiel für das was Dronsfield mit Theorie als Praxis meint: 
+Als Ausstellungseinladung hat Hirschhorn eine Art visualisierten Text über seinen künstlerischen Gedankenwerdegang publiziert. Der Beitrag gibt seine Recherche zur Arbeit selbst 
+als gestalteten Raum wieder, beschreibt dabei aber die Entwicklung seiner Projekte visuell. Dieses Vorgehen bietet ein gutes Beispiel für das was Dronsfield mit Theorie als Praxis meint: 
 Es geht überwiegend darum, was die Kunst über sich selbst sagen will. Dies fasste Hirschhorn auch in eine Mindmap, eine seit Ende der neunziger Jahre sehr 
 beliebte Ausdrucksform, welche auch aus einer anderen Disziplin entlehnt wurde.
 
