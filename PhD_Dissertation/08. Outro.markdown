@@ -9,13 +9,13 @@ Die Gegenwart revisited
 2. Kunstbetriebkünstler (Galerist, Kurator)
 3. Akademie (10 Years after)
 4. netz & digitale native
-Businesskünstler
-Sozialkünstler
-Politisch aktiv plus Art = 
-Akademischenkünstler
-Kunstmarktkünstler
-Künstlerkünstler
-Filmmacherkünstler.
+1. Businesskünstler
+1. Sozialkünstler
+1. Politisch aktiv plus Art = 
+1. Akademischenkünstler
+1. Kunstmarktkünstler
+1. Künstlerkünstler
+1. Filmmacherkünstler
 
 
 wenn man die Kritik von NY Magazin on how to be successful in the artworld eine sehr zynisches vade-mecum geliefert (who to know where to go etc) 
@@ -25,17 +25,17 @@ und wenn sie in das komplex reinfallen (ich will das alles mich lieben, aber wen
 
 
 
-Künstlerstädte (mit Realen Pass) errichten sich im virtuellen Cyberspace des Internets. 
+- Künstlerstädte (mit Realen Pass) errichten sich im virtuellen Cyberspace des Internets. 
 
-why make more art if you don't understand what we did anyhow?
+- why make more art if you don't understand what we did anyhow?
 
-is your art neccessary?
+- is your art neccessary?
 
+ 
+## 10 Years after[^fn-10yafter]
 
-3. 
-## 10 Years after*
+[^fn-10yafter]: (Bandname)
 
-*(Bandname)
 
 #### zum akademischen- / Theoretischen Künstler
 
@@ -129,8 +129,9 @@ kuratiert werden.
 
 [^process-product]: Album by Genesis P. Orridge
 
-## oder: Is your Art Necessary?[^necessary] 
+## oder: Is your Art Necessary?[^urartnecessary] 
 
+[^urartnecessary]: TODO
 
 Im Züge der Anpassung an der Kapitalismus nehmen Künstler selbstinitiative, wie Santiago Sierra zum Beispiel, der von Annahme Kulturgewidmeten Geldresourcen und 
 ihre Weiterleitung an die Gesellschaft durch andere Kanäle als Strategie nutzt. Er braucht Menschen für seine Installationen, bzw. Stellt er Menschliche Verhältnisse aus, 

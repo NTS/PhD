@@ -26,8 +26,9 @@ viel Arbeit". Der Künstler, wie andere freischaffende Berufstätige, ist in der
 Ist Künstler aber ein Beruf? Zuerst wird der Begriff Autor untersucht, auf seine Anwendbarkeit für Künstler.
 
 
-**Bild:** [Willem Dafoe erklärt seiner Überlebensstrategie als Künstler im Film *Basquiat*](willem_dafoe_basquiat.png) 
-[]Footnote/Bildnachweis: Screenshot
+**Bild:** [Willem Dafoe erklärt seiner Überlebensstrategie als Künstler im Film *Basquiat*[^source-willem_dafoe_basquiat]](willem_dafoe_basquiat.png) 
+
+[^source-willem_dafoe_basquiat]: Screenshot nts
 
 
 
@@ -124,7 +125,7 @@ bei dem Versuch, ihre Freiheit zu erhalten eine Möglichkeit, die Verhältnisse 
 ## Beruf: Künstler 
 
 
-Der Businessmodel wird immer klarer. Momentan sieht es so aus, als wäre ein Künstler erst erfolgreich [^footnote-damit ist der Erfolg sowohl wirtschaftlich, als auch der Sozialstatus gemeint], wenn er achtzig Assistenten beschäftigen und bezahlen kann. Dadurch wird er genau der angepasste Unternehmer in einem System, an das er gar nicht glaubt, aber als 
+Der Businessmodel wird immer klarer. Momentan sieht es so aus, als wäre ein Künstler erst erfolgreich,[^fn-erfolgmeans] wenn er achtzig Assistenten beschäftigen und bezahlen kann. Dadurch wird er genau der angepasste Unternehmer in einem System, an das er gar nicht glaubt, aber als 
 Vorbild inszeniert. Georg Baselitz, Olafur Eliasson oder Jeff Koons, alle drei anerkannte Künstler, werden ständig durch Interviews über ihren "Betrieb" in 
 Kunstmagazinen wie z.B. *Monopol* dargestellt. Man muss den Markt reichlich und an diversen Stellen gleichzeitig beliefern. Manchmal passiert es sogar sehr schnell, 
 siehe am Beispiel Jonathan Meese, wie er sich selbst im WDR Dokumentarfilm [*Jonathan Meese - Eine Ameise der Kunst*](http://www.youtube.com/watch?v=Y_z41k65Sns&feature=related) 
@@ -133,9 +134,11 @@ und 'fertig ist der Lack', denn der Galerist wartet auf die Ware. Es sind viele 
 und der Künstler produziert sie fast wie am Fließband. Meese steht stellvertretend auch als Vorbild für junge Künstler und spiegelt damit vielleicht das Bedürfnis der 
 Gesellschaft nach „durchgeknallten Künstlertypen“, die das unangepasste Genie als Unterhaltungsmodell verkörpern, wider.  
 
+[^fn-erfolgmeans]: damit ist der Erfolg sowohl wirtschaftlich, als auch der Sozialstatus gemeint
 
-**Bild:** [Jeff Koons mit seinen Mitarbeitern, Foto: Jason Schmidt für Monopol.jpg](jeff_koons_und_mitarbeiter.jpg)  
-[]Footnote/Bildnachweis: foto Jason Schmidt Monopol, Publikation suchen)
+**Bild:** [Jeff Koons mit seinen Mitarbeitern, Foto: Jason Schmidt für Monopol.jpg[^source-jeff_koons_und_mitarbeiter]](jeff_koons_und_mitarbeiter.jpg)
+  
+[^source-jeff_koons_und_mitarbeiter]: foto Jason Schmidt Monopol, TODO: Publikation suchen
 
 
 
@@ -243,50 +246,50 @@ http://erev-rav.com/archives/8519 איתנו באבלינו הכבד
 
 #### Fanny van Dannen - Künstler sind nicht Überflüssig
 
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
-	Künstler sind nicht überflüssig
-	Aber Bäcker sind viel wichtiger
-	Sie backen das Brot schön knusprig
-	Und sie steh'n schon ganz früh auf
-	Ohne sie wär das Frühstück eine Katastrophe
-	Wir müssten die Marmalade mit dem Löffel essen
-	Und die Wurst pur
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
+Künstler sind nicht überflüssig
+Aber Bäcker sind viel wichtiger
+Sie backen das Brot schön knusprig
+Und sie steh'n schon ganz früh auf
+Ohne sie wär das Frühstück eine Katastrophe
+Wir müssten die Marmalade mit dem Löffel essen
+Und die Wurst pur
 
-	Künstler sind nicht überflüssig
-	Doch Fleischer sind viel wichtiger
-	Sie hacken das Fleisch in Stücke
-	Und sie schneiden es zurecht
-	Sie machen feine Koteletts und viele schicke Filets
-	Ohne sie müssten wir selber blutige Schürzen tragen
-	So eine Schweinerei
+Künstler sind nicht überflüssig
+Doch Fleischer sind viel wichtiger
+Sie hacken das Fleisch in Stücke
+Und sie schneiden es zurecht
+Sie machen feine Koteletts und viele schicke Filets
+Ohne sie müssten wir selber blutige Schürzen tragen
+So eine Schweinerei
 
-	Künstler sind nicht überflüssig
-	Doch Soldaten sind viel wichtiger
-	Sie beschützen unser Land 
-	Wenn Feinde es bedrohen
-	Sie fahren U-Boot und Panzer und sie zerstören Nachschubsbasen
-	Stellt euch einmal vor, wir müssten selber Menschen töten
-	So ein Wahnsinn
+Künstler sind nicht überflüssig
+Doch Soldaten sind viel wichtiger
+Sie beschützen unser Land 
+Wenn Feinde es bedrohen
+Sie fahren U-Boot und Panzer und sie zerstören Nachschubsbasen
+Stellt euch einmal vor, wir müssten selber Menschen töten
+So ein Wahnsinn
 
-	Künstler sind nicht überflüssig
-	Doch Unternehmer sind viel wichtiger
-	Sie schaffen Arbeitsplätze 
-	Und tragen die Verantwortung für viele Existenzen 
-	Und wenn etwas schief läuft 
-	Steh'n sie auf der Straße, mit der nackten Hand im Wind
-	Das ist bitter
-	Das ist so bitter
+Künstler sind nicht überflüssig
+Doch Unternehmer sind viel wichtiger
+Sie schaffen Arbeitsplätze 
+Und tragen die Verantwortung für viele Existenzen 
+Und wenn etwas schief läuft 
+Steh'n sie auf der Straße, mit der nackten Hand im Wind
+Das ist bitter
+Das ist so bitter
 
-	Aber Künstler sind nicht überflüssig
-	Weil sie was zu sagen haben 
-	Und uns den Alltag vergessen lassen
-	Ich finde, dass sie prima 
-	In unsere Gesellschaft passen
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aber Künstler sind nicht überflüssig
+Weil sie was zu sagen haben 
+Und uns den Alltag vergessen lassen
+Ich finde, dass sie prima 
+In unsere Gesellschaft passen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
-	Album: Basics (1996)
-	Lyrics: <http://lyrics.wikia.com/Funny_Van_Dannen:Künstler_Sind_Nicht_überfüssig>
-	Video/mp3: http://itunes.apple.com/ch/album/basics/id522326474
+- Album: Basics (1996)
+- [Lyrics Link]http://lyrics.wikia.com/Funny_Van_Dannen:Künstler_Sind_Nicht_überfüssig>
+- [Video/mp3 on iTunes](http://itunes.apple.com/ch/album/basics/id522326474)
 	
 
 

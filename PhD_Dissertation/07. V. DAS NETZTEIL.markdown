@@ -43,8 +43,9 @@ Kunstmarkt und dem Apparat als solchem, es entsteht der Begriff “Artist’s Ar
 
 Auf welchen Kommunikationsebenen hat sich die Kunst entwickelt? Inwieweit bedienen sich Künstler neuer Strategien, um durch Kommunikation eine weiter reichende Aufmerksamkeit zu erlangen? 
 Wird Kunst heute als Kommunikationsweg benutzt oder bedient sich die Kommunikation künstlerischer Strategien? Hierbei spielt die Umkehrung von Wort in Bild und Bild in Wort 
-eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der Straße. Die Gemeinsamkeiten beider Plattformen werden durch die Anwendung ähnlicher Strategien sichtbar.[^footnote-oeffraumnetz] 
-[^footnote-oeffraumnetz]: In der „Kunst im öffentlichen Raum“ wurde der öffentliche Raum schon auf das Internet ausgeweitet
+eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der Straße. Die Gemeinsamkeiten beider Plattformen werden durch die Anwendung ähnlicher Strategien sichtbar.[^fn-oeffraumnetz] 
+
+[^fn-oeffraumnetz]: In der „Kunst im öffentlichen Raum“ wurde der öffentliche Raum schon auf das Internet ausgeweitet
 
 Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. Weiter meint Hehn, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[@Hehn:Genius, pp. 4]. „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[@Hehn:Genius, pp. 2]
 Die Exilierung des Sakralen aus der Sphäre des künstlerischen Erlebens änderte nichts an ihrem Status als der wahren Wirklichkeit. Die Künstler kommunizierten nicht mit ihren 
@@ -65,9 +66,9 @@ die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist 
 
 Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgestattet und kann sich ungehindert innerhalb von Onlinedatenbanken bewegen. Sein Charakter ist vor allem als technisch 
 zu bezeichnen. Im Gegensatz zu seinen kunsthistorischen Vorgängern ist er autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, 
-sondern aus eigener Initiative. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“.[^footnote-virtuell]
+sondern aus eigener Initiative. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“.[^fn-virtuell]
 
-[^footnote-virtuell]: Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
+[^fn-virtuell]: Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
 Verlängerung derselben ist. Auch die Selbst- und Anerkennung als Angehöriger einer Strömung geht nun über die politische, soziale und lokale Ebene hinaus. Man gehört nicht mehr einem bestimmten 
 politischen Club eines bestimmten Ortes an, sondern wandert in eine andere Sphäre und tritt dort mit Menschen aufgrund des gemeinsamen Interesses in Kontakt. Man teilt die gleiche Meinung und 
 kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.  
@@ -77,9 +78,9 @@ kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.
 
 ### Protest: Digital & Global
 
-Der *Digital Native*[^footnote-digital-native] wird zu einer politischen und globalen Persönlichkeit. 
+Der *Digital Native*[^fn-digital-native] wird zu einer politischen und globalen Persönlichkeit. 
 
-[^footnote-digital-native]: lt. [Wikipedia: ](https://de.wikipedia.org/wiki/Digital_Native) Als *Digital Natives* werden Personen bezeichnet, die zu einer Zeit aufgewachsen sind, 
+[^fn-digital-native]: lt. [Wikipedia: ](https://de.wikipedia.org/wiki/Digital_Native) Als *Digital Natives* werden Personen bezeichnet, die zu einer Zeit aufgewachsen sind, 
 in der bereits digitale Technologien wie Computer, das Internet, Mobiltelefone und MP3s verfügbar waren. Als Antonym existiert der Begriff des *Digital Immigrant* 
 (dt.: „digitaler Einwanderer“ oder „digitaler Immigrant“) für jemanden, der diese Dinge erst im Erwachsenenalter kennengelernt hat. 
 
@@ -104,9 +105,9 @@ die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebene
 Das Internet ist und kann nur die Verlängerung der physischen Realität sein, da wir selbst die Inhalte dieses Kanals erstellen und einspeisen.
 
 Einige dieser Inhalte sind als Internet-Phänomen zu Memes geworden. Als Meme wird ein Konzept in Form eines Links oder einer Bild-, Ton- und Videodatei bezeichnet, 
-die sich schnell über das Internet verbreitet.[^footnote-mem]
+die sich schnell über das Internet verbreitet.[^fn-mem]
 
-[^footnote-mem]: Ein Mem ist eine Gedankeneinheit, die sich durch Kommunikation ihrer Träger vervielfältigt. 
+[^fn-mem]: Ein Mem ist eine Gedankeneinheit, die sich durch Kommunikation ihrer Träger vervielfältigt. 
     Mit dem kulturellen Mem-Konzept als Pendant zum biologischen Gen veranschaulichte 1976 der Evolutionsbiologe Richard Dawkins das 
 Prinzip der natürlichen Selektion, deren Grundeinheit Replikatoren von Informationen sind. 
     Den Begriff erklärte er als selbst gewähltes Kunstwort, das sich auf den griechischen Terminus μίμημα, Mimeme („etwas Nachgemachtes“ beruft. 
@@ -149,11 +150,11 @@ Außerdem ist die Kunst seit Mitte des 20. und weiter im 21. Jahrhundert immer s
 Der individuelle Kampf wird übernommen, um Änderungen von sozialen Verhältnissen und die eigenen Überzeugungen von alternativem Verhalten zu manifestieren, 
 sowohl in der Kunst als auch im Alltag.  
 
-Künstlerische Strategien wie Flashmobbing[^footnote-flashmob] werden auf einen Punkt gebracht, an dem man eingreift, um das Utopische in die reale Welt zu 
+Künstlerische Strategien wie Flashmobbing[^fn-flashmob] werden auf einen Punkt gebracht, an dem man eingreift, um das Utopische in die reale Welt zu 
 setzen. Das persönliche Erlebnis dieser (und ähnlicher) Ereignisse muss intensiv gewesen sein, jedoch wird ihre Einmaligkeit durch die vielfältige Verbreitung 
 im Internet via Youtube wieder aufgehoben und führt so wieder zu verstärkter Aufmerksamkeit.  
 
-[^footnote-flashmob]: Bestes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen sich in alltäglichen Positionen 
+[^fn-flashmob]: Bestes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen sich in alltäglichen Positionen 
 für fünf Minuten innerhalb der verkehrsreiche Station eingefroren stehen geblieben sind, um auf die Beschleunigung der Lebens aufmerksam zu machen. <https://youtu.be/jwMj3PJDxuo>
 
 nwh *S. 71, 12.6 Anführen könnte man noch, wie z. B. .*
@@ -200,9 +201,9 @@ verhalten, also ein Dèontologisches Motiv“ [-@Flusser:Kommuni].
 Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Technik und ihre Ersetzung durch Technick an. Für ihn werden Bilder zu 
 Kunstwerken, sobald sie aufhören, der dominante 
 Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können. Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, 
-gerade mit der Entwicklung der „Vergleichbaren Ästhetik“ als Kunstsparte.[^footnote-relationalaest]
+gerade mit der Entwicklung der „Vergleichbaren Ästhetik“ als Kunstsparte.[^fn-relationalaest]
 
-[^footnote-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch „Relational Aesthetics“ Kunst als eine Aktivität, die aus der Produktion von 
+[^fn-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch „Relational Aesthetics“ Kunst als eine Aktivität, die aus der Produktion von 
 Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), Aktionen und Objekten. [@Bourriaud:Relational]
 
 
@@ -346,39 +347,39 @@ Oft und gern zitiere ich in diesen Bezug die Worte Simon Sheikhs, obwohl die Jah
 ###  Le Tigre - Get Off The Internet
 
 
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
-	It feels so 80's
-	Or early 90's 
-	To be political 
-	Where are my friends?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
+It feels so 80's
+Or early 90's 
+To be political 
+Where are my friends?
 
-	(Get off the Internet!) 
-	I'll meet you in the street 
-	(Get off the Internet!) 
-	Destroy the right wing 
-	(Get off the Internet!) 
-	I'll meet you in the street 
-	(Get off the Internet!) 
-	Destroy the right wing 
+(Get off the Internet!) 
+I'll meet you in the street 
+(Get off the Internet!) 
+Destroy the right wing 
+(Get off the Internet!) 
+I'll meet you in the street 
+(Get off the Internet!) 
+Destroy the right wing 
 
-	This is repetitive 
-	But nothing has changed
-	And I'm crazy 
-	Where are my friends 
+This is repetitive 
+But nothing has changed
+And I'm crazy 
+Where are my friends 
 
-	(Get off the Internet!) 
-	I'll meet you in the street 
-	(Get off the Internet!) 
-	Destroy the right wing 
-	(Get off the Internet!) 
-	I'll meet you in the street 
-	(Get off the Internet!) 
-	Destroy the right wing
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(Get off the Internet!) 
+I'll meet you in the street 
+(Get off the Internet!) 
+Destroy the right wing 
+(Get off the Internet!) 
+I'll meet you in the street 
+(Get off the Internet!) 
+Destroy the right wing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
-	From: *From The Desk Of Mr.Lady*, ep 2001.
-	Lyrics: http://www.metrolyrics.com/get-off-the-internet-lyrics-le-tigre.html
-	Video: http://www.youtube.com/watch?feature=player_embedded&v=UWtBD0uRN0g
+- From: *From The Desk Of Mr.Lady*, ep 2001.
+- [Lyrics Link](http://www.metrolyrics.com/get-off-the-internet-lyrics-le-tigre.html)
+- [Video](http://www.youtube.com/watch?feature=player_embedded&v=UWtBD0uRN0g)
 
 
 
