@@ -182,6 +182,8 @@ jedoch an ein System anpassen, welches (anders) reguliert ist und Zeitbegrenzte 
 ## Why, are the artists poor?[^whyartistspoor]
 
     TODO: dieses Kapitel ist nur Teilweise mit  Rechtsscheibungkorrektur 
+	
+	Gehört inhaltlich zu Akademie!
 
 [^whyartistspoor]: nach dem Buchtitel von Hans Abbing *Why are the artists poor?*
 
@@ -204,6 +206,8 @@ Sie müssen überleben, wenn sie kein Kunst verkaufen, müssen sie nach Arbeit s
 
 In der Akademie ist die Rede von "Raus aus dem Elfenbeinturm". (TODO Source)" im Jahr 2007 fragt sich Sigrid Schade in einem Symposium bei einem Vortrag, was ist das Bild, was wir vermitteln und welche Erwartungen werden im Studium geweckt? Welche, wenn überhaupt Künstlermoralische Instanzen, können und sollen beigebracht werden?
 
+_ ab hier Akademie _
+
 In seinem Buch *Kunst die hängen bleibt* schreibt Prof. Karl Schawelka: "Die Vorteile, die Man als Künstler hat, wenn man zu den Top Ten gehört, sind denn auch beträchtlich. 
 Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse. Künstler erhalten sie nicht allein von ihren Sammlern." [@Schawelka:Kunsthngenbleibt, pp. 228] 
 
@@ -212,12 +216,14 @@ ein Loch kommt oder der Sprung ins kalte Wasser gewagt werden muss. Aus meiner S
 nur mit Wasser’ passender, als jeder Titel von den vielen Konferenzen und Tagungen, bei denen ich den einen oder anderen Vortrag gehalten habe, 
 Vgl. *Von Schwarze Malerei*, *Mind the Gap* usw.
 
+Zitat Mishori hierher:
+
 Geisteswissenschaft und Humanismus, diese Disziplinen werden als wenig lukrative Bereiche wahrgenommen, "Weil man da nicht Geld verdienen kann". Auch wenn manche dies denken, 
 die Akademien produzieren zahllose Menschen, die nach Arbeit suchen und die Akademie wiederum mit Professoren und Assistenten, die ihre Macht und Geschmacksrichtung auf die 
-kommende Generationen ausüben Das Machtgefühl des Kunstprofessors, welches Yaakov Mishori (aus seine Statement in Heb.) beschreibt, das gibt es, das stimmt. Was ist machtvoller, 
+kommende Generationen ausüben Das Machtgefühl des Kunstprofessors, welches Yaakov Mishori in seine Statement (in Heb.) beschreibt, das gibt es, das stimmt. Was ist machtvoller, 
 als das Genie zu erkennen und es aus ihm herauszukitzeln? 
 
-Es wird immer mehr Fachwissen über den Kunstbetrieb in den Akademien vermittelt, Künstlerdasein, wie man es empfindet und wie es weitergegeben wird? 
+Es soll mehr Fachwissen über den Kunstbetrieb in den Akademien vermittelt, das Künstlerdasein, wie man es ausserhalb des Werks selber empfindet.  
 
 
 Bekannt ist, man soll was Gescheites studieren, wie soll man schon als Künstler Arbeit finden? Er lehrt andere, wie ein Künstler zu werden, es ist selbst ein Beruf. ???wer lehrt was, da isst missverständlich ??? macht Filme (schon längst √ macht Musik besetzt stellen innerhalb der Kunst- und Kulturinstitutionen um sich herum, kuratiert andere Künstler, schreibt Bücher √ öffnet eigene Kulturzentren, Galerien, Büros und Läden. und diese Art von Professionalisierung und Flexibilität fängt schon im Studium an.
