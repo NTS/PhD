@@ -128,6 +128,7 @@ Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden ko
 
 ## Theorie vs. Praxis
 
+_Zur Entstehung der Akademischen Künstler_
 
 Es entwickeln sich neue Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender Ph.D.-Programme an Kunsthochschulen, und spürbarem Anstieg in der Anzahl
 von Kolloquien, Konferenzen und Diskussionen über Künstlerische Recherche (Artistic Research).
@@ -144,7 +145,6 @@ verwendet werden kann, zur Verkürzung des Patientenaufenthalts in Krankenhäuse
 Beziehung und die Verbesserung der psychischen Gesundheit fördert.“ Die Post kam via *E-Flux*, ein Online-Kunst-Nachrichten-Service, das neben der 
 Ankündigung von Ausstellungen in der ganze Welt, auch Texte über Kunst und Erziehung *Art & Education* veröffentlicht. 
 
-_ es geht um Akademie:_
 Die akademische wissenschaftliche Welt verfolgt mit Unruhe diese Entwicklung und zweifelt an der Fähigkeit, dass Künstler theoretische Texte und Dissertationen 
 schreiben können, wenn diese nicht in traditioneller Art und Weise geschrieben sind. Viele Promovierende bestreiten eine künstlerische Freiheit, das heißt 
 viele von ihnen wollen die theoretischen Texte in Verbindung mit dem praktischen Teil wissen, welcher fünfzig Prozent der Promotion ausmacht. 
@@ -156,14 +156,13 @@ die Avantgarde und das Kuratorium, ist das Thema künstlerische Recherche innerh
 inzwischen fest verankert. Seit geraumer Zeit häufen sich auch die Online Magazine wie *Artistic Research UK.org*, die sich diesem Thema widmen.
 
 Ein gutes Beispiel für diese Auseinandersetzung ist die Arbeit von Hagen Betzwieser, der seit 2001 das [*Institut für Allgemeine Theorie*](http://www.iat-research.com/index.php/about-the-institute) in Stuttgart 
-in Zusammenarbeit mit mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Leiter der Akademie Schloss Solitude beschreibt die Tätigkeit von Betzwieser wie folgend: 
+in Zusammenarbeit mit mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Leiter der Akademie Schloss Solitude beschreibt die Tätigkeit von Betzwieser wie folgt: 
 “Das Institut für Allgemeine Theorie ist ein Projekt von unbestimmter Dauer, für alles von einem auf einer unendlichen Anzahl von Teilnehmern. Er arbeitet in einem undefinierten 
 Bereich, in der Grauzone, wo es keine Unterscheidung zwischen Fiktion und Wissenschaft, Kunst und Handwerk, selbständiges Arbeiten und Selbstausbeutung, zwischen Spiel-, 
-Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, 
-deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”.
+Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”.
 
 Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläubigkeit gegenüber der 
-neuen Realität, einen Ph.D. Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??] von 1978 bezieht sich der 
+neuen Realität, einen Ph.D. Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]bezieht sich der 
 Wissenschaftstheoretiker Thomas S. Kuhn, der in Princeton Professor war, mit einer Bemerkung zum Verhältnis von Wissenschaft und Kunst auf einen noch früheren 
 Text von E. M. Hafner, *The New Reality in Art and Science* von 1969. Kuhn meint: „Je mehr man versucht Künstler von Wissenschaftlern zu unterscheiden, 
 desto schwieriger wird diese Aufgabe“[-@Kuhn:Entstehung], jedoch betrachtet er dies als beunruhigend.
@@ -176,6 +175,9 @@ für die Betrachter. Möglicherweise findet das visuelle Konzept des Künstlers 
 oder eine Beobachtung, die in Worte gefasst wurde, zu welchem der Künstler ein Bild (im Sinne von Image) erstellt hat. Ist das Untermauern der visuellen Arbeit mit Worten, 
 die die Intention des Künstlers erläutern, nur eine Mode oder eine iterative Entwicklung des künstlerischen Werdegangs, die so mehr und mehr gefördert wird? Befinden wir 
 uns in dieser Entwicklung, weil die Intention nicht mehr nur allein aus der praktischen Arbeit klar abzulesen ist oder weil Künstler das Wort auch als visuelles Material betrachten?
+
+TODO Einfügen Zitat Adorno (aus Zitatenbase)
+
 
 Welche Eigenschaften verbinden künstlerische und wissenschaftliche Recherche? Neugier, Kreativität, Experimentierfreude, die Forschung als Prozess, 
 Neues entdecken und zu erfinden. Laut Kuhn streben beide in ihren Fragestellungen nach Antworten. Der Unterschied beginnt damit, dass die Wissenschaft 
