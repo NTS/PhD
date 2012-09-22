@@ -41,17 +41,17 @@ Ist Künstler aber ein Beruf? Zuerst wird der Begriff Autor untersucht, auf sein
 
 Zu Goethes Zeit wurde per Hand geschrieben. Um ihn herum gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
 zu lektorieren, Bilder und Rechte zu besorgen, zu layouten, zu gestalten, verlegen, vermarkten und eventuell zu übersetzen. Heute liegt die Regie größtenteils bei 
-dem Autor selbst und bei seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum, 
-Sammler, Kunstmesse etc. noch immer funktioniert. Jedoch betätigt sich der Künstler oft auch selbst im Kuratorischen, Layouten von Werbematerial und in 
-der Verbreitung durch das Web 2.0. Ist der Künstler gezwungen, alles selbst zu können?: Ein Kurator zu sein, Texte zu schreiben und seine Bilder zu beschriften?
+dem Autor selbst und seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum, 
+Sammler, Kunstmesse etc. noch immer funktioniert. Jedoch betätigt sich der Künstler oft auch selbst als Kurator, als Layouter von Werbematerial und in 
+der Verbreitung durch das Web 2.0. Ist der Künstler gezwungen, alles selbst zu können?: Muss er ein Kurator sein, hat er Texte zu schreiben und seine Bilder zu beschriften?
 Kreativität und Produktivität werden miteinander vermischt.
 
 Die Verhältnisse zwischen Kunst und Arbeit sind nicht neu und dennoch erscheinen zurzeit unzählige Bücher und Reader, die sich unter Titeln wie *Work, Work,
-Work. A Reader on Art and Labour* [@author:book] oder *Are you working too much Post-Fordism, Precarity and the Labor of Art* [@author:book] mit den 
-Veränderungen in diesem Zusammenhang beschäftigen. Das ist an sich phänomenal. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
+Work. A Reader on Art and Labour* [TODO @author:book] oder *Are you working too much Post-Fordism, Precarity and the Labor of Art* [TODO@author:book] mit den 
+Veränderungen in diesem Zusammenhang beschäftigen. Das ist an sich ein bemerkenswertes Phänomen. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
 Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 für immer noch aktuell. In seiner Rede spricht er davon, dass der Autor 
-sich nicht in die Politik einmischen sollte, sondern darin seine Kraft ausüben müsse, worin er kompetent ist. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
-man davon beigebracht bekommen, weitergeben oder lehren? Dies sind die Kernfragen, die mich interessieren und um die es in dieser Dissertation geht. 
+sich nicht in die Politik einmischen sollte, sondern in den Gebieten seine Kraft ausüben müsse, worin er kompetent sei. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
+man davon beigebracht bekommen, weitergeben oder lehren? 
 
 Im gesamten Text Benjamins könnte man durchaus das Wort *Autor* mit dem Wort *Künstler* austauschen. Die Aussage bliebe ähnlich, denn - 
 die Qualität des Kunstwerkes darf nicht wegen der politischen Intention nachlassen. Im Text *Der Autor als Produzent* vertritt Benjamin die bekannte These 
