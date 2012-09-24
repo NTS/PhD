@@ -35,8 +35,8 @@ auf der heutige werdende Künstler manifestiert sich auch von ihrer Sozialer Ges
 Künstler aus wirtschaftliche und soziale Gründe beruflich übernehmen, und dessen der Funktionäre in seine Umgebung, nämlich die des Kunstbetrieb, sein Biotop: Das Museum, die Galerie, der Kurator, 
 die auch von Künstler übernommen werden.
 
-Es handelt sich nicht nur um eine Neigung zu Autarken, die durch technische Entwicklung möglich ist, die ein Paradigmenwechsel mit sich bringt, von Vermittlung 
-via Ausstellen bis zum verkauf eines Kunstwerkes.
+Es handelt sich nicht nur um eine Neigung zu Autarken, die durch die technische Entwicklungen möglich sei, sondern eine die ein Paradigmenwechsel mit sich bringt, in den Aspekten Vermittlung, 
+Ausstellen und verkauf eines Kunstwerkes.
 
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar sowie durch Vergleiche zu anderen 
 Kunstakademien und meiner eigenen Erfahrung als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
