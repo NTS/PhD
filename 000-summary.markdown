@@ -1,6 +1,6 @@
 Zusammenfassung - 
 
-Als ich Künstler war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:*  der Künstler als Arbeiter 
+Als ich Künstler war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:* der Künstler als Arbeiter 
 
 Dissertation  
 Ph.D. Freie Kunst
@@ -62,7 +62,7 @@ Ich betreibe diese Änderung und befürworte es aktiv und bilde Künstler aus, d
 Es gehr nicht einfach darum die Studenten fitter für den herkömmlichen Kunstbetrieb zu machen, sondern durch die entstehende neue Generation von Künstlern 
 und deren und meiner künstlerischen Arbeit am Kunstbetrieb. 
 
-Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. 
+Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. Es baut sich als Puzzel aus Zitate andere, Kunstwerke andere, Bilder und Beobachtung andere - und meine.
 
 Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlungs- und Verkaufssysteme des gängigen Kunstbetriebs 
 zu gebrauchen. Jedoch fordert es von ihnen einen ziemlich hohen Preis, nämlich, den dass sie sich selbst zu einer Marktkraft entwickeln müssen. Dabei muss nicht
