@@ -42,41 +42,25 @@ und deren und meiner künstlerischen Arbeit am Kunstbetrieb.
 Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft entwickelt hat. Was haben Studenten als Vorbild wenn 
 sie in dem Studium eintreten und wie ist der Diskrepanz, wenn sie die Akademie verlassen? Welche Arbeitsmöglichkeiten gibt es und welche 'erfindet' er grad?
 **Die Arbeitswelt** ändert sich. Der Künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber einer Unternehmer, und Freiheit durch das eigenes Kapital gewinnen.
-
 Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen. 
-
-
 **Die Ausbildung** und die Auswirkung deren Umstrukturierung, 
 die seit Jahre am wandeln ist, und ihre Kompatibilität für den werdende Künstler und auf das, was ihm nach der Studium erwartet. Auf all das nimmt 
-
 **Das Netzeil** sein 
 Einfluss, sowohl in Form neue Räume, die die technologische Entwicklungen, als auch von ihrer Sozialer Gesicht Neue Strategien anbietet.
 
 Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. 
 
 Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlungs- und Verkaufssysteme des gängigen Kunstbetriebs 
-zu gebrauchen. Jedoch fordert es von ihnen einen ziemlich hohen Preis, nämlich, den dass sie sich selbst zu einer Marktkraft entwickeln müssen.
+zu gebrauchen. Jedoch fordert es von ihnen einen ziemlich hohen Preis, nämlich, den dass sie sich selbst zu einer Marktkraft entwickeln müssen. Dabei muss nicht
+unbedingt nur der Kapitalist-Künstler, (seine Characktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als Einzelkünstler 
+arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften des Internets,
+im realem Leben neue Verhältnisse herzustellen, bei der die Kunst eine Vermittlungsrolle einnimmt. 
 
-und:
 
 
-**Der Künstler** 
-Status Quo:
-Konsequenzen:
-**Die Arbeitswelt**
-Status Quo:
-Konsequenzen:
-**Die Ausbildung**
-Status Quo:
-Konsequenzen:
-**Das Netzeil**
-Status Quo:
-Konsequenzen:
+via Theodor Adorno zugeschrieben worden sind: Kunst ist nicht allein etwas, das betrachtend bleibt, sondern aktiv die soziale 
+Sphäre beeinflusst.
 
-Mir scheint, als sei es möglich, eine Beziehung zwischen Internet und realem Leben herzustellen, bei der die Kunst eine Vermittlungsrolle einnehmen kann. 
-Künstler sollten viel mehr als Gruppen anstatt als Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. 
-Projekte wie dieses besitzen die Qualitäten, die ihnen durch Emile Durckheim via Theodor Adorno zugeschrieben worden sind: solche Projekte sind soziale Fakten 
-und Kunst ist nicht allein etwas, das betrachtend bleibt, sondern aktiv die soziale Sphäre beeinflusst.
 
 
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar sowie durch Vergleiche zu anderen 
