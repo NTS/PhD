@@ -31,7 +31,7 @@ und bieten ein Überblick über das was in der Praxis stattgefunden hat.
 **Der Künstler** 
 Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft entwickelt hat. Was haben Studenten als Vorbild wenn 
 sie in dem Studium eintreten und wie ist der Diskrepanz, wenn sie die Akademie verlassen? Welche Arbeitsmöglichkeiten gibt es und welche 'erfindet' er grad?
-**Die Arbeitswelt** ändert sich. Der künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber einer Unternehmer, und Freiheit durch das eigenes Kapital gewinnen.
+**Die Arbeitswelt** ändert sich. Der Üünstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber einer Unternehmer, und Freiheit durch das eigenes Kapital gewinnen.
 
 Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen. 
 
