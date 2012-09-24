@@ -9,25 +9,26 @@ Bauhaus Universität Weimar
 Matrikel Nr. 51163
 Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger
 
-Die Kunst, und der der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. 
+Die Kunst, und der der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es um die Jetzt-zustand des Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre und die Berufliche Aspekte, die damit verbunden sind.
 
-Der Fokus liegt in die zusammenhänge zwischen vier Hauptthemen
+Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
 
-Änderung des Künstlerbild, wie er von der Gesellschaft und häufiger durch die Medien wahrgenommen wird und wie er sich selbst sieht und versteht.
+**Der Künstler** und die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, Änderung des Künstlerbildes, wie er von der Gesellschaft und häufiger durch die Medien wahrgenommen wird und wie er sich selbst sieht und versteht. Seiner verschiedene Rollen und die unterschiedliche 'Künstlersorten' die zusätzlich zu den schon existierendem, zur Zeit entstehen und von einander unterschieden werden sollen. 
 
-**Der Künstler** und die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, seiner verschiedene 
-Rollen und die unterschiedliche 'Künstlersorten' die zusätzlich zu den existierendem, zur Zeit entstehen und von einander unterschieden werden sollen. **Die Arbeitswelt** 
-im Bezug auf der Platz und Möglichkeiten für Künstler im Spätkapitalismus sich eine eigene Nische zu bauen. **Die Ausbildung** und die Auswirkung deren Umstrukturierung, 
-die seit Jahre am wandeln ist, und ihre Kompatibilität für den werdende Künstler und auf das, was ihm nach der Studium erwartet. Auf all das nimmt **Das Netzeil** sein 
+**Die Arbeitswelt** mit die Änderungen durch die globale wirtschaftliche Situation und im Bezug auf der Platz und Möglichkeiten für Künstler im Spätkapitalismus sich eine eigene Nische zu bauen. 
+
+**Die Ausbildung** und die Auswirkung deren Umstrukturierung, 
+die seit Jahre am wandeln ist, und ihre Kompatibilität für den werdende Künstler und auf das, was ihm nach der Studium erwartet. Auf all das nimmt 
+
+**Das Netzeil** sein 
 Einfluss, sowohl in Form neue Räume, die die technologische Entwicklungen, als auch von ihrer Sozialer Gesicht Neue Strategien anbietet. Die Wirkung dessen auf der 
 heutige werdende Künstler wirft viele Fragen, zu den ich durch Untersuchung vielfältige Antworten bekommen habe und versuche die zusammenzulegen.
 
-Es findet momentan eine Verschiebung statt, zwischen die Rollen die sich Künstler aus wirtschaftliche und Soziale Gründe beruflich übernehmen, und dessen seine Umgebung, 
+Es findet momentan eine Verschiebung statt, zwischen die Rollen die sich Künstler aus wirtschaftliche und soziale Gründe beruflich übernehmen, und dessen seine Umgebung, 
 nämlich das Kunstbetrieb als seiner Biotop, das Museum, die Galerie, der Kurator etc.
 
 Es handelt sich nicht nur um eine Neigung zu Autarken, die durch technische Entwicklung möglich ist sondern ein paradigmatischen, von Vermittlung via Ausstellen bis zum verkauf.
 
-In meine Dissertation geht es um die Jetzt-zustand der Kunstbetrieb und die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre.
 
 Meine Feststellungen konzentrieren sich um vier Recherche Hauptthemen: 
 Struktur des Studiums, die bestehende und entstandene Experimente die ich durchgeführt habe, kaschieren diese Theorie und sind derer Basis und diene als das Beispiel dafür,
@@ -55,12 +56,6 @@ zu gebrauchen. Jedoch fordert es von ihnen einen ziemlich hohen Preis, nämlich,
 unbedingt nur der Kapitalist-Künstler, (seine Characktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als Einzelkünstler 
 arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften des Internets,
 im realem Leben neue Verhältnisse herzustellen, bei der die Kunst eine Vermittlungsrolle einnimmt. 
-
-
-
-via Theodor Adorno zugeschrieben worden sind: Kunst ist nicht allein etwas, das betrachtend bleibt, sondern aktiv die soziale 
-Sphäre beeinflusst.
-
 
 
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar sowie durch Vergleiche zu anderen 
