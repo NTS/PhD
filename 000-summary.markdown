@@ -49,14 +49,14 @@ Ideen als Geisteseigentum des Künstlers anerkannt und dass damit die künstleri
 Die Entwicklung von Selbstbestimmung der Urheber-Rechte hinterlässt jetzt schon ihre Marke in der Kunstwelt, und ebnet den Weg zu mehr Kooperation
 als bisher möglich war.
 
+Es gehr nicht einfach nur darum die Studenten für den herkömmlichen Kunstbetrieb zu trainieren, sondern durch die entstehende neue Generation von Künstlern 
+(und deren und meiner künstlerischen Arbeit am Kunstbetrieb), denn die Kunst und der Kunstbetrieb sich ändern werden und ich diese Änderung aktiv betreibe, 
+befürworte und Künstler ausbilde, die für diese Zukunft sorgen.
 
 Meine Feststellungen basieren sich auf meine Recherche diese vier Hauptthemen, die bestehende und entstandene Experimente die ich durchgeführt habe, 
 kaschieren diese Theorie und sind derer Basis und dienen als Beispiel dafür, und bieten ein Überblick über das was in der Praxis stattgefunden hat. 
 Sie befinden sich im Bericht Format als Anhang.
 
-Ich betreibe diese Änderung und befürworte es aktiv und bilde Künstler aus, die für diese Zukunft sorgen und in dieser Aktiv werden und davon überleben.
-Es gehr nicht einfach darum die Studenten fitter für den herkömmlichen Kunstbetrieb zu machen, sondern durch die entstehende neue Generation von Künstlern 
-und deren und meiner künstlerischen Arbeit am Kunstbetrieb. 
 
 Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. Es baut sich als Puzzel aus Zitate andere, Kunstwerke andere, Bilder und Beobachtung andere - und meine.
 
@@ -66,9 +66,4 @@ unbedingt nur der Kapitalist-Künstler, (seine Characktere werden später erläu
 arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften des Internets,
 im realem Leben neue Verhältnisse herzustellen, bei der die Kunst eine Vermittlungsrolle einnimmt. 
 
-_
-Du nicht einfach die Studenten fitter für den herkömmlichen Kunstbetrieb machst, sondern durch die entstehende neue Generation von Künstlern 
-(und deren und Deiner künstlerischen Arbeit am Kunstbetrieb) die Kunst und der Kunstbetrieb sich ändern werden und Du diese Änderung aktiv betreibst, 
-befürwortest und Künstler ausbildest, die für diese Zukunft sorgen.
-Zumindest in der Zusammenfassung der Thesen sollte das prominent erscheinen.
 _
