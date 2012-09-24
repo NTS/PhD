@@ -33,10 +33,8 @@ die Kooperation bedeuten ansonsten ist er dabei welche zu 'erfinden'  - als Kün
 **Das Netzteil** Der Einfluss des Digitale Bearbeitungsmöglichkeiten von Material, neben der Form neue Räume, die die technologische Entwicklungen anbietet ist enorm.  Die Wirkung dessen
 auf der heutige werdende Künstler manifestiert sich auch von ihrer Sozialer Gesicht in Form Neue Distributionsstrategien. Es findet momentan eine Verschiebung statt. Einerseits die Rollen die sich 
 Künstler aus wirtschaftliche und soziale Gründe beruflich übernehmen, und dessen der Funktionäre in seine Umgebung, nämlich die des Kunstbetrieb, sein Biotop: Das Museum, die Galerie, der Kurator, 
-die auch von Künstler übernommen werden.
-
-Es handelt sich nicht nur um eine Neigung zu Autarken, die durch die technische Entwicklungen möglich sei, sondern eine die ein Paradigmenwechsel mit sich bringt, in den Aspekten Vermittlung, 
-Ausstellen und verkauf eines Kunstwerkes.
+die auch von Künstler übernommen werden. Es handelt sich nicht nur um eine Neigung zu Autarken, die durch die technische Entwicklungen möglich sei, sondern eine die ein Paradigmenwechsel mit sich 
+bringt, in den Aspekten Vermittlung, Ausstellen und verkauf eines Kunstwerkes.
 
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar sowie durch Vergleiche zu anderen 
 Kunstakademien und meiner eigenen Erfahrung als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
