@@ -10,9 +10,8 @@ Matrikel Nr. 51163
 Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger
 
 Die Kunst, und der der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es um die Jetzt-zustand des 
-Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre und die Berufliche Aspekte, in und ausserhalb der Akademie zu erleutern.
-
-Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
+Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre und die Berufliche Aspekte, in und ausserhalb 
+der Akademie zu erläutern. Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
 
 **Der Künstler** und die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, Änderung des Künstlerbildes, wie er von der Gesellschaft und häufiger durch die 
 Medien wahrgenommen wird und wie er sich selbst sieht und versteht. Seiner verschiedene Rollen und die unterschiedliche 'Künstlersorten' die zusätzlich zu den schon 
@@ -49,21 +48,20 @@ Ideen als Geisteseigentum des Künstlers anerkannt und dass damit die künstleri
 Die Entwicklung von Selbstbestimmung der Urheber-Rechte hinterlässt jetzt schon ihre Marke in der Kunstwelt, und ebnet den Weg zu mehr Kooperation
 als bisher möglich war.
 
-Es gehr nicht einfach nur darum die Studenten für den herkömmlichen Kunstbetrieb zu trainieren, sondern durch die entstehende neue Generation von Künstlern 
-(und deren und meiner künstlerischen Arbeit am Kunstbetrieb), denn die Kunst und der Kunstbetrieb sich ändern werden und ich diese Änderung aktiv betreibe, 
+Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlungs- und Verkaufssysteme des gängigen Kunstbetriebs 
+zu gebrauchen. Jedoch fordert es von ihnen einen ziemlich hohen Preis, nämlich, den dass sie sich selbst zu einer Marktkraft entwickeln müssen. Dabei muss nicht
+unbedingt nur der Kapitalist-Künstler, (seine Characktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als Einzelkünstler 
+arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften des Internets,
+im realem Leben neue Verhältnisse herzustellen, bei der die Kunst eine Vermittlungsrolle einnimmt. 
+
+Es gehr nicht einfach nur darum die Studenten für den herkömmlichen Kunstbetrieb zu trainieren, sondern durch die entstehende neue Generation von Künstlern (und deren und meiner künstlerischen Arbeit am Kunstbetrieb), denn die Kunst und der Kunstbetrieb sich ändern werden und ich diese Änderung aktiv betreibe, 
 befürworte und Künstler ausbilde, die für diese Zukunft sorgen.
 
 Meine Feststellungen basieren sich auf meine Recherche diese vier Hauptthemen, die bestehende und entstandene Experimente die ich durchgeführt habe, 
 kaschieren diese Theorie und sind derer Basis und dienen als Beispiel dafür, und bieten ein Überblick über das was in der Praxis stattgefunden hat. 
 Sie befinden sich im Bericht Format als Anhang.
 
-
 Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. Es baut sich als Puzzel aus Zitate andere, Kunstwerke andere, Bilder und Beobachtung andere - und meine.
 
-Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlungs- und Verkaufssysteme des gängigen Kunstbetriebs 
-zu gebrauchen. Jedoch fordert es von ihnen einen ziemlich hohen Preis, nämlich, den dass sie sich selbst zu einer Marktkraft entwickeln müssen. Dabei muss nicht
-unbedingt nur der Kapitalist-Künstler, (seine Characktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als Einzelkünstler 
-arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften des Internets,
-im realem Leben neue Verhältnisse herzustellen, bei der die Kunst eine Vermittlungsrolle einnimmt. 
 
 _
