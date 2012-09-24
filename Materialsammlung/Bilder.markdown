@@ -1,0 +1,331 @@
+% Materialsammlung
+% Naomi Tereza Salmon
+
+# Bildtafeln
+
+
+Bilder aus dem PhD.
+
+---
+
+
+- title: Justin Hansch: "Best friends painting", 2010
+- filename: Justin.Hansch.best_friends_painting.jpg
+- media-type: Malerei
+- copyright: Justin Hansch
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Azorro Collective: "Everything Has Been Done", 2003 (Audio Transkription)
+- filename: azorro_everything_has_been_done_1.JPG
+- media-type: eigener Scan
+- copyright: Azorro Collective
+- source: Magazin TODO
+- source-url: 
+
+---
+
+
+- title: Azorro Collective: "Everything Has Been Done", 2003 (Videostill)
+- filename: azorro_everything_has_been_done_2.JPG
+- media-type: eigenes Bildschirmfoto vom Video
+- copyright: Azorro Collective
+- source: 
+- source-url: 
+
+---
+
+
+- title: Timm Ulrichs: "Betreten der Ausstellung Verboten", 1968/69
+- filename: ulrichs_betreten_verboten.jpg
+- media-type: zweifarbiger Siebdruck auf Aluminium
+- copyright: VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose
+- source: Sprengel Museum Hannover
+- source-url: http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg
+
+---
+
+
+- title: Der Begriff "Künstler" nach Pons
+- filename: kuenstler_nach_pons.png
+- media-type: eigener Scan
+- copyright: PONS GmbH
+- source: Pons Wörtbuch TODO
+- source-url: 
+
+---
+
+
+- title: Französische Künstlermütze, zu ersteigen bei ebay
+- filename: french_artist_golf_cap_by_ebay.png
+- media-type: eigener Screenshot
+- copyright: Internet
+- source: Google-Bildsuche
+- source-url: https://www.google.de/search?biw=1299&bih=666&tbm=isch&sa=1&q=french+artist+cap
+
+---
+
+
+- title: Model Naomi Campbell im Künstlerlook für Vivian Westwood
+- filename: naomi_campbell_for_vivian_westwood.jpg
+- media-type: Foto
+- copyright: Artist
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: "Jörg Immendorf"
+- filename: joerg-immendorf-by-andrea-strappert-2001.jpg
+- media-type: Foto
+- copyright: Andrea Strappert, 2001
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Aufkleber mit Zitaten von Andy Warhol
+- filename: warhol_stickers.png
+- media-type: eigener Scan
+- copyright: Staatliche Museen zu Berlin - Preußischer Kulturbesitz
+- source: Museumshop am Hamburger Bahnhof, Berlin 2009
+- source-url: 
+
+---
+
+
+- title: Aufkleber mit Zitat von Andy Warhol: "In the future everyone will be famous for fifteen minutes"
+- filename: warhol_etoui.jpg
+- media-type: eigener Scan
+- copyright: Staatliche Museen zu Berlin - Preußischer Kulturbesitz
+- source: Museumshop am Hamburger Bahnhof, Berlin 2009
+- source-url: 
+
+---
+
+
+- title: Ha-Ha Funny Buttons: "Your 15 minutes are up (Warhol"
+- filename: warhol_your_15_minutes_are_up.jpg
+- media-type: eigener Scan
+
+- copyright: Ha-Ha Funny Buttons
+- source: privat
+- source-url: http://www.ephemera-inc.com/Shop-By-Product-Type/Pinback-Buttons/Other-/-Random-Pinback-Buttons/Your-15-minutes-are-up.-Warhol-Pinback-Button-0584b.html
+
+---
+
+
+- title: "The Electrician" erklärt seine Überlebensstrategie als Künstler
+- filename: willem_dafoe_basquiat.png
+- media-type: eigener Still 
+- copyright: Eleventh Street Production
+- source: aus dem Film *Basquiat*, 1996
+- source-url: http://www.imdb.com/title/tt0115632/
+
+---
+
+
+- title: Jeff Koons mit seinen Mitarbeitern
+- filename: jeff_koons_und_mitarbeiter.jpg
+- media-type: Foto
+- copyright: Jason Schmidt
+- source: Monopol Magazin TODO ausgabe?
+- source-url: 
+
+---
+
+
+- title: "Kunstmarkt" Brettspiel 
+- filename: kunstmarkt_prestel_flyer.jpg
+- media-type: Flyer
+- copyright: Franz-Benno Delonge
+- source: Prestel Verlag, 2007
+- source-url: 
+
+---
+
+
+- title: Kunstmarkt Brettspiel, von Franz-Benno Delonge, Prestel Verlag 2007 Detail: 2 Spielekarten
+- filename: kunstmarkt_prestel_2karten.jpg
+- media-type: TODO
+- copyright: Artist
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Verstehen Sie Moderne Kunst auf Anhieb, Objekt, MoMA Berlin Museumshop
+- filename: understand_modern_art_object.jpg
+- media-type: TODO
+- copyright: Artist
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United: "FX I", 2008
+- filename: bdu_bender_flip_size_matterz_acc_2008.png
+- media-type: TODO
+- copyright: BDU
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United: "FX II", 2008
+- filename: bdu_brain_equalizer_size_matterz_acc_2008.png
+- media-type: TODO
+- copyright: Barking Dogs United
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United: "FX III", 2008
+- filename: bdu_creative_reverb_size_matterz_acc_2008.png
+- media-type: TODO
+- copyright: Barking Dogs United
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United: "FX III", 2008
+- filename: bdu_influence_modifier_size_matterz_acc_2008.png
+- media-type: TODO
+- copyright: Barking Dogs United
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United: "FX III", 2008
+- filename: bdu_lust_station_size_matterz_acc_2008.png
+- media-type: TODO
+- copyright: Barking Dogs United
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United: "FX III", 2008
+- filename: bdu_mental_core_size_matterz_acc_2008.png
+- media-type: TODO
+- copyright: Barking Dogs United
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United: "FX III", 2008
+- filename: bdu_ranger-r_size_matterz_acc_2008.png
+- media-type: TODO
+- copyright: Barking Dogs United
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United: "FX III", 2008
+- filename: bdu_reliability_size_matterz_acc_2008.png
+- media-type: TODO
+- copyright: Barking Dogs United
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United: "FX III", 2008
+- filename: bdu_thinking_booster_size_matterz_acc_2008.png
+- media-type: TODO
+- copyright: Barking Dogs United
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Barking Dogs United, FX III 2008
+- filename: #TODO
+- media-type: TODO
+- copyright: Barking Dogs United
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Vuk Vidor: "Art history (part one - version C)", 2004-2009
+- filename: vuk_vidor_art_history.jpg
+- media-type: Silkscreen
+- copyright: Vuk Vidor
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Garnet Hertz Contemporary Artist 2012 Face Book Meme
+- filename: garnet_hertz_contemporary_artist_fb_meme.jpg
+- media-type: TODO
+- copyright: Artist
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*
+- filename: claire_fisher-milestogo1440.jpg
+- media-type: TODO
+- copyright: Artist
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Studentisches Entwurf von KoCA inn Schild auf Fachkurs Universität's Tisch
+- filename: kocainn_entwurf_auf_tisch.jpg
+- media-type: TODO
+- copyright: Artist
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: K3 Fachkurs Teilnehmer bei der Arbeit
+- filename: fachkurs_teilnehmer_bei_der_arbeit.jpg
+- media-type: TODO
+- copyright: Artist
+- source: TODO
+- source-url: 
+
+---
+
+
+- title: Bauhaus-Essentials I Einladung der BUW Studentische Galerie marke.6 2010
+- filename: bauhaus_essentials_1_einladung_marke_6.jpg
+- media-type: TODO
+- copyright: Artist
+- source: TODO
+- source-url: 
+
+---
+
