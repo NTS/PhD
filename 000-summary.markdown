@@ -43,20 +43,16 @@ Es handelt sich nicht nur um eine Neigung zu Autarken, die durch technische Entw
 via Ausstellen bis zum verkauf eines Kunstwerkes.
 
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar sowie durch Vergleiche zu anderen 
-Kunstakademien und meiner eigenen Erfahrung als Künstler und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
-Möglichkeiten die im Augenblick umsetzbar sind, und die zukunftige Prognosen ergeben sich folgende Konsequenzen: Es entsteht dabei unweigerlich 
-ein Konflikt in der Essenz oder Natur der Aufgabe von Künstlern. Wenn man die neuen technologischen Entwicklungen und Möglichkeiten betrachtet, 
-stellt sich die akute 
-Frage, ob das Geniale im Kunstbereich weiter darin bestehen kann, eine Idee vom Kopf durch die Hand und von dort zum leeren Bogen zu übertragen 
-(oder zu übersetzen, wie ich immer häufiger zu sagen tendiere). Kann es sein, dass es in Zukunft reichen würde allein die Idee als Geisteseigentum 
-des Künstlers anzuerkennen und dass damit die künstlerische individuelle Handschrift von sekundärer Wichtigkeit sein wird? (Schon Ad Reinhardt 
-postulierte, dass des Künstlers Spuren im Werk verschwinden sollten). Die Entwicklung von Selbstbestimmung der Urheber-Rechte im Angesicht vom 
-[*Creative Commons*](http://creativecommons.org) und ähnlichen Organisationen hinterlässt jetzt schon ihre Marke in der Kunstwelt.
+Kunstakademien und meiner eigenen Erfahrung als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
+Möglichkeiten die im Augenblick umsetzbar sind, und die zukünftige Prognosen ergeben sich folgende Konsequenzen: in Zukunft werden allein die 
+Ideen als Geisteseigentum des Künstlers anerkannt und dass damit die künstlerische individuelle Handschrift von sekundärer Wichtigkeit sein wird.
+Die Entwicklung von Selbstbestimmung der Urheber-Rechte hinterlässt jetzt schon ihre Marke in der Kunstwelt, und ebnet den Weg zu mehr Kooperation
+als bisher möglich war.
 
 
 Meine Feststellungen basieren sich auf meine Recherche diese vier Hauptthemen, die bestehende und entstandene Experimente die ich durchgeführt habe, 
 kaschieren diese Theorie und sind derer Basis und dienen als Beispiel dafür, und bieten ein Überblick über das was in der Praxis stattgefunden hat. 
-Sie befinden sich im Berichtform als Anhang.
+Sie befinden sich im Bericht Format als Anhang.
 
 Ich betreibe diese Änderung und befürworte es aktiv und bilde Künstler aus, die für diese Zukunft sorgen und in dieser Aktiv werden und davon überleben.
 Es gehr nicht einfach darum die Studenten fitter für den herkömmlichen Kunstbetrieb zu machen, sondern durch die entstehende neue Generation von Künstlern 
