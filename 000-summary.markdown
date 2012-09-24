@@ -15,6 +15,10 @@ Ich betreibe diese Änderung und befürworte es aktiv und bilde Künstler aus, d
 Es gehr nicht einfach darum die Studenten fitter für den herkömmlichen Kunstbetrieb zu machen, sondern durch die entstehende neue Generation von Künstlern 
 und deren und meiner künstlerischen Arbeit am Kunstbetrieb. 
 
+Der Fokus liegt in die Änderung des Künstlerbild, wie er von der Gesellschaft und häufiger durch die Medien wahrgenommen wird und wie er sich selbst sieht und versteht. Es findet momentan eine Verschiebung statt, zwischen die Rollen die sich Künstler aus wirtschaftliche und Soziale Gründe beruflich übernehmen, und dessen seine Umgebung, nämlich das Kunstbetrieb als seiner Biotop, das Museum, die Galerie, der Kurator etc.
+
+Es handelt sich nicht nur um eine Neigung zu Autarken, die durch technische Entwicklung möglich ist sondern ein paradigmatischen, von Vermittlung via Ausstellen bis zum verkauf.
+
 In meine Dissertation geht es um die Jetzt-zustand der Kunstbetrieb und die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre.
 
 Meine Feststellungen konzentrieren sich um vier Hauptthemen: **Der Künstler** und die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, seiner verschiedene 
@@ -42,7 +46,7 @@ die seit Jahre am wandeln ist, und ihre Kompatibilität für den werdende Künst
 **Das Netzeil** sein 
 Einfluss, sowohl in Form neue Räume, die die technologische Entwicklungen, als auch von ihrer Sozialer Gesicht Neue Strategien anbietet.
 
-Diese Dissertation an sich ist ein  Aneignungsmodel zu verstehen. 
+Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. 
 
 
 **Der Künstler** 
