@@ -20,20 +20,15 @@ kommuniziert werden. Seiner verschiedene Rollen und die unterschiedliche 'Künst
 entstehen, wie der Kunstmarkt orientiertem, neben der Sozial- oder Theorieorientierter Künstler die von einander unterschieden werden und anders trainiert werden sollen, bzw. Zugang zu andere Quellen, 
 die bisher in der Kunstlehre nicht üblich gewesen sind, aber es sollen. 
 
- 
-**Die Arbeitswelt** ändert sich. Der Künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber einer Unternehmer, und Freiheit durch das eigenes Kapital gewinnen.
-Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen. Der Ist-Zustand und 
+**Die Arbeitswelt** ändert sich. Mit diese Änderungen durch die globale politische und wirtschaftliche Situation, lässt Platz und Möglichkeiten für Künstler im Spätkapitalismus sich 
+eine eigene Nische zu bauen. Der Künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber ein solches, und Freiheit durch der eigenen Kapital gewinnen, und damit auch macht üben.
+Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen.
 
-mit die Änderungen durch die globale wirtschaftliche Situation und im Bezug auf der Platz und Möglichkeiten für Künstler im Spätkapitalismus sich 
-eine eigene Nische zu bauen. 
-
-**Die Ausbildung** Struktur des Studiums, und die Auswirkung deren Umstrukturierung, 
-die seit Jahre am wandeln ist, und ihre Kompatibilität für den werdende Künstler und auf das, was ihm nach der Studium erwartet. die Beziehungen zwischen Kunstmarkt und der 
-Akademie werden am Beispiel der eingene Universität untersucht und ergeben eine Interessante Ergebnis. Die Kunststudenten am Bauhaus entwickeln höhere Fähigkeiten, sich zu 
-vermakten und ihre Arbeit zu Verkaufen, und das direkt nach dem Studium, wenn nicht schon innerhalb dessen
-
-Was haben Studenten als Vorbild wenn 
-sie in dem Studium eintreten und wie ist der Diskrepanz, wenn sie die Akademie verlassen? Welche Arbeitsmöglichkeiten gibt es und welche 'erfindet' er grad?
+**Die Ausbildung** Struktur des Studiums, und die Auswirkung deren Umstrukturierung, die seit Jahre am werk ist, und ihre Kompatibilität für den werdende Künstler und auf das, was ihm nach der 
+Studium erwartet. die Beziehungen zwischen Kunstmarkt und der Akademie werden am Beispiel der eingene Universität untersucht und ergeben eine Interessante Ergebnis. Die Kunststudenten am Bauhaus 
+entwickeln höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu Verkaufen, und das direkt nach dem Studium, wenn nicht schon innerhalb dessen
+Mit Welchem Vorbild kommen die Studenten wenn sie in dem Studium eintreten und wie groß die Diskrepanz, wenn sie die Akademie verlassen? Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, 
+die Kooperation bedeuten ansonsten ist er dabei welche zu 'erfinden'  - als Künstlerische Aussage.
 
 **Das Netzteil** sein 
 Einfluss, sowohl in Form neue Räume, die die technologische Entwicklungen, als auch von ihrer Sozialer Gesicht Neue Strategien anbietet. Die Wirkung dessen
