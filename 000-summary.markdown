@@ -25,13 +25,12 @@ eine eigene Nische zu bauen. Der Künstler wird vom nur Produzent auch zum Unter
 Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen.
 
 **Die Ausbildung** Struktur des Studiums, und die Auswirkung deren Umstrukturierung, die seit Jahre am werk ist, und ihre Kompatibilität für den werdende Künstler und auf das, was ihm nach der 
-Studium erwartet. die Beziehungen zwischen Kunstmarkt und der Akademie werden am Beispiel der eingene Universität untersucht und ergeben eine Interessante Ergebnis. Die Kunststudenten am Bauhaus 
+Studium erwartet. die Beziehungen zwischen Kunstmarkt und der Akademie werden am Beispiel der eigene Universität untersucht und ergeben eine Interessante Ergebnis. Die Kunststudenten am Bauhaus 
 entwickeln höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu Verkaufen, und das direkt nach dem Studium, wenn nicht schon innerhalb dessen
 Mit Welchem Vorbild kommen die Studenten wenn sie in dem Studium eintreten und wie groß die Diskrepanz, wenn sie die Akademie verlassen? Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, 
 die Kooperation bedeuten ansonsten ist er dabei welche zu 'erfinden'  - als Künstlerische Aussage.
 
-**Das Netzteil** sein 
-Einfluss, sowohl in Form neue Räume, die die technologische Entwicklungen, als auch von ihrer Sozialer Gesicht Neue Strategien anbietet. Die Wirkung dessen
+**Das Netzteil** Der Einfluss des Digitale Bearbeitungsmöglichkeiten von material, sowohl in Form neue Räume, die die technologische Entwicklungen, als auch von ihrer Sozialer Gesicht Neue Strategien anbietet. Die Wirkung dessen
 auf der heutige werdende Künstler wirft viele Fragen, zu den ich durch Untersuchung vielfältige Antworten bekommen habe und versuche die zusammenzulegen.
 
 Es findet momentan eine Verschiebung statt. Einerseits die Rollen die sich Künstler aus wirtschaftliche und soziale Gründe beruflich übernehmen, und dessen der Funktionäre 
