@@ -66,3 +66,8 @@ Konsequenzen:
 **Das Netzeil**
 Status Quo:
 Konsequenzen:
+
+_
+Du nicht einfach die Studenten fitter für den herkömmlichen Kunstbetrieb machst, sondern durch die entstehende neue Generation von Künstlern (und deren und Deiner künstlerischen Arbeit am Kunstbetrieb) die Kunst und der Kunstbetrieb sich ändern werden und Du diese Änderung aktiv betreibst, befürwortest und Künstler ausbildest, die für diese Zukunft sorgen.
+Zumindest in der Zusammenfassung der Thesen sollte das prominent erscheinen.
+_
