@@ -30,11 +30,10 @@ entwickeln höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu Verkaufen
 Mit Welchem Vorbild kommen die Studenten wenn sie in dem Studium eintreten und wie groß die Diskrepanz, wenn sie die Akademie verlassen? Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, 
 die Kooperation bedeuten ansonsten ist er dabei welche zu 'erfinden'  - als Künstlerische Aussage.
 
-**Das Netzteil** Der Einfluss des Digitale Bearbeitungsmöglichkeiten von material, sowohl in Form neue Räume, die die technologische Entwicklungen, als auch von ihrer Sozialer Gesicht Neue Strategien anbietet. Die Wirkung dessen
-auf der heutige werdende Künstler wirft viele Fragen, zu den ich durch Untersuchung vielfältige Antworten bekommen habe und versuche die zusammenzulegen.
-
-Es findet momentan eine Verschiebung statt. Einerseits die Rollen die sich Künstler aus wirtschaftliche und soziale Gründe beruflich übernehmen, und dessen der Funktionäre 
-in seine Umgebung, nämlich die des Kunstbetrieb, sein Biotop: Das Museum, die Galerie, der Kurator, die auch von Künstler übernommen werden.
+**Das Netzteil** Der Einfluss des Digitale Bearbeitungsmöglichkeiten von Material, neben der Form neue Räume, die die technologische Entwicklungen anbietet ist enorm.  Die Wirkung dessen
+auf der heutige werdende Künstler manifestiert sich auch von ihrer Sozialer Gesicht in Form Neue Distributionsstrategien. Es findet momentan eine Verschiebung statt. Einerseits die Rollen die sich 
+Künstler aus wirtschaftliche und soziale Gründe beruflich übernehmen, und dessen der Funktionäre in seine Umgebung, nämlich die des Kunstbetrieb, sein Biotop: Das Museum, die Galerie, der Kurator, 
+die auch von Künstler übernommen werden.
 
 Es handelt sich nicht nur um eine Neigung zu Autarken, die durch technische Entwicklung möglich ist, die ein Paradigmenwechsel mit sich bringt, von Vermittlung 
 via Ausstellen bis zum verkauf eines Kunstwerkes.
