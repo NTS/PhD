@@ -70,17 +70,15 @@ Konsequenzen:
 Status Quo:
 Konsequenzen:
 
-Mir scheint, als sei es möglich, eine Beziehung zwischen Internet und realem Leben herzustellen, bei der die Kunst eine Vermittlungsrolle einnehmen kann. Es bleibt die Frage: 
-Was hat eine solche aktive Teilnahme ermöglicht? War es die Einfachheit? Konnte die „angenommene Armut“ befreien und verbinden? War es die favela selbst oder der künstlerische 
-Input? In meinen Augen war es der Künstler in einer favela-Situation, der den Unterschied ausmachte. Künstlerische Freiheit und der Wunsch, in der Öffentlichkeit privat zu 
-handeln, waren die Ziele und die favela wurde zum Werkzeug mit dem dies ermöglicht wurde. KünstlerInnen sollten viel mehr als Gruppen anstatt als Einzelkünstler arbeiten und 
-vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Projekte wie dieses besitzen die Qualitäten, die ihnen durch Emile Durckheim via Theodor Adorno 
-zugeschrieben worden sind: solche Projekte sind soziale Fakten und Kunst ist nicht allein etwas, das betrachtend bleibt, sondern aktiv die soziale Sphäre beeinflusst.
+Mir scheint, als sei es möglich, eine Beziehung zwischen Internet und realem Leben herzustellen, bei der die Kunst eine Vermittlungsrolle einnehmen kann. 
+Künstler sollten viel mehr als Gruppen anstatt als Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. 
+Projekte wie dieses besitzen die Qualitäten, die ihnen durch Emile Durckheim via Theodor Adorno zugeschrieben worden sind: solche Projekte sind soziale Fakten 
+und Kunst ist nicht allein etwas, das betrachtend bleibt, sondern aktiv die soziale Sphäre beeinflusst.
 
 
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar sowie durch Vergleiche zu anderen 
 Kunstakademien und meiner eigenen Erfahrung als Künstler und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
-Möglichkeiten die im Augenblick umsetzbar sind, ergeben sich folgende Konsequenzen: Es entsteht dabei unweigerlich ein Konflikt in der Essenz 
+Möglichkeiten die im Augenblick umsetzbar sind, und die zukunftige Prognosen ergeben sich folgende Konsequenzen: Es entsteht dabei unweigerlich ein Konflikt in der Essenz 
 oder Natur der Aufgabe von Künstlern. Wenn man die neuen technologischen Entwicklungen und Möglichkeiten betrachtet, stellt sich die akute 
 Frage, ob das Geniale im Kunstbereich weiter darin bestehen kann, eine Idee vom Kopf durch die Hand und von dort zum leeren Bogen zu übertragen 
 (oder zu übersetzen, wie ich immer häufiger zu sagen tendiere). Kann es sein, dass es in Zukunft reichen würde allein die Idee als Geisteseigentum 
