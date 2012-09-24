@@ -48,6 +48,11 @@ Einfluss, sowohl in Form neue Räume, die die technologische Entwicklungen, als 
 
 Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. 
 
+Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlungs- und Verkaufssysteme des gängigen Kunstbetriebs zu gebrauchen. Jedoch 
+fordert es von ihnen einen ziemlich hohen Preis, nämlich, den dass sie sich selbst zu einer Marktkraft entwickeln müssen.
+
+und:
+
 
 **Der Künstler** 
 Status Quo:
