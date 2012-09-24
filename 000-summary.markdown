@@ -15,7 +15,7 @@ Ich betreibe diese Änderung und befürworte es aktiv und bilde Künstler aus, d
 Es gehr nicht einfach darum die Studenten fitter für den herkömmlichen Kunstbetrieb zu machen, sondern durch die entstehende neue Generation von Künstlern 
 und deren und meiner künstlerischen Arbeit am Kunstbetrieb. 
 
-In meine Dissertation geht es um die Jetzt-zustand der Kunstbetrieb und die Konsequenzen die daraus zu ziehen sind, im Bezug auf die Kunstlehre in Akademien
+In meine Dissertation geht es um die Jetzt-zustand der Kunstbetrieb und die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre.
 
 Meine Feststellungen konzentrieren sich um vier Hauptthemen: **Der Künstler** und die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, seiner verschiedene 
 Rollen und die unterschiedliche 'Künstlersorten' die zusätzlich zu den existierendem, zur Zeit entstehen und von einander unterschieden werden sollen. **Die Arbeitswelt** 
@@ -31,7 +31,7 @@ und bieten ein Überblick über das was in der Praxis stattgefunden hat.
 **Der Künstler** 
 Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft entwickelt hat. Was haben Studenten als Vorbild wenn 
 sie in dem Studium eintreten und wie ist der Diskrepanz, wenn sie die Akademie verlassen? Welche Arbeitsmöglichkeiten gibt es und welche 'erfindet' er grad?
-**Die Arbeitswelt** ändert sich. Der Üünstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber einer Unternehmer, und Freiheit durch das eigenes Kapital gewinnen.
+**Die Arbeitswelt** ändert sich. Der Künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber einer Unternehmer, und Freiheit durch das eigenes Kapital gewinnen.
 
 Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen. 
 
