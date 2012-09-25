@@ -28,7 +28,7 @@ eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Der Kün
 Kapital gewinnen, und damit auch macht üben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen. Jobs, die früher für den Künstler gemacht wurden, kann er jetzt selbst tun.
 ansonsten ist er dabei welche zu 'erfinden' - als Künstlerische Aussage, als neue Strategie.
 
-**Die Ausbildung** der werdende Künstler ist seit 10 Jahre durch das Bologna Prozess am umstrukturieren. Die Auswirkung auf das Studium und die Studenten, und ihre Kompatibilität mit dem was
+**Die Ausbildung** der werdende Künstler, ist in Europa seit 10 Jahre durch das *Bologna Prozess* am umstrukturieren. Die Auswirkung auf das Studium und die Studenten, und ihre Kompatibilität mit dem was
 dem werdende Künstler nach dem Studium erwartet, Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Akademie am Beispiel der eigene Universität sind untersucht worden 
 und heben folgende Ergebnis vor: Die Kunststudenten am Bauhaus entwickeln höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu Verkaufen, und das direkt nach dem Studium, 
 wenn nicht schon innerhalb dessen. Wenn sie in dem Studium eintreten, haben sie ein bestimmtes Vorbild, und die Diskrepanz groß, wenn sie die Akademie verlassen.
