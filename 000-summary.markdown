@@ -12,16 +12,17 @@ Matrikel Nr. 51163
 Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger
 
 
-Die Kunst, und der der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es um den Jetzt-zustand des 
-Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre. Die Berufliche Aspekte, in und ausserhalb 
-der Akademie zu erläutern. Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
+Die Kunst, und der der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es 
+um den Jetzt-zustand des Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der 
+Kunstlehre. Die Berufliche Aspekte, in und ausserhalb der Akademie zu erläutern. Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
 
-**Der Künstler** Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft sich von Französischem Mahler mit 
-Barette zum Businessmann entwickelt hat. Die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, Änderung des Künstlerbildes, wie er von der Gesellschaft und häufiger durch die 
-Medien wahrgenommen wird verweisen auf Tendenz zur Bildung einer Starfigur, oft weit anders als das wie er sich selbst sieht und verstehen mag, und sieht zu, dass sie dementsprechend eigenhändig
-kommuniziert werden. Seiner verschiedene Rollen und die unterschiedliche 'Künstlersorten', oder Strömungen, aber nicht von Stylen, sondern die zusätzlich zu den schon existierenden zur Zeit 
-entstehen, wie der Kunstmarkt orientiertem, neben der Sozial- oder Theorieorientierter Künstler die von einander unterschieden werden und anders trainiert werden sollen, bzw. Zugang zu andere Quellen, 
-die bisher in der Kunstlehre nicht üblich gewesen sind, aber es sollen. 
+**Der Künstler** Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft sich von Französischem 
+Mahler mit Barette zum Businessmann entwickelt hat. Die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, Änderung des Künstlerbildes, wie er von 
+der Gesellschaft und häufiger durch die Medien wahrgenommen wird verweisen auf Tendenz zur Bildung einer Starfigur, oft weit anders als das wie er sich selbst 
+sieht und verstehen mag, und sieht zu, dass sie dementsprechend eigenhändig kommuniziert werden. Seiner verschiedene Rollen und die unterschiedliche 'Künstlersorten', 
+oder Strömungen, aber nicht von Stylen, sondern die zusätzlich zu den schon existierenden zur Zeit entstehen, wie der Kunstmarkt orientiertem, neben der Sozial- oder 
+Theorieorientierter Künstler die von einander unterschieden werden und anders trainiert werden sollen, bzw. Zugang zu andere Quellen, die bisher in der Kunstlehre 
+nicht üblich gewesen sind, aber es sollen. 
 
 **Die Arbeitswelt** ändert sich. Mit diese Änderungen durch die globale politische und wirtschaftliche Situation, lässt Platz und Möglichkeiten für Künstler im Spätkapitalismus sich 
 eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Der Künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber ein solches, und Freiheit durch der eigenen 
