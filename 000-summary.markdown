@@ -12,7 +12,7 @@ Matrikel Nr. 51163
 Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger
 
 
-Die Kunst, und der der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es 
+Die Kunst, und der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es 
 um den Jetzt-zustand des Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der 
 Kunstlehre. Die Berufliche Aspekte, in und ausserhalb der Akademie zu erläutern. Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
 
