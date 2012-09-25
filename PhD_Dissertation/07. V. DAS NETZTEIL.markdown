@@ -67,10 +67,8 @@ ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: die Künstler 
 die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar.
 
 Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgestattet und kann sich ungehindert innerhalb von Onlinedatenbanken bewegen. Sein Charakter ist vor allem als technisch 
-zu bezeichnen. Im Gegensatz zu seinen kunsthistorischen Vorgängern ist er autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, 
-sondern aus eigener Initiative. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“.[^fn-virtuell]
-
-[^fn-virtuell]: Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
+zu bezeichnen. Mehr als seinen kunsthistorischen Vorgängern ist er autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, 
+sondern aus eigener Initiative. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“. Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
 Verlängerung derselben ist. Auch die Selbst- und Anerkennung als Angehöriger einer Strömung geht nun über die politische, soziale und lokale Ebene hinaus. Man gehört nicht mehr einem bestimmten 
 politischen Club eines bestimmten Ortes an, sondern wandert in eine andere Sphäre und tritt dort mit Menschen aufgrund des gemeinsamen Interesses in Kontakt. Man teilt die gleiche Meinung und 
 kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.  
@@ -86,8 +84,8 @@ Der *Digital Native*[^fn-digital-native] wird zu einer politischen und globalen 
 in der bereits digitale Technologien wie Computer, das Internet, Mobiltelefone und MP3s verfügbar waren. Als Antonym existiert der Begriff des *Digital Immigrant* 
 (dt.: „digitaler Einwanderer“ oder „digitaler Immigrant“) für jemanden, der diese Dinge erst im Erwachsenenalter kennengelernt hat. 
 
-*Digital Natives* bekommen ihre Information längst aus andere Quellen, als die offizielle Nachrichtkanäle im Funk & Fernseher und haben gelernt, sie auf ihre Echtheit zu prüfen. 
-Man kann feststellen, dass in vielen Fällen die Entwicklung der „Occupy“- Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien durch Twitter 
+*Digital Natives* bekommen ihre Information längst aus andere Quellen, als die offizielle Nachrichtenkanäle im Funk & Fernseher und haben gelernt, sie auf ihre Echtheit zu prüfen. 
+Man kann feststellen, dass in vielen Fällen wie bei der Entwicklung der „Occupy“- Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien diese durch Twitter 
 und Facebook nicht nur mitgeteilt und verfolgt, sondern eben auch organisiert wurden. Durch ihre Verbreitung wurden sie zur Inspiration für Initiativen in anderen Ländern. 
 Allerdings hat sich gezeigt, dass die klassischen Medien die digitalen Netzwerke beobachteten und eine Gegenstrategie entwickelten, nämlich die des gezielten Desinteresses. 
 
@@ -101,7 +99,7 @@ Missachtung und geringe Berichterstattung die Kommunikation zu drosseln, also be
 **Meme**
 
 Wenn man die Schilder der „Occupy“-Bewegung und anderer Protestbewegungen als Beispiel nimmt, 
-stellt man fest, dass sich Statusmeldungen auf Facebook und lustige Protestschilder auf Demonstrationen sehr ähnlich sind. In beiden Fällen ist es eine spontane Position, 
+stellt man fest, dass sich Statusmeldungen auf Facebook und lustige Protestschilder auf Demonstrationen sehr ähnlich sind. In beiden Fällen handelt es sich um eine spontane Position, 
 die eine weitere Ebene erreicht hat. Diese Spontanität (man denkt natürlich auch an die Spontis und ihre Protestgraffiti in den 1970er Jahren in Deutschland) wird durch 
 die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebenen: die der Straße mit dem Computer „zuhause“; sie werden zu einer Realität. 
 Das Internet ist und kann nur die Verlängerung der physischen Realität sein, da wir selbst die Inhalte dieses Kanals erstellen und einspeisen.
