@@ -70,7 +70,7 @@ Sie befinden sich im Bericht Format als Anhang.
 Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. Es baut sich als Puzzel aus Zitate andere, Kunstwerke andere, 
 Bilder und Beobachtung andere - und meine.
 
-Diese Dissertation ist hier in ihre Roh-Text & Bild Version, zur Disputation wird die gelayoutete Version gestellt.
+Diese Dissertation wurde originelerweise auf Deutsch geschrieben worden und liegt hier zu Bewertung in ihre Roh-Text & Bild Version, zur Disputation wird die gelayoutete Version gestellt. Die Dissertation 
 
 
 1 Intro (Vorbemerkung)
