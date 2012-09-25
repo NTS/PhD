@@ -66,9 +66,7 @@ zurückgeführt werden kann und Information will kommuniziert werden. Übernimmt
 ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: die Künstler , die nun nicht mehr nur lokal agieren, sondern globale Kulturströmungen verursachen. Das Quellenmaterial, 
 die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar.
 
-Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgestattet und kann sich ungehindert innerhalb von Onlinedatenbanken bewegen. Sein Charakter ist vor allem als technisch 
-zu bezeichnen. Mehr als seinen kunsthistorischen Vorgängern ist er autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, 
-sondern aus eigener Initiative. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“. Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
+Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgestattet und kann sich ungehindert innerhalb von Onlinedatenbanken bewegen. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“. Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
 Verlängerung derselben ist. Auch die Selbst- und Anerkennung als Angehöriger einer Strömung geht nun über die politische, soziale und lokale Ebene hinaus. Man gehört nicht mehr einem bestimmten 
 politischen Club eines bestimmten Ortes an, sondern wandert in eine andere Sphäre und tritt dort mit Menschen aufgrund des gemeinsamen Interesses in Kontakt. Man teilt die gleiche Meinung und 
 kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.  
@@ -167,8 +165,8 @@ d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geri
 
 **Bild:** [Giancio: „Logo T-Shirt“ (Quelle: [redbubble.net](http://www.redbubble.com/people/giancio/works/5951382-logo-fake-art?p=t-shirt))](../pix/9._Logo_games/work.5951382.2.fig,orange,mens,ffffff.jpeg)
 
-Mindestens seit der 1970er Jahre tragen wir Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit uns herum. Als ich 12 Jahre alt war, hieß es entweder Adidas, 
-Levis und Lee als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation 
+Mindestens seit der 1970er Jahre tragen wir Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit uns herum. Als ich 12 Jahre alt war, hieß es entweder *Adidas*, 
+*Levis* und *Lee* als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation 
 der Mode oder Anti-Mode (Hipsterie), ist als kulturelles Merkmal nicht weg zu denken. Individualität und Wohlstand werden durch Gestaltung und Design transportiert.
 Durch die wiederholte Erscheinung dieser mutierten Bilder, werden Meinungen im öffentlichen Raum kommuniziert und bieten in dem Sinne das symbolische Bild, 
 das auch für 1000 Worte stehen kann. Dies ist eine sehr bekannte Strategie der Street- und Graffiti Art, aber auch der T-Shirt-Kultur. Es ist erstaunlich, 
@@ -180,11 +178,9 @@ was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, 
 
 **Bild:** [Viktor Hertz: „Honest Logos“ (Quelle: [behance.net](http://www.behance.net/gallery/Honest-logos/1222137))](../pix/1._Honest_Logos/_11_Honest_logos-5.jpeg)
 
-Flusser führt weiter aus: 
-„Man kann sagen, dass viele Bilder nicht versuchen, „konkrete“ Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen 
-wie die Welt ist, sondern, wie sie sein kann oder sein soll.“ [-@Flusser:Kommuni, pp. 111] Obwohl er Bild im algemein meint, wie Image,
-macht Kunst genau das: Oft voraus und nicht immer mit vollem Bewusstsein. Basiert die Kraft der Künstler  als Vorhersehende auf ihrem Beobachtungsvermögen, 
-das immer mehrere Parameter beinhaltet, z.B. auch solche von Anthropologen? 
+Wie Flusser ausführt: „Man kann sagen, dass viele Bilder nicht versuchen, „konkrete“ Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen 
+wie die Welt ist, sondern, wie sie sein kann oder sein soll.“ [-@Flusser:Kommuni, pp. 111] Obwohl er Bild im allgemein meint, macht speziell die Kunst genau das: Oft im voraus und nicht immer mit vollem Bewusstsein. Basiert die Kraft der Künstler  als Vorhersehende auf ihrem Beobachtungsvermögen, 
+das immer mehrere Parameter beinhaltet, z.B. auch solche von Anthropologen.
 Eine Mischung aus Neugierde, der Suche nach der Wahrheit und Experimentierfreude erzeugt mutige Feststellungen in visueller Form.
 
 **Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010 (Quelle: Bidoun Magazin Arts and Culture From the Middle east, Bazaar II, 2010)](../pix/10._true_art/Art_and_Freedom.jpeg) 
@@ -196,9 +192,9 @@ verhalten, also ein Dèontologisches Motiv“ [-@Flusser:Kommuni].
 Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Technik und ihre Ersetzung durch Technick an. Für ihn werden Bilder zu 
 Kunstwerken, sobald sie aufhören, der dominante 
 Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können. Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, 
-gerade mit der Entwicklung der „Vergleichbaren Ästhetik“ als Kunstsparte.[^fn-relationalaest]
+gerade mit der Entwicklung der „Vergleichende Ästhetik“ als Kunstsparte.[^fn-relationalaest]
 
-[^fn-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch „Relational Aesthetics“ Kunst als eine Aktivität, die aus der Produktion von 
+[^fn-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch *Relational Aesthetics* Kunst als eine Aktivität, die aus der Produktion von 
 Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), Aktionen und Objekten. [@Bourriaud:Relational]
 
 
@@ -206,7 +202,7 @@ Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), 
 
 ### Vom Migration & Nomadentum zur Wohnraum
 
-„Travelling without moving“ wird zu eine Realität. Künstler bedienen sich an allem, was die Welt zu bieten hat, alles ist eine Quelle Philosophie und Kunsttheorie machen keine Ausnahme. 
+„Travelling without moving“ wird zu eine Realität. Künstler bedienen sich an allem, was die Welt zu bieten hat, alles ist eine Quelle, Philosophie und Kunsttheorie machen keine Ausnahme. 
 Laut Geert Lovink, Gründungsdirektor des medientheoretischen [Institute of Network Cultures (INC)](http://networkcultures.org) mit Sitz an der 
 Hogeschool van Amsterdam, lassen sich Künstler, Medien- und Design-Forscher längst von Theoretikern wie Deleuze und Guattari, Derrida, 
 Baudrillard und Virilio beeinflussen. Medientheoretiker wie Kittler, Zielinski oder Bolz belegten oder belegen höhere Funktionen 
@@ -222,8 +218,7 @@ nicht über eine Altersgruppe definieren lässt, wie der polnische Dichter Piotr
 Die sog. “Millenials” sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein-und-die-selbe Realität. Muttersprache und Fremdsprache werden 
 durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung ersetzt. „Der virtuelle Intellektuelle ist vor allem ausgestattet mit technischen Kompetenzen 
 und kann sich ungehindert innerhalb von Online-Datenbanken, Listenkulturen, Suchmachienen und Hypertext-Umgebungen bewegen. Tut er auch, heutzutage.“[@Lovink:Dark, pp. 39]
-Sein Charakter ist vor allem als technisch zu bezeichnen, aber im Gegensatz zu seinen Vorgängern, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern hat 
-sein Milieu im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
+Sein Charakter ist vor allem als technisch zu bezeichnen, und mehr als seinen Vorgängern, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, sondern aus eigener Initiative. Sein Milieu befindet sich im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
 „Ziel der Demokratisierung der Medien ist die Abschaffung aller Formen medialisierter Repräsentation und künstlicher Verknappung von Kanälen. Die technischen Möglichkeiten, Menschen 
 für sich sprechen zu lassen, (...) durch Kommunikationswerkzeuge“ [@Lovink:Dark, pp. 39]. So gesehen treiben Künstler stets eine Art säkulare Exegesis, 
 oder haben hermeneutische Züge, ob mit oder ohne Bewusstsein. So etwas nennen sie dann künstlerische Recherche: In erster Linie für sich selbst, aber auch für ihr Publikum. 
