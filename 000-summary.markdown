@@ -29,11 +29,9 @@ Spätkapitalismus sich eine eigene Nische unabhängig vom existierenden Kunstbet
 ein solches, und Freiheit durch der eigenen Kapital gewinnen, und damit auch macht üben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen. 
 Jobs, die früher nur für den Nichtkünstler gemacht wurden, können von Künstler jetzt besetzt werden, als Angestellt im Bereiche der Produktion, die Sozialarbeit, 
 oder als Theoretiker im Kunstbereich. Auf der andere Seite sind viele Jobs, die früher für den Künstler gemacht wurden, wie Gestaltung und PR Arbeit, Galeriebetrieb
-und Management und vor allem kuratiern, von Künstler selber gemacht. 
-
- Ansonsten ist er dabei welche zu 'erfinden' - durch Aneignung, als Künstlerische Aussage, 
-als neue Strategie, aber nicht nur. Den diese Aneignung ist nicht mehr nur von Medien, sondern von Kulturtechniken, 
-Firmenangestellter oder entrepreneur,   greift er Initiative und übernimmt 
+und Management und vor allem kuratiern, von Künstler selber gemacht. Ansonsten ist er dabei welche zu 'erfinden' - durch Aneignung, als Künstlerische Aussage, 
+als neue Strategie, aber nicht nur. Den diese Aneignung ist nicht mehr nur von Medien, sondern von Kulturtechniken, greift er Initiative und übernimmt Macht und 
+Verantwortung, eventuell anderen ihrer Arbeitsplatz.
 
 **Die Ausbildung** der werdende Künstler, ist in Europa seit 10 Jahre durch dem *Bologna Prozess* am umstrukturieren. Die Auswirkung auf das Studium, die Studenten, 
 und ihre Kompatibilität mit dem was ihnen nach dem Studium erwartet, Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Akademie am 
