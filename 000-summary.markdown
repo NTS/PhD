@@ -19,8 +19,8 @@ Kunstlehre. Die Berufliche Aspekte, in und ausserhalb der Akademie zu erläutern
 **Der Künstler** Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft sich von Französischem 
 Mahler mit Barette zum Businessmann entwickelt hat. Die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, Änderung des Künstlerbildes, wie er von 
 der Gesellschaft und häufiger durch die Medien wahrgenommen wird verweisen auf Tendenz zur Bildung einer Starfigur, oft weit anders als das, wie er sich selbst 
-sieht und verstehen mag, und er sieht zu, dass dieses anderem Bild dementsprechend eigenhändig kommuniziert werden. Seiner verschiedene Rollen und die unterschiedliche 'Künstlersorten', 
-oder Strömungen, aber nicht von Stylen, sondern die zusätzlich zu den schon existierenden zur Zeit entstehen, wie der Kunstmarkt orientiertem, neben der Sozial- oder 
+sieht und verstehen mag, und er sieht zu, dass dieses anderem Bild dementsprechend eigenhändig kommuniziert werden. Seiner verschiedene Rollen und die unterschiedliche 
+'Künstlersorten', oder Strömungen, aber nicht von Stylen, sondern die zusätzlich zu den schon existierenden zur Zeit entstehen, wie der Kunstmarkt orientiertem, neben der Sozial- oder 
 Theorieorientierter Künstler die von einander unterschieden werden und anders trainiert werden sollen, bzw. Zugang zu andere Quellen, die bisher in der Kunstlehre 
 nicht üblich gewesen sind, aber es sollen. 
 
@@ -53,7 +53,7 @@ Ideen als Geisteseigentum des Künstlers anerkannt und belohnt werden. Damit wir
 Die Entwicklung von Selbstbestimmung der Urheber-Rechte hinterlässt jetzt schon ihre Marke in der Kunstwelt, und ebnet den Weg zu mehr Kooperation
 als bisher möglich war.
 
-Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlungs- und Verkaufssysteme des gängigen Kunstbetriebs 
+Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlung- und Verkaufssysteme des gängigen Kunstbetriebs 
 zu gebrauchen. Jedoch fordert es von ihnen einen ziemlich hohen Preis, nämlich, den dass sie sich selbst zu einer Marktkraft entwickeln müssen. Dabei muss nicht
 unbedingt nur der Kapitalist-Künstler, (seine Characktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als Einzelkünstler 
 arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften des Internets,
