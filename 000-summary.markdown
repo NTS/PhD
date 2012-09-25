@@ -55,7 +55,7 @@ als bisher möglich war.
 
 Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlung- und Verkaufssysteme des gängigen Kunstbetriebs 
 zu gebrauchen. Jedoch fordert es von ihnen einen ziemlich hohen Preis, nämlich, den dass sie sich selbst zu einer Marktkraft entwickeln müssen. Dabei muss nicht
-unbedingt nur der Kapitalist-Künstler, (seine Characktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als Einzelkünstler 
+unbedingt nur der Kapitalist-Künstler, (seine Charaktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als Einzelkünstler 
 arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften des Internets,
 im realem Leben neue Verhältnisse herzustellen, bei der die Kunst eine Vermittlungsrolle einnimmt. 
 
@@ -70,7 +70,7 @@ Sie befinden sich im Bericht Format als Anhang.
 Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. Es baut sich als Puzzel aus Zitate andere, Kunstwerke andere, 
 Bilder und Beobachtung andere - und meine.
 
-Diese Dissertation wurde originelerweise auf Deutsch geschrieben worden und liegt hier zu Bewertung in ihre Roh-Text & Bild Version, zur Disputation wird die gelayoutete Version gestellt. 
+Diese Dissertation wurde in der Deutsche Sprache geschrieben worden und liegt hier zu Bewertung in ihre Roh-Text & Bild Version, zur Disputation wird die gelayoutete Version gestellt. 
 
 
 1 Intro (Vorbemerkung)
