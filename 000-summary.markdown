@@ -15,8 +15,8 @@ Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger
 
 
 
-Die Kunst, und der der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es um die Jetzt-zustand des 
-Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre und die Berufliche Aspekte, in und ausserhalb 
+Die Kunst, und der der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es um den Jetzt-zustand des 
+Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre. Die Berufliche Aspekte, in und ausserhalb 
 der Akademie zu erläutern. Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
 
 **Der Künstler** Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft sich von Französischem Mahler mit 
@@ -29,6 +29,10 @@ die bisher in der Kunstlehre nicht üblich gewesen sind, aber es sollen.
 **Die Arbeitswelt** ändert sich. Mit diese Änderungen durch die globale politische und wirtschaftliche Situation, lässt Platz und Möglichkeiten für Künstler im Spätkapitalismus sich 
 eine eigene Nische zu bauen. Der Künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber ein solches, und Freiheit durch der eigenen Kapital gewinnen, und damit auch macht üben.
 Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen.
+
+
+
+
 
 **Die Ausbildung** Struktur des Studiums, und die Auswirkung deren Umstrukturierung, die seit Jahre am werk ist, und ihre Kompatibilität für den werdende Künstler und auf das, was ihm nach der 
 Studium erwartet. die Beziehungen zwischen Kunstmarkt und der Akademie werden am Beispiel der eigene Universität untersucht und ergeben eine Interessante Ergebnis. Die Kunststudenten am Bauhaus 
@@ -65,5 +69,8 @@ Sie befinden sich im Bericht Format als Anhang.
 
 Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. Es baut sich als Puzzel aus Zitate andere, Kunstwerke andere, 
 Bilder und Beobachtung andere - und meine.
+
+Dies ist die Reine Text & Bild Version, zur Disputation wird das Endprodukt hergestellt.
+
 
 
