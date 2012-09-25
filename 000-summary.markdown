@@ -28,7 +28,8 @@ nicht üblich gewesen sind, aber es sollen.
 Spätkapitalismus sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Der Künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber 
 ein solches, und Freiheit durch der eigenen Kapital gewinnen, und damit auch macht üben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen. 
 Jobs, die früher nur für den Nichtkünstler gemacht wurden, können von Künstler jetzt besetzt werden, als Angestellt im Bereiche der Produktion, die Sozialarbeit, 
-oder als Theoretiker im Kunstbereich. Auf der andere Seite
+oder als Theoretiker im Kunstbereich. Auf der andere Seite sind viele Jobs, die früher für den Künstler gemacht wurden, wie Gestaltung und PR Arbeit, Galeriebetrieb
+und Management und vor allem kuratiern, von Künstler selber gemacht. 
 
  Ansonsten ist er dabei welche zu 'erfinden' - durch Aneignung, als Künstlerische Aussage, 
 als neue Strategie, aber nicht nur. Den diese Aneignung ist nicht mehr nur von Medien, sondern von Kulturtechniken, 
