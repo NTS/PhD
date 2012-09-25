@@ -27,13 +27,16 @@ nicht üblich gewesen sind, aber es sollen.
 **Die Arbeitswelt** ändert sich. Mit diese Änderungen durch die globale politische und wirtschaftliche Situation, lässt Platz und Möglichkeiten für Künstler im 
 Spätkapitalismus sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Der Künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber 
 ein solches, und Freiheit durch der eigenen Kapital gewinnen, und damit auch macht üben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen. 
-Jobs, die früher für den Künstler gemacht wurden, kann er jetzt selbst tun. Ansonsten ist er dabei welche zu 'erfinden' - als Künstlerische Aussage, als neue Strategie.
+Jobs, die früher für den Künstler gemacht wurden, kann er jetzt selbst tun. Ansonsten ist er dabei welche zu 'erfinden' - durch Aneignung, als Künstlerische Aussage, 
+als neue Strategie, aber nicht nur. Den diese Aneignung ist nicht mehr nur von Medien, sondern von Kulturtechniken, in Beeiche der Produktion, die Sozialarbeit als 
+Firmenangestellter oder als Theoretiker im Kunstbereich.
 
-**Die Ausbildung** der werdende Künstler, ist in Europa seit 10 Jahre durch das *Bologna Prozess* am umstrukturieren. Die Auswirkung auf das Studium und die Studenten, 
-und ihre Kompatibilität mit dem was dem werdende Künstler nach dem Studium erwartet, Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Akademie am 
-Beispiel der eigene Universität sind untersucht worden und heben folgende Ergebnis vor: Die Kunststudenten am Bauhaus entwickeln höhere Fähigkeiten, sich zu vermarkten 
-und ihre Arbeit zu Verkaufen, und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. Wenn sie in dem Studium eintreten, haben sie ein bestimmtes Vorbild, 
-und die Diskrepanz groß, wenn sie die Akademie verlassen. Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, die Kooperation bedeuten. 
+**Die Ausbildung** der werdende Künstler, ist in Europa seit 10 Jahre durch dem *Bologna Prozess* am umstrukturieren. Die Auswirkung auf das Studium, die Studenten, 
+und ihre Kompatibilität mit dem was ihnen nach dem Studium erwartet, Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Akademie am 
+Beispiel der eigene Universität sind untersucht worden und heben folgendem Ergebnis vor: Die Kunststudenten am Bauhaus entwickeln höhere Fähigkeiten, sich zu vermarkten 
+und ihre Arbeit zu Verkaufen - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. Wenn sie in dem Studium eintreten, haben sie ein bestimmtes Vorbild, 
+und die Diskrepanz zwischen diesem Vorbild, und das was sie finden, wenn sie die Akademie verlassen noch sehr groß. Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, 
+die viel Information und Kooperation bedeuten, welches ich durchgeführt habe 
 
 **Das Netzteil** Der Einfluss des Digitale Bearbeitungsmöglichkeiten von Material, neben der Form neue Räume, die die technologische Entwicklungen anbietet ist enorm.  
 Die Wirkung dessen auf der heutige werdende Künstler manifestiert sich auch von ihrer Sozialer Gesicht in Form Neue Distributionsstrategien. Es findet momentan eine Verschiebung 
