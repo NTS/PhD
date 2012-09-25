@@ -36,7 +36,7 @@ Verantwortung, eventuell anderen ihrer Arbeitsplatz.
 **Die Ausbildung** der werdende Künstler, ist in Europa seit 10 Jahre durch dem *Bologna Prozess* am umstrukturieren. Die Auswirkung auf das Studium, die Studenten, 
 und die Kompatibilität des jetzigen Stand, mit dem was ihnen nach dem Studium erwartet, Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Akademie am 
 Beispiel der eigene Universität sind untersucht worden und heben folgendem Ergebnis vor: Die Kunststudenten am Bauhaus entwickeln höhere Fähigkeiten, sich zu vermarkten 
-und ihre Arbeit zu Verkaufen, Ausstellgelegenheiten sowie Erfolg bei Stipendienbeantragung - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. Wenn werdende 
+und ihre Arbeit zu Verkaufen, Ausstellungsgelegenheiten sowie Erfolg bei Stipendienbeantragung - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. Wenn werdende 
 Künstler in dem Studium eintreten, haben sie ein bestimmtes Vorbild, und die Diskrepanz zwischen diesem Vorbild, und das was sie finden, wenn sie die Akademie verlassen noch sehr groß. 
 Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, die viel Information und Kooperation bedeuten, welches ich durchgeführt habe.
 
