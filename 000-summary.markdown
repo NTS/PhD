@@ -12,9 +12,6 @@ Matrikel Nr. 51163
 Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger
 
 
-
-
-
 Die Kunst, und der der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es um den Jetzt-zustand des 
 Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der Kunstlehre. Die Berufliche Aspekte, in und ausserhalb 
 der Akademie zu erläutern. Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
@@ -34,8 +31,9 @@ Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen
 
 
 
-**Die Ausbildung** Struktur des Studiums, und die Auswirkung deren Umstrukturierung, die seit Jahre am werk ist, und ihre Kompatibilität für den werdende Künstler und auf das, was ihm nach der 
-Studium erwartet. die Beziehungen zwischen Kunstmarkt und der Akademie werden am Beispiel der eigene Universität untersucht und ergeben eine Interessante Ergebnis. Die Kunststudenten am Bauhaus 
+**Die Ausbildung** ist seit 10 Jahre durch das Bologna Prozess am umstrukturieren. Die Auswirkung auf das Studium und die Studenten, und ihre Kompatibilität für den werdende Künstler und auf das, was ihm nach der 
+Studium erwartet. Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Akademie sind am Beispiel der eigene Universität untersucht worden und heben folgende Ergebnis vor:
+ Die Kunststudenten am Bauhaus 
 entwickeln höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu Verkaufen, und das direkt nach dem Studium, wenn nicht schon innerhalb dessen
 Mit Welchem Vorbild kommen die Studenten wenn sie in dem Studium eintreten und wie groß die Diskrepanz, wenn sie die Akademie verlassen? Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, 
 die Kooperation bedeuten ansonsten ist er dabei welche zu 'erfinden'  - als Künstlerische Aussage.
@@ -73,4 +71,65 @@ Bilder und Beobachtung andere - und meine.
 Dies ist die Reine Text & Bild Version, zur Disputation wird das Endprodukt hergestellt.
 
 
+1 Intro (Vorbemerkung)
 
+2 Everything Has Been Done1 (Einleitung)
+
+3 I. DER KÜNSTLER
+3.1 Where is my Mind?2
+3.2 Was, oder wer ist ein Künstler?
+3.3 Looking at you (looking at me)3
+3.4 Me, myself & I
+3.5 Vom Künstlerbild in den Medien
+
+4 II. DIE ARBEIT
+4.1 Das Bild von Kunst als Business
+4.2 Künstler = Autor + Produzent
+4.3 Beruf: Künstler
+4.4 Would you like to be modified?4
+4.5 Why, are the artists poor?5
+
+5 III. DAS STUDIUM
+5.1 Z.B. BUW
+5.2 Kunststudium am Beispiel der Bauhaus-Universität Weimar
+5.3 Be an Art student, be a Master, be a Doctor!
+5.4 Theorie für Praktiker
+5.5 What’s the Difference?6
+5.6 Theorie vs. Praxis
++
+6 IV. DER KUNSTBETRIEB
+6.1 Akademie trifft Kunstmarkt
+6.2 Die eigene White Cube (Unigalerie)
+6.3 Das Konstrukt Bauhaus Essentials
+6.4 Sind Kunstmarkt und Kunststudium kompatibel?
+6.5 Das Dilemma
+6.6 Wo ist eigentlich…?
+
+7 V. DAS NETZTEIL
+7.1 Kunst ./. Kommunikation*
+7.2 Next Project.
+
+8 Where do we go from here?7 / Outro
+8.1 10 Years after8
+8.2 A Room Of Your Own*
+8.3 oder: Is your Art Necessary?10
+
+9 The B-Side (Outro #2)
+
+10 VI. ANHANG (See Attached)
+
+10.1 5-Jahres-Plan doch zu buw?
+10.2 Das Format Fachkurs
+10.3 Exile on Main Street11
+10.4 Der K3 Fragebogen
+10.5 Texte
+10.6 Weitere Lyrics
+11 Anmerkungen
+12 Danke
+13 Material
+13.1 Bücher
+13.2 Links
+14 Quellen
+14.1 Links
+14.2 Bildnachweis / Image Credits
+14.3 Bibliographie
