@@ -54,10 +54,10 @@ Die Entwicklung von Selbstbestimmung der Urheber-Rechte hinterlässt jetzt schon
 als bisher möglich war.
 
 Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlung- und Verkaufssysteme des gängigen Kunstbetriebs 
-zu gebrauchen. Jedoch fordert es von ihnen einen ziemlich hohen Preis, nämlich, den dass sie sich selbst zu einer Marktkraft entwickeln müssen. Dabei muss nicht
-unbedingt nur der Kapitalist-Künstler, (seine Charaktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als Einzelkünstler 
-arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften des Internets,
-im realem Leben neue Verhältnisse herzustellen, bei der die Kunst eine Vermittlungsrolle einnimmt. 
+zu gebrauchen. Jedoch fordert dies von ihnen einen ziemlich hohen Preis, nämlich den dass sie sich selbst zu einer Marktkraft entwickeln müssen, was Ihnen Zeit raubt.
+Dabei muss nicht unbedingt nur der Kapitalist-Künstler, (seine Charaktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als 
+Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften 
+des Internets,im realem Leben neue Verhältnisse herzustellen, bei der die Kunst eine Vermittlungsrolle einnimmt. 
 
 Es gehr nicht einfach nur darum die Studenten für den herkömmlichen Kunstbetrieb zu trainieren, sondern durch die entstehende neue Generation von Künstlern (und deren und 
 meiner künstlerischen Arbeit am Kunstbetrieb), denn die Kunst und der Kunstbetrieb sich ändern werden und ich diese Änderung aktiv betreibe, 
