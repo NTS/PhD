@@ -129,3 +129,5 @@ Dies ist die Reine Text & Bild Version, zur Disputation wird das Endprodukt herg
 14.1 Links
 14.2 Bildnachweis / Image Credits
 14.3 Bibliographie
+
+plus 6 max. 6 Seiten Bilder
