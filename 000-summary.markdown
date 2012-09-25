@@ -48,7 +48,7 @@ technische Entwicklungen möglich sei, sondern eine die ein Paradigmenwechsel mi
 
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar, sowie durch Vergleiche zu anderen 
 Kunstakademien, meiner eigenen Erfahrung als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
-Möglichkeiten die im Augenblick umsetzbar sind, ergeben sich folgende Konsequenzen und Prognose: in Zukunft werden schon allein die 
+Möglichkeiten die im Augenblick umsetzbar sind, ergeben sich folgende Konsequenz und Prognose: in der Zukunft werden schon allein die 
 Ideen als Geisteseigentum des Künstlers anerkannt und belohnt werden. Damit wird die künstlerische individuelle Handschrift von sekundärer Wichtigkeit sein werden.
 Die Entwicklung von Selbstbestimmung der Urheber-Rechte hinterlässt jetzt schon ihre Marke in der Kunstwelt, und ebnet den Weg zu mehr Kooperation
 als bisher möglich war.
