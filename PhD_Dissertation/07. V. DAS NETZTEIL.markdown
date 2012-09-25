@@ -49,7 +49,7 @@ eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der St
 
 [^fn-oeffraumnetz]: In der „Kunst im öffentlichen Raum“ wurde der öffentliche Raum schon auf das Internet ausgeweitet
 
-Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. In seinem Buch [@Hehn:Genius] meint Hehn, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[@Hehn:Genius, pp. 4]. „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[@Hehn:Genius, pp. 2]
+Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. Dr. Georg Hehn reflektiert in seinem Artikel „Der Genius und die gelangweilten Anderen“[@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. Dort meint er, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[@Hehn:Genius, pp. 4]. „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[@Hehn:Genius, pp. 2]
 Die Exilierung des Sakralen aus der Sphäre des künstlerischen Erlebens änderte nichts an ihrem Status als der wahren Wirklichkeit. Die Künstler kommunizierten nicht mit ihren 
 Rezipienten, sie schritten ihnen voran. Das Bedürfnis nach Aufklärung, Erklärung und Vermittlung ist Kern der schöpferischen Kraft, ein inneres Bild in die materielle Welt zu übersetzen, 
 „…und der Künstler zeigt sich als Virtuose der Kommunikation, dessen künstlerische Leistung gerade auf Meta-kommunikativer Kreativität beruht. Er mag provozieren, verfremden oder verstören, 
@@ -228,8 +228,8 @@ sie lassen sich dabei auch von Theoretikern beeinflussen.
 
 ### Attention Whores
 
-Dr. Georg Hehn reflektiert in seinem Artikel „Der Genius und die gelangweilten Anderen“[@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. 
-Seiner Meinung nach scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
+
+Hehns Meinung nach, scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
 „It’s not the What, it’s the How“. Er zählt die vier Komponenten, die als Form-Inhalt-Dynamiken zu beschreiben sind: Produzent / Form / Inhalt / Konsument. 
 „Jedes Verstehen ist heute ein Verstehen von Relationen, alles Wahrnehmen ein Wahrnehmen von Elementen in kodierten Systemen – nicht nur 
 Raum und Zeit.“[@Hehn:Genius]. Kunst ist unverbindliche Kommunikation. Der Künstler besitzt den Drang, seine Erkenntnisse zu vermitteln, 
