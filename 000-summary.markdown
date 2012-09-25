@@ -18,8 +18,8 @@ Kunstlehre. Die Berufliche Aspekte, in und ausserhalb der Akademie zu erläutern
 
 **Der Künstler** Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft sich von Französischem 
 Mahler mit Barette zum Businessmann entwickelt hat. Die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, Änderung des Künstlerbildes, wie er von 
-der Gesellschaft und häufiger durch die Medien wahrgenommen wird verweisen auf Tendenz zur Bildung einer Starfigur, oft weit anders als das wie er sich selbst 
-sieht und verstehen mag, und sieht zu, dass sie dementsprechend eigenhändig kommuniziert werden. Seiner verschiedene Rollen und die unterschiedliche 'Künstlersorten', 
+der Gesellschaft und häufiger durch die Medien wahrgenommen wird verweisen auf Tendenz zur Bildung einer Starfigur, oft weit anders als das, wie er sich selbst 
+sieht und verstehen mag, und er sieht zu, dass dieses anderem Bild dementsprechend eigenhändig kommuniziert werden. Seiner verschiedene Rollen und die unterschiedliche 'Künstlersorten', 
 oder Strömungen, aber nicht von Stylen, sondern die zusätzlich zu den schon existierenden zur Zeit entstehen, wie der Kunstmarkt orientiertem, neben der Sozial- oder 
 Theorieorientierter Künstler die von einander unterschieden werden und anders trainiert werden sollen, bzw. Zugang zu andere Quellen, die bisher in der Kunstlehre 
 nicht üblich gewesen sind, aber es sollen. 
@@ -34,11 +34,11 @@ als neue Strategie, aber nicht nur. Den diese Aneignung ist nicht mehr nur von M
 Verantwortung, eventuell anderen ihrer Arbeitsplatz.
 
 **Die Ausbildung** der werdende Künstler, ist in Europa seit 10 Jahre durch dem *Bologna Prozess* am umstrukturieren. Die Auswirkung auf das Studium, die Studenten, 
-und ihre Kompatibilität mit dem was ihnen nach dem Studium erwartet, Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Akademie am 
+und die Kompatibilität des jetzigen Stand, mit dem was ihnen nach dem Studium erwartet, Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Akademie am 
 Beispiel der eigene Universität sind untersucht worden und heben folgendem Ergebnis vor: Die Kunststudenten am Bauhaus entwickeln höhere Fähigkeiten, sich zu vermarkten 
-und ihre Arbeit zu Verkaufen - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. Wenn sie in dem Studium eintreten, haben sie ein bestimmtes Vorbild, 
-und die Diskrepanz zwischen diesem Vorbild, und das was sie finden, wenn sie die Akademie verlassen noch sehr groß. Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, 
-die viel Information und Kooperation bedeuten, welches ich durchgeführt habe 
+und ihre Arbeit zu Verkaufen, Ausstellgelegenheiten sowie Erfolg bei Stipendienbeantragung - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. Wenn werdende 
+Künstler in dem Studium eintreten, haben sie ein bestimmtes Vorbild, und die Diskrepanz zwischen diesem Vorbild, und das was sie finden, wenn sie die Akademie verlassen noch sehr groß. 
+Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, die viel Information und Kooperation bedeuten, welches ich durchgeführt habe.
 
 **Das Netzteil** Der Einfluss des Digitale Bearbeitungsmöglichkeiten von Material, neben der Form neue Räume, die die technologische Entwicklungen anbietet ist enorm.  
 Die Wirkung dessen auf der heutige werdende Künstler manifestiert sich auch von ihrer Sozialer Gesicht in Form Neue Distributionsstrategien. Es findet momentan eine Verschiebung 
@@ -70,7 +70,7 @@ Sie befinden sich im Bericht Format als Anhang.
 Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. Es baut sich als Puzzel aus Zitate andere, Kunstwerke andere, 
 Bilder und Beobachtung andere - und meine.
 
-Diese Dissertation wurde originelerweise auf Deutsch geschrieben worden und liegt hier zu Bewertung in ihre Roh-Text & Bild Version, zur Disputation wird die gelayoutete Version gestellt. Die Dissertation 
+Diese Dissertation wurde originelerweise auf Deutsch geschrieben worden und liegt hier zu Bewertung in ihre Roh-Text & Bild Version, zur Disputation wird die gelayoutete Version gestellt. 
 
 
 1 Intro (Vorbemerkung)
