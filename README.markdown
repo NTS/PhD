@@ -2,7 +2,15 @@
 
 a place to store important project info, if needed.
 
-for now, some markdown formatting help:
+## Style Guide
+
+- ein *anglicism*
+- der *Titel eines Kunstwerkes*
+- ein "Zitat" und ein "Zitat 'im' Zitat".
+- ein 'ironisch' gemeinter Text
+
+
+now, some markdown formatting help:
 
 # Überschrift
 
