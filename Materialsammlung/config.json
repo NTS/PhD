@@ -5,5 +5,8 @@
 
 	"server": { 
 		"port": 9009
-	}
+	},
+	"plugins": {
+	    "template_engine": "punch-engine-handlebars" 
+    }
 }
