@@ -2,9 +2,9 @@
 # V. DAS NETZTEIL
 
 
-Die Tendenz, Alternativen zu jetzige Verhältnisse innerhalb des Kunstmarkt im Kunstbetrieb zu suchen, und zu erproben scheint zu steigen.
-Künstler & Hacker sowie Medien & Digital orientierte Künstler sitzen nicht nur in der Uni beieinander. Zur gegenwärtiger Paradigmenverschiebung
-in der Nutzung und Möglichkeiten des Digitalen Format und auf Grund dessen muss der Welt der Kommunikation aus Künstlerische Sicht untersucht werden.
+Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint zu steigen.
+Künstler & Hacker sowie Künstler und Experten der digitalen Medien sitzen nicht nur in der Uni beieinander. In Folge der gegenwärtigen Paradigmenverschiebung
+in der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommunikation aus Künstlerischer Sicht untersucht werden.
 
  
 ## Kunst ./. Kommunikation*
@@ -17,13 +17,14 @@ in der Nutzung und Möglichkeiten des Digitalen Format und auf Grund dessen muss
 > denn „wenn andere einen als wahrnehmend beobachten, kann man das Wahrnehmen nicht gut bestreiten. 
 > Auf diese Weise wird unnegierbare Sozialität erreicht.“ [@Luhmann:kunstges, pp. 36]“
 > 
-> *Dr. Niels Werber* [-@Werber:nurkunst]
+> (zitiert nach: [@Werber:nurkunst]) 
 
+TODO: soll so aussehen: (zitiert nach: Dr. Niels Werber (1996)S???)
 
 Kommunikation manifestiert sich als kollektives und kollegiales Feld. Welche Mitteilungsform erhält das Haptische und welche Stellung nehmen Daten ein? 
 Hat die Kunst eine andere Berechtigung, wird sie anders wahrgenommen? Wie entwickelt sich die eigene Ansicht auf Individualität in den immer 
-vielfältiger werdenden Kommunikationswegen? Inwieweit wirkt sich die Entwicklung auf unsere Wahrnehmung? Was passiert mit dem Künstler, sein Werk und 
-dessen Vermittlungswege, im Zeitalter der unendlichen digitalen Reproduzierbarkeit von Information? aus? Diese Art „Osmose“, hinterlässt bei vielen 
+vielfältiger werdenden Kommunikationswegen? Inwieweit wirkt sich die Entwicklung auf unsere Wahrnehmung aus? Was passiert mit dem Künstler, sein Werk und 
+dessen Vermittlungswegen, im Zeitalter der unendlichen digitalen Reproduzierbarkeit von Information? Diese Art „Osmose“, hinterlässt bei vielen 
 kunstorientierten Theoretikern Spuren und stößt das Interesse der Künstler auf der Meta-Ebene an. 
 
 In den 1960er Jahren, im Zuge der Entmaterialisierung der Kunst, erweiterte die Konzeptkunst das Sehen durch das Denken. Das bloße Betrachten eines Kunstwerkes reichte zum Verständnis 
