@@ -2,16 +2,9 @@
 
 # This script is called from the ../Makefile
 
-# Where we are
-BASE_DIR="$(pwd)"
-
-# Find every folder and start a loop for it
-for DIR in $(find * -maxdepth 0 -type d -not \( -name "images" \))
-do
-    echo "[>] Entering Folder "$DIR"..."
-    cd "$BASE_DIR"/"$DIR" # FIXME: this files with funky folders in repo
-
-    # Process CHAPTER Files
+function combine_chapters()
+{
+	    # Process CHAPTER Files
     echo "    [#] Processing CHAPTERS..."
 
     # delete $TMP_FILE if exists
@@ -21,7 +14,7 @@ do
     # Process all Files in directory
     for FILE in *.markdown
     do
-        [[ -f "$FILE" ]] || continue ## abort if no match in DIR
+        [[ -f "$FILE" ]] || return 0 ## abort if no match in DIR
         echo "        [+] $FILE"
         cat "$FILE" >> "$TMP_FILE"
         echo >> "$TMP_FILE"          ## insert linebreak
@@ -33,4 +26,19 @@ do
 
     # END Pre-process CHAPTER Files
 
+}
+
+## START
+
+# Where we are
+BASE_DIR="$(pwd)"
+
+# Find every folder and start a loop for it
+for DIR in $(find * -maxdepth 0 -type d -not \( -name "images" \))
+do
+    echo "[>] Entering Folder "$DIR"..."
+    cd "$BASE_DIR"/"$DIR" # FIXME: this files with funky folders in repo
+
+    combine_chapters
+    
 done

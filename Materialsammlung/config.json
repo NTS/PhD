@@ -1,0 +1,12 @@
+{
+	"template_dir": ".punch/templates", 
+	"content_dir": ".punch/contents",
+	"output_dir": ".",
+
+	"server": { 
+		"port": 9009
+	},
+	"plugins": {
+	    "template_engine": "punch-engine-handlebars" 
+    }
+}
