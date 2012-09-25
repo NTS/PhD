@@ -1,14 +1,6 @@
 {
   "Bilder" : [
     {
-      "title" : "Justin Hansch: \"Best friends painting\", 2010",
-      "filename" : "Justin.Hansch.best_friends_painting.jpg",
-      "media-type" : "Malerei",
-      "copyright" : "Justin Hansch",
-      "source" : "TODO",
-      "source-url" : null
-    },
-    {
       "title" : "Azorro Collective: \"Everything Has Been Done\", 2003 (Audio Transkription)",
       "filename" : "azorro_everything_has_been_done_1.JPG",
       "media-type" : "eigener Scan",
@@ -134,7 +126,8 @@
       "media-type" : "TODO",
       "copyright" : "BDU",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Barking Dogs United: \"FX II\", 2008",
@@ -142,7 +135,8 @@
       "media-type" : "TODO",
       "copyright" : "Barking Dogs United",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Barking Dogs United: \"FX III\", 2008",
@@ -150,7 +144,8 @@
       "media-type" : "TODO",
       "copyright" : "Barking Dogs United",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Barking Dogs United: \"FX III\", 2008",
@@ -158,7 +153,8 @@
       "media-type" : "TODO",
       "copyright" : "Barking Dogs United",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Barking Dogs United: \"FX III\", 2008",
@@ -166,7 +162,8 @@
       "media-type" : "TODO",
       "copyright" : "Barking Dogs United",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Barking Dogs United: \"FX III\", 2008",
@@ -174,7 +171,8 @@
       "media-type" : "TODO",
       "copyright" : "Barking Dogs United",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Barking Dogs United: \"FX III\", 2008",
@@ -182,7 +180,8 @@
       "media-type" : "TODO",
       "copyright" : "Barking Dogs United",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Barking Dogs United: \"FX III\", 2008",
@@ -190,7 +189,8 @@
       "media-type" : "TODO",
       "copyright" : "Barking Dogs United",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Barking Dogs United: \"FX III\", 2008",
@@ -198,7 +198,8 @@
       "media-type" : "TODO",
       "copyright" : "Barking Dogs United",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Barking Dogs United, FX III 2008",
@@ -206,7 +207,8 @@
       "media-type" : "TODO",
       "copyright" : "Barking Dogs United",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "disabled" : true
     },
     {
       "title" : "Vuk Vidor: \"Art history (part one - version C)\", 2004-2009",
