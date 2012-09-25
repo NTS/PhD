@@ -46,10 +46,10 @@ statt. Einerseits die Rollen die sich Künstler aus wirtschaftliche und soziale 
 Kunstbetrieb, sein Biotop: Das Museum, die Galerie, der Kurator, die auch von Künstler übernommen werden. Es handelt sich nicht nur um eine Neigung zu Autarken, die durch die 
 technische Entwicklungen möglich sei, sondern eine die ein Paradigmenwechsel mit sich bringt, in den Aspekten Vermittlung, Ausstellen und verkauf eines Kunstwerkes.
 
-Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar sowie durch Vergleiche zu anderen 
-Kunstakademien und meiner eigenen Erfahrung als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
-Möglichkeiten die im Augenblick umsetzbar sind, und die zukünftige Prognosen ergeben sich folgende Konsequenzen: in Zukunft werden allein die 
-Ideen als Geisteseigentum des Künstlers anerkannt und dass damit die künstlerische individuelle Handschrift von sekundärer Wichtigkeit sein wird.
+Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar, sowie durch Vergleiche zu anderen 
+Kunstakademien, meiner eigenen Erfahrung als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
+Möglichkeiten die im Augenblick umsetzbar sind, ergeben sich folgende Konsequenzen für jeder und die zukünftige Prognosen: in Zukunft werden allein die 
+Ideen als Geisteseigentum des Künstlers anerkannt und belohnt werden. Damit wird die künstlerische individuelle Handschrift von sekundärer Wichtigkeit sein werden.
 Die Entwicklung von Selbstbestimmung der Urheber-Rechte hinterlässt jetzt schon ihre Marke in der Kunstwelt, und ebnet den Weg zu mehr Kooperation
 als bisher möglich war.
 
