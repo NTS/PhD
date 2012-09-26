@@ -15,129 +15,51 @@ Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger
 Die Kunst, und der Kunstbetrieb haben sich in den letzten Jahrzehnten stark geändert und werden sich in Zukunft aller Voraussicht nach sogar noch weit 
 rascher und durchgreifender. In meine Dissertation geht es um eine Analyse des Jetzt-zustands des Kunstbetriebs und die Konsequenzen die daraus für die 
 zu erwartende Entwicklung zu ziehen sind, insbesondere bezüglich der Ausbildung von Künstler an Kunsthochschulen. Dort sollten meines Erachtens die Berufliche 
-Aspekte des künstlerischen Feldes, (in und ausserhalb der Akademie) verstärkt erläutert und vermittelt werden.
-und die 
-Reaktionen darauf im Bezug auf der Werdegang der 
-Kunstlehre. Die ,  Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
+Aspekte des künstlerischen Feldes, (in und ausserhalb der Akademie) verstärkt erläutert und vermittelt werden. Der Fokus der Arbeit liegt auf vier Hauptthemen
+und ihren Zusammenhängen:
 
-**Der Künstler** Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft sich von Französischem 
-Mahler mit Barette zum Businessmann entwickelt hat. Die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, Änderung des Künstlerbildes, wie er von 
-der Gesellschaft und häufiger durch die Medien wahrgenommen wird verweisen auf Tendenz zur Bildung einer Starfigur, oft weit anders als das, wie er sich selbst 
-sieht und verstehen mag, und er sieht zu, dass dieses anderem Bild dementsprechend eigenhändig kommuniziert werden. Seiner verschiedene Rollen und die unterschiedliche 
-'Künstlersorten', oder Strömungen, aber nicht von Stylen, sondern die zusätzlich zu den schon existierenden zur Zeit entstehen, wie der Kunstmarkt orientiertem, neben der Sozial- oder 
-Theorieorientierter Künstler die von einander unterschieden werden und anders trainiert werden sollen, bzw. Zugang zu andere Quellen, die bisher in der Kunstlehre 
-nicht üblich gewesen sind, aber es sollen. 
+Die Kunst und der Kunstbetrieb haben sich in den letzten Jahrzehnten stark geändert sich und werden sich in Zukunft aller Voraussicht nach sogar noch weit rascher 
+und durchgreifender ändern. In meiner Dissertation geht es um eine Analyse des Jetzt-Zustands des Kunstbetriebs und die Konsequenzen die daraus für die zu erwartende 
+Entwicklung zu ziehen sind, insbesondere bezüglich der Ausbildung von Künstlern an Kunsthochschulen. Dort sollten meines Erachtens die beruflichen Aspekte des 
+künstlerischen Feldes, (in und außerhalb der Akademie) verstärkt erläutert und vermittelt werden. Der Fokus der Arbeit liegt auf vier Hauptthemen und ihren Zusammenhängen:
 
-**Die Arbeitswelt** ändert sich. Mit diese Änderungen durch die globale politische und wirtschaftliche Situation, lässt Platz und Möglichkeiten für Künstler im 
-Spätkapitalismus sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Der Künstler wird vom nur Produzent auch zum Unternehmer, sogar Inhaber 
-ein solches, und Freiheit durch der eigenen Kapital gewinnen, und damit auch macht üben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen. 
-Jobs, die früher nur für den Nichtkünstler gemacht wurden, können von Künstler jetzt besetzt werden, als Angestellt im Bereiche der Produktion, die Sozialarbeit, 
-oder als Theoretiker im Kunstbereich. Auf der andere Seite sind viele Jobs, die früher für den Künstler gemacht wurden, wie Gestaltung und PR Arbeit, Galeriebetrieb
-und Management und vor allem kuratieren, von Künstler selber gemacht. Ansonsten ist er dabei welche zu 'erfinden' - durch Aneignung, als Künstlerische Aussage, 
-als neue Strategie, aber nicht nur. Den diese Aneignung ist nicht mehr nur von Medien, sondern von Kulturtechniken, greift er Initiative und übernimmt Macht und 
-Verantwortung, eventuell anderen ihrer Arbeitsplatz.
+**Der Künstler:** Die Untersuchung der Begriffsgeschichte kann klären, welchen Rollenvorstellungen der Künstler bisher entsprach, und wie sein Bild in der Gesellschaft 
+sich vom Klischee des französischen Malers mit Barett zum Businessmann entwickelt hat. Das gängige Künstlerbild, wie es von der Gesellschaft erwartet und immer häufiger 
+durch die Medien dargestellt wird, weist eine Tendenz zur Bildung einer Starfigur auf, die oft ganz anders strukturiert ist als er sich heutzutage selbst sieht und verstehen 
+mag. Er hat daran zu arbeiten, dass sein Eigenbild verstärkt kommuniziert wird und dass das veraltete und ihm unangemessene Rollenklischee zurückgewiesen und verändert wird. 
+Natürlich gibt es bereits jetzt verschiedene Rollen und unterschiedliche 'Künstlersorten' oder Strömungen, und unterschiedliche Erwartungen verschiedener Teile der Gesellschaft, 
+was nicht so sehr mit den Stilen der künstlerischen Arbeit selbst korrespondiert. Zusätzlich zu den schon existierenden Rollenbildern sind zur Zeit aber auch einige neue Formen 
+am Entstehen. Man kann etwa den am Kunstmarkt orientiertem Künstlertypus neben den an sozialen Aufgaben oder an Theoriediskursen orientierten Künstler nennen. Sie alle sollten 
+von einander unterschieden und entsprechend anders ausgebildet werden. Dies erfordert andere Inhalte und Methoden und beispielsweise die Berücksichtigung von Quellen, die 
+bisher in der Kunstlehre üblicherweise nicht herangezogen wurden es aber sollten. 
 
-**Die Ausbildung** der werdende Künstler, ist in Europa seit 10 Jahre durch dem *Bologna Prozess* am umstrukturieren. Die Auswirkung auf das Studium, die Studenten, 
-und die Kompatibilität des jetzigen Stand, mit dem was ihnen nach dem Studium erwartet, Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Akademie am 
-Beispiel der eigene Universität sind untersucht worden und heben folgendem Ergebnis vor: Die Kunststudenten am Bauhaus entwickeln höhere Fähigkeiten, sich zu vermarkten 
-und ihre Arbeit zu Verkaufen, Ausstellungsgelegenheiten sowie Erfolg bei Stipendienbeantragung - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. Wenn werdende 
-Künstler in dem Studium eintreten, haben sie ein bestimmtes Vorbild, und die Diskrepanz zwischen diesem Vorbild, und das was sie finden, wenn sie die Akademie verlassen noch sehr groß. 
-Mehrere Arbeitsmöglichkeiten gibt es mittlerweile, die viel Information und Kooperation bedeuten, welches ich durchgeführt habe.
+**Die Arbeitswelt** ändert sich. Mit diesen Änderungen – verursacht durch die globale politische und wirtschaftliche Situation - wird es mehr Platz und Möglichkeiten für 
+Künstler im Spätkapitalismus geben, um sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Der Künstler wandelt sich vom reinen Produzenten hin 
+zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital auch Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen 
+ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden inzwischen 
+häufig von Künstlern besetzt. Sie können sich etwa als Angestellte in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschiedenen Funktionen im 
+künstlerischen Feld wahrnehmen. (Die Ausbildung zum PhD dient nicht zuletzt zu diesem Zweck). Auf der anderen Seite müssen viele Jobs, die früher von anderen für den Künstler 
+erledigt wurden, wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren, inzwischen von den Künstlern selber übernommen werden. Sie müssen 
+sich selber um ihre Vermarktung kümmern. Ansonsten sind sie dabei Aufgaben für sich zu 'erfinden' - durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
+nicht alle Ziele und Methoden erfasst sind. Denn diese Aneignung betrifft nicht mehr nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative 
+ergreifen und übernehmen damit Macht und Verantwortung, sichern eventuell anderen ihren Arbeitsplatz. Längst setzen Politiker etwa in Berlin oder Detroit auf die künstlerische 
+Kreativszene, um einen wirtschaftlichen Aufschwung herbeizuführen.
 
-**Das Netzteil** Der Einfluss des Digitale Bearbeitungsmöglichkeiten von Material, neben der Form neue Räume, die die technologische Entwicklungen anbietet ist enorm.  
-Die Wirkung dessen auf der heutige werdende Künstler manifestiert sich auch von ihrer Sozialer Gesicht in Form Neue Distributionsstrategien. Es findet momentan eine Verschiebung 
-statt. Einerseits die Rollen die sich Künstler aus wirtschaftliche und soziale Gründe beruflich übernehmen, und dessen der Funktionäre in seine Umgebung, nämlich die des 
-Kunstbetrieb, sein Biotop: Das Museum, die Galerie, der Kurator, die auch von Künstler übernommen werden. Es handelt sich nicht nur um eine Neigung zu Autarken, die durch die 
-technische Entwicklungen möglich sei, sondern eine die ein Paradigmenwechsel mit sich bringt, in den Aspekten Vermittlung, Ausstellen und verkauf eines Kunstwerkes.
+**Die Ausbildung**  der werdenden Künstler wird in Europa seit 10 Jahren durch den Bologna Prozess mehr oder weniger stark umstrukturiert. In der vorliegenden Arbeit habe ich die Auswirkung auf das Studium und die Studenten untersucht. Unter anderem habe ich die Kompatibilität des jetzigen Standes der Ausbildung mit dem, was die Studierenden nach dem Studium erwartet, die Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Kunsthochschule am Beispiel der eigenen Universität mit künstlerischen Methoden erforscht und zum Thema der Ausbildung gemacht. Dies hat folgende Ergebnis erbracht: Die Kunststudenten an der Fakultät Gestaltung  der Bauhaus-Universität Weimar entwickeln höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu verkaufen, sie sind findig im Ermitteln von Ausstellungsgelegenheiten, haben größeren Erfolg bei der Stipendienbeantragung - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. Wenn werdende 
+Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches Vorbild, und die Diskrepanz zwischen diesem Vorbild, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. Ich arbeite als Lehrende daran, diese Diskrepanz zu verringern. Mittlerweile gibt es mehrere Arbeitsmöglichkeiten für angehende Künstler, die auf meine Initiative hin entstanden sind und mich viel Informationserwerb und Vermittlungs- sowie Kooperationsarbeit gekostet haben.
 
-Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar, sowie durch Vergleiche zu anderen 
-Kunstakademien, meiner eigenen Erfahrung als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen 
-Möglichkeiten die im Augenblick umsetzbar sind, ergeben sich folgende Konsequenz und Prognose: in der Zukunft werden schon allein die 
-Ideen als Geisteseigentum des Künstlers anerkannt und belohnt werden. Damit wird die künstlerische individuelle Handschrift von sekundärer Wichtigkeit sein werden.
-Die Entwicklung von Selbstbestimmung der Urheber-Rechte hinterlässt jetzt schon ihre Marke in der Kunstwelt, und ebnet den Weg zu mehr Kooperation
-als bisher möglich war.
+**Das Netz und die neuen technischen Möglichkeiten:** Der Einfluss der digitalen Bearbeitungsmöglichkeiten auf alle Sorten von Material, aber auch auf die Eröffnung neuer Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. Die Auswirkung dieser Phänomene auf heutige werdende Künstler manifestiert sich unter anderem in sozialer Hinsicht in Form neuer Distributionsstrategien. Es findet momentan eine Verschiebung statt. Einerseits erweitern sich die Rollen, die Künstler aus wirtschaftlichen und sozialen Gründen beruflich übernehmen, und andrerseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, nämlich sein Biotop des Kunstbetriebs ein: die Rollen des Museumsleiters, des Galeristen, des Kurators, werden vermehrt auch von Künstlern übernommen. Es handelt sich nicht lediglich um eine Neigung zur Autarkie, die durch technische Entwicklungen möglich geworden ist, sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellen und Verkauf eines Kunstwerkes einen veritablen Paradigmenwechsel mit sich bringt. Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und von einer Person allein bewältigt werden. Die Arbeit am Betrieb selbst (der als das Material künstlerischer Gestaltung genommen wird) ist längst zu einer künstlerischen Ausdrucksform geworden.
 
-Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlung- und Verkaufssysteme des gängigen Kunstbetriebs 
-zu gebrauchen. Jedoch fordert dies von ihnen einen ziemlich hohen Preis, nämlich den dass sie sich selbst zu einer Marktkraft entwickeln müssen, was Ihnen Zeit raubt.
-Dabei muss nicht unbedingt nur der Kapitalist-Künstler, (seine Charaktere werden später erläutert) entstehen. Künstler sollten durchaus viel mehr als Gruppen anstatt als 
-Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die soziale Eigenschaften 
-des Internets,im realem Leben neue Verhältnisse herzustellen, bei der die Kunst eine Vermittlungsrolle einnimmt. 
+II. Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar, sowie durch Vergleiche zu anderen Kunstakademien, meiner eigenen Erfahrung als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen Möglichkeiten, die im Augenblick umsetzbar sind, ergeben sich folgende Konsequenzen und Prognosen: in der Zukunft werden bereits die Ideen allein als geistiges Eigentum des Künstlers anerkannt und belohnt werden müssen. Damit wird die künstlerische individuelle Handschrift von sekundärer Wichtigkeit sein. Die Entwicklung von Selbstbestimmung und Verfügung nicht nur über die Urheber-Rechte sondern auch die damit verbundenen Verwertungsrechte zeigt jetzt schon ihre Auswirkung in der Kunstwelt und ebnet den Weg zu mehr Kooperation als bisher sinnvoll oder möglich war.
 
-Es gehr nicht einfach nur darum die Studenten für den herkömmlichen Kunstbetrieb zu trainieren, sondern durch die entstehende neue Generation von Künstlern (und deren und 
-meiner künstlerischen Arbeit am Kunstbetrieb), denn die Kunst und der Kunstbetrieb sich ändern werden und ich diese Änderung aktiv betreibe, 
-befürworte und Künstler ausbilde, die für diese Zukunft sorgen.
+Meine These lautet, dass sich Künstler heute gut auf dem Kunst- und Arbeitsmarkt behaupten können, auch ohne auf die Kunstvermittlungs- und Verkaufssysteme des gängigen Kunstbetriebs zurückgreifen zu müssen. Jedoch fordert dies von ihnen einen ziemlich hohen Preis, nämlich den, dass sie sich selbst zu einer Marktkraft entwickeln müssen, was ihnen Kraft und Zeit raubt. Dabei muss nicht unbedingt nur der Künstler als selbständiger kapitalistischer Unternehmer entstehen. Künstler sollten durchaus viel mehr in Gruppen anstatt als Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale Aufgaben an sie abgegeben werden. Mir scheint, als sei es möglich, auch durch die sozialen Eigenschaften des Internets, im realem Leben neue Verhältnisse herzustellen bei denen die Kunst eine Vermittlungsrolle einnimmt. 
 
-Meine Feststellungen basieren sich auf meine Recherche diese vier Hauptthemen, die bestehende und entstandene Experimente die ich durchgeführt habe, 
-kaschieren diese Theorie und sind derer Basis und dienen als Beispiel dafür, und bieten ein Überblick über das was in der Praxis stattgefunden hat. 
-Sie befinden sich im Bericht Format als Anhang.
+Es geht nicht einfach nur darum, die Studenten für den herkömmlichen Kunstbetrieb zu trainieren, sondern durch die entstehende neue Generation von Künstlern (und deren und meine künstlerischen Arbeit am Kunstbetrieb), die sich abzeichnende Veränderung der Kunst und des Kunstbetriebs aktiv zu betreiben, dafür zu sorgen, dass die sich bietenden Chancen im Sinne einer zu befürwortenden Entwicklung genutzt werden und Künstler ausgebildet werden, die für diese Zukunft sorgen.
 
-Diese Dissertation Baut sich auf mich als Model und ist deswegen an sich als Aneignungsversuch zu verstehen. Es baut sich als Puzzel aus Zitate andere, Kunstwerke andere, 
-Bilder und Beobachtung andere - und meine.
-
-Diese Dissertation wurde in der Deutsche Sprache geschrieben worden und liegt hier zu Bewertung in ihre Roh-Text & Bild Version, zur Disputation wird die gelayoutete Version gestellt. 
+Meine Feststellungen basieren auf meinen Recherchen dieser vier Hauptthemen im Rahmen meiner Arbeit in der Lehre und der eigenen künstlerischen Praxis der letzten Jahre und reflektieren diese. Die bestehenden und seitdem entstandenen Experimente, die ich durchgeführt habe, entwickeln diese Theorie und bilden deren Basis. Sie sollen als Beispiel für ihre Anwendung dienen und bieten einen Überblick über die Praxis. Für Einzelheiten verweise ich auf den separaten Anhang der schriftlichen PhD-Arbeit. Zusätzlich wird ein Katalog über den Kiosk09 erstellt werden, dem meine künstlerische Forschung in den letzten Jahren überwiegend gewidmet war. 
 
 
-1 Intro (Vorbemerkung)
+ 
 
-2 Everything Has Been Done1 (Einleitung)
-
-3 I. DER KÜNSTLER
-3.1 Where is my Mind?2
-3.2 Was, oder wer ist ein Künstler?
-3.3 Looking at you (looking at me)3
-3.4 Me, myself & I
-3.5 Vom Künstlerbild in den Medien
-
-4 II. DIE ARBEIT
-4.1 Das Bild von Kunst als Business
-4.2 Künstler = Autor + Produzent
-4.3 Beruf: Künstler
-4.4 Would you like to be modified?4
-4.5 Why, are the artists poor?5
-
-5 III. DAS STUDIUM
-5.1 Z.B. BUW
-5.2 Kunststudium am Beispiel der Bauhaus-Universität Weimar
-5.3 Be an Art student, be a Master, be a Doctor!
-5.4 Theorie für Praktiker
-5.5 What’s the Difference?6
-5.6 Theorie vs. Praxis
-+
-6 IV. DER KUNSTBETRIEB
-6.1 Akademie trifft Kunstmarkt
-6.2 Die eigene White Cube (Unigalerie)
-6.3 Das Konstrukt Bauhaus Essentials
-6.4 Sind Kunstmarkt und Kunststudium kompatibel?
-6.5 Das Dilemma
-6.6 Wo ist eigentlich…?
-
-7 V. DAS NETZTEIL
-7.1 Kunst ./. Kommunikation*
-7.2 Next Project.
-
-8 Where do we go from here?7 / Outro
-8.1 10 Years after8
-8.2 A Room Of Your Own*
-8.3 oder: Is your Art Necessary?10
-
-9 The B-Side (Outro #2)
-
-10 VI. ANHANG (See Attached)
-
-10.1 5-Jahres-Plan doch zu buw?
-10.2 Das Format Fachkurs
-10.3 Exile on Main Street11
-10.4 Der K3 Fragebogen
-10.5 Texte
-10.6 Weitere Lyrics
-11 Anmerkungen
-12 Danke
-13 Material
-13.1 Bücher
-13.2 Links
-14 Quellen
-14.1 Links
-14.2 Bildnachweis / Image Credits
-14.3 Bibliographie
 
 plus 6 max. 6 Seiten Bilder
