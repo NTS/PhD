@@ -325,20 +325,20 @@ SS 2012 (Mit Dipl.-Künstl. Anke Hannemann & Sean Miller, University of Florida,
 
 Wie vernetzen sich Künstler miteinander? Wie bauen sie ihr weltweites/internationales Netzwerk aus und wie können sie dennoch produktiv 
 kollaborieren und zusammen arbeiten, wenn tausende über tausende Kilometer zwischen ihnen liegen? Wie professionell sind sie dabei und in welcher 
-Form, mit Hilfe welcher Strategien werden Ideen ausgetauscht und zusammen gebracht – (Portfolios, Webseiten, Katalogen, Skizzen, Fotografien, 
-Video- oder Audioschnipsel, per Skype, Facebook, iVersity, base camp oder anderen online-Plattformen, etc.) Wo liegen die Grenzen bei der Kommunikation, 
+Form, mit Hilfe welcher Strategien werden Ideen ausgetauscht und zusammen gebracht – (Port Folios, Webseiten, Katalogen, Skizzen, Fotografien, 
+Video- oder Audioschnipsel, per *Skype*, *Facebook*, *iVersity*, *basecamp* oder anderen online-Plattformen, etc.). Wo liegen die Grenzen bei der Kommunikation, 
 den kulturellen oder ästhetischen Unterschieden und wie können diese überschritten oder übergangen werden.
 
 Dieser Fachkurs ist ebenso ein kollaborativer Versuch, ein Experiment zwischen Studierenden der University of Florida, USA (zusammen mit dem 
 Performance / Medienkünstler und Hochschulmitarbeiter Sean Miller) und der Bauhaus-Universität Weimar. Die Studierende können sich an einer 
 kollaborativen Arbeit versuchen, ihre eigenen möglichen Formen kollaborativer Strategien erforschen und einen Einblick in Projekte gewinnen,
-die gleichzeitig und zusammen an unterschiedlichen Universitäten, in verschiedenen Städten, realisiert werden. Eingeladene Gäste werden über 
+die gleichzeitig und zusammen an unterschiedlichen Universitäten, in verschiedenen Städten,r ealisiert werden. Eingeladene Gäste werden über 
 ihre eigenen aufgebauten Netzwerke, erfolgreich geführte kollaborativen Projekte und Formen der Kommunikation und des Austausches via Internet, referieren. 
 
 **Notizen**
 
 Im diesem Fachkurs ging es um das Kooperieren allgemein und um Kollaboration in der Kunst. Zusammen mit den Studierenden aus dem MFA-Programm 
-"Kunst im öffentlichen Raum und neue künstlerische Strategien" nahmen über 30 Studenten an dem Fachkurs teil. Es ging darum, welche Beispiele, 
+*Kunst im öffentlichen Raum und neue künstlerische Strategien* nahmen über 30 Studenten an dem Fachkurs teil. Es ging darum, welche Beispiele, 
 Regeln und Wege man für die Zusammenarbeit nutzt, einschließlich des Internets. Wir hörten Vorträge von Fachleuten 
 zu den Themen Egokontrolle, Produzentengalerien, internationale Plattformen, das Internet als Kollaborativer Plattform etc. Texte wurden analysiert,
 mit abschließendem Reader. 
@@ -353,7 +353,7 @@ Was ist Kunstkritik? Wer schreibt sie? Kann ich es auch?
 Im Fachkurs werden die Werkzeuge und das Vokabular sowie Geschichte zur Kunstkritik untersucht und erprobt. Eine Verschärfung 
 des kritischen Blicks auf die Kunst anderer soll geübt, der Dialog und die rhetorische Auseinandersetzung mit Niedergeschriebenen 
 diskutiert werden. Die Kultur von Ausstellungseröffnungen wird dabei auch untersucht: Wie bewegt man sich innerhalb dieses 
-Kunst-Biotops? Wie entstehen Kontakte während Eröffnungen, wie gehe ich mit ‚Small Talk’ um, oder wie lasse ich mich auf ihn ein? 
+Kunst-Biotops? Wie entstehen Kontakte während Eröffnungen, wie gehe ich mit *Small Talk* um, oder wie lasse ich mich auf ihn ein? 
 Wie funktionieren Ausstellungen aus dem Blickwinkel aller anderen und nicht aus dem der ausstellenden Künstler? Bei Besuchen 
 verschiedener Künstlerateliers soll durch Gespräche versucht werden, einen Blick von Außen zu erhalten. Von der eigenen 
 Meinungsbildung bis zur eloquenten Kunstmagazin-Kritik werden wir uns mit den nötigen Werkzeugen wappnen.
@@ -406,13 +406,15 @@ Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von au�
 
 ## Der K3 Fragebogen
 
-Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben wir das Model Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt zu
-administrative Information zu bekommen, neben Neigungen und Interessen für das Projekt und seine Inhalte zu spüren. Im gemischter Form (Amerikanisch und 
+Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben ich das Model Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt zu
+administrative Information zu bekommen, und daneben Neigungen und Interessen für das Projekt und seine Inhalte zu spüren. Im gemischter Form (Amerikanisch und 
 "Warum? Fragen mit Platz für Antwort"), fragen wir, manchmal auf humoristische Weise, nach Fakten, die so stringent in einem Gespräch nicht zu sammeln wären.
+
+Dies habe ich auch zum Abschluss alle Kiosk bezogene Fachkurse eingeführt.
 
 Die Bewertung der Fragebögen lässt sich aus der Tabelle sehr gut lesen und kann manches über den Zusammenhang von Studium und Beruf, 
 für die junge Generation aus ihrer Sicht erläutern. Jeder versucht für sich zu entscheiden, welche Motivation ihn zum Arbeiten treibt. 
-Will man zum Beispiel reich oder berühmt werden?  Im Mittelpunkt aller drei Fachkurse steht das Wissen um den Kunstbetrieb. Jeder Teilnehmende 
+Im Mittelpunkt aller drei Fachkurse steht das Wissen um den Kunstbetrieb. Jeder Teilnehmende 
 stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Information benötigt, um im Kunstbetrieb zu funktionieren.
 
 
@@ -448,8 +450,7 @@ stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Inform
 6. (Wie vorige Fragebogen)
 7. Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
 8. Warum?
-9. Glauben Sie es ist gut, wenn Künstler alles über dem Kunstbetrieb wissen und können, oder ist
-10. Ist Ihre Meinung nach, das Fachwissen darüber, wie eine Ausstellungsreihe funktioniert im Fachkurs ausreichend erläutert worden? Ja / Nein (Bitte Markieren)
+9. Glauben Sie es ist gut, wenn Künstler alles über dem Kunstbetrieb wissen und können, oder ist Ihre Meinung nach, das Fachwissen darüber, wie eine Ausstellungsreihe funktioniert im Fachkurs ausreichend erläutert worden? Ja / Nein (Bitte Markieren)
 
 
 
@@ -459,10 +460,10 @@ stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Inform
   Wenn Künstler Kunst Kuratieren  WS 09/10
 
 
-5. Which exhibition did you like the best? please mark: Nationalkiosk  /  Eigenkiosk  /  KioskWerke  /  *KoCAInn*  /   KOP   /   KoMA   /   KSA   /   DNA - Why?	
+5. Which exhibition did you like the best? please mark: Nationalkiosk  /  Eigenkiosk  /  KioskWerke  /  KoCAInn  /   KOP   /   KoMA   /   KSA   /   DNA - Why?	
 6. Be honest: If the project went on for another year, would you take part in it? Yes / No - Why? 
 7. Would you consider running such a space yourself after this experience? Yes / No - Why? 	
-8. Would you continue if you didn’t need credits / (Schein)  Yes / No
+8. Would you continue if you didn’t need credits? / (Schein)  Yes / No
 9. How did the experience of collaborating with people you didn't choose to collaborate with work for you?
 10. Would you choose any one from the group for doing a project in real life?  Yes / No If yes, who and why?	
 11. Were you satisfied with the part you took over doing?
@@ -474,8 +475,7 @@ stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Inform
 17. Will you consider using an online internet platform for your own project? Yes   /  No   /   I use it   /   similar prog. already.
 18. Any other comments or critique	
 	
-	
-	
+		
 Thank you for taking part in this Fachkurs! 
 
 
@@ -483,7 +483,7 @@ Thank you for taking part in this Fachkurs!
 ### Bewertung Fachkurs Kiosk Fragebogen
 
  
-Teilung der angeschriebene Studenten nach Fakultät:
+Einteilung der angeschriebene Studenten nach Fakultät bzw. Studiengang:
 
 
 Fakultät        			 Personen (P)
@@ -561,44 +561,7 @@ Beides                       4
 ----------    			   -----
 
 
-Fragebogen Teil III Frage #5: Welche Ausstellung fanden sie am besten?
-
-
-K                     		  P
-----------------    	    -----
-Nationalkiosk         		  0
-
-Eigenkiosk            		  0
-
-KioskWerke            		  1
-
-KoCA *inn*              	  0
-
-KOP                   		  0
-
-KoMA                  		  1
-
-KSA                   		  0
-
-DNA                   		  3
-
-Alle                  		  1
-
-KoMA &                		  1
-KSA
-
-KioskWerke &         		  1
-KOP &
-KSA
-
-Nationalkiosk &       		  1
-KioskWerke &
-KOP &
-KoMa
-----------------    	     -----
-
-
-Fragebogen Teil III Frage #15: Wie schätzen Sie die Arbeit auf Basecamp?
+Fragebogen Teil III Frage #15: Wie schätzen Sie die Arbeit auf *basecamp*?
 
 
 -------------------------    -----
