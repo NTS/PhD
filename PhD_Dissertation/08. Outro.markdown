@@ -9,15 +9,8 @@ Wenn man die Kritik aus dem *New York* Magazin *How to Make it in the Art World*
 ein sehr zynisches Vademecum geliefert hat (*Who to know, where to go* etc.) so hat sie
 aber auch ein sehr gutes assesment des Zustands des Kunstmarkts geboten, der in eine Dämmerungszustand zu sinken scheint. 
 Dies liegt daran, dass die Künstler nicht mehr mitmachen, weil sie wirklich daran hängen, was man von ihre Arbeit hält, 
-auch wenn sie in die übliche Falle hereintappen (ich will, das alles mich lieben, aber wenn alle mich lieben kann es nicht gut sein).
+auch wenn sie in die übliche Falle hereintappen (ich will, das alles mich lieben, aber wenn alle mich lieben kann es nicht gut sein)
 
-
-
-- Künstlerstädte (mit Realen Pass) errichten sich im virtuellen Cyberspace des Internets. 
-
-- why make more art if you don't understand what we did anyhow?
-
-- is your art neccessary?
 
  
 ## 10 Years after[^fn-10yafter]
@@ -25,7 +18,7 @@ auch wenn sie in die übliche Falle hereintappen (ich will, das alles mich liebe
 [^fn-10yafter]: (Bandname)
 
 
-#### Bemerkungen zum akademischen-  bzw. Theoretischen Künstler
+**Bemerkungen zum akademischen-  bzw. Theoretischen Künstler**
 
 Man muss bedenken, dass im Laufe der letzten zehn Jahre die Bologna-Reform die Institutionen durchlief und eine Beschleunigung sowie das Herausschicken von Fachlich 
 "unreifen" Absolventen hervorbrachte. In den Medien werden dann diese Alumni so beschrieben: "Die Absolventen seien nicht die "Persönlichkeiten", die die Wirtschaft 
@@ -48,6 +41,8 @@ werden zu wollen und erst danach sterben.
 
 
 #### Der Künstlerkuratorgalerist
+
+**Bemerkungen zum Kunstbetrieb-Künstler**
 
 Der Künstler als Kurator und Galerist ist eine Tatsache geworden. Dies bedeutet eine neue Macht und Einfluss Position, neben einer besseren, wenn nicht zusätzliche Einkommensquelle. Für die Frisch zu Freischaffenden ernannten Kollegen aus den
 neu eeingerichteten Kuratorenschulen (hier sind Nichtkünstler gemeint) bedeutet dies sogar noch wenigere Arbeitsgelegenheiten. Zwei Künstlerinnen die sich als Kuratorinnen einer Ausstellung präsentierten 
@@ -76,18 +71,16 @@ Was für die Künstler gilt, gilt auch für die Institutionen. Es gibt immer meh
 
     TODO: SOURCE > anfrage an nwh per mail 26.9. raus
 	
-	
+**Bemerkungen zum Netz Künstler**	
 	
 
 Kein Zweifel, Künstler brauchen Raum. Virtuell ein Eigenraum (Eigen-Art, Eigen-Heim, Eigen-Kiosk) oder nonvirtuell (im Netz) als alternative zum jetzigen Auswahl an *white cubes*. Die Konsequenz dieser Eigeninitiativen ist, dass ein Künstler heute auch ohne eine Galerie existieren und seine Werke bekannt machen kann. 
 Die Vermittlung liegt in der eigenen Hand. Natürlich führt das auch zu vielen offenen Fragen, z.B. wer entscheidet über die Qualität 
 der Arbeiten, usw. Sind es die Marktkräfte? Ich glaube, sie sind noch stark genug. 
 
-
-    TODO: dieses Paragraph ist bla:
+     TODO: dieses Paragraph ist bla:
 
 Wenn man malt, dann muss man die Zeit dazu haben, bei Konzeptkunst jedoch ist man froh, wenn man über die Ideen und Konzepte nachdenkt. 
-
 Bei Konzeptkunst gibt immer die Prozessphasen der Ideenentwicklung, dann die technische Umsetzung. 
 
 Welcher Künstler hat es nicht gerne, 
@@ -95,17 +88,15 @@ auch einmal Hilfe zu beanspruchen und andere Personen als sich selbst mit zu bes
 Das Resultat ist nicht unbedingt immer von der eigenen Handarbeit abhängig. Aber das sage ich aus meiner Perspektive und bezüglich der Kunst, 
 die ich mache. 
 
+**Bemerkungen zum Berufskünstler**
+
 Man sollte auch nicht immer nur mit der *deadline* im Kopf arbeiten. Künstler arbeiten fast nur unter dem Druck der Abgabetermin hinzu. In vielen Fällen funktioniert das auch sehr gut, man kann fast gar nicht anders. Als Professioneller Künstler muss er aber lernen, eine größeres Bewusstsein 
 für das gesamte Betrieb zu entwickeln und nicht nur auf das Werk selber, und für den Zeitpunkt der jeweiligen Ausstellungen zu blicken und zu planen. Die nächste zwei, drei Projekte, die manchmal, je größer der Erfolg 
 auch Parallel zueinander laufen könnten, sollten gleichfalls bedacht werden. Es steht die Kooperation dem Alleingang gegenüber, der Umgang mit Geld und der Beziehung zum Netz muss weiter und expliziter aufgebaut werden. Zum Wort Netzwerk würde ich sagen: ‚Ihr seid das Netzwerk’!
 
 
-H. U. Reck erklärt die Theoretische Begründung der Integration von neuen Maschinen und Apparaten in den Entwurf der Künste zu den wesentlichen Tendenzen der Künste des XX. Jahrhunderts. 
-Zur Erweiterung der üblichen Nutzung der Maschinen zur Erschließung neuer Erlebnisweisen führt er aus: „Kunst hat ihre konstruktive Kompetenz gegenüber Geräten, Wissenschaft, Technik, generell: gegenüber 
-dem Erkenntnisfortschritt, verloren.“ (...) „Wenn Kunst in dieser Hinsicht nicht innovativ ist, dann trägt sie nichts zum Verständnis der Technologien bei. Dann bleibt sie Oberfläche, Dekor (...)
-eine unwesentliche Verschönerung des Fremden.“ TODO: Source?
 
-Bemerkungen zum Kunst Betrieb. 
+**Bemerkungen zum Kunst Betrieb** 
 
 Die Kunstwelt hat 2008 während der großen Wirtschaftskrise erstaunliche Stabilität bewiese, das Wert meiste Werken erhalten. Zahllosen Biennalen gibt es schon; mittlerweile wurde das nach 
 Nationalität getrennte Pavillonkonzept der Biennale in Venedig mehrfach in Frage gestellt. Die Künstlerin Esther Shalev-Gerz meinte schon 2004 dass die Künstlerkooperationen und Künstlerkooperativen 
