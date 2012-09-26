@@ -76,7 +76,8 @@ und die gelingt die Übersetzung des gesammelten Materials zur Präsentation, bz
 
 [^fachkurse-vlv]: Alle Fachkursbeschreibungen beziehen sich auf der Online Vorlesungsverzeichnisse der Professur Freie Kunst, Fakultät Gestaltung auf der 
 Website der Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English und die Kurse richteten sich an der Studierenden aller Fakultäten.
-Dies ist eine Zusammenfassung aller drei Fachkurse, TODO: siehe hier die Originalfassung aus dem BUW Vorlesungsverzeichnis:
+Dies ist eine Zusammenfassung aller drei Fachkurse, [^K3]
+[^K3]: siehe die Originalfassung aus dem BUW Vorlesungsverzeichnis:
 
 WS 2007/08 + SS 2009 + WS 2009/10 
 
@@ -378,13 +379,15 @@ Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von au�
 
 + **Wenn Künstler Kunst kuratieren (K3)**
     - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, 
-      und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von mir übernommen werden 
-    - In drei Etappen wird eine Art, Kuratorenschule stattfinden, Themen bearbeitet wie:
-        - Nachhaltigkeit
-        - Aussage
-        - Zusammenarbeit
-        - Künstler als Kuratoren
-    - Dies wird durch ein Fachkurs Angebot für die Studenten der Fakultät Gestaltung unterstützt
+      und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von der Gruppe übernommen werden. Dies wird durch ein Fachkurs 
+	  Angebot für die Studenten der Fakultät Gestaltung unterstützt. 
+    - In drei Etappen wird eine Art *Kuratorenschule* stattfinden, Themen bearbeitet wie:
+       - Aussage &  Konzept
+       - Zusammenarbeit & Kooperation
+       - Künstler als Kuratoren
+	   - PR-Arbeit
+	   - Nachhaltigkeit
+   
 
 + **Teil I: Übernahme (WS 08-09)**
     - Geschichte des Kiosks wird bearbeitet reflektiert und präsentiert  
@@ -395,9 +398,6 @@ Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von au�
         * Ryan Weber (Schalter Galerie Berlin)
     - Konzept, Ortsname, Call for entries, Jury
 	
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	* Hier fehlen noch die vollständige Varianten:
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + **Teil II: Instandhaltung (SoSe 09 und Eröffnung des Bauhaus 09 Jahr)**
     - Künstlerbetreuung
@@ -406,7 +406,10 @@ Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von au�
 
 + **Teil III: Weiterpflege (WS 09-10)**
     - Dritte Ausstellungsphase: Umbau bei laufendem Betrieb
-    - Dokumentation, Finanzbericht und Übergabe
+    - Dokumentation, 
+	- Finanzbericht 
+	- Übergabe
+	
 	
 
 ## Der K3 Fragebogen
