@@ -3,20 +3,7 @@
 [^gofromhere]: (Song by Yoko Ono aus dem Album)
 
 
-Die Gegenwart revisited
-
-1. Künstler
-2. Kunstbetriebkünstler (Galerist, Kurator)
-3. Akademie (10 Years after)
-4. netz & digitale native
-1. Businesskünstler
-1. Sozialkünstler
-1. Politisch aktiv plus Art = 
-1. Akademischenkünstler
-1. Kunstmarktkünstler
-1. Künstlerkünstler
-1. Filmmacherkünstler
-
+Die Gegenwart revisited: 
 
 Wenn man die Kritik aus dem *New York* Magazin *How to Make it in the Art World* [Link](http://nymag.com/arts/art/rules/)
 ein sehr zynisches Vademecum geliefert hat (*Who to know, where to go* etc.) so hat sie
@@ -199,9 +186,9 @@ nächsten Ausstellung teilzunehmen. Sie will nicht meine Kunst ausstellen, sonde
 nach der großen *Materialschlacht*, ist nur das Künstlerfigur und seine Fähigkeiten als Vorherseher. Künstler ähneln immer noch die Schamanen. Sie beobachten, vergleichen und ziehen Schlüssel aus dem was sie sehen. Die bloße Anwesenheit, und Ideen haben sollten reichen.	"Aber das ist schon gemacht worden und bildet ein Echo zu Marina Abramovics Werk *The Artist Is Present* müsste ich ihr sagen. 
 
 
-So hat es alles angefangen. Mitte im Kunstmachen und kuratieren habe ich mich für das Masterstudium entschieden. Während ich an der UDK in Berlin als Gaststudent ein Semester verbracht habe, 
-habe ich ein Zimmer mit meine Künstler und Kiosk Kollegin Leonie Weber in Berlin geteilt. In dieser Zeit war ich zum kurzes Besuch in Israel, und dort erhielte ich die Anfrage, ein Artikel für 
-ein Kunstmagazin zu schreiben. Ich habe über den Prozess der Professionalisierung angefangen nachzudenken. Und es hat angestachelt. In der Zeit seitdem bin ich mit meine Gedanken immer Parallel 
+So hat es alles angefangen. Inmitten des Kunstmachens und kuratierens habe ich mich für das Masterstudium entschieden. Während ich an der UDK in Berlin als Gaststudent ein Semester verbracht habe, 
+habe ich ein Zimmer mit meiner Künstler- und Kiosk-Kollegin Leonie Weber (die auch eine der Initiatoren von *Neu Deli* war) in Berlin geteilt. In dieser Zeit war ich zu einem kurzen Besuch in Israel, und dort erhielte ich die Anfrage, ein Artikel für 
+das Kunstmagazin *Terminal* zu schreiben. Ich habe angefangen, über den Prozess der Professionalisierung nachzudenken. Und dieses Thema hat mich angestachelt. In der Zeit seitdem bin ich mit meine Gedanken immer parallel 
 und permanent auf diese Ebene geblieben. 
 
 
@@ -213,7 +200,7 @@ und permanent auf diese Ebene geblieben.
 And now, if you will excuse me, I am going to make some art.
 
 
-
+    TODO: es wiederholt sich! lieber hier!
 **Bild:** [Justin_Hansch_Happy_Artists.jpg](images/bild.jpg)
 
 [LINK](http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)
