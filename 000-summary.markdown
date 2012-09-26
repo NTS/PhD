@@ -82,7 +82,7 @@ Entwicklung genutzt werden und Künstler ausgebildet werden, die für diese Zuku
 
 Meine Feststellungen basieren auf meinen Recherchen dieser vier Hauptthemen im Rahmen meiner Arbeit in der Lehre und der eigenen künstlerischen Praxis der letzten Jahre und reflektieren diese. 
 Die bestehenden und seitdem entstandenen Experimente, die ich durchgeführt habe, entwickeln diese Theorie und bilden deren Basis. Sie sollen als Beispiel für ihre Anwendung dienen und bieten 
-einen Überblick über die Praxis. Für Einzelheiten verweise ich auf den separaten Anhang der schriftlichen PhD-Arbeit. Zusätzlich wird ein Katalog über den Kiosk09 erstellt werden, dem meine 
+einen Überblick über die Praxis. Für Einzelheiten verweise ich auf den separaten Anhang der schriftlichen Ph.D.-Arbeit. Zusätzlich wird ein Katalog über den Kiosk09 erstellt werden, dem meine 
 künstlerische Forschung in den letzten Jahren überwiegend gewidmet war. 
 
 
