@@ -1,7 +1,7 @@
 Zusammenfassung - 
 
 
-Als ich Künstler war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:* der Künstler als Arbeiter 
+**Als ich Künstler war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:* der Künstler als Arbeiter** 
 
 
 Dissertation  
@@ -12,9 +12,13 @@ Matrikel Nr. 51163
 Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger
 
 
-Die Kunst, und der Kunstbetrieb ändern sich und werden im Zukunft noch viel stärker sich weiter ändern. In meine Dissertation geht es 
-um den Jetzt-zustand des Kunstbetriebs, die Konsequenzen die daraus zu ziehen sind, und die Reaktionen darauf im Bezug auf der Werdegang der 
-Kunstlehre. Die Berufliche Aspekte, in und ausserhalb der Akademie zu erläutern. Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
+Die Kunst, und der Kunstbetrieb haben sich in den letzten Jahrzehnten stark geändert und werden sich in Zukunft aller Voraussicht nach sogar noch weit 
+rascher und durchgreifender. In meine Dissertation geht es um eine Analyse des Jetzt-zustands des Kunstbetriebs und die Konsequenzen die daraus für die 
+zu erwartende Entwicklung zu ziehen sind, insbesondere bezüglich der Ausbildung von Künstler an Kunsthochschulen. Dort sollten meines Erachtens die Berufliche 
+Aspekte des künstlerischen Feldes, (in und ausserhalb der Akademie) verstärkt erläutert und vermittelt werden.
+und die 
+Reaktionen darauf im Bezug auf der Werdegang der 
+Kunstlehre. Die ,  Der Fokus liegt mir in die zusammenhänge zwischen vier Hauptthemen:
 
 **Der Künstler** Die Geschichte des Begriffs verweist auf vieles, was ein Künstler bisher war, und wie sein Bild in der Gesellschaft sich von Französischem 
 Mahler mit Barette zum Businessmann entwickelt hat. Die Veränderungen in seinem Bild, wie die Gesellschaft ihm sieht, Änderung des Künstlerbildes, wie er von 
