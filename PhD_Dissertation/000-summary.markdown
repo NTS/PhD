@@ -21,47 +21,45 @@ Der Fokus der Arbeit liegt auf den folgenden 4 Hauptthemen und ihren Zusammenhä
 
 **Der Künstler:** Die Untersuchung der Begriffsgeschichte kann klären, welchen Rollenvorstellungen der Künstler bisher entsprach, und wie sein Bild in der Gesellschaft 
 sich vom Klischee des Malers: Europäisch stammend, im Dachboden oder im Atelier mit oder ohne Barett hockend, zum Anzugstragender, Freischaffender, von anderen verwalteter 
-Superstar entwickelt hat. Das gängige Künstlerbild, wie es von der (vorwiegend kleinbürgerliche) Gesellschaft erwartet und immer häufiger 
-durch die Medien dargestellt wird, weist auf eine Tendenz zur Bildung einer Starfigur auf, die oft ganz anders strukturiert ist als manche Künstler sich heutzutage selbst sehen und verstehen 
+Superstar entwickelt hat. Das gängige Künstlerbild, wie es von der (vorwiegend kleinbürgerlichen) Gesellschaft erwartet und immer häufiger 
+durch die Medien dargestellt wird, weist eine Tendenz zur Bildung einer Starfigur auf, die oft ganz anders strukturiert ist als manche Künstler sich heutzutage selbst sehen und verstehen 
 mögen. Dass sein Eigenbild verstärkt kommuniziert wird und dass das veraltete und ihm unangemessene Rollenklischee zurückgewiesen und verändert wird muss, ist eine Tatsache, an der er sich 
 längst angewöhnt und wahrgenommen worden. 
 
-Bereits jetzt schon kann man verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen, unterdessen kann man den Kunstbetrieb-Künstler, der akademischen- bzw. 
-Theorie-Künstler, und der Sozial- bzw. Netz-Künstler, (und es gäbe noch weitere unter welche sie geteilt werden können), aber allein die haben unterschiedliche Erwartungen verschiedener Teile der 
-Gesellschaft entgegenzukommen, was nicht so sehr mit den Stilen der künstlerischen Arbeit selbst korrespondiert. 
+Bereits jetzt schon kann man verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen erkennen. und es gäbe noch weitere unter welche sie geteilt werden können),  
 
 Zusätzlich zu den schon existierenden Rollenbildern sind zur Zeit aber auch einige neue Formen 
-am Entstehen. Man kann etwa den am Kunstmarkt orientiertem Künstlertypus neben den an sozialen Aufgaben oder an Theoriediskursen orientierten Künstler nennen. Sie alle sollten 
+am entstehen. Man kann etwa den am Kunstmarkt orientiertem Künstlertypus neben den an sozialen Aufgaben oder an Theoriediskursen orientierten Künstler nennen. Sie alle sollten 
 von einander unterschieden und entsprechend anders ausgebildet werden. Dies erfordert andere Inhalte und Methoden und beispielsweise die Berücksichtigung von Quellen, die 
 bisher in der Kunstlehre üblicherweise nicht herangezogen wurden es aber sollten.   
 
 
 **Die Arbeitswelt** ändert sich ebenso. Durch diesen Prozess -- verursacht durch die globale politische und wirtschaftliche Situation -- wird es mehr Platz und Möglichkeiten für 
-Künstler im Spätkapitalismus geben, um sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Das sich das Bild des Künstlers sich so geändert hat, 
-liegt auch eben an die schon mutierten und noch weiter mutierende Arbeitsverhältnisse. Der Künstler wandelt sich vom reinen Produzenten hin 
-zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital auch Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen 
-ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden  
+Künstler im Spätkapitalismus geben, um sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Das sich das Bild des Künstlers so geändert hat, 
+liegt auch an den schon mutierten und noch weiter mutierenden Arbeitsverhältnissen. Der Künstler wandelt sich vom reinen Produzenten hin 
+zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital möglicherweise an Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen 
+ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeit besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden 
 häufiger von Künstlern besetzt. Sie können sich etwa als Angestellte in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschiedenen Funktionen im 
-künstlerischen Feld wahrnehmen (Der Studiengang, in dessen Rahmen diese Arbeit entstand, dient nicht zuletzt zu diesem Zweck). 
+künstlerischen Feld wahrnehmen (der Studiengang, in dessen Rahmen diese Arbeit entstand, dient nicht zuletzt diesem Zweck). 
 
-Auf der anderen Seite müssen viele Jobs, die früher von anderen für den Künstler erledigt wurden, können und müssen inzwischen von den Künstlern selber übernommen werden, 
+Auf der anderen Seite können und müssen viele Jobs, die früher von anderen für den Künstler erledigt wurden, inzwischen von den Künstlern selber übernommen werden, 
 wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. Sie müssen sich selber um ihre Vermarktung kümmern. 
 Sie sind dabei Aufgaben für sich zu 'erfinden' - durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
 nicht alle Ziele und Methoden erfasst sind. Denn diese Aneignung betrifft nicht mehr nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative 
 ergreifen und übernehmen damit Macht und Verantwortung, sichern eventuell anderen ihren Arbeitsplatz. Längst setzen Politiker etwa in Berlin oder Detroit auf die künstlerische 
-Kreativszene, um einen wirtschaftlichen Aufschwung herbeizuführen.  
+*Kreativwirtschaft*, um einen realwirtschaftlichen Aufschwung herbeizuführen.  
   
 
-**Die Ausbildung** der werdenden Künstler wird in Europa seit der Beginn des Bologna Prozesses seit 2001/2 stark umstrukturiert. In der vorliegenden Arbeit habe ich 
-die Auswirkung auf das Studium und die Studierenden untersucht. Unter anderem habe ich die Kompatibilität des jetzigen Standes der Ausbildung mit dem, was die Studierenden nach 
-dem Studium erwartet, die Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Kunsthochschule am Beispiel der eigenen Universität mit künstlerischen Methoden 
+**Die Ausbildung** der werdenden Künstler wird in Europa seit der Beginn des *Bologna*-Prozesses seit 1999 stark umstrukturiert. In der vorliegenden Arbeit habe ich 
+die Auswirkungen auf das Studium und die Studierenden untersucht. Unter anderem habe ich die Kompatibilität des jetzigen Standes der Ausbildung mit dem, was die Studierenden nach 
+dem Studium erwartet; die Struktur des Studiums; die Beziehungen zwischen Kunstmarkt und der Kunsthochschule am Beispiel der eigenen Universität mit künstlerischen Methoden 
 erforscht und zum Thema der Ausbildung gemacht. 
 
 Ich behaupte: Die Kunststudenten an der Fakultät Gestaltung der Bauhaus-Universität Weimar entwickeln höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu verkaufen, 
-sie sind findig im Ermitteln von Ausstellungsgelegenheiten, haben größeren Erfolg bei der Stipendienbeantragung - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. 
+sie sind findiger im Ermitteln von Ausstellungsgelegenheiten, haben größeren Erfolg bei der Stipendienbeantragung -- und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. 
 
-Wenn werdende Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches Vorbild, 
-und die Diskrepanz zwischen diesem Vorbild, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. 
+Trotzdem gilt im Allgemein: Wenn werdende Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches Vorbild, 
+und die Diskrepanz zwischen Diesem, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. 
 
 Als Lehrende arbeite ich daran, diese Diskrepanz weiter zu verringern.
 Auf meine Initiative hin sind inzwischen mehrere Arbeitsmöglichkeiten für angehende Künstler entstanden, was viel Informationserwerb, Vermittlungs- 
@@ -69,8 +67,9 @@ und Kooperationsarbeit erforderte.
   
 
 **Das Netz und die neuen technischen Möglichkeiten:** Der Einfluss der digitalen Bearbeitungsmöglichkeiten auf alle Sorten von Material, aber auch auf die Eröffnung neuer 
-Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. andererseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, 
-nämlich sein Biotop des Kunstbetriebs und erweitert sie, andererseits bietet Alternativen Räumen und noch mehr unabhängigkeit.  
+Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. 
+Andererseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, 
+nämlich sein Biotop des Kunstbetriebs und erweitert sie, andererseits bietet Alternativen Räumen und noch mehr Unabhängigkeit.  
 ein
 
 Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt des Künstlers. ... in Form neuer Distributionsstrategien. 
@@ -82,7 +81,7 @@ nach oben?
 : die Rollen des Museumsleiters, des Galeristen, des Kurators, werden vermehrt auch von Künstlern übernommen.  -->
 
 Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
-die durch technische Entwicklungen möglich geworden ist, sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellen und Verkauf eines Kunstwerkes einen veritablen 
+die durch technische Entwicklungen möglich geworden ist, sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellung und Verkauf eines Kunstwerkes einen veritablen 
 Paradigmenwechsel mit sich bringt. Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und von einer Person allein bewältigt werden. So wie der  
 Betrieb selbst das Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden.  
 
