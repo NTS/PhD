@@ -42,15 +42,6 @@ ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeit besser a
 häufiger von Künstlern besetzt. Sie können sich etwa als Angestellte in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschiedenen Funktionen im 
 künstlerischen Feld wahrnehmen (der Studiengang, in dessen Rahmen diese Arbeit entstand, dient nicht zuletzt diesem Zweck). 
 
-So wirkt der Künstler auf neue Weise direkt auf seine ureigene Umgebung, nämlich dasdas Biotop des Kunstbetriebs und erweitert sie, andererseits bietet Alternativen Räumen und noch mehr Unabhängigkeit.  
-
-Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
-die durch technische Entwicklungen möglich geworden ist, 
-
-sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellung und Verkauf eines Kunstwerkes einen veritablen 
-Paradigmenwechsel mit sich bringt. 
-
-
 Auf der anderen Seite können und müssen viele Jobs, die früher von anderen für den Künstler erledigt wurden, inzwischen von den Künstlern selber übernommen werden, 
 wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. Sie müssen sich selber um ihre Vermarktung kümmern. 
 Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und sollen von einer Person allein bewältigt werden. So wie der  
