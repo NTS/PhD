@@ -66,7 +66,9 @@ Auf meine Initiative hin sind inzwischen mehrere Arbeitsmöglichkeiten für ange
 und Kooperationsarbeit erforderte.  
   
 
-**Das Netz und die neuen technischen Möglichkeiten:** Der Einfluss der digitalen Bearbeitungsmöglichkeiten auf alle Sorten von Material, aber auch auf die Eröffnung neuer 
+**Das Netz und die Vernetzung
+
+und die neuen technischen Möglichkeiten:** Der Einfluss der digitalen Bearbeitungsmöglichkeiten auf alle Sorten von Material, aber auch auf die Eröffnung neuer 
 Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. 
 Andererseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, 
 nämlich sein Biotop des Kunstbetriebs und erweitert sie, andererseits bietet Alternativen Räumen und noch mehr Unabhängigkeit.  
@@ -74,12 +76,7 @@ ein
 
 Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt des Künstlers. ... in Form neuer Distributionsstrategien. 
 
-<!-- Einerseits erweitern sich die Rollen:
-die Künstler aus wirtschaftlichen und sozialen Gründen beruflich übernehmen, und 
-
-nach oben?
-: die Rollen des Museumsleiters, des Galeristen, des Kurators, werden vermehrt auch von Künstlern übernommen.  -->
-
+nach oben: 
 Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
 die durch technische Entwicklungen möglich geworden ist, sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellung und Verkauf eines Kunstwerkes einen veritablen 
 Paradigmenwechsel mit sich bringt. Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und von einer Person allein bewältigt werden. So wie der  
