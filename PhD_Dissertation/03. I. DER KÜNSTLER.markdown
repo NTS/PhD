@@ -15,7 +15,9 @@ TODO
 
 
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was oder wer ist heute ein Künstler? Künstler stellten sich 
-selbst seit jeher als Beobachter von sich und der Welt dar. Aber was sind ihre 'Aufgaben', wenn sie denn solche haben? Wie werden sie von der Gesellschaft wahrgenommen? Seit der Jahrtausendwende existieren verschiedene "Künstlertypen". Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft etwas geändert. Joseph Beuys' Aussage wurde auf den einen Satz: "Jeder Mensch ist ein Künstler" relativiert. Das Originalzitat lautet: „... Ich sage, 
+selbst seit jeher als Beobachter von sich und der Welt dar. Aber was sind ihre 'Aufgaben', wenn sie denn solche haben? Wie werden sie von der Gesellschaft wahrgenommen? 
+Seit der Jahrtausendwende existieren verschiedene "Künstlertypen". Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft etwas 
+geändert. Joseph Beuys' Aussage wurde auf den einen Satz: "Jeder Mensch ist ein Künstler" relativiert. Das Originalzitat lautet: „... Ich sage, 
 es muss ein anderer Kunstbegriff geprägt werden, der sich auf jedermann bezieht und nicht nur Sache der Künstler ist, sondern sich anthropologisch nur deklarieren lässt. D.h. jeder Mensch 
 ist ein Künstler in dem Sinne, dass er etwas gestalten kann. Alle Fragen der Menschen können nur Fragen der Gestaltung sein (Soziales Gestalten, Rechtsgestaltung, Natur – 
 und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“[^source-beuysprager]
@@ -30,7 +32,8 @@ und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb fo
 
 
 Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von "const" was soviel wie Können, 
-Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch "Kunst kommt vom Können".[^book-etymode](Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002.) Dieser Aphorismus hat sogar einen eigenen [Artikel bei deutschsprachigen Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
+Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch "Kunst kommt vom Können".[^book-etymode](Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002.) 
+Dieser Aphorismus hat sogar einen eigenen [Artikel bei deutschsprachigen Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
 Hierzu ein Auszug aus [Meyers Online-Lexikon](http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie): "Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
 Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". 
 
@@ -115,8 +118,8 @@ Künstlertypus mit genialen Einfällen, formaler Leichtfertigkeit und Sicherheit
 (Beuys war Gründer der Freien Universität und der Grünen Partei). Während Warhol zwar seine *Factory* hatte, was auf einen Teamgeist schließen ließe, und zum Teil 
 auch funktionierte, wae er letzten Endes aber ein Einzelkämpfer (mehr als Beuys), der das Glück hatte, als guter oder anerkannter Werbegraphiker auf den Kunstpfad
 zu gelangen, damit berühmt zu werden und weitermachen zu können. Letzten Endes hat er „nur“ die Strategien des Kapitals, des Marktes, der PR perpetuiert und nicht 
-in Frage gestellt. Dies könnte auch als eine Polarität zwischen Schamane und Kaufmann verstanden werden. Jedoch befinden sie sich beide unter den ersten 5 auf der Top 100 Künstler Weltrangliste von *Artfact.net* 
-TODO(http://www.artfacts.net/en/artists/top100.html) und haben sich in den letzten zwei Jahren nicht von dort weg bewegt.
+in Frage gestellt. Dies könnte auch als eine Polarität zwischen Schamane und Kaufmann verstanden werden. Jedoch befinden sie sich beide unter den ersten 5 auf der 
+Top 100 Künstler Weltrangliste von *Artfact.net* [Link](http://www.artfacts.net/en/artists/top100.html) und haben sich in den letzten zwei Jahren nicht von dort weg bewegt.
 
 Wenn man die Bilder Warhols mit Arbeiten von Fotografen wie denen der US-amerikanischen Fotografin Annie Leibowitz vergleicht, die während der 191980er für das Musik Magazin *The Rolling Stone* 
 viele US-amerikanische Musiker und Künstler fotografiert hat, so liegt bei Warhol das Zentrum in der Technik, während bei Leibowitz der Schwerpunkt eher 
@@ -179,7 +182,8 @@ eines Museumsdirektors, der seinem allzu dankbaren Publikum auch zum Schluss ein
 
 Die Entwicklung von einem freien Wesen, das nicht arbeitet, sondern von Stipendien, kurzfristigen Projekten und unregelmässigen Aufträgen lebt, 
 kreativ vor sich hin arbeitet und auf eine gute Gelegenheit wartet, seine Arbeit zu verkaufen, hat sich derart verfestigt, dass sie mittlerweile zum Inbegriff der Künstlertätigkeit geworden ist. 
-In der Realität widmet sich der Künstler jedoch größtenteils der Selbstvermarktung, der Herstellung von Portfolios, PR-Arbeit, Web Design und  Updates, seiner Steuererklärung, dem Delegieren von Arbeit und dem Umgestalten seines Arbeitsraumes in einen Show-room. Teilweise wird die Abhängigkeit von 
+In der Realität widmet sich der Künstler jedoch größtenteils der Selbstvermarktung, der Herstellung von Portfolios, PR-Arbeit, Web Design und  Updates, seiner Steuererklärung, dem Delegieren 
+von Arbeit und dem Umgestalten seines Arbeitsraumes in einen Show-room. Teilweise wird die Abhängigkeit von 
 Galerie und Galerist aufgelöst, der Künstler versteht sich als autark, die Kontrolle über seinen wirtschaftlichen Erfolg selbst in die Hand zu nehmen. 
 Er gestaltet seine Einladungen am eigenen Rechner, schreibt Texte, und wird sogar aufgefordert selbst die Aussagen über seine Arbeit und deren Aufklärung zu schreiben. 
 Er verschickt eigenständig Ausstellungseinladungen, E-Mails, publiziert sein Werk auf Internet Plattformen wie Facebook und versteigert seine eigene Arbeit bei 
@@ -196,7 +200,7 @@ Sotheby’s (Siehe den Fall Damien Hirst). Zum Mainstreaming gehören auch ander
 [^source-kunstmarkt_prestel_2karten]: Scan vom Original nts <http://www.gamesweplay.de/kunstmarkt.html>
 
 
-Einem Blick von außen auf den Künstler beziwhungsweise über die unausgesprochene Leichtigkeit des Künstlerseins wird auch durch Bücher geworfen wie: 
+Einem Blick von außen auf den Künstler bzw. über die unausgesprochene Leichtigkeit des Künstlerseins wird auch durch Bücher geworfen wie: 
 *Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, der für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
 sondern eher ein "Knigge für Vernissagen" darstellt und in dem alle Klischees über Künstler in einer sehr verdaulichen Form aufgezeigt sind. 
 Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblößt sich selbst weiter und zwar ganz. 
