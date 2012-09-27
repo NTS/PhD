@@ -26,9 +26,9 @@ durch die Medien dargestellt wird, weist auf eine Tendenz zur Bildung einer Star
 mögen. Dass sein Eigenbild verstärkt kommuniziert wird und dass das veraltete und ihm unangemessene Rollenklischee zurückgewiesen und verändert wird muss, ist eine Tatsache, an der er sich 
 längst angewöhnt und wahrgenommen worden. 
 
-Natürlich gibt es bereits jetzt verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen, die ganz grob nach Kunstbetrieb-Künstler, Sozial- bzw. Netz-Künstler, 
-und akademischen- bzw. Theorie-Künstler geteilt werden können und unterschiedliche Erwartungen verschiedener Teile der 
-Gesellschaft, was nicht so sehr mit den Stilen der künstlerischen Arbeit selbst korrespondiert. 
+Natürlich gibt es bereits jetzt verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen, unterdessen kann man den Kunstbetrieb-Künstler, der akademischen- bzw. 
+Theorie-Künstler, und der Sozial- bzw. Netz-Künstler, (und es gäbe noch weitere unter welche sie geteilt werden können), aber allein die haben unterschiedliche Erwartungen verschiedener Teile der 
+Gesellschaft entgegenzukommen, was nicht so sehr mit den Stilen der künstlerischen Arbeit selbst korrespondiert. 
 
 Zusätzlich zu den schon existierenden Rollenbildern sind zur Zeit aber auch einige neue Formen 
 am Entstehen. Man kann etwa den am Kunstmarkt orientiertem Künstlertypus neben den an sozialen Aufgaben oder an Theoriediskursen orientierten Künstler nennen. Sie alle sollten 
@@ -69,7 +69,9 @@ und Kooperationsarbeit erforderte.
   
 
 **Das Netz und die neuen technischen Möglichkeiten:** Der Einfluss der digitalen Bearbeitungsmöglichkeiten auf alle Sorten von Material, aber auch auf die Eröffnung neuer 
-Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. 
+Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. andererseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, 
+nämlich sein Biotop des Kunstbetriebs und erweitert sie, andererseits bietet Alternativen Räumen und noch mehr unabhängigkeit.  
+ein
 
 Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt des Künstlers. ... in Form neuer Distributionsstrategien. 
 
@@ -77,9 +79,7 @@ Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt 
 die Künstler aus wirtschaftlichen und sozialen Gründen beruflich übernehmen, und 
 
 nach oben?
-andererseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, 
-nämlich sein Biotop des Kunstbetriebs 
-ein: die Rollen des Museumsleiters, des Galeristen, des Kurators, werden vermehrt auch von Künstlern übernommen.  -->
+: die Rollen des Museumsleiters, des Galeristen, des Kurators, werden vermehrt auch von Künstlern übernommen.  -->
 
 Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
 die durch technische Entwicklungen möglich geworden ist, sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellen und Verkauf eines Kunstwerkes einen veritablen 
@@ -102,7 +102,9 @@ Künstler können sich heute gut auf dem Kunst- und Arbeitsmarkt behaupten, auch
 zurückgreifen zu müssen. Sie haben die Chance, sich von bloßen Markteilnehmern zu einer Marktkraft zu entwickeln, was jedoch unweigerliche Kraft und Zeit von ihrer künstlerischen Arbeit subtrahiert. Dabei muss nicht unbedingt nur der 'Künstler als selbständiger 
 kapitalistischer Unternehmer' entstehen. 
 
-Künstler werden... durchaus viel mehr in ... Kooperativen ... Gruppen anstatt als Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale 
+Künstler arbeiten jetzt schon durchaus viel mehr in Kooperativen Form und als Gruppen anstatt als Einzelkünstler. > Dies soll auch in der Ausbildung stattfinden und vorallem sollen die Skills dazu beigebracht werden
+
+Vielleicht sollten noch mehr soziale 
 Aufgaben an sie abgegeben werden. 
 
 
