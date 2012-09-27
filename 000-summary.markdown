@@ -41,7 +41,7 @@ ergreifen und übernehmen damit Macht und Verantwortung, sichern eventuell ander
 Kreativszene, um einen wirtschaftlichen Aufschwung herbeizuführen.  
   
 
-**Die Ausbildung**  der werdenden Künstler wird in Europa seit 10 Jahren durch den Bologna Prozess mehr oder weniger stark umstrukturiert. In der vorliegenden Arbeit habe ich 
+**Die Ausbildung** der werdenden Künstler wird in Europa seit 10 Jahren durch den Bologna Prozess mehr oder weniger stark umstrukturiert. In der vorliegenden Arbeit habe ich 
 die Auswirkung auf das Studium und die Studenten untersucht. Unter anderem habe ich die Kompatibilität des jetzigen Standes der Ausbildung mit dem, was die Studierenden nach 
 dem Studium erwartet, die Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Kunsthochschule am Beispiel der eigenen Universität mit künstlerischen Methoden 
 erforscht und zum Thema der Ausbildung gemacht. Dies hat folgende Ergebnis erbracht: Die Kunststudenten an der Fakultät Gestaltung  der Bauhaus-Universität Weimar entwickeln 
