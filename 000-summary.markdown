@@ -42,9 +42,11 @@ liegt auch eben an die schon mutierten und noch weiter mutierende Arbeitsverhäl
 zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital auch Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen 
 ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden  
 häufiger von Künstlern besetzt. Sie können sich etwa als Angestellte in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschiedenen Funktionen im 
-künstlerischen Feld wahrnehmen. (Die Ausbildung zum PhD dient nicht zuletzt zu diesem Zweck). Auf der anderen Seite müssen viele Jobs, die früher von anderen für den Künstler 
-erledigt wurden, wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren, inzwischen von den Künstlern selber übernommen werden. Sie müssen 
-sich selber um ihre Vermarktung kümmern. Ansonsten sind sie dabei Aufgaben für sich zu 'erfinden' - durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
+künstlerischen Feld wahrnehmen (Der Studiengang, in dessen Rahmen die vorliegende Arbeit entstand, dient nicht zuletzt zu diesem Zweck). 
+
+Auf der anderen Seite müssen viele Jobs, die früher von anderen für den Künstler erledigt wurden, können und müssen inzwischen von den Künstlern selber übernommen werden, 
+wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. 
+Sie müssen sich selber um ihre Vermarktung kümmern. Ansonsten sind sie dabei Aufgaben für sich zu 'erfinden' - durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
 nicht alle Ziele und Methoden erfasst sind. Denn diese Aneignung betrifft nicht mehr nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative 
 ergreifen und übernehmen damit Macht und Verantwortung, sichern eventuell anderen ihren Arbeitsplatz. Längst setzen Politiker etwa in Berlin oder Detroit auf die künstlerische 
 Kreativszene, um einen wirtschaftlichen Aufschwung herbeizuführen.  
