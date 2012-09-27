@@ -40,8 +40,8 @@ bisher in der Kunstlehre üblicherweise nicht herangezogen wurden es aber sollte
 Künstler im Spätkapitalismus geben, um sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Das sich das Bild des Künstlers sich so geändert hat, 
 liegt auch eben an die schon mutierten und noch weiter mutierende Arbeitsverhältnisse. Der Künstler wandelt sich vom reinen Produzenten hin 
 zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital auch Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen 
-ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden inzwischen 
-häufig von Künstlern besetzt. Sie können sich etwa als Angestellte in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschiedenen Funktionen im 
+ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden  
+häufiger von Künstlern besetzt. Sie können sich etwa als Angestellte in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschiedenen Funktionen im 
 künstlerischen Feld wahrnehmen. (Die Ausbildung zum PhD dient nicht zuletzt zu diesem Zweck). Auf der anderen Seite müssen viele Jobs, die früher von anderen für den Künstler 
 erledigt wurden, wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren, inzwischen von den Künstlern selber übernommen werden. Sie müssen 
 sich selber um ihre Vermarktung kümmern. Ansonsten sind sie dabei Aufgaben für sich zu 'erfinden' - durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
