@@ -103,24 +103,25 @@ Künstler können sich heute gut auf dem Kunst- und Arbeitsmarkt behaupten, auch
 zurückgreifen zu müssen. Sie haben die Chance, sich von bloßen Markteilnehmern zu einer Marktkraft zu entwickeln, was jedoch unweigerliche Kraft und Zeit von ihrer künstlerischen Arbeit subtrahiert. Dabei muss nicht unbedingt nur der 'Künstler als selbständiger 
 kapitalistischer Unternehmer' entstehen. 
 
-Künstler sollten durchaus viel mehr in ... Kooperativen ... Gruppen anstatt als Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale 
+Künstler werden... durchaus viel mehr in ... Kooperativen ... Gruppen anstatt als Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale 
 Aufgaben an sie abgegeben werden. 
+
 
 3. These: (Ausbildung)
 Die Kunstausbildung muss sich anpassen. Es reicht nicht aus, die Studenten für den herkömmlichen Kunstbetrieb zu trainieren. Wir müssen die sich hier abzeichnenden Veränderungen aktiv 
-gestalten und die neu entstehende Generation von Künstlern dazu befähigen es uns gleich zu tun. Ihre und unsere künstlerische Arbeit am Kunstbetrieb soll dafür sorgen, dass die sich 
+gestalten und die neu entstehende Generation von Künstlern dazu befähigen, es uns gleich zu tun. Ihre und unsere künstlerische Arbeit am Kunstbetrieb soll dafür sorgen, dass die sich 
 bietenden Chancen im Sinne einer zu befürwortenden Zukunft genutzt werden.
 
  
 4. These: (Netz)
-Die sozialen Eigenschaften des Internets, sind, wie ich behaupte in der Lage im realem Leben neue Verhältnisse herzustellen, bei denen die Kunst eine verstärkte Vermittlungsrolle einnehmen kann.
+Die sozialen Eigenschaften des Internets, sind in der Lage im realem Leben neue Verhältnisse herzustellen, bei denen die Kunst eine verstärkte Vermittlungsrolle einnehmen kann.
 
 
  
 
-Meine Feststellungen basieren auf meinen Recherchen dieser vier Hauptthemen im Rahmen meiner Arbeit in der Lehre und der eigenen künstlerischen Praxis der letzten Jahre und reflektieren diese. 
-Die bestehenden und seitdem entstandenen Experimente, die ich durchgeführt habe, entwickeln diese Theorie und bilden deren Basis. Sie sollen als Beispiel für ihre Anwendung dienen und bieten 
-einen Überblick über die Praxis. Für Einzelheiten verweise ich auf den separaten Anhang der schriftlichen Ph.D.-Arbeit. Zusätzlich ist ein Katalog über den Kiosk09 entstanden, dem meine 
+Diese Feststellungen basieren auf meinen Recherchen zu diesen 4 Hauptthemen im Rahmen meiner Arbeit in der Lehre und der eigenen künstlerischen Praxis der letzten Jahre und reflektieren diese. 
+Meine bestehenden und seitdem entstandenen Experimente entwickeln diese Theorie und bilden deren Basis. Sie sollen gleichzeitig als Beispiel für ihre Anwendung dienen und bieten 
+einen Überblick über die Praxis. Für Einzelheiten verweise ich auf den separaten Anhang der schriftlichen Ph.D.-Arbeit, besonders den KIOSK09-Katalog, dem meine 
 künstlerische Forschung in den letzten Jahren überwiegend gewidmet war. 
 
 
