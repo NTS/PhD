@@ -1,4 +1,4 @@
-# Zusammenfassung - 
+# Zusammenfassung -- TL;DR
 
 **Als ich Künstler war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:* der Künstler als Arbeiter**  
 
