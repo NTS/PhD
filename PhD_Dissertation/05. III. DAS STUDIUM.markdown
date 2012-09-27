@@ -96,7 +96,7 @@ beherrscht und damit sind nicht Ländersprachen gemeint, sondern eher die Sprach
 einer “Professionalisierungsmaßnahme”. 
 
 Der Akademische Grad wird zunehmend als Voraussetzung für die Tätigkeit als Dozent oder Professor in akademischen Positionen gefordert. Die Fortsetzung des Kunststudiums 
-im Ph.D.-Format nimmt global zu, jedoch finden Künstler mit akademischen Titeln ihren Standpunkt noch nicht. Der Ph.D.- Titel wird von niemandem geliebt, für die Wissenschaftler ist das Kunst, für die Kunst eine Wissenschaft und der Kunstbetrieb kann den Ph.D. auch nicht gebrauchen, sieht ihn vielleicht sogar 
+im PhD-Format nimmt global zu, jedoch finden Künstler mit akademischen Titeln ihren Standpunkt noch nicht. Der PhD- Titel wird von niemandem geliebt, für die Wissenschaftler ist das Kunst, für die Kunst eine Wissenschaft und der Kunstbetrieb kann den PhD auch nicht gebrauchen, sieht ihn vielleicht sogar 
 als „Streber“ auf Kosten der eigenen Obsession? Für die theoretischen Akademiker sind sie zu sehr Künstler, 
 während sie für die Kunstpraxis als „zu theoretisch“ wahrgenommen werden. Ob sich dieser Trend in den nächsten Generationen ändert und Künstler erst als Universitätsprofessoren 
 den Titel ergattern werden, oder bereits bevor sie sich auf solche Stellen bewerben, bleibt offen. Verglichen mit den Stellenangeboten für Kuratoren in großen Museen und anderen 
@@ -130,7 +130,7 @@ Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden ko
 
 _Zur Entstehung der Akademischen Künstler_
 
-Es entwickeln sich neue Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender Ph.D.-Programme an Kunsthochschulen, und spürbarem Anstieg in der Anzahl
+Es entwickeln sich neue Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender PhD-Programme an Kunsthochschulen, und spürbarem Anstieg in der Anzahl
 von Kolloquien, Konferenzen und Diskussionen über Künstlerische Recherche (Artistic Research).
 
 Künstler mischen sich, unter anderem in sozial-politische Angelegenheiten ein und bedienen sich immer mehr an Ausdrucksformen, die uns aus 
@@ -150,9 +150,9 @@ schreiben können, wenn diese nicht in traditioneller Art und Weise geschrieben 
 viele von ihnen wollen die theoretischen Texte in Verbindung mit dem praktischen Teil wissen, welcher fünfzig Prozent der Promotion ausmacht. 
 Sie wollen so schreiben, wie sie es als Künstler verstehen. Die geforderte Seitenmenge der Dissertation zeigt uns die systematische Verankerung 
 des klassischen Schreibens auch an Kunstakademien, in denen vom Grundstudium an ebenfalls Theorieseminare angeboten werden: Zum Diplom werden üblicherweise 
-ca. 20 Seiten schriftliche Arbeit gefordert, im Masterabschluss sind es 40 Seiten und im Ph.D. ca. 80 Seiten. Die Beschäftigung mit der Metaebene, 
+ca. 20 Seiten schriftliche Arbeit gefordert, im Masterabschluss sind es 40 Seiten und im PhD ca. 80 Seiten. Die Beschäftigung mit der Metaebene, 
 das Streben nach dem Definieren des Prozesses vom eigenen Tun ist kein Einzelfall: neben Kolloquien und Konferenzen über Themen wie Kunst und Design, 
-die Avantgarde und das Kuratorium, ist das Thema künstlerische Recherche innerhalb der Institutionen, die solch ein Ph.D.-Programm anbieten, 
+die Avantgarde und das Kuratorium, ist das Thema künstlerische Recherche innerhalb der Institutionen, die solch ein PhD-Programm anbieten, 
 inzwischen fest verankert. Seit geraumer Zeit häufen sich auch die Online Magazine wie *Artistic Research UK.org*, die sich diesem Thema widmen.
 
 Ein gutes Beispiel für diese Auseinandersetzung ist die Arbeit von Hagen Betzwieser, der seit 2001 das [*Institut für Allgemeine Theorie*](http://www.iat-research.com/index.php/about-the-institute) in Stuttgart 
@@ -162,7 +162,7 @@ Bereich, in der Grauzone, wo es keine Unterscheidung zwischen Fiktion und Wissen
 Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”.
 
 Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläubigkeit gegenüber der 
-neuen Realität, einen Ph.D. Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]bezieht sich der 
+neuen Realität, einen PhD Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]bezieht sich der 
 Wissenschaftstheoretiker Thomas S. Kuhn, der in Princeton Professor war, mit einer Bemerkung zum Verhältnis von Wissenschaft und Kunst auf einen noch früheren 
 Text von E. M. Hafner, *The New Reality in Art and Science* von 1969. Kuhn meint: „Je mehr man versucht Künstler von Wissenschaftlern zu unterscheiden, 
 desto schwieriger wird diese Aufgabe“[-@Kuhn:Entstehung], jedoch betrachtet er dies als beunruhigend.
@@ -183,7 +183,7 @@ Welche Eigenschaften verbinden künstlerische und wissenschaftliche Recherche? N
 Neues entdecken und zu erfinden. Laut Kuhn streben beide in ihren Fragestellungen nach Antworten. Der Unterschied beginnt damit, dass die Wissenschaft 
 nur sich selbst als Publikum hat während die Kunst ein viel breiteres Publikum genießt. Aus heutiger Sicht lässt sich dieser Sachverhalt relativieren, denn ein 
 neuer Typus entsteht: der „Akademische Künstler“. Die meisten Debatten um künstlerische Recherche sowie der Diskurs um Kunst im öffentlichen Raum, um nur ein Beispiel zu nennen, 
-interessieren wiederum nur solche Künstler, die Master- und Ph.D.-Programme belegen, bzw. solche Programme dann auch gründen, innerhalb dieser lehren und somit eine sehr spezifische 
+interessieren wiederum nur solche Künstler, die Master- und PhD-Programme belegen, bzw. solche Programme dann auch gründen, innerhalb dieser lehren und somit eine sehr spezifische 
 Zielgruppe ansprechen. Ein weiterer Unterschied ist, dass der Künstler auch das Scheitern als Resultat präsentieren kann oder um es mit den Worten des Musikers 
 Genesis P. Orridge zu sagen: „Der Prozess ist das Produkt“. Die Wissenschaft kann sich das kaum leisten. Künstler können ein ästhetisches, aber durchaus hermetisches Werk 
 erzeugen, ein Bild von ihren Gedanken, von ihrer Suche kreieren, während Wissenschaftler nach luzidem Schreiben streben, welches wiederum ihren Gedanken ein Bild verleiht. 
