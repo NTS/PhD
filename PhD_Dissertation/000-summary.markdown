@@ -76,6 +76,14 @@ Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm.
 
 Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt des Künstlers. ... in Form neuer Distributionsstrategien. 
 
+So wirkt der Künstler auf neue Weise direkt auf seine ureigene Umgebung, nämlich das Biotop des Kunstbetriebs ein und erweitert sie, bietet andererseits  Alternativen Räumen und noch mehr Unabhängigkeit.  
+
+Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
+die durch technische Entwicklungen möglich geworden ist, 
+
+sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellung und Verkauf eines Kunstwerkes einen veritablen 
+Paradigmenwechsel mit sich bringt. 
+
 
 
 **Thesen**
