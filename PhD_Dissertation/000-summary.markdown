@@ -42,10 +42,22 @@ ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeit besser a
 häufiger von Künstlern besetzt. Sie können sich etwa als Angestellte in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschiedenen Funktionen im 
 künstlerischen Feld wahrnehmen (der Studiengang, in dessen Rahmen diese Arbeit entstand, dient nicht zuletzt diesem Zweck). 
 
+So wirkt der Künstler auf neue Weise direkt auf seine ureigene Umgebung, nämlich dasdas Biotop des Kunstbetriebs und erweitert sie, andererseits bietet Alternativen Räumen und noch mehr Unabhängigkeit.  
+
+Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
+die durch technische Entwicklungen möglich geworden ist, 
+
+sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellung und Verkauf eines Kunstwerkes einen veritablen 
+Paradigmenwechsel mit sich bringt. 
+
+
 Auf der anderen Seite können und müssen viele Jobs, die früher von anderen für den Künstler erledigt wurden, inzwischen von den Künstlern selber übernommen werden, 
 wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. Sie müssen sich selber um ihre Vermarktung kümmern. 
-Sie sind dabei Aufgaben für sich zu 'erfinden' - durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
-nicht alle Ziele und Methoden erfasst sind. Denn diese Aneignung betrifft nicht mehr nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative 
+Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und sollen von einer Person allein bewältigt werden. So wie der  
+Betrieb selbst das Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden. 
+Dabei 'erfinden' sie auch Aufgaben für sich selbst  -- durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
+nicht alle Ziele und Methoden genannt sind. 
+Denn diese Aneignung betrifft nicht mehr nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative 
 ergreifen und übernehmen damit Macht und Verantwortung, sichern eventuell anderen ihren Arbeitsplatz. Längst setzen Politiker etwa in Berlin oder Detroit auf die künstlerische 
 *Kreativwirtschaft*, um einen realwirtschaftlichen Aufschwung herbeizuführen.  
   
@@ -67,20 +79,12 @@ und Kooperationsarbeit erforderte.
   
 
 **Das Netz und die Vernetzung
-
 und die neuen technischen Möglichkeiten:** Der Einfluss der digitalen Bearbeitungsmöglichkeiten auf alle Sorten von Material, aber auch auf die Eröffnung neuer 
 Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. 
-Andererseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, 
-nämlich sein Biotop des Kunstbetriebs und erweitert sie, andererseits bietet Alternativen Räumen und noch mehr Unabhängigkeit.  
-ein
+
 
 Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt des Künstlers. ... in Form neuer Distributionsstrategien. 
 
-nach oben: 
-Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
-die durch technische Entwicklungen möglich geworden ist, sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellung und Verkauf eines Kunstwerkes einen veritablen 
-Paradigmenwechsel mit sich bringt. Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und von einer Person allein bewältigt werden. So wie der  
-Betrieb selbst das Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden.  
 
 
 **Thesen**
@@ -109,9 +113,7 @@ bietenden Chancen im Sinne einer zu befürwortenden Zukunft genutzt werden.
 
  
 4. These: (Netz)
-Die sozialen Eigenschaften des Internets, sind in der Lage im realem Leben neue Verhältnisse herzustellen. 
-
-Hier kann die Kunst eine verstärkte Vermittlersrolle einnehmen.
+Die sozialen Eigenschaften des Internets, sind in der Lage im realem Leben neue Verhältnisse herzustellen.  Hier kann die Kunst eine verstärkte Vermittlerrolle einnehmen.
 
 
  
