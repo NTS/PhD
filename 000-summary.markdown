@@ -14,7 +14,9 @@ Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger
 Die Kunst und der Kunstbetrieb haben sich in den letzten Jahrzehnten stark geändert und werden sich aller Voraussicht nach in Zukunft sogar noch weit rascher 
 und durchgreifender ändern. In meiner Dissertation geht es um eine Analyse des Jetzt-Zustands des Kunstbetriebs und die Konsequenzen die daraus für die zu erwartende 
 Entwicklung zu ziehen sind, insbesondere bezüglich der Ausbildung von Künstlern an Kunsthochschulen. Dort sollten meines Erachtens die beruflichen Aspekte des 
-künstlerischen Feldes, (in und außerhalb der Akademie) verstärkt erläutert und vermittelt werden. Der Fokus der Arbeit liegt auf vier Hauptthemen und ihren Zusammenhängen:    
+künstlerischen Feldes, (in und außerhalb der Akademie) verstärkt erläutert und vermittelt werden. 
+
+Der Fokus der Arbeit liegt auf den folgenden 4 Hauptthemen und ihren Zusammenhängen:    
 
 
 **Der Künstler:** Die Untersuchung der Begriffsgeschichte kann klären, welchen Rollenvorstellungen der Künstler bisher entsprach, und wie sein Bild in der Gesellschaft 
@@ -23,15 +25,18 @@ Superstar entwickelt hat. Das gängige Künstlerbild, wie es von der (vorwiegend
 durch die Medien dargestellt wird, weist auf eine Tendenz zur Bildung einer Starfigur auf, die oft ganz anders strukturiert ist als manche Künstler sich heutzutage selbst sehen und verstehen 
 mögen. Dass sein Eigenbild verstärkt kommuniziert wird und dass das veraltete und ihm unangemessene Rollenklischee zurückgewiesen und verändert wird muss, ist eine Tatsache, an der er sich 
 längst angewöhnt und wahrgenommen worden. 
-Natürlich gibt es bereits jetzt verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen, die ganz grob nach Kunstbetrieb-Künstler, Sozial- bzw. Netz Künstler, 
-und akademischen-  bzw. Theoretischen Künstler geteilt werden können und unterschiedliche Erwartungen verschiedener Teile der 
-Gesellschaft, was nicht so sehr mit den Stilen der künstlerischen Arbeit selbst korrespondiert. Zusätzlich zu den schon existierenden Rollenbildern sind zur Zeit aber auch einige neue Formen 
+
+Natürlich gibt es bereits jetzt verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen, die ganz grob nach Kunstbetrieb-Künstler, Sozial- bzw. Netz-Künstler, 
+und akademischen- bzw. Theorie-Künstler geteilt werden können und unterschiedliche Erwartungen verschiedener Teile der 
+Gesellschaft, was nicht so sehr mit den Stilen der künstlerischen Arbeit selbst korrespondiert. 
+
+Zusätzlich zu den schon existierenden Rollenbildern sind zur Zeit aber auch einige neue Formen 
 am Entstehen. Man kann etwa den am Kunstmarkt orientiertem Künstlertypus neben den an sozialen Aufgaben oder an Theoriediskursen orientierten Künstler nennen. Sie alle sollten 
 von einander unterschieden und entsprechend anders ausgebildet werden. Dies erfordert andere Inhalte und Methoden und beispielsweise die Berücksichtigung von Quellen, die 
 bisher in der Kunstlehre üblicherweise nicht herangezogen wurden es aber sollten.   
 
 
-**Die Arbeitswelt** ändert sich. Mit diesen Änderungen – verursacht durch die globale politische und wirtschaftliche Situation - wird es mehr Platz und Möglichkeiten für 
+**Die Arbeitswelt** ändert sich ebenso. Mit diesen Änderungen -- verursacht durch die globale politische und wirtschaftliche Situation -- wird es mehr Platz und Möglichkeiten für 
 Künstler im Spätkapitalismus geben, um sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Das sich das Bild des Künstlers sich so geändert hat, 
 liegt auch eben an die schon mutierten und noch weiter mutierende Arbeitsverhältnisse. Der Künstler wandelt sich vom reinen Produzenten hin 
 zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital auch Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen 
