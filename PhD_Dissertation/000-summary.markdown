@@ -16,8 +16,9 @@ und durchgreifender ändern. In meiner Dissertation geht es um eine Analyse des 
 Entwicklung zu ziehen sind, insbesondere bezüglich der Ausbildung von Künstlern an Kunsthochschulen. Dort sollten meines Erachtens die beruflichen Aspekte des 
 künstlerischen Feldes, (in und außerhalb der Akademie) verstärkt erläutert und vermittelt werden. 
 
-Der Fokus der Arbeit liegt auf den folgenden 4 Hauptthemen und ihren Zusammenhängen:    
+## Schwerpunkte
 
+Der Fokus der Arbeit liegt auf den folgenden 4 Hauptthemen und ihren Zusammenhängen:    
 
 **Der Künstler:** Die Untersuchung der Begriffsgeschichte kann klären, welchen Rollenvorstellungen der Künstler bisher entsprach, und wie sein Bild in der Gesellschaft 
 sich vom Klischee des Malers: Europäisch stammend, im Dachboden oder im Atelier mit oder ohne Barett hockend, zum Anzugstragender, Freischaffender, von anderen verwalteter 
@@ -86,7 +87,8 @@ Paradigmenwechsel mit sich bringt.
 
 
 
-**Thesen**
+## Thesen
+
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar, sowie durch Vergleiche mit anderen Kunstakademien, meiner eigenen Erfahrung 
 als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der aktuellen technischen Möglichkeiten, ergeben sich folgende Konsequenzen und Prognosen: 
 
