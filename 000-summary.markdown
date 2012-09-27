@@ -11,7 +11,7 @@ Matrikel Nr. 51163
 Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger  
 
 
-Die Kunst und der Kunstbetrieb haben sich in den letzten Jahrzehnten stark geändert sich und werden sich in Zukunft aller Voraussicht nach sogar noch weit rascher 
+Die Kunst und der Kunstbetrieb haben sich in den letzten Jahrzehnten stark geändert und werden sich in Zukunft aller Voraussicht nach sogar noch weit rascher 
 und durchgreifender ändern. In meiner Dissertation geht es um eine Analyse des Jetzt-Zustands des Kunstbetriebs und die Konsequenzen die daraus für die zu erwartende 
 Entwicklung zu ziehen sind, insbesondere bezüglich der Ausbildung von Künstlern an Kunsthochschulen. Dort sollten meines Erachtens die beruflichen Aspekte des 
 künstlerischen Feldes, (in und außerhalb der Akademie) verstärkt erläutert und vermittelt werden. Der Fokus der Arbeit liegt auf vier Hauptthemen und ihren Zusammenhängen:    
