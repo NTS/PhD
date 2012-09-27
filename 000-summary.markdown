@@ -94,15 +94,16 @@ als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes 
 
 1. These: (Künstler)
 In der Zukunft werden bereits die Ideen allein als geistiges Eigentum des Künstlers anerkannt und belohnt werden müssen. Damit wird die künstlerische individuelle Handschrift 
-von sekundärer Wichtigkeit sein. Die Entwicklung von Selbstbestimmung und Verfügung nicht nur über die Urheber-Rechte sondern auch die damit verbundenen Verwertungsrechte zeigt 
-jetzt schon ihre Auswirkung in der Kunstwelt und ebnet den Weg zu mehr Kooperation als bisher sinnvoll oder möglich war.  
+von sekundärer Wichtigkeit sein. Die Entwicklung von Selbstbestimmung und Verfügung nicht nur über die Urheber- inklusive den Verwertungsrechten zeigt 
+schon jetzt ihre Auswirkung in der Kunstwelt und ebnet den Weg zu mehr Kooperation als bisher möglich oder sinnvoll war.  
 
 
 2. These: (Arbeit)
-Künstler können sich heute gut auf dem Kunst- und Arbeitsmarkt behaupten, auch ohne auf die Kunstvermittlungs- und Verkaufssysteme des gängigen Kunstbetriebs 
-zurückgreifen zu müssen. Jedoch fordert dies von ihnen einen ziemlich hohen Preis, nämlich den, dass sie sich selbst von bloße Markteilnehmer zu einer Marktkraf, im Sinne von 
-Marktrechtinhaber entwickeln müssen, was ihnen Kraft und Zeit von ihre Künstlerische Arbeit subtrahiert wird. Dabei muss nicht unbedingt nur der Künstler als selbständiger 
-kapitalistischer Unternehmer entstehen. Künstler sollten durchaus viel mehr in Gruppen anstatt als Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale 
+Künstler können sich heute gut auf dem Kunst- und Arbeitsmarkt behaupten, auch ohne auf die gängigen Kunstvermittlungs- und -verkaufssysteme des Kunstbetriebs 
+zurückgreifen zu müssen. Sie haben die Chance, sich von bloßen Markteilnehmern zu einer Marktkraft zu entwickeln, was jedoch unweigerliche Kraft und Zeit von ihrer künstlerischen Arbeit subtrahiert. Dabei muss nicht unbedingt nur der 'Künstler als selbständiger 
+kapitalistischer Unternehmer' entstehen. 
+
+Künstler sollten durchaus viel mehr in ... Kooperativen ... Gruppen anstatt als Einzelkünstler arbeiten und vielleicht sollten auch noch mehr soziale 
 Aufgaben an sie abgegeben werden. 
 
 3. These: (Ausbildung)
