@@ -42,38 +42,48 @@ liegt auch eben an die schon mutierten und noch weiter mutierende Arbeitsverhäl
 zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital auch Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen 
 ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeiten besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden  
 häufiger von Künstlern besetzt. Sie können sich etwa als Angestellte in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschiedenen Funktionen im 
-künstlerischen Feld wahrnehmen (Der Studiengang, in dessen Rahmen die vorliegende Arbeit entstand, dient nicht zuletzt zu diesem Zweck). 
+künstlerischen Feld wahrnehmen (Der Studiengang, in dessen Rahmen diese Arbeit entstand, dient nicht zuletzt zu diesem Zweck). 
 
 Auf der anderen Seite müssen viele Jobs, die früher von anderen für den Künstler erledigt wurden, können und müssen inzwischen von den Künstlern selber übernommen werden, 
-wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. 
-Sie müssen sich selber um ihre Vermarktung kümmern. Ansonsten sind sie dabei Aufgaben für sich zu 'erfinden' - durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
+wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. Sie müssen sich selber um ihre Vermarktung kümmern. 
+Sie sind dabei Aufgaben für sich zu 'erfinden' - durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
 nicht alle Ziele und Methoden erfasst sind. Denn diese Aneignung betrifft nicht mehr nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative 
 ergreifen und übernehmen damit Macht und Verantwortung, sichern eventuell anderen ihren Arbeitsplatz. Längst setzen Politiker etwa in Berlin oder Detroit auf die künstlerische 
 Kreativszene, um einen wirtschaftlichen Aufschwung herbeizuführen.  
   
 
 **Die Ausbildung** der werdenden Künstler wird in Europa seit der Beginn des Bologna Prozesses seit 2001/2 stark umstrukturiert. In der vorliegenden Arbeit habe ich 
-die Auswirkung auf das Studium und die Studenten untersucht. Unter anderem habe ich die Kompatibilität des jetzigen Standes der Ausbildung mit dem, was die Studierenden nach 
+die Auswirkung auf das Studium und die Studierenden untersucht. Unter anderem habe ich die Kompatibilität des jetzigen Standes der Ausbildung mit dem, was die Studierenden nach 
 dem Studium erwartet, die Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Kunsthochschule am Beispiel der eigenen Universität mit künstlerischen Methoden 
 erforscht und zum Thema der Ausbildung gemacht. 
 
-Ich behaupte, Dies hat folgende Ergebnis erbracht: Die Kunststudenten an der Fakultät Gestaltung  der Bauhaus-Universität Weimar entwickeln 
+Ich behaupte: Die Kunststudenten an der Fakultät Gestaltung der Bauhaus-Universität Weimar entwickeln 
 höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu verkaufen, sie sind findig im Ermitteln von Ausstellungsgelegenheiten, haben größeren Erfolg bei der Stipendienbeantragung 
 - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. 
 
 Wenn werdende Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches Vorbild, 
 und die Diskrepanz zwischen diesem Vorbild, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. 
 
-Ich arbeite als Lehrende daran, diese Diskrepanz zu verringern.
-Mittlerweile gibt es mehrere Arbeitsmöglichkeiten für angehende Künstler, die auf meine Initiative hin entstanden sind und mich viel Informationserwerb und Vermittlungs- 
-sowie Kooperationsarbeit gekostet haben.  
+Als Lehrende arbeite ich daran, diese Diskrepanz weiter zu verringern.
+Auf meine Initiative hin sind inzwischen mehrere Arbeitsmöglichkeiten für angehende Künstler entstanden, was viel Informationserwerb, Vermittlungs- 
+und Kooperationsarbeit erforderte.  
   
 
 **Das Netz und die neuen technischen Möglichkeiten:** Der Einfluss der digitalen Bearbeitungsmöglichkeiten auf alle Sorten von Material, aber auch auf die Eröffnung neuer 
-Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. ( Was ist mit Inhalte?) Die Auswirkung dieser Phänomene auf heutige werdende Künstler manifestiert 
-sich unter anderem in sozialer Hinsicht in Form neuer Distributionsstrategien. Es findet momentan eine Verschiebung statt. Einerseits erweitern sich die Rollen, die Künstler 
-aus wirtschaftlichen und sozialen Gründen beruflich übernehmen, und andrerseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, nämlich sein Biotop des Kunstbetriebs 
-ein: die Rollen des Museumsleiters, des Galeristen, des Kurators, werden vermehrt auch von Künstlern übernommen. Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
+Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. 
+
+Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt des Künstlers. ... in Form neuer Distributionsstrategien. 
+
+<!-- Einerseits erweitern sich die Rollen:
+die Künstler aus wirtschaftlichen und sozialen Gründen beruflich übernehmen, und 
+
+andererseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, 
+
+nach oben?
+nämlich sein Biotop des Kunstbetriebs 
+ein: die Rollen des Museumsleiters, des Galeristen, des Kurators, werden vermehrt auch von Künstlern übernommen.  -->
+
+Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
 die durch technische Entwicklungen möglich geworden ist, sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellen und Verkauf eines Kunstwerkes einen veritablen 
 Paradigmenwechsel mit sich bringt. Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und von einer Person allein bewältigt werden. Die Arbeit am 
 Betrieb selbst (der als das Material künstlerischer Gestaltung genommen wird) ist längst zu einer künstlerischen Ausdrucksform geworden.  
