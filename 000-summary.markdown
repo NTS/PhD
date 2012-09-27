@@ -77,22 +77,20 @@ Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt 
 <!-- Einerseits erweitern sich die Rollen:
 die Künstler aus wirtschaftlichen und sozialen Gründen beruflich übernehmen, und 
 
-andererseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, 
-
 nach oben?
+andererseits wirkt er auf neue Weise direkt auf seine ureigene Umgebung, 
 nämlich sein Biotop des Kunstbetriebs 
 ein: die Rollen des Museumsleiters, des Galeristen, des Kurators, werden vermehrt auch von Künstlern übernommen.  -->
 
 Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
 die durch technische Entwicklungen möglich geworden ist, sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellen und Verkauf eines Kunstwerkes einen veritablen 
-Paradigmenwechsel mit sich bringt. Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und von einer Person allein bewältigt werden. Die Arbeit am 
-Betrieb selbst (der als das Material künstlerischer Gestaltung genommen wird) ist längst zu einer künstlerischen Ausdrucksform geworden.  
+Paradigmenwechsel mit sich bringt. Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und von einer Person allein bewältigt werden. So wie der  
+Betrieb selbst das Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden.  
 
 
 **Thesen**
-Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar, sowie durch Vergleiche zu anderen Kunstakademien, meiner eigenen Erfahrung 
-als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der technischen Möglichkeiten, die im Augenblick umsetzbar sind, ergeben sich folgende Konsequenzen und 
-Prognosen: 
+Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar, sowie durch Vergleiche mit anderen Kunstakademien, meiner eigenen Erfahrung 
+als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der aktuellen technischen Möglichkeiten, ergeben sich folgende Konsequenzen und Prognosen: 
 
 1. These: (Künstler)
 In der Zukunft werden bereits die Ideen allein als geistiges Eigentum des Künstlers anerkannt und belohnt werden müssen. Damit wird die künstlerische individuelle Handschrift 
