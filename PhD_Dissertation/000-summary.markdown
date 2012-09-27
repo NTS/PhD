@@ -88,18 +88,17 @@ Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bau
 als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der aktuellen technischen Möglichkeiten, ergeben sich folgende Konsequenzen und Prognosen: 
 
 1. These: (Künstler)
-In der Zukunft werden bereits die Ideen allein als geistiges Eigentum des Künstlers anerkannt und belohnt werden müssen. Damit wird die künstlerische individuelle Handschrift 
+In Zukunft werden bereits die Ideen allein als geistiges Eigentum des Künstlers anerkannt und belohnt werden müssen. Damit wird die künstlerische individuelle Handschrift 
 von sekundärer Wichtigkeit sein. Die Entwicklung von Selbstbestimmung und Verfügung nicht nur über die Urheber- inklusive den Verwertungsrechten zeigt 
 schon jetzt ihre Auswirkung in der Kunstwelt und ebnet den Weg zu mehr Kooperation als bisher möglich oder sinnvoll war.  
 
 
 2. These: (Arbeit)
-Künstler können sich heute gut auf dem Kunst- und Arbeitsmarkt behaupten, auch ohne auf die gängigen Kunstvermittlungs- und -verkaufssysteme des Kunstbetriebs 
-zurückgreifen zu müssen. Sie haben die Chance, sich von bloßen Markteilnehmern zu einer Marktkraft zu entwickeln, was jedoch unweigerliche Kraft und Zeit von ihrer künstlerischen Arbeit subtrahiert. Dabei muss nicht unbedingt nur der 'Künstler als selbständiger 
+Künstler können sich heute auch gut auf dem Kunst- und Arbeitsmarkt behaupten, ohne auf die gängigen Vermittlungs- und -verkaufssysteme des Kunstbetriebs 
+zurückgreifen zu müssen. Sie haben die Chance, sich von bloßen Markteilnehmern zu einer Marktkraft zu entwickeln, was jedoch unweigerlich Kraft und Zeit von ihrer künstlerischen Arbeit subtrahiert. 
+Dabei muss nicht nur unbedingt der 'Künstler als selbständiger 
 kapitalistischer Unternehmer' entstehen. 
-
-Künstler arbeiten jetzt schon durchaus viel mehr in Kooperativen Form und als Gruppen anstatt als Einzelkünstler. > Dies soll auch in der Ausbildung stattfinden und vorallem sollen die Skills dazu beigebracht werden
-
+Künstler arbeiten jetzt schon durchaus viel mehr als Gruppen oder in Form von Kooperativen anstatt als Einzelkünstler. Dies soll auch in der Ausbildung stattfinden und vor allem sollen die 'Skills' dazu vermittelt werden.
 Vielleicht sollten noch mehr soziale 
 Aufgaben an sie abgegeben werden. 
 
