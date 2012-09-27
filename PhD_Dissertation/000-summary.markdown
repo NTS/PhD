@@ -99,8 +99,7 @@ zurückgreifen zu müssen. Sie haben die Chance, sich von bloßen Markteilnehmer
 Dabei muss nicht nur unbedingt der 'Künstler als selbständiger 
 kapitalistischer Unternehmer' entstehen. 
 Künstler arbeiten jetzt schon durchaus viel mehr als Gruppen oder in Form von Kooperativen anstatt als Einzelkünstler. Dies soll auch in der Ausbildung stattfinden und vor allem sollen die 'Skills' dazu vermittelt werden.
-Vielleicht sollten noch mehr soziale 
-Aufgaben an sie abgegeben werden. 
+Vielleicht sollten noch mehr soziale Aufgaben an sie abgegeben werden. 
 
 
 3. These: (Ausbildung)
@@ -110,7 +109,9 @@ bietenden Chancen im Sinne einer zu befürwortenden Zukunft genutzt werden.
 
  
 4. These: (Netz)
-Die sozialen Eigenschaften des Internets, sind in der Lage im realem Leben neue Verhältnisse herzustellen, bei denen die Kunst eine verstärkte Vermittlungsrolle einnehmen kann.
+Die sozialen Eigenschaften des Internets, sind in der Lage im realem Leben neue Verhältnisse herzustellen. 
+
+Hier kann die Kunst eine verstärkte Vermittlersrolle einnehmen.
 
 
  
