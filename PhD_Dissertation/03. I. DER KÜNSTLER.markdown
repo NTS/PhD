@@ -88,7 +88,8 @@ Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten:
 [^source-naomi_campbell_for_vivian_westwood]: TODO: source Scan nts nachschlagen
 
 	
-Dieser "Look" entspricht eher dem Typ "Armer Künstler", oder dem daraus entstandenen Klischee. In seinem Buch *Why Are Artists Poor?*[-@Abbing:poor] beschreibt Hans Abbing die verstrickten Verhältnisse zwischen Künstler und der Gesellschaft. Abbing vertritt unter anderem die These, dass die Kunst 
+Dieser "Look" entspricht eher dem Typ "Armer Künstler", oder dem daraus entstandenen Klischee. In seinem Buch *Why Are Artists Poor?*[-@Abbing:poor] beschreibt Hans 
+Abbing die verstrickten Verhältnisse zwischen Künstler und der Gesellschaft. Abbing vertritt unter anderem die These, dass die Kunst 
 für den Künstler zu heilig wäre, um in Worten wie Profit und Kommerz beschrieben zu werden. Der Künstler erhält Stipendien und wird weiterhin als arm und als 
 Outsider wahrgenommen. Oftmals wird er auch als autistische Person, die sich im Atelier vergräbt, bis sie entdeckt wird, wahrgenommen. Da der Künstler so sensibel 
 sei und geschützt werden müsse, benötige er einen Vermittler, auch weil er seine eigene Arbeit nicht schätzen kann. Er produziert, weil er produzieren muss, 
@@ -229,8 +230,12 @@ Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblö
 
 ### Dorian Gray in CMKY
 
-Manches hat sich im Bild des Künstlers in der Gesellschaft geändert und manches ist ein Klischee geblieben. In der Literatur gibt es schöne Beschreibungen vom Werdegang und inneren Gedanken eines Künstlers, denkt man etwa an :*Der Fänger im Roggen* von J. D. Sallinger, oder *Das Bildnis des Dorian Gray* von Oscar Wilde. Heute wird in unzähligen Fernsehserien die Persönlichkeit des Künstlers analysiert und präsentiert. Die Menschen, die diese Serien herstellen, sind (zum Teil) selbst Künstler. Es handelt sich also um ein Künstlerbild, das vom 
-Künstler eigenhändig entstellt und vermittelt wird. Neben Film und TV wird auch im Sozialnetz 2.0 vieles über "Was ist Kunst, was ist Kreativität" publiziert, undmehrere Ratschläge im Bezug auf Erfolg erteilt. Mich interessiert jedoch mehr, wenn Künstler ein kritisches Selbstbildnis von sich entwerfen. Als Pendant zu Immendorfs *Ich wollte Künstler werden* vom 1972 ist das Mime *What People Think I Do / What I Really Do* zu verstehen. 
+Manches hat sich im Bild des Künstlers in der Gesellschaft geändert und manches ist ein Klischee geblieben. In der Literatur gibt es schöne Beschreibungen 
+vom Werdegang und inneren Gedanken eines Künstlers, denkt man etwa an :*Der Fänger im Roggen* von J. D. Sallinger, oder *Das Bildnis des Dorian Gray* von 
+Oscar Wilde. Heute wird in unzähligen Fernsehserien die Persönlichkeit des Künstlers analysiert und präsentiert. Die Menschen, die diese Serien herstellen, 
+sind (zum Teil) selbst Künstler. Es handelt sich also um ein Künstlerbild, das vom Künstler eigenhändig entstellt und vermittelt wird. Neben Film und TV wird 
+auch im Sozialnetz 2.0 vieles über "Was ist Kunst, was ist Kreativität" publiziert, undmehrere Ratschläge im Bezug auf Erfolg erteilt. Mich interessiert jedoch mehr, 
+wenn Künstler ein kritisches Selbstbildnis von sich entwerfen. Als Pendant zu Immendorfs *Ich wollte Künstler werden* vom 1972 ist das Mime *What People Think I Do / What I Really Do* zu verstehen. 
 
 Die erste Version des Mimes wurde im Februar 2012 auf *facebook* publiziert, und beschreibt die Rezeption des Schaffens eines Berufssegments 
 aus unterschiedlichen Perspektiven.
@@ -248,7 +253,8 @@ aus unterschiedlichen Perspektiven.
 
 In Film, Fernsehen & Comics werden die Eigenschaften und Gedankenwege von Künstlern oft kritisch wiedergegeben. Der vorhin erwänten Film *Basquiat*, 
 beschäftigt sich mit dem inneren Konflikt zwischen dem psychologischen Drang nach Ruhm,
-und die fehlenden Kompetenz, das erreichte Ziel zu genießen, ja auszuhalten. Künstler zweifeln gern. Der US- amerikanische Fernseh-Kanal HBO hat in seiner Serie *Six Feet Under* die Künstler in mehr als einer Persönlichkeit wiedergegeben. Eine der Hauptrollen, die Tochter
+und die fehlenden Kompetenz, das erreichte Ziel zu genießen, ja auszuhalten. Künstler zweifeln gern. Der US- amerikanische Fernseh-Kanal HBO hat in seiner Serie
+ *Six Feet Under* die Künstler in mehr als einer Persönlichkeit wiedergegeben. Eine der Hauptrollen, die Tochter
 Claire Fisher, wächst in einem Familien-Bestattungsunternehmen auf, fotografiert gern, strebt nach Ausdruck ihrer kreativen Kräfte und entscheidet 
 sich für die Kunsthochschule. In der gesamten vierten Staffel begleitet der Zuschauer ihre ersten Schritte in und bei der Konfrontationen mit der
 Kunstwelt. Alles wird sehr überlegt und kritisch dargestellt, Claire findet ihren Weg und erreicht ihre Ziele. In der Abschluss Episode 
@@ -282,9 +288,10 @@ Klischees zum Verhältnis Künstler & Kunstmarkt behandelt. Hier nur ein Beispie
 
 > VATER: „Bitte denke scharf nach, es muss doch etwas geben, was du kannst?!“
 
-
 Mittlerweile gibt es mehrere TV Programme, die in einem Reality Format, wie der *Deutschland sucht den Superstar* auch die Kunstwelt zur Schau stellen. 
-*Gallery Girls* ist ein Beispiel für diese Welle, ein Format das das Leben mancher Frauen innerhalb und um die Kunstwelt zeigt. Mehrere solcher Serien, wie auch *School of Saatchi* zum Beispiel passen sich mit absolutem Schwerpunkt auf das Unterhaltungsbedürfnis dem üblichen Fernsehniveau an und zwar nicht dan das der Kreationen, sondern jenes des Schöpfers.
+*Gallery Girls* ist ein Beispiel für diese Welle, ein Format das das Leben mancher Frauen innerhalb und um die Kunstwelt zeigt. Mehrere solcher Serien, 
+wie auch *School of Saatchi* [Link](http://www.bbc.co.uk/programmes/b00p71qkzum) Beispiel passen sich mit absolutem Schwerpunkt auf das Unterhaltungsbedürfnis 
+dem üblichen Fernsehniveau an und zwar nicht dan das der Kreationen, sondern jenes des Schöpfers.
 
 
 ### Hi, My Name is Charlotte Young
