@@ -26,7 +26,7 @@ durch die Medien dargestellt wird, weist auf eine Tendenz zur Bildung einer Star
 mögen. Dass sein Eigenbild verstärkt kommuniziert wird und dass das veraltete und ihm unangemessene Rollenklischee zurückgewiesen und verändert wird muss, ist eine Tatsache, an der er sich 
 längst angewöhnt und wahrgenommen worden. 
 
-Natürlich gibt es bereits jetzt verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen, unterdessen kann man den Kunstbetrieb-Künstler, der akademischen- bzw. 
+Bereits jetzt schon kann man verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen, unterdessen kann man den Kunstbetrieb-Künstler, der akademischen- bzw. 
 Theorie-Künstler, und der Sozial- bzw. Netz-Künstler, (und es gäbe noch weitere unter welche sie geteilt werden können), aber allein die haben unterschiedliche Erwartungen verschiedener Teile der 
 Gesellschaft entgegenzukommen, was nicht so sehr mit den Stilen der künstlerischen Arbeit selbst korrespondiert. 
 
