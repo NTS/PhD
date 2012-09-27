@@ -36,7 +36,7 @@ von einander unterschieden und entsprechend anders ausgebildet werden. Dies erfo
 bisher in der Kunstlehre üblicherweise nicht herangezogen wurden es aber sollten.   
 
 
-**Die Arbeitswelt** ändert sich ebenso. Mit diesen Änderungen -- verursacht durch die globale politische und wirtschaftliche Situation -- wird es mehr Platz und Möglichkeiten für 
+**Die Arbeitswelt** ändert sich ebenso. Durch diesen Prozess -- verursacht durch die globale politische und wirtschaftliche Situation -- wird es mehr Platz und Möglichkeiten für 
 Künstler im Spätkapitalismus geben, um sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Das sich das Bild des Künstlers sich so geändert hat, 
 liegt auch eben an die schon mutierten und noch weiter mutierende Arbeitsverhältnisse. Der Künstler wandelt sich vom reinen Produzenten hin 
 zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital auch Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen 
