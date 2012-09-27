@@ -2,14 +2,14 @@
 
 **Als ich Künstler war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:* der Künstler als Arbeiter**  
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Dissertation  
 Ph.D. Freie Kunst
 Naomi Tereza Salmon
 Bauhaus Universität Weimar
 Matrikel Nr. 51163
 Betreuer: Prof. Karl Schawelka; Prof. Norbert W. Hinterberger  
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Die Kunst und der Kunstbetrieb haben sich in den letzten Jahrzehnten stark geändert und werden sich aller Voraussicht nach in Zukunft sogar noch weit rascher 
 und durchgreifender ändern. In meiner Dissertation geht es um eine Analyse des Jetzt-Zustands des Kunstbetriebs und die Konsequenzen die daraus für die zu erwartende 
@@ -19,7 +19,7 @@ künstlerischen Feldes, (in und außerhalb der Akademie) verstärkt erläutert u
 Der Fokus der Arbeit liegt auf den folgenden 4 Hauptthemen und ihren Zusammenhängen:    
 
 
-**Der Künstler:** Die Untersuchung der Begriffsgeschichte kann klären, welchen Rollenvorstellungen der Künstler bisher entsprach, und wie sein Bild in der Gesellschaft 
+**Der Künstler** : Die Untersuchung der Begriffsgeschichte kann klären, welchen Rollenvorstellungen der Künstler bisher entsprach, und wie sein Bild in der Gesellschaft 
 sich vom Klischee des Malers: Europäisch stammend, im Dachboden oder im Atelier mit oder ohne Barett hockend, zum Anzugstragender, Freischaffender, von anderen verwalteter 
 Superstar entwickelt hat. Das gängige Künstlerbild, wie es von der (vorwiegend kleinbürgerliche) Gesellschaft erwartet und immer häufiger 
 durch die Medien dargestellt wird, weist auf eine Tendenz zur Bildung einer Starfigur auf, die oft ganz anders strukturiert ist als manche Künstler sich heutzutage selbst sehen und verstehen 
