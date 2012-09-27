@@ -57,9 +57,8 @@ die Auswirkung auf das Studium und die Studierenden untersucht. Unter anderem ha
 dem Studium erwartet, die Struktur des Studiums, die Beziehungen zwischen Kunstmarkt und der Kunsthochschule am Beispiel der eigenen Universität mit künstlerischen Methoden 
 erforscht und zum Thema der Ausbildung gemacht. 
 
-Ich behaupte: Die Kunststudenten an der Fakultät Gestaltung der Bauhaus-Universität Weimar entwickeln 
-höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu verkaufen, sie sind findig im Ermitteln von Ausstellungsgelegenheiten, haben größeren Erfolg bei der Stipendienbeantragung 
-- und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. 
+Ich behaupte: Die Kunststudenten an der Fakultät Gestaltung der Bauhaus-Universität Weimar entwickeln höhere Fähigkeiten, sich zu vermarkten und ihre Arbeit zu verkaufen, 
+sie sind findig im Ermitteln von Ausstellungsgelegenheiten, haben größeren Erfolg bei der Stipendienbeantragung - und das direkt nach dem Studium, wenn nicht schon innerhalb dessen. 
 
 Wenn werdende Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches Vorbild, 
 und die Diskrepanz zwischen diesem Vorbild, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. 
