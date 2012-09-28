@@ -56,17 +56,12 @@ oder Detroit auf die künstlerische *Kreativwirtschaft*, um einen realwirtschaft
 **Die Ausbildung** der werdenden Künstler wird in Europa seit der Beginn des *Bologna*-Prozesses im Jahr 1999 stark umstrukturiert. In der vorliegenden Arbeit habe ich 
 die Auswirkungen auf das Studium und die Studierenden untersucht. Unter anderem habe ich die Kompatibilität des jetzigen Standes der Ausbildung mit dem, was die Studierenden nach 
 dem Studium erwartet; die Struktur des Studiums; die Beziehungen zwischen Kunstmarkt und der Kunsthochschule am Beispiel der eigenen Universität mit künstlerischen Methoden 
-erforscht und zum Thema der Ausbildung durchgeführt. (gemacht). Dadurch hoffe ich verstärkt dazu beizutragen, dass die Kunststudenten an der Fakultät Gestaltung der Bauhaus-Universität 
-Weimar höhere Fähigkeiten entwickeln, sich zu vermarkten und ihre Arbeit zu verkaufen, sie findiger im Ermitteln von Ausstellungsgelegenheiten zu machen. Größeren Erfolg bei der 
-Stipendienbeantragung und Preisgewinn -- und das direkt nach dem Studium, wenn nicht schon innerhalb dessen, beweisen manche jetzt schon.
+erforscht und zum Thema der Ausbildung durchgeführt. (gemacht). Im Allgemein gilt: Wenn werdende Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches 
+Vorbild, und die Diskrepanz zwischen Diesem, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. Als Lehrende arbeite ich daran, diese Diskrepanz durch Informationserwerb,
+Vermittlungs- und Kooperationsarbeit weiter zu verringern. Dadurch hoffe ich verstärkt dazu beizutragen, dass die Kunststudenten an der Fakultät Gestaltung der Bauhaus-Universität Weimar besser 
+trainiert und höhere Fähigkeiten entwickeln, sich zu vermarkten und ihre Arbeit zu verkaufen, sie findiger im Ermitteln von Ausstellungsgelegenheiten zu machen. Denn Größeren Erfolg bei der 
+Stipendienbeantragung und Preisgewinn, Ausstellungsangelegenheiten und Verkauf -- und das direkt nach dem Studium, wenn nicht schon innerhalb dessen, beweisen manche jetzt schon.
 
-Trotzdem gilt im Allgemein: Wenn werdende Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches Vorbild, 
-und die Diskrepanz zwischen Diesem, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. 
-
-Als Lehrende arbeite ich daran, diese Diskrepanz weiter zu verringern.
-Auf meine Initiative hin sind inzwischen mehrere Arbeitsmöglichkeiten für angehende Künstler entstanden, was viel Informationserwerb, Vermittlungs- 
-und Kooperationsarbeit erforderte.  
-  
 
 **Das Netz und die Vernetzung** sind durch die neuen technischen Möglichkeiten ein neues Feld für Künstler geworden. Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb 
 des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint im Netz zum Teil zu gelingen. Künstler und Experten der digitalen Medien entdecken eine gemeinsame Sprache und kooperieren. 
