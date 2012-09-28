@@ -27,9 +27,7 @@ durch die Medien dargestellt wird, weist eine Tendenz zur Bildung einer Starfigu
 mögen. Dass sein Eigenbild verstärkt kommuniziert wird und dass das veraltete und ihm unangemessene Rollenklischee zurückgewiesen und verändert wird muss, ist eine Tatsache, an der er sich 
 längst angewöhnt und wahrgenommen worden. 
 
-Bereits jetzt schon kann man verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen erkennen. und es gäbe noch weitere unter welche sie geteilt werden können),  
-
-Zusätzlich zu den schon existierenden Rollenbildern sind zur Zeit aber auch einige neue Formen 
+Zu erkennen sind verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen. Zusätzlich zu den schon existierenden Rollenbildern sind zur Zeit aber auch einige neue Formen 
 am entstehen. Man kann etwa den am Kunstmarkt orientiertem Künstlertypus neben den an sozialen Aufgaben oder an Theoriediskursen orientierten Künstler nennen. Sie alle sollten 
 von einander unterschieden und entsprechend anders ausgebildet werden. Dies erfordert andere Inhalte und Methoden und beispielsweise die Berücksichtigung von Quellen, die 
 bisher in der Kunstlehre üblicherweise nicht herangezogen wurden es aber sollten.   
