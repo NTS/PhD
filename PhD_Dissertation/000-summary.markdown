@@ -110,5 +110,6 @@ einen Überblick über die Praxis. Für Einzelheiten verweise ich auf den separa
 künstlerische Forschung in den letzten Jahren überwiegend gewidmet war. 
 
 
-Naomi T. Salmon
+Naomi Tereza Salmon
+
 Herbst 2012
