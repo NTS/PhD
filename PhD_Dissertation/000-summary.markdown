@@ -71,27 +71,18 @@ und Kooperationsarbeit erforderte.
   
 
 **Das Netz und die Vernetzung** sind durch die neuen technischen Möglichkeiten ein neues Feld für Künstler geworden. 
-Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint sich zum Teil ins Netz zu gelangen.
-Künstler und Experten der digitalen Medien entdecken gemeinsamer Sprache und Kooperieren. 
+Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint im Netz zum Teil zu gelingen.
+Künstler und Experten der digitalen Medien entdecken eine gemeinsame Sprache und kooperieren. 
 
-Der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommunikation aus Künstlerischer Sicht erweitert werden.
+Die Nutzung der Möglichkeiten digitaler Formate muss die Welt der Kommunikation aus künstlerischer Sicht erweitern.
 
-wie der Digitale Native und die Digitale Boheme entwickelt sich der Typus Digitaler Künstler.
+Gleichzeitig wirkt das Netz im Hintergrund als Katalysator der bereits genannten Verschiebungen in der Arbeits- und Ausbildungswelt des Künstlers. 
 
-durch Kulturtechniken Übernahme und Kooperation mit Medienbasierten Künstler können sie, um durch das Netzwerk Angebot sich besser zu behaupten erstens eigene Distribution und PR
-(In Blogs, Seiten, und im Sozialnetz) treiben und zweitens eine Raumerweiterung schaffen, durch eigene Online Galerien und Foren, wo auch Kontakte geknüpft werden, und sich dann nicht nur im Virtuellen Welt gelten, sondern zum Realen Aktivitäten im Nichtvirtuellen Raum, wie z.B. Verkauf und Beschäftigungsmöglichkeiten führt. 
-
-Der Einfluss der digitalen Bearbeitungsmöglichkeiten von Bild und Text, Sowie Streaming von *events* die die technologische Entwicklung anbietet, ist ein emerging potenzial zu Kooperation. 
-
-Eröffnung neuer Gestaltungsräume,
-
-Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt des Künstlers. ... in Form neuer Distributionsstrategien. 
-
-So wirkt der Künstler auf neue Weise direkt auf seine ureigene Umgebung, nämlich das Biotop des Kunstbetriebs ein und erweitert sie, bietet andererseits  Alternativen Räumen und noch mehr Unabhängigkeit.  
-
+ 
+# TMP
+So wirkt der Künstler auf neue Weise direkt auf seine ureigene Umgebung, nämlich das Biotop des Kunstbetriebs ein und erweitert sie, bietet andererseits  Alternativen Räumen und noch mehr Unabhängigkeit. 
 Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
 die durch technische Entwicklungen möglich geworden ist, 
-
 sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellung und Verkauf eines Kunstwerkes einen veritablen 
 Paradigmenwechsel mit sich bringt. 
 
@@ -124,10 +115,12 @@ bietenden Chancen im Sinne einer zu befürwortenden Zukunft genutzt werden.
 
  
 4. These: (Netz)
-Die sozialen Eigenschaften des Internets, sind in der Lage im realem Leben neue Verhältnisse herzustellen.  Hier kann die Kunst eine verstärkte Vermittlerrolle einnehmen.
 
 
- 
+Neben dem *digital native* und der 'Digitalen Bohème' entwickelt sich der Typus 'Digitaler Künstler'.
+
+Durch die Übernahme von Kulturtechniken und Kooperationen mit medienbasierten Künstlern können sie, um sich durch das Angebot im Netzwerk besser zu behaupten: Erstens eigene Distributionen und PR betreiben (auf Webseiten, in Blogs, und in sozial Netzwerken) und Zweitens durch eigene Online-Präsenz eine Raumerweiterung schaffen, in denen auch Kontakte geknüpft werden. Diese gelten meist nicht nur in der virtuellen Welt, sondern führen zu realen Aktivitäten im nicht-virtuellen Raum, wie z.B. Verkauf und Beschäftigungsmöglichkeiten. 
+Und auch gesamtgesellschaftlich betrachtet sind die sozialen Eigenschaften des Internets in der Lage, im realem Leben neue Verhältnisse herzustellen. Hier kann die Kunst eine verstärkte Vermittlerrolle einnehmen.
 
 Diese Feststellungen basieren auf meinen Recherchen zu diesen 4 Hauptthemen im Rahmen meiner Arbeit in der Lehre und der eigenen künstlerischen Praxis der letzten Jahre und reflektieren diese. 
 Meine bestehenden und seitdem entstandenen Experimente entwickeln diese Theorie und bilden deren Basis. Sie sollen gleichzeitig als Beispiel für ihre Anwendung dienen und bieten 
