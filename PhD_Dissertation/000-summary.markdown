@@ -38,15 +38,19 @@ bisher in der Kunstlehre üblicherweise nicht herangezogen wurden es aber sollte
 **Die Arbeitswelt** ändert sich ebenso. Durch diesen Prozess -- verursacht durch die globale politische und wirtschaftliche Situation -- wird es mehr Platz und Möglichkeiten für 
 Künstler im Spätkapitalismus geben, um sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Das sich das Bild des Künstlers so geändert hat, 
 liegt auch an den schon mutierten und noch weiter mutierenden Arbeitsverhältnissen. Der Künstler wandelt sich vom reinen Produzenten hin 
-zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital möglicherweise an Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen 
-ausüben. Künstler können ihre Flexibilität und Anpassungsfähigkeit besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden 
+zum Unternehmer. Er kann sogar Inhaber eines Unternehmens werden und durch eigenes Kapital möglicherweise an Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen ausüben. 
+Künstler können ihre Flexibilität und Anpassungsfähigkeit besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden 
 häufiger von Künstlern besetzt. Sie können sich etwa als Angestellte in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschiedenen Funktionen im 
-künstlerischen Feld wahrnehmen (der Studiengang, in dessen Rahmen diese Arbeit entstand, dient nicht zuletzt diesem Zweck). 
+künstlerischen Feld wahrnehmen (der Studiengang, in dessen Rahmen diese Arbeit entstand, dient nicht zuletzt diesem Zweck).  
 
 Auf der anderen Seite können und müssen viele Jobs, die früher von anderen für den Künstler erledigt wurden, inzwischen von den Künstlern selber übernommen werden, 
 wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. Sie müssen sich selber um ihre Vermarktung kümmern. 
-Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und sollen von einer Person allein bewältigt werden. So wie der  
-Betrieb selbst das Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden. 
+Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und sollen von einer Person allein bewältigt werden. Dies bringt veritable 
+Paradigmenwechsel mit sich, wenigstens in den Aspekten Vermittlung und Ausstellung, vor allem aber auch für den Verkauf der Kunstwerke.
+
+Durch diese Interventionen wirkt der Künstler so auf neue Weise direkt auch auf seine ureigene Umgebung -- nämlich das Biotop des Kunstbetriebs -- ein und erweitert sie.
+So wie der Betrieb selbst das Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden. 
+
 Dabei 'erfinden' sie auch Aufgaben für sich selbst  -- durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
 nicht alle Ziele und Methoden genannt sind. 
 Denn diese Aneignung betrifft nicht mehr nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative 
@@ -77,14 +81,6 @@ Künstler und Experten der digitalen Medien entdecken eine gemeinsame Sprache un
 Die Nutzung der Möglichkeiten digitaler Formate muss die Welt der Kommunikation aus künstlerischer Sicht erweitern.
 
 Gleichzeitig wirkt das Netz im Hintergrund als Katalysator der bereits genannten Verschiebungen in der Arbeits- und Ausbildungswelt des Künstlers. 
-
- 
-# TMP
-So wirkt der Künstler auf neue Weise direkt auf seine ureigene Umgebung, nämlich das Biotop des Kunstbetriebs ein und erweitert sie, bietet andererseits  Alternativen Räumen und noch mehr Unabhängigkeit. 
-Es handelt sich nicht lediglich um eine Neigung zur Autarkie, 
-die durch technische Entwicklungen möglich geworden ist, 
-sondern darum, dass sie wenigstens in den Aspekten Vermittlung, Ausstellung und Verkauf eines Kunstwerkes einen veritablen 
-Paradigmenwechsel mit sich bringt. 
 
 
 
