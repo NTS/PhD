@@ -70,10 +70,20 @@ Auf meine Initiative hin sind inzwischen mehrere Arbeitsmöglichkeiten für ange
 und Kooperationsarbeit erforderte.  
   
 
-**Das Netz und die Vernetzung
-und die neuen technischen Möglichkeiten:** Der Einfluss der digitalen Bearbeitungsmöglichkeiten auf alle Sorten von Material, aber auch auf die Eröffnung neuer 
-Gestaltungsräume, die die technologische Entwicklung anbietet, ist enorm. 
+**Das Netz und die Vernetzung** sind durch die neuen technischen Möglichkeiten ein neues Feld für Künstler geworden. 
+Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint sich zum Teil ins Netz zu gelangen.
+Künstler und Experten der digitalen Medien entdecken gemeinsamer Sprache und Kooperieren. 
 
+Der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommunikation aus Künstlerischer Sicht erweitert werden.
+
+wie der Digitale Native und die Digitale Boheme entwickelt sich der Typus Digitaler Künstler.
+
+durch Kulturtechniken Übernahme und Kooperation mit Medienbasierten Künstler können sie, um durch das Netzwerk Angebot sich besser zu behaupten erstens eigene Distribution und PR
+(In Blogs, Seiten, und im Sozialnetz) treiben und zweitens eine Raumerweiterung schaffen, durch eigene Online Galerien und Foren, wo auch Kontakte geknüpft werden, und sich dann nicht nur im Virtuellen Welt gelten, sondern zum Realen Aktivitäten im Nichtvirtuellen Raum, wie z.B. Verkauf und Beschäftigungsmöglichkeiten führt. 
+
+Der Einfluss der digitalen Bearbeitungsmöglichkeiten von Bild und Text, Sowie Streaming von *events* die die technologische Entwicklung anbietet, ist ein emerging potenzial zu Kooperation. 
+
+Eröffnung neuer Gestaltungsräume,
 
 Das Netz wirkt als Katalysator der bereits genannten Verschiebungen in der Welt des Künstlers. ... in Form neuer Distributionsstrategien. 
 
