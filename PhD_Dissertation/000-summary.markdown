@@ -100,7 +100,7 @@ Künstler können sich heute auch gut auf dem Kunst- und Arbeitsmarkt behaupten,
 zurückgreifen zu müssen. Sie haben die Chance, sich von bloßen Markteilnehmern zu einer Marktkraft zu entwickeln, was jedoch unweigerlich Kraft und Zeit von ihrer künstlerischen Arbeit subtrahiert. 
 Dabei muss nicht nur unbedingt der 'Künstler als selbständiger 
 kapitalistischer Unternehmer' entstehen. 
-Künstler arbeiten jetzt schon durchaus viel mehr als Gruppen oder in Form von Kooperativen anstatt als Einzelkünstler. Dies soll auch in der Ausbildung stattfinden und vor allem sollen die 'Skills' dazu vermittelt werden.
+Künstler arbeiten jetzt schon durchaus viel mehr als Gruppen oder in Form von Kooperativen anstatt als Einzelkünstler. Dies soll auch in der Ausbildung stattfinden und vor allem sollen die *skills* dazu vermittelt werden.
 Vielleicht sollten noch mehr soziale Aufgaben an sie abgegeben werden. 
 
 
