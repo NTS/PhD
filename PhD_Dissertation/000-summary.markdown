@@ -45,14 +45,11 @@ Auf der anderen Seite können und müssen viele Jobs, die früher von anderen f�
 wie z.B. Gestaltung und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. Sie müssen sich selber um ihre Vermarktung kümmern. 
 Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb werden zusammengezogen und sollen von einer Person allein bewältigt werden. Dies bringt veritable 
 Paradigmenwechsel mit sich, wenigstens in den Aspekten Vermittlung und Ausstellung, vor allem aber auch für den Verkauf der Kunstwerke.
-
 Durch diese Interventionen wirkt der Künstler so auf neue Weise direkt auch auf seine ureigene Umgebung -- nämlich das Biotop des Kunstbetriebs -- ein und erweitert sie.
-So wie der Betrieb selbst das Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden. 
 
 Dabei 'erfinden' sie auch Aufgaben für sich selbst  -- durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar 
-nicht alle Ziele und Methoden genannt sind. 
-Denn diese Aneignung betrifft nicht mehr nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative 
-ergreifen und übernehmen damit Macht und Verantwortung, sichern eventuell anderen ihren Arbeitsplatz. Längst setzen Politiker etwa in Berlin oder Detroit auf die künstlerische 
+nicht alle Ziele und Methoden genannt sind. So wie der Betrieb selbst das Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden. 
+Denn diese Aneignung betrifft nicht mehr nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative ergreifen, und damit Macht und Verantwortung übernehmen. Längst setzen Politiker etwa in Berlin oder Detroit auf die künstlerische 
 *Kreativwirtschaft*, um einen realwirtschaftlichen Aufschwung herbeizuführen.  
   
 
@@ -72,13 +69,8 @@ Auf meine Initiative hin sind inzwischen mehrere Arbeitsmöglichkeiten für ange
 und Kooperationsarbeit erforderte.  
   
 
-**Das Netz und die Vernetzung** sind durch die neuen technischen Möglichkeiten ein neues Feld für Künstler geworden. 
-Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint im Netz zum Teil zu gelingen.
-Künstler und Experten der digitalen Medien entdecken eine gemeinsame Sprache und kooperieren. 
-
-Die Nutzung der Möglichkeiten digitaler Formate muss die Welt der Kommunikation aus künstlerischer Sicht erweitern.
-
-Gleichzeitig wirkt das Netz im Hintergrund als Katalysator der bereits genannten Verschiebungen in der Arbeits- und Ausbildungswelt des Künstlers. 
+**Das Netz und die Vernetzung** sind durch die neuen technischen Möglichkeiten ein neues Feld für Künstler geworden. Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint im Netz zum Teil zu gelingen.
+Künstler und Experten der digitalen Medien entdecken eine gemeinsame Sprache und kooperieren. Die Nutzung der Möglichkeiten digitaler Formate muss die Welt der Kommunikation aus künstlerischer Sicht erweitern. Gleichzeitig wirkt das Netz im Hintergrund als Katalysator der bereits genannten Verschiebungen in der Arbeits- und Ausbildungswelt des Künstlers. 
 
 
 
