@@ -93,13 +93,13 @@ Paradigmenwechsel mit sich bringt.
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar, sowie durch Vergleiche mit anderen Kunstakademien, meiner eigenen Erfahrung 
 als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der aktuellen technischen Möglichkeiten, ergeben sich folgende Konsequenzen und Prognosen: 
 
-1. These: (Künstler)
+1. These: zum Künstler \
 In Zukunft werden bereits die Ideen allein als geistiges Eigentum des Künstlers anerkannt und belohnt werden müssen. Damit wird die künstlerische individuelle Handschrift 
 von sekundärer Wichtigkeit sein. Die Entwicklung von Selbstbestimmung und Verfügung nicht nur über die Urheber- inklusive den Verwertungsrechten zeigt 
 schon jetzt ihre Auswirkung in der Kunstwelt und ebnet den Weg zu mehr Kooperation als bisher möglich oder sinnvoll war.  
 
 
-2. These: (Arbeit)
+2. These: zur Arbeit \
 Künstler können sich heute auch gut auf dem Kunst- und Arbeitsmarkt behaupten, ohne auf die gängigen Vermittlungs- und -verkaufssysteme des Kunstbetriebs 
 zurückgreifen zu müssen. Sie haben die Chance, sich von bloßen Markteilnehmern zu einer Marktkraft zu entwickeln, was jedoch unweigerlich Kraft und Zeit von ihrer künstlerischen Arbeit subtrahiert. 
 Dabei muss nicht nur unbedingt der 'Künstler als selbständiger 
@@ -108,19 +108,19 @@ Künstler arbeiten jetzt schon durchaus viel mehr als Gruppen oder in Form von K
 Vielleicht sollten noch mehr soziale Aufgaben an sie abgegeben werden. 
 
 
-3. These: (Ausbildung)
+3. These: zur Ausbildung \
 Die Kunstausbildung muss sich anpassen. Es reicht nicht aus, die Studenten für den herkömmlichen Kunstbetrieb zu trainieren. Wir müssen die sich hier abzeichnenden Veränderungen aktiv 
 gestalten und die neu entstehende Generation von Künstlern dazu befähigen, es uns gleich zu tun. Ihre und unsere künstlerische Arbeit am Kunstbetrieb soll dafür sorgen, dass die sich 
 bietenden Chancen im Sinne einer zu befürwortenden Zukunft genutzt werden.
 
  
-4. These: (Netz)
-
-
+4. These: zum Netz \
 Neben dem *digital native* und der 'Digitalen Bohème' entwickelt sich der Typus 'Digitaler Künstler'.
 
 Durch die Übernahme von Kulturtechniken und Kooperationen mit medienbasierten Künstlern können sie, um sich durch das Angebot im Netzwerk besser zu behaupten: Erstens eigene Distributionen und PR betreiben (auf Webseiten, in Blogs, und in sozial Netzwerken) und Zweitens durch eigene Online-Präsenz eine Raumerweiterung schaffen, in denen auch Kontakte geknüpft werden. Diese gelten meist nicht nur in der virtuellen Welt, sondern führen zu realen Aktivitäten im nicht-virtuellen Raum, wie z.B. Verkauf und Beschäftigungsmöglichkeiten. 
 Und auch gesamtgesellschaftlich betrachtet sind die sozialen Eigenschaften des Internets in der Lage, im realem Leben neue Verhältnisse herzustellen. Hier kann die Kunst eine verstärkte Vermittlerrolle einnehmen.
+
+---
 
 Diese Feststellungen basieren auf meinen Recherchen zu diesen 4 Hauptthemen im Rahmen meiner Arbeit in der Lehre und der eigenen künstlerischen Praxis der letzten Jahre und reflektieren diese. 
 Meine bestehenden und seitdem entstandenen Experimente entwickeln diese Theorie und bilden deren Basis. Sie sollen gleichzeitig als Beispiel für ihre Anwendung dienen und bieten 
