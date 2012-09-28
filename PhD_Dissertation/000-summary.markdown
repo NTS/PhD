@@ -20,12 +20,12 @@ künstlerischen Feldes, (in und außerhalb der Akademie) verstärkt erläutert u
 
 Der Fokus der Arbeit liegt auf den folgenden 4 Hauptthemen und ihren Zusammenhängen:    
 
-**Der Künstler:** Die Untersuchung der Begriffsgeschichte kann klären, welchen Rollenvorstellungen der Künstler bisher entsprach, und wie sein Bild in der Gesellschaft 
-sich vom Klischee des Malers: Europäisch stammend, im Dachboden oder im Atelier mit oder ohne Barett hockend, zum Anzugstragender, Freischaffender, von anderen verwalteter 
-Superstar entwickelt hat. Das gängige Künstlerbild, wie es von der (vorwiegend kleinbürgerlichen) Gesellschaft erwartet und immer häufiger durch die Medien dargestellt wird, 
-weist eine Tendenz zur Bildung einer Starfigur auf, die oft ganz anders strukturiert ist als manche Künstler sich heutzutage selbst sehen und verstehen mögen. Dass sein 
-Eigenbild verstärkt kommuniziert wird und dass das veraltete und ihm unangemessene Rollenklischee zurückgewiesen und verändert wird muss, ist eine Tatsache, an der er sich 
-längst angewöhnt und wahrgenommen worden. 
+**Der Künstler** als Begriff und die Entwicklung seiner Beziehungen mit dem Kunstbiotop stehen an der Basis meiner Forschung. Die Untersuchung der Begriffsgeschichte kann klären, 
+welchen Rollenvorstellungen der Künstler bisher entsprach, und wie sein Bild in der Gesellschaft sich vom Klischee des Malers: Europäisch stammend, im Dachboden oder im Atelier 
+mit oder ohne Barett hockend, zum Anzugstragender, Freischaffender, von anderen verwalteter Superstar entwickelt hat. Das gängige Künstlerbild, wie es von der (vorwiegend kleinbürgerlichen) 
+Gesellschaft erwartet und immer häufiger durch die Medien dargestellt wird, weist eine Tendenz zur Bildung einer Starfigur auf, die oft ganz anders strukturiert ist als manche Künstler 
+sich heutzutage selbst sehen und verstehen mögen. Dass sein Eigenbild verstärkt kommuniziert wird und dass das veraltete und ihm unangemessene Rollenklischee zurückgewiesen und verändert 
+wird muss, ist eine Tatsache, an der er sich längst angewöhnt und wahrgenommen worden. 
 
 Zu erkennen sind verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen. Zusätzlich zu den schon existierenden Rollenbildern sind zur Zeit aber 
 auch einige neue Formen am entstehen. Man kann etwa den am Kunstmarkt orientiertem Künstlertypus neben den an sozialen Aufgaben oder an Theoriediskursen orientierten Künstler 
