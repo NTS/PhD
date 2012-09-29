@@ -1,4 +1,4 @@
-\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$a4paper,ngerman]{$documentclass$}
+\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$a4paper]{$documentclass$}
 \usepackage[T1]{fontenc}
 %
 % NTS fixes
@@ -8,6 +8,8 @@
 % redefines the \section command to include the \newpage when using the \section
 \let\stdsection\section  
 \renewcommand\section{\newpage\stdsection} 
+% math symbols
+\usepackage{amsfonts}
 %
 % END NTS FIXES
 %
