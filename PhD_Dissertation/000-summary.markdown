@@ -1,4 +1,4 @@
-# Zusammenfassung -- TL;DR
+## Zusammenfassung -- TL;DR
 
 **Als ich Künstler war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:* der Künstler als Arbeiter**  
 
@@ -16,7 +16,7 @@ und durchgreifender ändern. In meiner Dissertation geht es um eine Analyse des 
 Entwicklung zu ziehen sind, insbesondere bezüglich der Ausbildung von Künstlern an Kunsthochschulen. Dort sollten meines Erachtens die beruflichen Aspekte des 
 künstlerischen Feldes, (in und außerhalb der Akademie) verstärkt erläutert und vermittelt werden. 
 
-## Schwerpunkte
+### Schwerpunkte
 
 Der Fokus der Arbeit liegt auf den folgenden 4 Hauptthemen und ihren Zusammenhängen:    
 
@@ -70,7 +70,7 @@ genannten Verschiebungen in der Arbeits- und Ausbildungswelt des Künstlers.
 
 
 
-## Thesen
+### Thesen
 
 Aufgrund meiner Analyse des Zustandes von Kunstlehre und Kunststudium an der Bauhaus-Universität Weimar, sowie durch Vergleiche mit anderen Kunstakademien, meiner eigenen Erfahrung 
 als Künstlerin und Kuratorin sowie aufgrund meiner Analyse des Künstlerbildes und der aktuellen technischen Möglichkeiten, ergeben sich folgende Konsequenzen und Prognosen: 

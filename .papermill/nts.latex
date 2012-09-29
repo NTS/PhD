@@ -155,8 +155,10 @@ $include-before$
 $endfor$
 $if(toc)$
 {
+\setcounter{tocdepth}{2}
 \hypersetup{linkcolor=black}
 \tableofcontents
+\pagebreak
 }
 $endif$
 $body$
