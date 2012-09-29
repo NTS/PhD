@@ -1,18 +1,24 @@
 # VI. ANHANG (See Attached) 
 
-mini Inhalt:
+**Inhalt:**
 
-1. 5-Jahres-Plan
+1. Der 5-Jahres-Plan:  
+  
 - Das Format Fachkurs
 - Fachkurse: VLV & Notizen
-- Exile on Mainstreet
+- Exile on Main Street
 - Der K3 Fragebogen
 
-2. Transkribierte Texte in voller Version
-3. Lyrics zum scattern
+2. Transkribiertem Text *American Dad - Episode Kunterbunt* (voller Version)
+
+3. Unverteilte Lyrics: TODO:
+
+- Rainald Grebe - Akademikerinnen
+- DJ Koze AKA Adolf Noise - Zuviel Zeit?
+- Spieltrieb - Hypnose
 
 
-## 5-Jahres-Plan doch zu buw?
+## Der 5-Jahres-Plan 
 
 Ich verstehe meine Aufgabe als künstlerische Mitarbeiterin darin, alle Aspekte der Kunst und der Öffentlichkeitsarbeit systematisch zu untersuchen 
 und das Wissen über Funktionsweisen des Kunstmarktes und die Entstehung guter Kunst zu vermitteln. Es geht hierbei um Kompetenzen, die nicht 
@@ -27,7 +33,7 @@ im Studium anbieten kann, zu zeigen wie es 'draußen' läuft. So kann man sich b
 Parameter des künstlerischen Felds kennenlernen. 
 
 
-## Das Format Fachkurs
+### Das Format Fachkurs
 
 Parallel zu den Projekten werden im Studiengang Freie Kunst auch Seminare, Workshops und Fachkurse angeboten. Den künstlerischen Mitarbeitern der Fakultät Gestaltung steht eine große Freiheit zugestanden, nach Absprache mit den jeweiligen Professoren pro Semester einen Fachkurs oder einen Workshop mit Inhalten 
 ihrer Wahl anzubieten. In der Regel werden Fertigkeiten im Bereich Computerprogramme, Video und digitale Bildbearbeitung, oder Buchbinderei, um nur ein paar Beispiele zu nennen, angeboten. 
@@ -36,7 +42,7 @@ Fachkurse abgehalten, die alle um das Studium Freie Kunst und das professionelle
 habe ich hier Notizen oder einen ganzen Text hinzugefügt, um die Erfahrungen und authentischen Momente festzuhalten.
 
 
-#### ‚Ausstellen von A bis Z’ (Ausstellungsgestaltung I)
+#### ‚Ausstellen von A bis Z‘ (Ausstellungsgestaltung I)
 
 WS 2007/08
 
@@ -76,8 +82,7 @@ und die gelingt die Übersetzung des gesammelten Materials zur Präsentation, bz
 
 [^fachkurse-vlv]: Alle Fachkursbeschreibungen beziehen sich auf der Online Vorlesungsverzeichnisse der Professur Freie Kunst, Fakultät Gestaltung auf der 
 Website der Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English und die Kurse richteten sich an der Studierenden aller Fakultäten.
-Dies ist eine Zusammenfassung aller drei Fachkurse, [^K3]
-[^K3]: siehe die Originalfassung aus dem BUW Vorlesungsverzeichnis:
+Dies ist eine Zusammenfassung aller drei Fachkurse[^K3a]
 
 WS 2007/08 + SS 2009 + WS 2009/10 
 
@@ -269,8 +274,9 @@ die Installation bis zum ursprünglich geplanten Abbau und die Übergabe des Kio
      TODO: DNS FOTO
 
 
-#### 'The names may change, but the game stays the same'* (Die Kunstmarkt Aktruere )
+#### ‚The Game‘ * (Die Kunstmarkt Aktruere )
 
+* Original vollständigem Fachkurs Titel: ‚The names may change, but the game stays the same‘
 SS 2010
 
 "Seit Mitte der Neunziger erlebt die zeitgenössische Kunst einen beispiellosen Boom. Von allem gibt es mehr: mehr Künstler, 
@@ -367,7 +373,7 @@ Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von au�
 
 
 
-#### VLV Text Kiosk K3 - Vollständig
+[^K3a]: siehe die Originalfassung aus dem BUW Vorlesungsverzeichnis:VLV Text Kiosk K3 - Vollständig:
 
 + **Wenn Künstler Kunst kuratieren (K3)**
     - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, 
@@ -404,7 +410,7 @@ Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von au�
 	
 	
 
-## Der K3 Fragebogen
+### Der K3 Fragebogen
 
 Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben ich das Model Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt zu
 administrative Information zu bekommen, und daneben Neigungen und Interessen für das Projekt und seine Inhalte zu spüren. Im gemischter Form (Amerikanisch und 
@@ -419,7 +425,7 @@ stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Inform
 
 
 
-### Alle Fragen
+#### Alle Fragen
 
 #### Fragebogen K3 Teil 1 
 
