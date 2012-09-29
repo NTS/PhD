@@ -65,14 +65,14 @@ Auch der Betrachter bleibt nicht mehr im alten Kunstbetriebsystem zurück, sonde
 oder kann das weg?" werden immer häufiger gehört und verweisen auf eine neue Unsicherheit in der Erkennung von Kunst. Neue Strategien, Kunst, 
 die sich als etwas anderes tarnt und etwas anderes will, evoziert wohlmöglich ein unvorbereitetes Publikum.  
 
-Muss man, oder besser gefragt, kann man heutzutage noch jahrelang im Atelier *"brüten"*, um dann erst die Welt mit einer epischen Aussage 
-zu 'beglücken'? Künstler experimentieren und probieren sowieso. Andy Warhol, Jean-Michel Basquiat, oder Joseph Beuys repräsentieren in diesem Hinsicht
+Muss man, oder besser gefragt, kann man heutzutage noch jahrelang im Atelier *„brüten“*, um dann erst die Welt mit einer epischen Aussage 
+zu „beglücken“? Künstler experimentieren und probieren sowieso. Andy Warhol, Jean-Michel Basquiat, oder Joseph Beuys repräsentieren in diesem Hinsicht
 ein Auslaufmodell. Sind Scheitern und Erfolg von Künstlern nur noch an dem erreichten Olymp in Form von Ausstellungen in den Großen Museen, auf Biennalen, 
 oder der documenta zu messen? Einer der stärksten Kräfte oder Motivation oder Drang, welche dem Künstler zugeschrieben werden, ist die der Erneuerung, denn Künstler haben keinerlei Interesse, etwas zu machen, bzw. zu sagen, was schon einmal gemacht worden ist, sei es der Idee nach oder der materiellen Ausführung. 
 
-Ger van Elk, ein holländischer Künstler, der auf drei dokumentas (Nr. 5, Nr. 6 und Nr. 7) ausgestellt hat, fasst es schön zusammen:
+Ger van Elk, ein holländischer Künstler, der auf drei *dokumentas* (Nr. 5, 6 und 7) ausgestellt hat, fasst es schön zusammen:
  
-> „Kunst ist und bleibt eine Sprache. Sprache aber heißt, mit Bedeutungen umzugehen [...] Für mich wäre es langweilig, etwas zu wiederholen [...] dann bleibt es doch eine ästhetische Variante. Ich verstehe mich nicht als Fabrik [...] bloße Varianten des Themas dagegen tragen nicht wirklich etwas Neues bei [...] und für mich ist Neugierde die einzige Maßgabe, Kunst zu machen [...] Auch die Antikunst ist wieder Kunst. Man kann nicht ohne Ästhetik Kunst machen. Alles wird immer sofort zum Stil, wird ästhetisch. Kunst ohne Stil zu machen ist ungeheuer schwierig. Ich versuche alles, was man nicht machen sollte.“ (Quelle:  TODO via nwh)
+> „Kunst ist und bleibt eine Sprache. Sprache aber heißt, mit Bedeutungen umzugehen [...] Für mich wäre es langweilig, etwas zu wiederholen [...] dann bleibt es doch eine ästhetische Variante. Ich verstehe mich nicht als Fabrik [...] bloße Varianten des Themas dagegen tragen nicht wirklich etwas Neues bei [...] und für mich ist Neugierde die einzige Maßgabe, Kunst zu machen [...] Auch die Antikunst ist wieder Kunst. Man kann nicht ohne Ästhetik Kunst machen. Alles wird immer sofort zum Stil, wird ästhetisch. Kunst ohne Stil zu machen ist ungeheuer schwierig. Ich versuche alles, was man nicht machen sollte.“[@Posca:vanElk]
 
 Wie Kant schon sagte: "Obgleich ohne Zweck, ist die Kunst für sich selbst zweckmäßig." Die Gruppe *Azorro Collective* (Polen) zeigt in ihrer 
 Videoarbeit *Everything Has Been Done* von 2003 sich selbst, wie sie zu viert zusammensitzen und nach neuen Ideen für ein ultimatives Kunstwerk suchen 
@@ -84,7 +84,7 @@ Kunst ist für jeden zugänglicher als je, denn sie ist nicht mehr nur im dafür
 Ez zeigen sich ähnliche Symptome und Diskussionen über Urheberrechte wie in den Bereichen Musik, Literatur etc. Festzustellen ist, das selbst der ersehnte 
 neuartige Erfolg keine Garantie für finanzielle Sicherheit darstellt.
 
-[^fn-netvideo]: Das Angebot von [YouTube](http://youtube.com) z.B. setzt sich aus einer Mischung von 
+[^fn-netvideo]: Das Angebot von *YouTube* z.B. setzt sich aus einer Mischung von 
 professionellen Beiträgen neben unreiferen Amateurversuchen zusammen.
 
 Meine These lautet, das sich Künstler heute im Kunst- und Arbeitsmarkt behaupten können, auch ohne die Kunstvermittlungs- und Verkaufssysteme des gängigen Kunstbetriebs zu gebrauchen. Jedoch 
@@ -98,7 +98,7 @@ Auktionshaus und Publikum? Offenbar hat eine Wandlung, eine Neigung zum autarken
 durch Künstler selbst stattgefunden. Wurde damit Andy Warhols Aussage bestätigt, dass alle ihre fünfzehn Minuten Ruhm bekommen werden, oder sind diese besagten 
 fünfzehn Minuten sogar schon vorbei und ab jetzt sind alle berühmt? Es muss unterschieden werden zwischen der Kunst an sich,[^fn-kunstansich] 
 und zwischen dem Künstler als Figur und Person, als Arbeiter und Produzent, sowie die Verhältnisse zwischen allen diesen Elementen. Deswegen stellte ich mir die Frage, was 
-oder wer ist ein Künstler.
+oder wer ein Künstler ist.
 
 [^fn-kunstansich]: Gemeint sind die endlosen Überlegungen was Kunst sein mag, bzw. ihre Qualität, und wie und wer sie messen soll und kann.
 
