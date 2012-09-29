@@ -482,8 +482,6 @@ Thank you for taking part in this Fachkurs!
 
 ### Bewertung Fachkurs Kiosk Fragebogen
 
- 
-Einteilung der angeschriebene Studenten nach Fakultät bzw. Studiengang:
 
 
 Fakultät        			 Personen (P)
@@ -495,6 +493,8 @@ Architektur			          1
 Medien				          2
 Produktdesign		          1
 ----   -----
+
+Table: Einteilung der angeschriebene Studenten nach Fakultät bzw. Studiengang:
 
 
 Semesterhöhe der Teilnehmer:
@@ -585,7 +585,7 @@ Ich nutze ein ähnliches schon  1
 
 
 
-**BILDER**  TODO: Ein Paar Bilder vom Frabo hinzufügen, die zeigen wie Künstler denken!
+
 
 
 	
