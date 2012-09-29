@@ -1,4 +1,4 @@
-\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$]{$documentclass$}
+\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$a4paper,ngerman]{$documentclass$}
 \usepackage[T1]{fontenc}
 %
 % NTS fixes
