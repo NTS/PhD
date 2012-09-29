@@ -103,11 +103,11 @@ Globalisierung sich verstärkt hat, haben vor allem Künstler seit lägerem für
 
 In *Die Legende vom Künstler* [@Kris:Legende] schreiben Ernst Kris und Otto Kurz, wie der Künstler zu allen Zeiten unterschiedlich sein und agieren muss, 
 da die Gesellschaft nur bestimmte Sachen honoriert. Erneut ist also die Rede von Anpassung. Noch ein Argument von Benjamin: Ist man nicht nur Opfer 
-sondern auch Täter? Die vorgefundene Welt kann auch manipuliert werden.  Einerseits kann man sich in ihr einrichten und akzeptieren: "So existiert die Welt" Andrerseits gibt es die Haltung: "ich bin funktionsgestört und ändere sie."
+sondern auch Täter? Die vorgefundene Welt kann auch manipuliert werden.  Einerseits kann man sich in ihr einrichten und akzeptieren: "So existiert die Welt" 
+Andrerseits gibt es die Haltung: "ich bin funktionsgestört und ändere sie."
 Als Künstler arbeitet man inzwischen auch im Kunstbetrieb. Warum sollten Künstler nur in bestimmten Bereichen arbeiten dürfen (z.B. Ausstellungsaufbau) 
 und an anderen Stellen (z.B. Galerie) nicht? Wie Marcel Duchamp, Timm Ulrich; Martin Kippenberger, und viele andere es vorgemacht haben die den Kunstbetrieb selbst als Material 
-kreativ gebrauchten. Zu ihnen zälen auch Künstler wie Andrea Fraser (Kuratorenbegleitung als Kunstereignis) oder Lucas Samaras, der laut Brian O'Doherty im *Atelier und Galerie Studio and cube* [@ODoherty:Cube] schon im Jahr 1964 sein 
-Atelier als Kunstwerk in der Galerie ausstellte. 
+kreativ gebrauchten. Zu ihnen zälen auch Künstler wie Andrea Fraser (Kuratorenbegleitung als Kunstereignis) oder Lucas Samaras, der laut Brian O'Doherty im *Atelier und Galerie Studio and cube* [@ODoherty:Cube] schon im Jahr 1964 sein Atelier als Kunstwerk in der Galerie ausstellte. 
 
 Die Tatsache, dass Künstler selbst den Kunstbetrieb als Material nutzen, ist im Grunde genommen das Spezifische an der Kunst, die Wiedergabe einer Selbstreflextion 
 in ästhetischer oder gestalterischer Form. Künstler schaffen Utopien, alternative Möglichkeiten. Während es in anderen Bereichen Aufstiegsmöglichkeiten gibt, sind diese 
@@ -185,9 +185,6 @@ jedoch an ein System anpassen, welches (anders) reguliert ist und Zeitbegrenzte 
 
 [^whyartistspoor]: nach dem Buchtitel von Hans Abbing *Why are the artists poor?*
 
-Titel weg!
-Dieses Teil zu Arbeit/netz:
-
 
 > "Was ich an meinem Beruf am meisten mag? Ich liebe es am meisten, eine Pressemitteilung per Mail von den Kuratoren, 
 > von allen Teilnehmer der Ausstellung und von der PR Agentur die sie unterstützt, zu erhalten dann alles erneut auf Facebook zu lesen, dann per SMS zu bekommen, 
@@ -204,19 +201,27 @@ Die erste Kommentar darauf:
 Diesen Status, den die Kulturagentin Galia Yahav auf ihrer Facebook Seite notiert hat und der weiter zirkulierte, hat natürlich meine Aufmerksamkeit geweckt. Die Kulturmanagerin bekommt 
 zu viel Information, der Künstler schreibt eine Witzige Antwort daraufhin, die aber eher seinen Wunsch ausdrückt, Beides bezeichnen die Realität heute, wo alle im durch die Technik ermöglichten Kommunikationswahn etwas machen und wollen, manche entgeltlich und manche gern umsonst. Die heutige Orientierung des Kapitalismus als auch die des Sozialismus bedeutet, Alle sollen Arbeiten. Was definiert Arbeitslosigkeit bei Künstlern? Sie müssen überleben, wenn sie kein Kunst verkaufen, müssen sie nach Arbeit suchen. 
 
-_ ab hier  zu Akademie _
+_ ab hier zu Akademie _
 
 Auch wenn die Akademie immer noch ein Elfenbeinturm ist, kann die Auffassung nicht mehr formuliert werden, dass nach dem Studium 
 ein Loch kommt oder der Sprung ins kalte Wasser gewagt werden muss. Aus meiner Sicht, wäre die Floskel ‚die anderen kochen auch 
 nur mit Wasser‘ passender, als jeder Titel von den vielen Konferenzen und Tagungen, bei denen ich den einen oder anderen Vortrag gehalten habe, 
 Vgl. *Von Schwarze Malerei*, *Mind the Gap* usw.
 
-In der Akademie ist die Rede von 'Raus aus dem Elfenbeinturm'. Im Jahr 2007 fragt sich Sigrid Schade im Symposiumsreihe "Heraus aus dem Elfenbeinturm! - Neue Wege der Kunsthochschulen in die Gesselschaft"[@Schade:Fiktion] bei ihrem Vortrag *Wie Fiktionen wirklich werden: zur Tradierung von KünstlerInnenmythen* ob das möglicherweise fiktives Bild, die vom Künstler selbst produziert wird, das Vorbild für die Werdenden Künstler verstellt, eben weil sie fiktiv sind und ein Gefahr suggerieren. Künstlermoralische Instanzen, und Bezug zum Geld können und sollen auch im Studium besprochen werden, Weil die Lehrer sie unabdingbar mit sich zur Klasse bringen.
+In der Akademie ist die Rede von 'Raus aus dem Elfenbeinturm'. Im Jahr 2007 fragt sich Sigrid Schade im Symposiumsreihe "Heraus aus dem Elfenbeinturm! - Neue Wege der Kunsthochschulen in die Gesselschaft"[@Schade:Fiktion] bei ihrem Vortrag *Wie Fiktionen wirklich werden: zur Tradierung von KünstlerInnenmythen* ob das möglicherweise fiktives Bild, die vom Künstler selbst produziert wird, das Vorbild für die Werdenden Künstler verstellt, eben weil sie fiktiv ist und ein Gefahr suggerieren, nämlich Entstehung von falsche Erwartungen von Studierenden und großer Abstand zu Realen Verhältnisse. Künstlermoralische Instanzen, und Bezug zum Geld können und sollen auch im Studium besprochen werden, Weil die Lehrer sie unabdingbar mit sich zur Klasse bringen.
 
+Yaakov Mishori, Leiter der Kunstinstitution *Avni Institute of Art and Design* in Tel Aviv, selbst ein Künstler mit Auftritt auf der VI. Berlin Biennale, liefert in einem  [Artikel](http://erev-rav.com/archives/8519) von 2010, in dem er für eine Trennung des symbiotische Beziehung zwischen Akademie und Kunst eine ziemliche 
+genaue Beschreibung mancher Künstler heute: "Es brauchte Jahrzehnte, um das Kunstszene Syndrom 'edle Wilde' loszuwerden. Weitere Jahrzehnte werden vergehen, 
+bis sie in der Lage sein werden, sich aus dem neuen Syndrom zu befreien: der gebildete Künstler-Syndrom. Dies ist ein Künstler, der gern zu "normaler Bürger" sein möchte: Ein bisschen ein 
+Psychoanalytiker, etwas Soziologe, Zum Teil Kritiker, etwas Kommentator, etwas Modeschöpfer, etwas Kurator, etwas Kommunikationsprofi, manche geben Rat als Sexualforscher, geben sich als kleine 
+Netzversteher, als ein populistischer Philosoph und potenzieller Architekt. Einer, der tausende Namen von Künstler, Kuratoren, Museumsdirektoren, Galeristen, Messen und Biennalen, in seinem Kopf behält und auch ein wenig wild. Ein wenig." Seiner Meinung nach, sollen die Kunstinstitutionen sich von der Markanforderung nach Akademischen Titeln befreien. 
+
+Die Akademie soll sich außerhalb der schablonisierten und bürgerlichen Ansicht, die von den Eltern gern getragen wird "man kann heute ohne Titel nicht mehr Überleben" bewegen.
 Geisteswissenschaft und Humanismus, diese Disziplinen werden als wenig lukrative Bereiche wahrgenommen, 'Weil man da nicht Geld verdienen kann'. Auch wenn manche dies denken, 
 die Akademien produzieren zahllose Menschen, die nach Arbeit suchen und die Akademie wiederum mit Professoren und Assistenten, die ihre Macht und Geschmacksrichtung auf die 
 kommende Generationen ausüben Das Machtgefühl des Kunstprofessors, welches Yaakov Mishori in seine Statement (in Heb.) beschreibt, das gibt es, das stimmt. Was ist machtvoller, 
 als das Genie zu erkennen und es aus ihm herauszukitzeln? 
+
 
 Es wird immer mehr Fachwissen über den Kunstbetrieb in den Akademien vermittelt. Das Künstlerdasein, wie man es empfindet und wie es weitergegeben wird, ist damit aber noch nicht geklärt.  
 
@@ -233,12 +238,6 @@ In seinem Buch *Kunst die hängen bleibt* schreibt Prof. Karl Schawelka: "Die Vo
 Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse. Künstler erhalten sie nicht allein von ihren Sammlern." [@Schawelka:Kunsthngenbleibt, pp. 228]
 
 
-TODO: **Bild** [William Powhida, Studio Kalender, Mixed Media, 2006 The Stiller Collection](SCAN! aus *The Making of Art* + Bibex eintragen!)
-
-> Enter yaakov Mishori
-[LINK](http://www.sueddeutsche.de/bildung/2.220/zehn-jahre-bologna-reform-harsche-kritik-an-bachelor-und-master-1.1441136)
-
-http://erev-rav.com/archives/8519 איתנו באבלינו הכבד
 
 
 
