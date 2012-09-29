@@ -47,7 +47,7 @@ der Verbreitung durch das Web 2.0. Ist der Künstler gezwungen, alles selbst zu 
 Kreativität und Produktivität werden miteinander vermischt.
 
 Die Verhältnisse zwischen Kunst und Arbeit sind nicht neu und dennoch erscheinen zurzeit unzählige Bücher und Reader, die sich unter Titeln wie *Work, Work,
-Work. A Reader on Art and Labour* [@Work:Reader] oder *Are you working too much Post-Fordism, Precarity and the Labor of Art* [] mit den 
+Work. A Reader on Art and Labour* [@Work:Reader] oder *Are you working too much Post-Fordism, Precarity and the Labor of Art* [Bifo:Workhard] mit den 
 Veränderungen in diesem Zusammenhang beschäftigen. Das ist an sich ein bemerkenswertes Phänomen. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
 Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 für immer noch aktuell. In seiner Rede spricht er davon, dass der Autor 
 sich nicht in die Politik einmischen sollte, sondern in den Gebieten seine Kraft ausüben müsse, worin er kompetent sei. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
@@ -126,7 +126,8 @@ bei dem Versuch, ihre Freiheit zu erhalten eine Möglichkeit, die Verhältnisse 
 Der Businessmodel wird immer klarer. Momentan sieht es so aus, als wäre ein Künstler erst erfolgreich,[^fn-erfolgmeans] wenn er achtzig Assistenten beschäftigen und bezahlen kann. Jeff Koons hat 80 Assistenten und steht hier im Bild wie jeder andere Unternehmer vor seinen Mitarbeitern, die ihm alles vorproduzieren. 
 
 **Bild:** [Jeff Koons mit seinen Mitarbeitern, Foto: Jason Schmidt für Monopol.jpg[^source-jeff_koons_und_mitarbeiter]](jeff_koons_und_mitarbeiter.jpg) 
-[^source-jeff_koons_und_mitarbeiter]: foto Jason Schmidt Monopol, TODO: Publikation suchen
+[^source-jeff_koons_und_mitarbeiter]: foto Jason Schmidt Art Kunstmagazin, Ausgabe: 01 / 2009 Seite: 42-51
+
 
 
 Dadurch wird er genau der angepasste Unternehmer in einem System, an das er gar nicht glaubt, aber als 
@@ -180,13 +181,12 @@ jedoch an ein System anpassen, welches (anders) reguliert ist und Zeitbegrenzte 
 
 
 
-## Why, are the artists poor?[^whyartistspoor]
-
-    TODO: dieses Kapitel ist nur Teilweise mit  Rechtsscheibungkorrektur 
-	
-	Gehört inhaltlich zu Akademie!
+## Why, are the artists poor?[^whyartistspoor]   
 
 [^whyartistspoor]: nach dem Buchtitel von Hans Abbing *Why are the artists poor?*
+
+Titel weg!
+Dieses Teil zu Arbeit/netz:
 
 
 > "Was ich an meinem Beruf am meisten mag? Ich liebe es am meisten, eine Pressemitteilung per Mail von den Kuratoren, 
@@ -202,24 +202,18 @@ Die erste Kommentar darauf:
 > Dann werde ich müde und gehe ein Nickerchen machen" (Shay Yeheskeli - Künstler)
 
 Diesen Status, den die Kulturagentin Galia Yahav auf ihrer Facebook Seite notiert hat und der weiter zirkulierte, hat natürlich meine Aufmerksamkeit geweckt. Die Kulturmanagerin bekommt 
-zu viel Information, der Künstler schreibt eine Witzige Antwort daraufhin, die aber eher seinen Wunsch ausdrückt, Beides bezeichnen die Realität heute, wo alle im durch die Technik ermöglichten Kommunikationswahn etwas machen und wollen, manche entgeltlich und manche gern umsonst. Die heutige Orientierung des Kapitalismus als auch die des Sozialismus bedeutet, Alle sollen Arbeiten. Was definiert Arbeitslosigkeit bei Künstlern? 
-Sie müssen überleben, wenn sie kein Kunst verkaufen, müssen sie nach Arbeit suchen. 
+zu viel Information, der Künstler schreibt eine Witzige Antwort daraufhin, die aber eher seinen Wunsch ausdrückt, Beides bezeichnen die Realität heute, wo alle im durch die Technik ermöglichten Kommunikationswahn etwas machen und wollen, manche entgeltlich und manche gern umsonst. Die heutige Orientierung des Kapitalismus als auch die des Sozialismus bedeutet, Alle sollen Arbeiten. Was definiert Arbeitslosigkeit bei Künstlern? Sie müssen überleben, wenn sie kein Kunst verkaufen, müssen sie nach Arbeit suchen. 
 
-In der Akademie ist die Rede von "Raus aus dem Elfenbeinturm". (TODO Source)" im Jahr 2007 fragt sich Sigrid Schade in einem Symposium bei einem Vortrag, was ist das Bild, was wir vermitteln und welche Erwartungen werden im Studium geweckt? Welche, wenn überhaupt Künstlermoralische Instanzen, können und sollen beigebracht werden?
-
-_ ab hier Akademie _
-
-In seinem Buch *Kunst die hängen bleibt* schreibt Prof. Karl Schawelka: "Die Vorteile, die Man als Künstler hat, wenn man zu den Top Ten gehört, sind denn auch beträchtlich. 
-Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse. Künstler erhalten sie nicht allein von ihren Sammlern." [@Schawelka:Kunsthngenbleibt, pp. 228] 
+_ ab hier  zu Akademie _
 
 Auch wenn die Akademie immer noch ein Elfenbeinturm ist, kann die Auffassung nicht mehr formuliert werden, dass nach dem Studium 
 ein Loch kommt oder der Sprung ins kalte Wasser gewagt werden muss. Aus meiner Sicht, wäre die Floskel ‚die anderen kochen auch 
 nur mit Wasser‘ passender, als jeder Titel von den vielen Konferenzen und Tagungen, bei denen ich den einen oder anderen Vortrag gehalten habe, 
 Vgl. *Von Schwarze Malerei*, *Mind the Gap* usw.
 
-Zitat Mishori hierher:
+In der Akademie ist die Rede von 'Raus aus dem Elfenbeinturm'. Im Jahr 2007 fragt sich Sigrid Schade im Symposiumsreihe "Heraus aus dem Elfenbeinturm! - Neue Wege der Kunsthochschulen in die Gesselschaft"[@Schade:Fiktion] bei ihrem Vortrag *Wie Fiktionen wirklich werden: zur Tradierung von KünstlerInnenmythen* ob das möglicherweise fiktives Bild, die vom Künstler selbst produziert wird, das Vorbild für die Werdenden Künstler verstellt, eben weil sie fiktiv sind und ein Gefahr suggerieren. Künstlermoralische Instanzen, und Bezug zum Geld können und sollen auch im Studium besprochen werden, Weil die Lehrer sie unabdingbar mit sich zur Klasse bringen.
 
-Geisteswissenschaft und Humanismus, diese Disziplinen werden als wenig lukrative Bereiche wahrgenommen, "Weil man da nicht Geld verdienen kann". Auch wenn manche dies denken, 
+Geisteswissenschaft und Humanismus, diese Disziplinen werden als wenig lukrative Bereiche wahrgenommen, 'Weil man da nicht Geld verdienen kann'. Auch wenn manche dies denken, 
 die Akademien produzieren zahllose Menschen, die nach Arbeit suchen und die Akademie wiederum mit Professoren und Assistenten, die ihre Macht und Geschmacksrichtung auf die 
 kommende Generationen ausüben Das Machtgefühl des Kunstprofessors, welches Yaakov Mishori in seine Statement (in Heb.) beschreibt, das gibt es, das stimmt. Was ist machtvoller, 
 als das Genie zu erkennen und es aus ihm herauszukitzeln? 
@@ -234,6 +228,10 @@ macht Filme und Musik schon längs, besetzt stellen innerhalb der Kunst- und Kul
 Kunst-Therapie kann man schon seit Langem studieren, neuerdings BA/MA-mäßig. Aus der Vergangenheit sind auch viele Beispiele von Kollegen bekannt, die das nebenbei auf Honorarbasis machten. 
 
 Allerdings war/ist der „Akademischer Künstler“ eher negativ konnotiert.
+
+In seinem Buch *Kunst die hängen bleibt* schreibt Prof. Karl Schawelka: "Die Vorteile, die Man als Künstler hat, wenn man zu den *Top Ten* gehört, sind denn auch beträchtlich. 
+Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse. Künstler erhalten sie nicht allein von ihren Sammlern." [@Schawelka:Kunsthngenbleibt, pp. 228]
+
 
 TODO: **Bild** [William Powhida, Studio Kalender, Mixed Media, 2006 The Stiller Collection](SCAN! aus *The Making of Art* + Bibex eintragen!)
 
