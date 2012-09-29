@@ -425,8 +425,6 @@ stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Inform
 
 
 
-#### Alle Fragen
-
 #### Fragebogen K3 Teil 1 
 
 
@@ -486,7 +484,7 @@ Thank you for taking part in this Fachkurs!
 
 
 
-### Bewertung Fachkurs Kiosk Fragebogen
+#### Bewertung Fachkurs Kiosk Fragebogen
 
 
 
@@ -610,6 +608,8 @@ Ich nutze ein ähnliches schon  1
 Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform für Dein eigenes Projekt?
 
 
+
+## Transkription & Lyrics
 
 
 ### American Dad - Episode *Knallbunt* 
@@ -775,7 +775,7 @@ Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform f
 	
 	
 
-## Weitere Lyrics 
+
 
 
 ### Rainald Grebe - Akademikerinnen
