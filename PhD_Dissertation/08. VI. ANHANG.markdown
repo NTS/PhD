@@ -484,6 +484,7 @@ Thank you for taking part in this Fachkurs!
 
 
 
+
 Fakultät        			 Personen (P)
 ----            			 -----
 Freie Kunst     			  17
@@ -494,10 +495,10 @@ Medien				          2
 Produktdesign		          1
 ----   -----
 
-Table: Einteilung der angeschriebene Studenten nach Fakultät bzw. Studiengang:
+Table: Einteilung der angeschriebene Studenten nach Fakultät bzw. Studiengang
 
 
-Semesterhöhe der Teilnehmer:
+
 
  Semester       					  P
 ----      					        -----
@@ -512,9 +513,12 @@ Semesterhöhe der Teilnehmer:
  9.       					         5
 ----      					       -----
 
+Table: Semesterhöhe der Teilnehmer  
+  
+  
+ 
 
 
-Teilnahme an Fachkurse einmalig / mehrere:
 
 
 Fachkurs        			  P
@@ -524,9 +528,11 @@ Fachkurs        			  P
   3/3                         6
 -------                     -----
 
+Table: Teilnahme an Fachkurse einmalig / mehrere  
 
+  
+  
 
-Fragebogen Teil I Frage #7: Wollen Sie lieber: Reich oder Berühmt werden? 
 
 
 F               			  P
@@ -536,8 +542,11 @@ Berühmt         			  3
 Beides          			  4
 ----------                  -----
 
+Table: Fragebogen Teil I Frage #7: Wollen Sie lieber: Reich oder Berühmt werden?   
+  
+  
 
-Fragebogen Teil II Frage #6: (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator d.Sonstiges (was?)
+
 
 
 F               			 P
@@ -548,9 +557,12 @@ Kurator                      1
 Mehrere                      5
 ----------    			   -----
 
+Table: Fragebogen Teil II Frage #6: (FB Teil I/II): Was wollen Sie eher werden: a.Künstler  b.Galerist  c.Kurator  d.Sonstiges   
+  
+  
 
 
-Fragebogen Teil II Frage #7: Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
+
 
 
 F							 P
@@ -560,8 +572,11 @@ Kreativ         			 5
 Beides                       4
 ----------    			   -----
 
+Table: Fragebogen Teil II Frage #7: Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?  
+  
+  
 
-Fragebogen Teil III Frage #15: Wie schätzen Sie die Arbeit auf *basecamp*?
+
 
 
 -------------------------    -----
@@ -572,8 +587,11 @@ Gut & Einfach & Praktisch      2
 Gut & Praktisch                1
 -------------------------    -----
 
+Table: Fragebogen Teil III Frage #15: Wie schätzen Sie die Arbeit auf *basecamp*?  
+  
+   
+   
 
-Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform für Dein eigenes Projekt?
 
 
 -------------------------     -----
@@ -582,6 +600,8 @@ Nein                           1
 Ich nutze es schon             1
 Ich nutze ein ähnliches schon  1
 -------------------------    -----
+
+Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform für Dein eigenes Projekt?
 
 
 
