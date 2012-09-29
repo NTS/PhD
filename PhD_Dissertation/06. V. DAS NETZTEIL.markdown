@@ -17,9 +17,7 @@ in der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommu
 > denn „wenn andere einen als wahrnehmend beobachten, kann man das Wahrnehmen nicht gut bestreiten. 
 > Auf diese Weise wird unnegierbare Sozialität erreicht.“ [@Luhmann:kunstges, pp. 36]“
 > 
-> (zitiert nach: [@Werber:nurkunst, pp. 1]) 
-
-TODO: soll so aussehen: (zitiert nach: Dr. Niels Werber (1996)S???)
+> [@Werber:nurkunst, pp. 1] 
 
 Kommunikation manifestiert sich als kollektives und kollegiales Feld. Welche Mitteilungsform erhält das Haptische und welche Stellung nehmen Daten ein? 
 Hat die Kunst eine andere Berechtigung, wird sie anders wahrgenommen? Wie entwickelt sich die eigene Ansicht auf Individualität in den immer 
