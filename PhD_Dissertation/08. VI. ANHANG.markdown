@@ -606,17 +606,10 @@ Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform f
 
 
 
-
-
-	
-## Texte 
-
-
-
 ### American Dad - Episode *Knallbunt* 
 
 
-Deutsche Fassung - Transkript
+**Deutsche Fassung - Transkription**
 
 
 > SOHN: „ Sei nicht deprimiert Dad, hier das ist ein Geschenk für dich.“
@@ -772,6 +765,7 @@ Deutsche Fassung - Transkript
 > TOCHTER: „…und mir tut es leid das ich so unbegabt bin.“
 	
 [Original Englischen Titel *Running Mates* Family Guy, Fox, USA](http://de.americandad-familyguy.wikia.com/wiki/Knallbunt)
+
 	
 	
 
