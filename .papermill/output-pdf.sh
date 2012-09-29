@@ -52,6 +52,7 @@ do
 		--number-sections \
 		--section-divs \
 		--toc \
+        --variable=links-as-notes:true \
 		--bibliography="./BIBTEX/biblio.phd.nts.bib" \
 		--csl=".papermill/CSL/din-1505-2.csl" \
 		\
