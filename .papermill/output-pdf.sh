@@ -45,10 +45,10 @@ do
     echo "    [#] Generating PDF..."
     
     # if there is a local imprint
-    if [[ -e "$PAPER"/_Impressum.markdown ]] 
+    if [[ -e "$PAPER"_Impressum.markdown ]] 
     then
         # convert to latex
-        ~/.cabal/bin/pandoc ""$PAPER"/_Impressum.markdown" \
+        ~/.cabal/bin/pandoc ""$PAPER"_Impressum.markdown" \
 		--smart --normalize \
 		--to=latex --latex-engine=xelatex --no-tex-ligatures \
 		--output=""$PAPER"_Impressum.generated.latex"
@@ -73,8 +73,8 @@ do
 		--to=latex \
 		--latex-engine="/usr/texbin/xelatex" \
 		--template="./.papermill/nts.latex" \
-		--no-tex-ligatures \
-		--variable=lang:DE \
+        --no-tex-ligatures \
+		--variable=lang:ngerman \
 		\
 		--include-before-body="_After-Title.generated.latex" \
 		--include-before-body="Version.generated.latex" \
@@ -82,7 +82,7 @@ do
 		\
 		--output=""$PAPER".pdf"
 		
-		#--variable=links-as-notes
+		#--variable=links-as-notes:true
 
 	} && {
 	
