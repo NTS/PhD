@@ -1,22 +1,3 @@
-# Impressum
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ { .editorial-content }
-
-TODO:
-
-This has to be valid for all books.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Diese Dissertation ist eine Kombination aus kapitel und Texte die während der Recherche in andere zusammenhänge publiziert worden sind oder als Vorträge gehalten worden. Für diese Dissertation sind sie modifiziert worden.
-
-- Koca inn 
-- Beruf kunstler 
-- Terminal Kunstmagazin Israel
-
-* Anlage 1
-
-
 # Ehrenwörtliche Erklärung
 
 Ich erkläre hiermit ehrenwörtlich, dass ich die vorliegende Arbeit ohne unzulässige Hilfe Dritter und ohne Benutzung anderer als der angegebenen Hilfsmittel angefertigt habe. Die aus anderen Quellen direkt oder indirekt übernommenen Daten, Methoden und Konzepte sind unter Angabe der Quellen gekennzeichnet.
@@ -47,3 +28,19 @@ Ich versichere ehrenwörtlich, dass ich nach bestem Wissen die reine Wahrheit g
 
 
 
+
+# Impressum
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ { .editorial-content }
+
+TODO:
+
+This is the local imprint for the dissertation.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Diese Dissertation ist eine Kombination aus kapitel und Texte die während der Recherche in andere zusammenhänge publiziert worden sind oder als Vorträge gehalten worden. Für diese Dissertation sind sie modifiziert worden.
+
+- Koca inn 
+- Beruf kunstler 
+- Terminal Kunstmagazin Israel

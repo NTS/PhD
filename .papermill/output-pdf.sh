@@ -14,7 +14,7 @@ echo "> Datum: \`\`$(date)\`\`  " >> "Version.markdown"
 echo "" >> "Version.markdown"
 
 
-for BLOCK in "PhD_Dissertation_Impressum" "PhD_Dissertation_After-Title" "Version"
+for BLOCK in "_Impressum" "_After-Title" "Version"
 do \
 	{	# MAKE TITLE AFTER
 		~/.cabal/bin/pandoc ""$BLOCK".markdown" \
@@ -44,6 +44,20 @@ do
 	pwd
     echo "    [#] Generating PDF..."
     
+    # if there is a local imprint
+    if [[ -e "$PAPER"/_Impressum.markdown ]] 
+    then
+        # convert to latex
+        ~/.cabal/bin/pandoc ""$PAPER"/_Impressum.markdown" \
+		--smart --normalize \
+		--to=latex --latex-engine=xelatex --no-tex-ligatures \
+		--output=""$PAPER"_Impressum.generated.latex"
+        # set variable
+        IMPRINT=""$PAPER"_Impressum.generated.latex"
+    else
+        IMPRINT="_Impressum.generated.latex"
+    fi
+    
 	{   
 		~/.cabal/bin/pandoc "$PAPER.generated.markdown" \
 		\
@@ -62,24 +76,26 @@ do
 		--no-tex-ligatures \
 		--variable=lang:DE \
 		\
-		--include-before-body="PhD_Dissertation_After-Title.generated.latex" \
+		--include-before-body="_After-Title.generated.latex" \
 		--include-before-body="Version.generated.latex" \
-		--include-after-body="PhD_Dissertation_Impressum.generated.latex" \
+		--include-after-body="$IMPRINT" \
 		\
-		--output="$PAPER.pdf"
+		--output=""$PAPER".pdf"
 		
 		#--variable=links-as-notes
 
 	} && {
 	
-		cp $PAPER.pdf ~/Dropbox/MFA+NTS/PHD.NTS-output
+		cp "$PAPER".pdf ~/"Dropbox/MFA+NTS/PHD.NTS-output"
 		open "$PAPER.pdf"
 	}
 	
+    rm ""$PAPER"_Impressum.generated.latex"
+    
 	echo "[<] Finished processing "$PAPER"..."
 	# END Process MARKDOWN Files
 	
 done
 
 # CLEANUP
-rm PhD_Dissertation_After-Title.generated.latex "PhD_Dissertation_Impressum.generated.latex" "Version.markdown" "Version.generated.latex"
+rm "_After-Title.generated.latex" *"_Impressum.generated.latex" "Version.markdown" "Version.generated.latex"
