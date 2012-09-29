@@ -175,8 +175,9 @@ für die Betrachter. Möglicherweise findet das visuelle Konzept des Künstlers 
 oder eine Beobachtung, die in Worte gefasst wurde, zu welcher der Künstler ein Bild (im Sinne von Image) erstellt hat. Ist das Untermauern der visuellen Arbeit mit Worten, 
 die die Intention des Künstlers erläutern, nur eine Mode oder eine iterative Entwicklung des künstlerischen Werdegangs, die so mehr und mehr gefördert wird? Befinden wir 
 uns in dieser Entwicklung, weil die Intention nicht mehr nur allein aus der praktischen Arbeit klar abzulesen ist oder weil Künstler das Wort auch als visuelles Material betrachten?
+Kunst ist natürlich ein Thema für Philosophen, es ist kein wunder also, das Künstler sich auch zurück an die Philosophie lehnen, oder wie Adorno sagt: „ ... genuine ästhetische Erfahrung muss Philosophie werden oder sie ist überhaupt nicht.“
 
-TODO Einfügen Zitat Adorno (aus Zitatenbase)
+
 
 
 Welche Eigenschaften verbinden künstlerische und wissenschaftliche Recherche? Neugier, Kreativität, Experimentierfreude, die Forschung als Prozess, 
@@ -188,9 +189,9 @@ Zielgruppe ansprechen. Ein weiterer Unterschied ist, dass der Künstler auch das
 Genesis P. Orridge zu sagen: „Der Prozess ist das Produkt“. Die Wissenschaft kann sich das kaum leisten. Künstler können ein ästhetisches, aber durchaus hermetisches Werk 
 erzeugen, ein Bild von ihren Gedanken, von ihrer Suche kreieren, während Wissenschaftler nach luzidem Schreiben streben, welches wiederum ihren Gedanken ein Bild verleiht. 
 Recht und Anerkennung verlangen und erhalten beide. In dem 2008 erschienenem Buch *The artist as public Intellectual* hat Hirschhorn seinen Beitrag *About art in 
-public space – the space of public life* genannt [@Wulffen:Public, pp. 72-103] 
+public space – the space of public life* genannt.[@Wulffen:Public, pp. 72-103] 
 
-[TODO](links, quellen)
+[TODO][@Wulffen:Public,...
 
 **Bild:** [Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual[@Wulffen:Public]](thomas_hirschhorn_booksleeve.jpg)
 
