@@ -47,12 +47,12 @@ eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der St
 
 [^fn-oeffraumnetz]: In der „Kunst im öffentlichen Raum“ wurde der öffentliche Raum schon auf das Internet ausgeweitet
 
-Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. Dr. Georg Hehn reflektiert in seinem Artikel „Der Genius und die gelangweilten Anderen“[@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. Dort meint er, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[@Hehn:Genius, pp. 4]. „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[@Hehn:Genius, pp. 2]
+Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. Dr. Georg Hehn reflektiert in seinem Artikel „Der Genius und die gelangweilten Anderen“[-@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. Dort meint er, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[ibid. -@Hehn:Genius, pp. 4]. „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[ibid. -@Hehn:Genius, pp. 2]
 Die Exilierung des Sakralen aus der Sphäre des künstlerischen Erlebens änderte nichts an ihrem Status als der wahren Wirklichkeit. Die Künstler kommunizierten nicht mit ihren 
 Rezipienten, sie schritten ihnen voran. Das Bedürfnis nach Aufklärung, Erklärung und Vermittlung ist Kern der schöpferischen Kraft, ein inneres Bild in die materielle Welt zu übersetzen, 
 „…und der Künstler zeigt sich als Virtuose der Kommunikation, dessen künstlerische Leistung gerade auf Meta-kommunikativer Kreativität beruht. Er mag provozieren, verfremden oder verstören, 
 er mag überhöhen oder ins Lächerliche ziehen, er mag überhöhen oder ins Lächerliche ziehen, er mag visionär oder fehlgelagert arbeiten, immer ist der Vektor seiner kreativen Explosion auf den Rezipienten gerichtet.“ 
-[@Hehn:Genius, pp. 2] Für den heutigen Künstler heißt das, immer die Zielgruppe im Visier zu haben, und zunehmend sind das nicht nur kulturorientierte Menschen. 
+[ibid. -@Hehn:Genius, pp. 2] Für den heutigen Künstler heißt das, immer die Zielgruppe im Visier zu haben, und zunehmend sind das nicht nur kulturorientierte Menschen. 
 Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig vom Kunstapparat, seine Arbeit sieht. Die Kunstkritik inklusive, die ihm einerseits zur Verfügung steht, aber andererseits auch an ihm verdient.Hier wird gleichzeitig ein Problemfeld aufgemacht, nämlich: Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn das Kunstwerk nicht ausschließlich durch die diversen Komponenten dieses Apparats (Galerist, Kurator, Käufer, Kunstkritiker) transportiert wird? Oder, um es mit Marcel Duchamp zu sagen: „Soviel Künstler, soviele Einzelausstellungen, soviele Händler und Sammler und Kritiker, die nichts anderes sind als Läuse an den Hintern der Künstler!“ [@Barck:Aisthesis, pp. 105]
 
 
@@ -76,14 +76,10 @@ kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.
 
 ### Protest: Digital & Global
 
-Der *Digital Native*[^fn-digital-native] wird zu einer politischen und globalen Persönlichkeit. 
+Der []*digital native*](https://de.wikipedia.org/wiki/Digital_Native) wird zu einer politischen und globalen Persönlichkeit. 
 
-[^fn-digital-native]: lt. [Wikipedia: ](https://de.wikipedia.org/wiki/Digital_Native) Als *Digital Natives* werden Personen bezeichnet, die zu einer Zeit aufgewachsen sind, 
-in der bereits digitale Technologien wie Computer, das Internet, Mobiltelefone und MP3s verfügbar waren. Als Antonym existiert der Begriff des *Digital Immigrant* 
-(dt.: „digitaler Einwanderer“ oder „digitaler Immigrant“) für jemanden, der diese Dinge erst im Erwachsenenalter kennengelernt hat. 
-
-*Digital Natives* bekommen ihre Information längst aus andere Quellen, als die offizielle Nachrichtenkanäle im Funk & Fernseher und haben gelernt, sie auf ihre Echtheit zu prüfen. 
-Man kann feststellen, dass in vielen Fällen wie bei der Entwicklung der „Occupy“- Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien diese durch Twitter 
+*Digital natives* bekommen ihre Information längst aus anderen Quellen als den offizielle Nachrichtenkanälen in Funk & Fernsehen und haben gelernt, sie auf ihre Echtheit zu prüfen. 
+Man kann feststellen, dass in vielen Fällen wie bei der Entwicklung der „Occupy“-Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien diese durch Twitter 
 und Facebook nicht nur mitgeteilt und verfolgt, sondern eben auch organisiert wurden. Durch ihre Verbreitung wurden sie zur Inspiration für Initiativen in anderen Ländern. 
 Allerdings hat sich gezeigt, dass die klassischen Medien die digitalen Netzwerke beobachteten und eine Gegenstrategie entwickelten, nämlich die des gezielten Desinteresses. 
 
@@ -102,18 +98,8 @@ die eine weitere Ebene erreicht hat. Diese Spontanität (man denkt natürlich au
 die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebenen: die der Straße mit dem Computer „zuhause“; sie werden zu einer Realität. 
 Das Internet ist und kann nur die Verlängerung der physischen Realität sein, da wir selbst die Inhalte dieses Kanals erstellen und einspeisen.
 
-Einige dieser Inhalte sind als Internet-Phänomen zu Memes geworden. Als Meme wird ein Konzept in Form eines Links oder einer Bild-, Ton- und Videodatei bezeichnet, 
-die sich schnell über das Internet verbreitet.[^fn-mem]
-
-[^fn-mem]: Ein Mem ist eine Gedankeneinheit, die sich durch Kommunikation ihrer Träger vervielfältigt. 
-    Mit dem kulturellen Mem-Konzept als Pendant zum biologischen Gen veranschaulichte 1976 der Evolutionsbiologe Richard Dawkins das 
-Prinzip der natürlichen Selektion, deren Grundeinheit Replikatoren von Informationen sind. 
-    Den Begriff erklärte er als selbst gewähltes Kunstwort, das sich auf den griechischen Terminus μίμημα, Mimeme („etwas Nachgemachtes“ beruft. 
-    Als Memetik wird das daraus abgeleitete Prinzip der Informationsweitergabe bezeichnet. Das Mem findet seinen Niederschlag in der „Memvorlage“ 
-(im Gehirn oder einem anderen Speichermedium) und der „Memausführung“ (zum Beispiel Kommunikation).
-
-    (Quellen: [Wikipedia: Mem](http://de.wikipedia.org/wiki/Mem), [Wikipedia: Internet-Phänomen](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen))
-    todo: Wikipedia?
+Einige dieser Inhalte sind als Internet-Phänomen zu Memes geworden. Als [„Meme“](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen) -- abgeleitet vom allgemeineren [„Mem“](http://de.wikipedia.org/wiki/Mem) -- wird ein Konzept in Form eines Links oder einer Bild-, Ton- und Videodatei bezeichnet, 
+die sich schnell über das Internet verbreitet.
 
 Das Verhalten des Polizisten John Pike während eines Protests an der UC Davis in Kalifornien wurde zwar ursprünglich von Journalisten ausreichend bebildert, 
 die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension, nachdem Remixe aus dem Netz ihn einmal quer durch die Kunstgeschichte *mashten*. 
@@ -135,7 +121,7 @@ Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert
 Interessensgruppen und Zirkeln. So entstehen Meme, die nach Walter Benjamin „in unserem kollektiven Bildwissen“ durch Reproduzierbarkeit und wiederholte Erscheinung zu Ikonen werden. 
 
 
-### Kunst ⊕ Freiheit
+### Kunst $\oplus$ Freiheit
 
 Nach meiner Beobachtung wird die Sprache der Kunst in allen Bereichen immer mehr als Werkzeug zum „Freien Agieren“ übernommen. Das heißt auch, dass durch 
 Verbreitung von künstlerischen Strategien und die Nutzung ihrer Codes Politik gemacht wird. Eine Aussage oder Aktion hat mehr Chance auf Duldung, wenn sie 
@@ -147,7 +133,7 @@ sowohl in der Kunst als auch im Alltag.
 
 Künstlerische Strategien wie Flashmobbing[^fn-flashmob] werden auf einen Punkt gebracht, an dem man eingreift, um das Utopische in die reale Welt zu 
 setzen. Das persönliche Erlebnis dieser (und ähnlicher) Ereignisse muss intensiv gewesen sein, jedoch wird ihre Einmaligkeit durch die vielfältige Verbreitung 
-im Internet via *Youtube* wieder aufgehoben und führt so wieder zu verstärkter Aufmerksamkeit.  
+im Internet via *YouTube* wieder aufgehoben und führt so wieder zu verstärkter Aufmerksamkeit.  
 
 [^fn-flashmob]: Bestes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen sich in alltäglichen Positionen 
 für fünf Minuten innerhalb der verkehrsreiche Station eingefroren stehen geblieben sind, um auf die Beschleunigung der Lebens aufmerksam zu machen. <https://youtu.be/jwMj3PJDxuo>
@@ -167,7 +153,7 @@ d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geri
 
 Mindestens seit der 1970er Jahre tragen wir Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit uns herum. Als ich 12 Jahre alt war, hieß es entweder *Adidas*, 
 *Levis* und *Lee* als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation 
-der Mode oder Anti-Mode (Hipsterie), ist als kulturelles Merkmal nicht weg zu denken. Individualität und Wohlstand werden durch Gestaltung und Design transportiert.
+der Mode oder Anti-Mode (*„Hipsterie“*), ist als kulturelles Merkmal nicht weg zu denken. Individualität und Wohlstand werden durch Gestaltung und Design transportiert.
 Durch die wiederholte Erscheinung dieser mutierten Bilder, werden Meinungen im öffentlichen Raum kommuniziert und bieten in dem Sinne das symbolische Bild, 
 das auch für 1000 Worte stehen kann. Dies ist eine sehr bekannte Strategie der Street- und Graffiti Art, aber auch der T-Shirt-Kultur. Es ist erstaunlich, 
 was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, oft mit kulturell-, sozial, aber auch politischer Aussage in die Öffentlichkeit getragen wird. 
@@ -202,12 +188,12 @@ Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), 
 
 ### Vom Migration & Nomadentum zur Wohnraum
 
-„Travelling without moving“ wird zu eine Realität. Künstler bedienen sich an allem, was die Welt zu bieten hat, alles ist eine Quelle, Philosophie und Kunsttheorie machen keine Ausnahme. 
-Laut Geert Lovink, Gründungsdirektor des medientheoretischen [Institute of Network Cultures (INC)](http://networkcultures.org) mit Sitz an der 
+„Travelling without moving“ wird zu einer Realität. Künstler bedienen sich an allem, was die Welt zu bieten hat, alles ist eine Quelle, Philosophie und Kunsttheorie machen keine Ausnahme. 
+Laut Geert Lovink, Gründungsdirektor des medientheoretischen [*Institute of Network Cultures (INC)*](http://networkcultures.org) mit Sitz an der 
 Hogeschool van Amsterdam, lassen sich Künstler, Medien- und Design-Forscher längst von Theoretikern wie Deleuze und Guattari, Derrida, 
 Baudrillard und Virilio beeinflussen. Medientheoretiker wie Kittler, Zielinski oder Bolz belegten oder belegen höhere Funktionen 
 in deutschen Kunsthochschulen, und das zur einer Zeit in der, wie Lovink schreibt „die westliche Gesellschaft eine Rauschphase 
-intensiver Spekulation durchlief – mit Wertpapieren und Devisen, Immobilien, Malerei und Theorie.“[@Lovink:Dark, pp. 39]
+intensiver Spekulation durchlief – mit Wertpapieren und Devisen, Immobilien, Malerei und Theorie.“[-@Lovink:Dark, pp. 39]
 
 Künstler sind zunehmend ortsunabhängig, die Migrationsraten steigen und das Leben als Immigrant beeinflusst ihre Weltanschauung. 
 Übernimmt der Digitalisierungsprozess in unserer Gesellschaft die Oberhand? Elektronische Einsamkeit bringt ein Kybernetisches 
@@ -232,7 +218,7 @@ sie lassen sich dabei auch von Theoretikern beeinflussen.
 Hehns Meinung nach, scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
 „It’s not the What, it’s the How“. Er zählt die vier Komponenten, die als Form-Inhalt-Dynamiken zu beschreiben sind: Produzent / Form / Inhalt / Konsument. 
 „Jedes Verstehen ist heute ein Verstehen von Relationen, alles Wahrnehmen ein Wahrnehmen von Elementen in kodierten Systemen – nicht nur 
-Raum und Zeit.“[@Hehn:Genius]. Kunst ist unverbindliche Kommunikation. Der Künstler besitzt den Drang, seine Erkenntnisse zu vermitteln, 
+Raum und Zeit.“[-@Hehn:Genius]. Kunst ist unverbindliche Kommunikation. Der Künstler besitzt den Drang, seine Erkenntnisse zu vermitteln, 
 jedoch sind ihm Rezeption, bzw. Verständnis des Betrachters nicht primär. Die oberste “Trennung” – die Trennung, die relationale Kanäle betrifft – 
 stellt die letzte Stufe in der Umstellung auf die “Gesellschaft des Spektakels” dar, wie von Guy Debord beschrieben. Dies ist eine Gesellschaft, in der 
 menschliche Beziehungen nicht mehr „unmittelbar erlebt“ werden, sondern in ihrer “spektakulären” 
@@ -250,7 +236,7 @@ etabliert. Die Menschen versuchen sie als Strategien, Künstler, wie auch andere
 **Bild:** [Richard Hamilton: „Just what is it that makes today's homes so different, so appealing?“, 1956. Quelle: [Internet](http://www.collegefesch.fr/disciplines_f/Hist-art_f/Pop-Art_f/)](../pix/10._true_art/justwhatisitthatmakestodayshomessod.jpg)
 
 
-* Entstanden im Rahmen und Inspiration vom Wissenschaftsmodul Medien – Theorie – Geschichte bei Herr Prof. Dr. Hartmann 
+> *Dieses Kapitel entstand im Rahmen und inspiriert vom Wissenschaftsmodul „Medien – Theorie – Geschichte“ bei Prof. Dr. Hartmann* 
 
 
 
@@ -275,7 +261,7 @@ weitere Band Mitglieder konnten fliehen. Nach einem halben Jahr, in dem die drei
 Hass und Hooliganismus zu einer Zweijährige Haftstrafe. Die Songs von *Pussy Riot* greifen vor allem die russischen Politik an und machen auf den Status der 
 Frauen im Land aufmerksam. Die Aufführungen finden an ungewöhnlichen Orten, wie Busse oder auf Gebäudedächern statt, und die Performer tragen immer Strumpfmasken 
 und bunten Kleider. Die Band arbeitet als ein Aktivisten Kollektiv: es sind 10 Musiker, und weiter 15 Menschen auf der technischen Seite, die die entstandenen Videoclips auf 
-dem Internet hochladen. Die Weibliche Mitglieder nennen sich *Fischsuppe*, *Katze*, *Hut* und *Schuhmacher.* Seit der Verhaftung, und noch 
+dem Internet hochladen. Die Weibliche Mitglieder nennen sich übersetzt *Fischsuppe*, *Katze*, *Hut* und *Schuhmacher.* Seit der Verhaftung, und noch 
 stärker nach dem Urteil, genießt *Pussy Riot* breite Unterstützung von vielen westlichen Musikern, darunter die Band "Faith No More" 
 Madonna, "Red Hot Chili Peppers", Björk und Paul McCartney.[^fn-urizeraviv] 
 
@@ -286,14 +272,13 @@ Auf Facebook ist nach dem Urteil folgenden "Zettel" auf mehrere Blog Seiten hoch
 
 **Bild:** [Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung](pussy_riot_billy_brag.jpg)
 
-Der Theoretiker und Publizist Slavoj Žižek schreibte über Pussy Riot:
+Der Theoretiker und Publizist [Slavoj Žižek schreibte über Pussy Riot](http://dangerousminds.net/comments/the_true_blasphemy_slavoj_zhizhek_on_pussy_riot):
 
->"Ihre Botschaft ist: IDEEN SIND VON BELANG Sie sind Konzeptkünstler im edelsten Sinne des Wortes:. Künstler, die eine Idee verkörpern.
+>„Ihre Botschaft ist: IDEEN SIND VON BELANG Sie sind Konzeptkünstler im edelsten Sinne des Wortes:. Künstler, die eine Idee verkörpern.
 >Dies ist (der Grund), warum sie Sturmhauben tragen: Masken der Ent-Individualisierung, der befreiende Anonymität. Die Botschaft ihres Sturmhauben
 >ist, dass es keine Rolle spielt, welche von ihnen verhaftet werden - sie sind nicht Einzelpersonen, sind sie eine Idee. Und das ist (der Grund), warum sie
->eine solche Bedrohung darstellen: Es ist leicht Personen zu inhaftieren, aber versuche, eine Idee zu inhaftieren" Slavoj Žižek
-
-[Link](http://dangerousminds.net/comments/the_true_blasphemy_slavoj_zhizhek_on_pussy_riot)
+>eine solche Bedrohung darstellen: Es ist leicht Personen zu inhaftieren, aber versuche, eine Idee zu inhaftieren“ 
+> -- Slavoj Žižek
 
 Neulich im Diskussion mit Norbert Hinterberger meinte dieser: "*Pussy Riot* sind ein gutes Beispiel für gesellschaftspolitisch erfolgreichen Dilettantismus unter dem Motto „Der Zweck heiligt die Mittel“. 
 Mir ist das aber noch allemal lieber als PC-weichgespülte Mitleidsattitüden und viele Formen der „Sozialkunst“!" Die Grenzen zwischen politischer Kunst, welche sich mit den negativen Auswirkungen 
