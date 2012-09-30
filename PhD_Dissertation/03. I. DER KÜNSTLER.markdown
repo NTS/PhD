@@ -268,7 +268,7 @@ Leibowitz. Trotz all dem wird sie im Promo Plakat von Fan Art mit Pinsel und an 
 
 **Bild:** [HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*[^source-claire_fisher]](claire_fisher-milestogo1440.jpg)
  
-[^source-claire_fisher]: <http://www.dearly-devoted.com/Miscellaneous%20Wallpapers/milestogo1440.jpg>
+[^source-claire_fisher]:(http://www.dearly-devoted.com/Miscellaneous%20Wallpapers/milestogo1440.jpg)
 
 
 Diskrepanzen in der Wahrnehmung des Zuschauers? In die Comic Serie *American dad* macht der
