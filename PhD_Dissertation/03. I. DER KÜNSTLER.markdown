@@ -191,13 +191,13 @@ TODO: **Bild:** [Mundspray, Dana Wyse, Verstehen Sie Moderne Kunst auf Anhieb, O
 Manches hat sich im Bild des Künstlers in der Gesellschaft geändert und manches ist ein Klischee geblieben. In der Literatur gibt es schöne Beschreibungen 
 vom Werdegang und inneren Gedanken eines Künstlers, denkt man etwa an: *Der Fänger im Roggen* von J. D. Sallinger, oder *Das Bildnis des Dorian Gray* von 
 Oscar Wilde. Heute wird in unzähligen Fernsehserien die Persönlichkeit des Künstlers analysiert und präsentiert. Die Menschen, die diese Serien herstellen, 
-sind (zum Teil) selbst Künstler. Es handelt sich also um ein Künstlerbild, das von Künstlern eigenhändig entstellt und vermittelt wird. Neben Film und TV wird 
-auch im Sozialnetz 2.0 vieles über "Was ist Kunst, was ist Kreativität" publiziert, und mehrere Ratschläge im Bezug auf Erfolg erteilt. Mich interessiert jedoch mehr, 
-wenn Künstler ein kritisches Selbstbildnis von sich entwerfen. Als Pendant zu Immendorfs *Ich wollte Künstler werden* vom 1972 ist das Mime *What People Think I Do / What I Really Do* zu verstehen. 
+sind (zum Teil) selbst Künstler. Es handelt sich also um ein Künstlerbild, das von Künstlern eigenhändig erstellt und vermittelt wird. Neben Film und TV wird 
+auch im Sozialnetz 2.0 vieles über "Was ist Kunst, was ist Kreativität" publiziert, und werden mehrere Ratschläge im Bezug auf Erfolg erteilt. Mich interessiert jedoch mehr, 
+wenn Künstler ein kritisches Selbstbildnis von sich entwerfen. Als Pendant zu Immendorfs *Ich wollte Künstler werden* vom 1972 ist das Meme [^fn-meme] *What People Think I Do / What I Really Do* zu verstehen. 
 
-TODO: MIME Erklärung als fußnote!
-
-Die erste Version des Mimes wurde im Februar 2012 auf *facebook* publiziert, und beschreibt die Rezeption des Schaffens eines Berufssegments 
+TODO: [^fn-meme]:[Meme](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen)]
+ 
+Die erste Version des Memes wurde im Februar 2012 auf *facebook* publiziert, und beschreibt die Rezeption des Schaffens eines Berufssegments 
 aus unterschiedlichen Perspektiven.
 
 **Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme]
