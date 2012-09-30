@@ -11,14 +11,10 @@
 
 2. Transkribiertem Text *American Dad - Episode Kunterbunt* (voller Version)
 
-3. Unverteilte Lyrics: TODO:
-
-- Rainald Grebe - Akademikerinnen
-- DJ Koze AKA Adolf Noise - Zuviel Zeit?
-- Spieltrieb - Hypnose
 
 
-## Der 5-Jahres-Plan 
+
+## Der 5-Jahres-Plan (Dokumentation Praktischer Teil: Lehre)
 
 Ich verstehe meine Aufgabe als künstlerische Mitarbeiterin darin, alle Aspekte der Kunst und der Öffentlichkeitsarbeit systematisch zu untersuchen 
 und das Wissen über Funktionsweisen des Kunstmarktes und die Entstehung guter Kunst zu vermitteln. Es geht hierbei um Kompetenzen, die nicht 
@@ -82,7 +78,7 @@ und die gelingt die Übersetzung des gesammelten Materials zur Präsentation, bz
 
 [^fachkurse-vlv]: Alle Fachkursbeschreibungen beziehen sich auf der Online Vorlesungsverzeichnisse der Professur Freie Kunst, Fakultät Gestaltung auf der 
 Website der Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English und die Kurse richteten sich an der Studierenden aller Fakultäten.
-Dies ist eine Zusammenfassung aller drei Fachkurse[^K3a]
+Dies ist eine Zusammenfassung aller drei Fachkurse.[^K3a]
 
 WS 2007/08 + SS 2009 + WS 2009/10 
 
@@ -167,9 +163,9 @@ der auch einer der Grundsteine diese Dissertation für mich bedeutet*.
 
 **Bild:** [Kiosk KoCAinn Entwurf auf Tisch im Fackkurs zimmer geritzt](kocainn_entwurf_auf_tisch.jpg)
 
-## Exile on Main Street[^exilemainstreet]
+## Exile On Main Street[^exilemainstreet]
 	
-[^exilemainstreet]: Exile on Main Street: Album Titel, *The Rolling Stones*, 1972.
+[^exilemainstreet]: Exile On Main Street: Album Titel, *The Rolling Stones*, 1972.
 
 
     TODO: QUELLEN!
@@ -274,7 +270,7 @@ die Installation bis zum ursprünglich geplanten Abbau und die Übergabe des Kio
      TODO: DNS FOTO
 
 
-#### ‚The Game‘ * (Die Kunstmarkt Aktruere )
+#### ‚The Game‘ * (Die Kunstmarkt Aktuere )
 
 * Original vollständigem Fachkurs Titel: ‚The names may change, but the game stays the same‘
 SS 2010
@@ -410,7 +406,7 @@ Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von au�
 	
 	
 
-### Der K3 Fragebogen
+## Der KIOSK09 Fragebogen
 
 Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben ich das Model Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt zu
 administrative Information zu bekommen, und daneben Neigungen und Interessen für das Projekt und seine Inhalte zu spüren. Im gemischter Form (Amerikanisch und 
@@ -425,9 +421,7 @@ stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Inform
 
 
 
-#### Alle Fragen
-
-#### Fragebogen K3 Teil 1 
+#### Fragebogen KIOSK09 Teil 1 
 
 
  Wenn Künstler Kunst Kuratieren WS 08/09
@@ -486,7 +480,7 @@ Thank you for taking part in this Fachkurs!
 
 
 
-### Bewertung Fachkurs Kiosk Fragebogen
+#### Fachkurs Kiosk Fragebogen (Tabelle)
 
 
 
@@ -610,6 +604,10 @@ Ich nutze ein ähnliches schon  1
 Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform für Dein eigenes Projekt?
 
 
+
+## Transkription 
+
+1. American Dad - Knallbunt
 
 
 ### American Dad - Episode *Knallbunt* 
@@ -775,226 +773,9 @@ Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform f
 	
 	
 
-## Weitere Lyrics 
-
-
-### Rainald Grebe - Akademikerinnen
-
-Rainald Grebe Und Die Kapelle Der Versöhnung aus der Album *Volksmusik* (2007).
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
-Die Familienministerin Ursula von der Leyen
-Hat gesagt
-Auf einer Pressekonferenz
-Sehr sehr besorgt
-Dass die deutschen Akademikerinnen
-Immer weniger Kinder kriegen wollen
-Oder können
-
-Ich schaue aus dem Fenster
-Was sehe ich denn da?
-Da steht ein Wolf auf der Veranda und sagt:
-Na, das bist du ja
-Aha - Aha
-Ich gehe in den Garten
-Was muss ich da sehen?
-In meinem Garten steht ein brauner Bär
-Und sagt: dein Garten ist sehr schön
-Aha 
-Und er will nicht wieder gehen
-In meiner Küche liegt ein Auerochse
-Und sagt: Krieg keinen Schreck
-Du bist der letzte Mensch hier
-Alle anderen sind weg
-Du willst jetzt sicher wissen
-Wie ist das passiert
-Du hast sehr lange geschlafen
-Jetzt bist du isoliert
-
-Schuld sind nur die deutschen Akademikerinnen
-Die keine Kinder kriegen wollen oder können
-Schuld sind nur die Damen
-Mit Diplom und Staatsexamen
-Dumm fickt gut, das sagt sich so leicht
-Aber es stimmt
-Schuld sind nur die deutschen Akademikerinnen
-Die keine Kinder kriegen wollen oder können
-Die haben ihr Diplom erworben
-Das Volk ist dabei ausgestorben
-Wie starb das alte Rom?
-Ja, man weiß es nicht, ja, man weiß es nicht
-Die Deutschen starben aus
-Durch Frauen mit Diplom
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-From:
-Lyrics: http://lyrics.wikia.com/Rainald_Grebe_Und_Die_Kapelle_Der_Vers%C3%B6hnung:Akademikerinnen
-Audio:
-
-	
-### DJ Koze AKA Adolf Noise - Zuviel Zeit?
-
-zu Kapitel 7? oder 4.3
-
-	DJ Koze AKA Adolf Noise - Zuviel Zeit?
-	TODO!
 	
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
-am x tag 2004 hat Günther Gabriel sein Frust während
-eine bestellten Auftritt rausgelassen, und für Wellen
-gesorgt, bis es zu einem Musik track gesampelt würde
-und auf der CD des SPEX magazines intro: O-Ton
-Zusammenschnit aus der Radioreport
 
-Intro: Moderatorin: "Andreas Heimann über den
-Skandalauftritt, und warum Günther Gabriel um Eisleben
-künftig besser einen großen Bogen machen sollte":
-
-Günther Gabriel singt a Capella: "Ihr habt ja soviel
-Zeit sonst wäret ihr nicht am Nachmittag schon hier
-ich hab leider keine Zeit ich muss meinen Arsch immer
-in Bewegung halten, damit die Knete stimmt." Passant:
-"..Schweinerei von dem Sänger"
-
-Korrespondent: "Günther Gabriel in Sachsen-Anhalt. Die
-Besucher haben sich auf Country Music gefreut, und
-bekamen Pöbeleien"
-
-Günther Gabriel: "Man soll nicht nur Meckern, sondern
-Lösen! Probleme Lösen!"
-
-Zuschauer: "uns ist so was noch nie passiert, wollte
-ich gerade sagen, unfassbar!"
-
-Korrespondent: "2000 Ostdeutsche Zuschauer sind
-wütend, doch auch am Tag danach bereut Günther Gabriel
-nichts, im Gegenteil, der Schlagersänger tritt noch
-mal nach, vor allem, gegen Arbeitslose".
-
-Günther Gabriel: "---und deshalb ist Harz 4 verdammt
-endlich mal notwendig,(…) es doch nicht sein, den
-einen den ganzen Tag auf dem Arsch auf der Sofa sitzt,
-und derjenige, der den Schweiß im Rücken runter
-rollt,der kriegt 200€ mehr im Monat, das geht doch
-nicht. Die sollen bitte kommen und mein Boot
-streichen, entrosten, alles möglich"
-
-Moderator: "Was ist nun los zwischen ost und West?
-
-Song Anfang
-
- Ihr habt ja soviel Zeit sonst wäret ihr nicht am
-Nachmittag schon hier Ich hab leider keine Zeit Ich
-muss meinen Arsch immer in Bewegung halten, damit die
-Knete stimmt.
-
- Ihr habt ja soviel Zeit sonst wäret ihr nicht den
-ganzen Tag nur Musik hören Ich hab leider keine Zeit
-Ich muss meinen Arsch immer in Bewegung halten, damit
-die Knete stimmt.
-
- Ihr habt ja soviel Zeit… sonst wärdet ihr nicht jetzt
-schon zum 5. mal das hören Ja, ich hab leider keine
-Zeit Irgendwie, wegen den ganzen Kramm, ja wegen
-der... Finanzierung des Lebens, oder denkt ihr, es
-macht sich von alleine, von wegen Arbeit, und das Geld
-kommt per Post an?
-	
-...
-
-(In der Radio Live Aufnahme wendete sich Günther Gabriel mit seinen Wörtern gegen die Arbeitslosen,
-im Studio würde der Text gegen die Fans und Zuhörer angepasst.)
-	
-	
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	
-	From: Spex CD #51 
-	Lyrics: Transkript NTS
-	Audio: http://soundcloud.com/tdackel/dj-koze-aka-adolf-noise-zuviel
-	
-	
-### Spieltrieb - Hypnose
-
-
-zu Kapitel ?
-
-5. Spieltrieb Hypnose Lyrics
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
-
-Du musst ein Handy haben.
-Du musst ein Handy haben.
-Geh in den nächsten Laden.
-Du musst ein Handy haben.
-Frag nicht warum, 
-du musst es haben.
-
-Du musst die Emails checken.
-Du musst die Emails checken.
-Du darfst dich nicht verstecken.
-Du musst die Emails checken.
-Kommunikation um 's Verrecken, 
-darum musst du Emails checken.
-
-Geh mit der Zeit, oder geh zu Grunde.
-Lauf mit, lauf mit, den Letzten beißen die Hunde.
-Lauf nicht in das Messer, 
-es wird alles besser.
-
-Du musst ins Internet.
-Du musst ins Internet.
-Geh noch nicht ins Bett.
-Du musst ins Internet.
-Die Welt steht dir offen, 
-Ab in den Chat.
-
-Du brauchst die DVD.
-Du brauchst die DVD.
-Du brauchst die DVD.
-Du brauchst die DVD.
-Mfg. 
-Und PVC.
-
-Geh mit der Zeit, oder geh zu Grunde.
-Lauf mit, lauf mit, den letzten beißen die Hunde.
-Lauf nicht in das Messer, 
-digital ist besser.
-
-Sei In und anerkannt,
-Sei immer auf dem neusten Stand.
-Bedürfnisse warten auf dich,
-Du kennst sie nur noch nicht.
-
-Du musst ein Handy haben.
-Du musst ein Handy haben.
-Eine der schönsten Gaben.
-Du musst ein Handy haben.
-Die Wellen werden deinen Zellen 
-niemals schaden.
-
-Du brauchst den Klingelton.
-Du brauchst den Klingelton.
-Du brauchst ihn polyphon.
-Du brauchst den Klingelton.
-Geh ans Telefon, 
-es klingelt schon.
-
-Geh mit der Zeit, oder geh zu Grunde.
-Lauf mit, lauf mit, den letzten beißen die Hunde.
-Lauf nicht in das Messer, 
-Es wird alles besser.
-
-Geh mit der Zeit, oder geh zu Grunde.
-Lauf mit, lauf mit, den letzten beißen die Hunde.
-Lauf nicht in das Messer, 
-Es wird alles besser.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	
-- From: 
-- [Lyrics Link](http://www.xlyrics.de/spieltrieb-lyrics/hypnose-lyrics.html), 2.4.11 19:37
-- Video:
 	
 	
 
