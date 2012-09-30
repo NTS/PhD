@@ -1,23 +1,18 @@
-% Materialsammlung
+% Bildtafeln
 % Naomi Tereza Salmon
 
-# Bilder
 
-
-Bilder, auf die in der Dissertation verwiesen wird, befinden sich in diesem Anhang.
-
----
 
 {{#Bilder}}
 
-## {{{title}}} 
+# {{{title}}} 
 
-{{#unless disabled}}!{{else}}**BILD:** {{/unless}}[{{{title}}}](pix/{{{filename}}}) \
-({{{media-type}}})  \
-{{#if source-url}}[© {{{copyright}}}]({{{source-url}}}){{else}}© {{{copyright}}}{{/if}}  \
+{{#unless disabled}}!{{else}}**BILD:** {{/unless}}[Bild](pix/{{{filename}}}) \
+({{{media-type}}})
+{{{source}}} \
+{{#if source-url}}{{{source-url}}} \ {{/if}}
+© {{{copyright}}}  \
    
 \pagebreak[4]
 
 {{/Bilder}}
-
----

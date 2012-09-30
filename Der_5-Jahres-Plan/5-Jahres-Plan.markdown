@@ -44,7 +44,7 @@ Praktisches Beispiel hierfür war das Künstler- Duo *Barking Dogs United* das e
 verwirklichen hatte. Darauf aufbauend, boten wir einen Fachkurs an. Sechs Studenten nahmen daran teil. Sie arbeiteten zu allen 
 Tätigkeitsfeldern und konnten auf Grund dieser Erfahrung probieren, ob eine künstlerische Assistenz ein geeigneter Künstlerberuf wäre. 
 
-**Bild:** [Foto BDU Aufbau im ACC](images/bild.jpg)
+**Bild:** [Foto BDU Aufbau im ACC]
 
 ## ‚Hebräisch für Anfänger‘ (Künstlerische Forschung I)
 
@@ -96,7 +96,7 @@ einer neuen Website und einer neuen *Corporate Identity*, die sich an den Ideen 
 des Fachkurses. Die Ausschreibung wurde an ausgewählte Alumni geschickt, von denen schließlich das 
 KIOSK09 Kuratorium eine Auswahl für die Ausstellungen traf. 
 
-**Bild:** [Foto K3 bei der Arbeit](images/bild.jpg)[^k3] mehrere!  
+**Bild:** [Foto K3 bei der Arbeit] TODO mehrere!  
 
 Dies ist die Basis meines praktischen Teils im Rahmen meines PhD Vorhaben gewesen und aus diesem Grund sind die Notizen auch viel ausführlicher.
 Ich habe das Thema Kuratieren gewählt, weil es vielfältig ist. Es beinhaltet ein großes Spektrum, vermittelt Fähigkeiten zum richtigen Organisieren von Kunst 
@@ -116,7 +116,7 @@ Wir machten uns sofort an die PR-Arbeit. Das ist ein wichtiger Fakt, denn es gin
 fast alle sechs Wochen wechselten. Die Studenten mussten sich jetzt mit Eröffnung, Aufbau, Abbau sowie der Künstlerbetreuung beschäftigen. 
 Wir mussten ebenfalls in kürzester Zeit die Aufmerksamkeit in der Stadt Weimar gewinnen. 
 
-**Bild:** [Foto K3 bei der Arbeit](images/bild.jpg)[^k3] mehrere! Basecamp 
+**Bild:** [Foto K3 bei der Arbeit] TODO mehrere! Basecamp 
 
 [^k3]: Welches im Kiosk09 Katalog zu finden ist
 
@@ -150,7 +150,7 @@ freundlich und großzügig mit uns umgegangen ist. Das 14-tägige Ereignis war s
 der auch einer der Grundsteine diese Dissertation für mich bedeutet*.
 
 
-**Bild:** [Kiosk KoCAinn Entwurf auf Tisch im Fackkurs zimmer geritzt](kocainn_entwurf_auf_tisch.jpg)
+**Bild:** [Kiosk KoCAinn Entwurf auf Tisch im Fackkurs zimmer geritzt]
 
 ## ‚The Game‘ * (Die Kunstmarkt Aktuere )
 

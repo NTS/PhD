@@ -29,7 +29,7 @@ Gilt die Aussage „Das kann mein Kind auch“ in diesem Sinne? Nicht nur Kinder
 und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb formaler Ähnlichkeiten. Kann wirklich jeder lernen, ein Künstler zu werden?
 
 
-**Bild:** [Dan Perjovschi Installation zu Venedig Biennale 2009](perjovschi_venice_52_2009)
+**Bild:** [Dan Perjovschi Installation zu Venedig Biennale 2009] TODO perjovschi_venice_52_2009
 
 
 Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von „const“ was soviel wie Können, 
@@ -48,7 +48,7 @@ Hierzu ein Auszug aus dem ehemaligen [Meyers Online-Lexikon](http://web.archive.
 > In dieser Epoche wurzelt der moderne Begriff des Künstlers. 
 > Die Originalität wird Mittelpunkt des Geniebegriffs.“
 
-**Bild:** [Der Künstler Begriff nach Pons[^source-kuenstler_nach_pons]](kuenstler_nach_pons.png) 
+**Bild:** [Der Künstler Begriff nach Pons] 
 
 [^source-kuenstler_nach_pons]: Scan nts
 
@@ -75,17 +75,11 @@ Der Schaffensprozess bleibt ein Geheimnis: "ist es die Hand, das Auge oder der K
 Über dieses Thema schreibt auch Verena Krieger in ihrem Buch: "Was ist ein Künstler? Genie. Heilsbringer. AntiKünstler".[@AKrieger:WasIstKnstler, pp. 86] 
 Die Frage, die ich gern stellen möchte, ist: Wer wirft den Blick auf die Künstler und wie verflochten sind dadurch die möglichen Interpretationen? 
 
-Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten: Siehe dazu die Bilder X und Y.
+Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten, siehe dazu die beiden folgenden Bilder.
 
+**Bild:** ["Französische Künstlermütze", zu ersteigen bei E-bay[^source-french_artist_golf_cap_by_ebay]
 
-**Bild:** ["Französische Künstlermütze", zu ersteigen bei E-bay[^source-french_artist_golf_cap_by_ebay]](french_artist_golf_cap_by_ebay.png) 
-
-[^source-french_artist_golf_cap_by_ebay]: <http://www.ebay.com/sch/i.html?_sacat=0&_nkw=french+artist+cap&LH_AvailTo=0&LH_PrefLoc=2>
-
-
-**Bild:** [Model Naomi Campbell im Künstlerlook für Vivian Westwood](naomi_campbell_for_vivian_westwood.jpg) 
-
-[^source-naomi_campbell_for_vivian_westwood]: TODO: source Scan nts nachschlagen
+**Bild:** [Model Naomi Campbell im Künstlerlook für Vivian Westwood]
 
 	
 Dieser *look* entspricht eher dem Typ "Armer Künstler", oder dem daraus entstandenen Klischee. In seinem Buch *Why Are Artists Poor?*[-@Abbing:poor] beschreibt Hans 
@@ -133,7 +127,7 @@ sich so zu zeigen, wie er von anderen gesehen werden will.“[@Freybourg:DieInsz
 
 (Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat, siehe Bild X.)
 
-**Bild:** [Jörg Immendorf, Foto: Andrea Strappert 2001](joerg-immendorf-by-andrea-strappert-2001.jpg)
+**Bild:** [Jörg Immendorf]
  
 
 „Warhols Anerkennung erfolgte nicht allein durch die Würdigung seiner Kunst, sondern auch und insbesondere durch die Selbstdarstellung in den Massenmedien“. @Freybourg:DieInszen, pp. 16] 
@@ -141,17 +135,11 @@ sich so zu zeigen, wie er von anderen gesehen werden will.“[@Freybourg:DieInsz
 Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metaebene gehoben, durch Selbstbeobachtung, kalkuliertem Zynismus und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden (siehe dazu Bilder X, Y und Z).
 
 
-**Bild:** [Stickers mit Zitate von Andy Warhol, Museumshop am Hamburger Bahnhof, Berlin 2009](warhol_stickers.png) 
+**Bild:** [Stickers mit Zitate von Andy Warhol, Museumshop am Hamburger Bahnhof, Berlin 2009]
 
-**Bild:** [Im Zukunft werden Alle für fünfzehn Minuten berühmt, Sticke auf Visitenkarten Etoui, 2009](warhol_etoui.jpg) 
+**Bild:** [Im Zukunft werden Alle für fünfzehn Minuten berühmt, Sticke auf Visitenkarten Etoui, 2009]
 
-**Bild:** [Ha-Ha Funny Buttons: "Deine 15 Minuten sind um"[^source-button15min]](warhol_your_15_minutes_are_up.jpg) 
-
-[^source-warhol_etoui]: source Foto nts
-
-[^source-warhol_stickers]: source Foto nts 
-
-[^source-button15min]: (Button gekauft im Museum Hamburger Bahnhof Berlin, 2009)
+**Bild:** [Ha-Ha Funny Buttons: "Deine 15 Minuten sind um"[^source-button15min]] 
 
 
 
@@ -187,42 +175,24 @@ Er verschickt eigenständig Ausstellungseinladungen, E-Mails, publiziert sein We
 Sotheby’s (Siehe den Fall Damien Hirst). Zum Mainstreaming gehören auch andere Verkaufsgelegenheiten, den der "Markt" bleibt nicht gleichgültig, das Thema ist interessant genug und im Jahr 2010 hat die 
 "Kunst Reproduktionsfirma" *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht:
 
-**Bild:** [Kunstmarkt Brettspiel, von Franz-Benno Delonge, Flyer, Prestel Verlag 2007[^source-kunstmarkt_prestel_flyer]](kunstmarkt_prestel_flyer.jpg) 
+**Bild:** [Kunstmarkt Brettspiel, Flyer] 
 
-[^source-kunstmarkt_prestel_flyer]: Scan vom Original nts
-
-
-**Bild:** [Kunstmarkt Brettspiel, von Franz-Benno Delonge, Prestel Verlag 2007 Detail: 2 Spielekarten[^source-kunstmarkt_prestel_2karten]](kunstmarkt_prestel_2karten.jpg)
- 
-[^source-kunstmarkt_prestel_2karten]: Scan vom Original nts <http://www.gamesweplay.de/kunstmarkt.html>
-
+**Bild:** [Kunstmarkt Brettspiel]
 
 Einem Blick von außen auf den Künstler bzw. über die unausgesprochene Leichtigkeit des Künstlerseins wird auch durch Bücher geworfen wie: 
 *Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, der für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
 sondern eher ein "Knigge für Vernissagen" darstellt und in dem alle Klischees über Künstler in einer sehr verdaulichen Form aufgezeigt sind. 
 Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblößt sich selbst weiter und zwar ganz. 
  
-[TODO](Weitere Bilder Richtig verteilen)
+[TODO](#Weitere_Bilder_Richtig_verteilen)
 
-**Bild:** [Mundspray, Dana Wyse, Verstehen Sie Moderne Kunst auf Anhieb, Objekt, 2004](understand_modern_art_object.jpg) 
+**Bild:** [Mundspray, Dana Wyse, Verstehen Sie Moderne Kunst auf Anhieb, Objekt, 2004]
 
-[^source-understand_modern_art_object]: Mundspray Dana Wyse, Size:1.5 cm x 7.5 cm Packaging size:11 cm x 15 cm 7.5 ml http://www.blueq.com/
+**Bild:** [Barking Dogs United, FX I 2008]
 
+**Bild:** [Barking Dogs United, FX II 2008]
 
-**Bild:** [Barking Dogs United, FX I 2008[^source-bdu_fx_1]](bdu_fx_1.png)
-
-[^source-bdu_fx_1]: cc nts
-
-
-**Bild:** [Barking Dogs United, FX II 2008[^source-bdu_fx_2]](bdu_fx_2.png)
-
-[^source-bdu_fx_2]: cc nts
-
-
-**Bild:** [Barking Dogs United, FX III 2008[^source-bdu_fx_3]](bdu_fx_3.png)
-
-[^source-bdu_fx_3]: cc nts
-
+**Bild:** [Barking Dogs United, FX III 2008]
 
 
 
@@ -241,13 +211,9 @@ wenn Künstler ein kritisches Selbstbildnis von sich entwerfen. Als Pendant zu I
 Die erste Version des Mimes wurde im Februar 2012 auf *facebook* publiziert, und beschreibt die Rezeption des Schaffens eines Berufssegments 
 aus unterschiedlichen Perspektiven.
 
-**Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme[^source-garnet_hertz_contemporary_artist_fb_meme]](garnet_hertz_contemporary_artist_fb_meme.jpg) 
+**Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme]
 
-[^source-garnet_hertz_contemporary_artist_fb_meme]: TODO <http://knowyourmeme.com/memes/what-people-think-i-do-what-i-really-do>
- 
-**Bild:** [What Artists Do, Pie Chart auf Mylife 600[^source-what_artists_do_mylife]](what_artists_do_mylife-600.jpg)
-
-[^source-what_artists_do_mylife]: TODO
+**Bild:** [What Artists Do, Pie Chart auf Mylife 600]
 
 
 ### Lisa Simpson & Claire Fisher
@@ -263,9 +229,7 @@ wird die Zukunft jeder Hauptrolle bis zum Tod im Schnellmodus dargestellt und Cl
 Leibowitz. Trotz all dem wird sie im Promo Plakat von Fan Art mit Pinsel und an der Staffelei abgebildet. 
 
 
-**Bild:** [HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*[^source-claire_fisher]](claire_fisher-milestogo1440.jpg)
- 
-[^source-claire_fisher]:(http://www.dearly-devoted.com/Miscellaneous%20Wallpapers/milestogo1440.jpg)
+**Bild:** [HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*]
 
 
 Diskrepanzen in der Wahrnehmung des Zuschauers? In die Comic Serie *American dad* macht der
