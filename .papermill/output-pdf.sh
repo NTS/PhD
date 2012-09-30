@@ -42,7 +42,7 @@ do
     # Generate PDF Files
 	cd "$BASE_DIR"
 	
-    if ( ls "$PAPER"/*.markdown )
+    if ( ls "$PAPER"/*.markdown >/dev/null )
         then echo Y
     else echo N
     fi
