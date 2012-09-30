@@ -4,8 +4,12 @@
 Algemeine Bemerkungen:
 nwh: allgemein zur Orthographie: aufpassen, 
 manchmal wird durch den Blocksatz absurd getrennt!
-Anke: Sichern ob unten gilt?
 - unfertiges unter TODO markiert
+
+NOCH IN ARBEIT:
+- Anführungszeichen
+- Verweise auf Bildtafeln
+- teilw. Informationen zu den Quellen
 ~~~~~
 
 
