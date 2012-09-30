@@ -41,8 +41,13 @@ do
 
     # Generate PDF Files
 	cd "$BASE_DIR"
-	pwd
-    echo "    [#] Generating PDF..."
+	
+    if ( ls "$PAPER"/*.markdown )
+        then echo Y
+    else echo N
+    fi
+    
+    echo "    [#] Generating PDF: $PAPER ..."
     
     # if there is a local imprint
     if [[ -e "$PAPER"_Impressum.markdown ]] 
@@ -80,17 +85,17 @@ do
 		--include-before-body="Version.generated.latex" \
 		--include-after-body="$IMPRINT" \
 		\
-		--output=""$PAPER".pdf"
+		--output=""$PAPER".latex"
 		
 		#--variable=links-as-notes:true
 
 	} && {
-	
-		cp "$PAPER".pdf ~/"Dropbox/MFA+NTS/PHD.NTS-output"
-		open "$PAPER.pdf"
+	    echo "SUCCESS"
+		#cp "$PAPER".pdf ~/"Dropbox/MFA+NTS/PHD.NTS-output"
+		#open "$PAPER.pdf"
 	}
 	
-    rm ""$PAPER"_Impressum.generated.latex"
+    [[ -e ""$PAPER"_Impressum.generated.latex" ]] && rm ""$PAPER"_Impressum.generated.latex"
     
 	echo "[<] Finished processing "$PAPER"..."
 	# END Process MARKDOWN Files

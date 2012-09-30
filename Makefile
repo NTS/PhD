@@ -15,7 +15,7 @@ chapters:
 	sh .papermill/process-chapters.sh
 
 punch:
-	cd Materialsammlung; make
+	cd Bildtafeln; make
 
 html: chapters punch
 	sh .papermill/output-html.sh
