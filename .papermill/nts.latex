@@ -10,6 +10,8 @@
 \renewcommand\section{\newpage\stdsection} 
 % math symbols
 \usepackage{amsfonts}
+\usepackage{longtable}
+\renewcommand{\contentsname}{Inhaltsverzeichnis}
 %
 % END NTS FIXES
 %
@@ -169,11 +171,20 @@ $if(natbib)$
 $if(biblio-files)$
 $if(biblio-title)$
 $if(book-class)$
-\renewcommand\bibname{$biblio-title$}
+%\renewcommand\bibname{$biblio-title$}
+\renewcommand\bibname{}
 $else$
-\renewcommand\refname{$biblio-title$}
+%\renewcommand\refname{$biblio-title$}
+\renewcommand\refname{}
 $endif$
 $endif$
+
+\cleardoublepage % This is needed if the book class is used, to place the anchor in the correct page,
+                 % because the bibliography will start on its own page.
+                 % Use \clearpage instead if the document class uses the "oneside" argument
+\renewcommand*{\refname}{} % This will define heading of bibliography to be empty, so you can...
+\section{Bibliographie}     % ...place a normal section heading before the bibliography entries.
+ 
 \bibliography{$biblio-files$}
 
 $endif$

@@ -14,10 +14,13 @@ all: html pdf epub rtf docx odt json native
 chapters:
 	sh .papermill/process-chapters.sh
 
-html: chapters
+punch:
+	cd Materialsammlung; make
+
+html: chapters punch
 	sh .papermill/output-html.sh
 
-pdf: chapters
+pdf: chapters punch
 	sh .papermill/output-pdf.sh
 	
 # iBook
