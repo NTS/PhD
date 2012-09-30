@@ -1,19 +1,8 @@
 # Intro (Vorbemerkung)
 
-~~~~~
-Algemeine Bemerkungen:
-nwh: allgemein zur Orthographie: aufpassen, 
-manchmal wird durch den Blocksatz absurd getrennt!
-- unfertiges unter TODO markiert
-
-NOCH IN ARBEIT:
-- Anführungszeichen
-- Verweise auf Bildtafeln
-- teilw. Informationen zu den Quellen
-~~~~~
 
 
-Ich wurde 1965 in Jerusalem geboren, lebe und arbeite seit zwanzig Jahren in Deutschland, ab 1990 auch als freischaffende Künstlerin und Kuratorin. 
+Ich wurde 1965 in Jerusalem geboren, lebe und arbeite seit über zwanzig Jahren in Deutschland, ab 1990 auch als freischaffende Künstlerin und Kuratorin. 
 Seit 2003 lehre ich Kunstpraxis und Theorie, 2007 wurde ich als künstlerische Mitarbeiterin an der Fakultät Gestaltung, Professur Freie Kunst, 
 an der Bauhaus-Universität Weimar, angestellt. Durch meine jahrelange künstlerische Praxis, die Tätigkeiten in der Lehre sowie meinen Master-Abschluss 
 im MFA-Programm *Kunst im öffentlichen Raum und neue künstlerische Strategien* an der Bauhaus-Universität Weimar habe ich mir profunde Kenntnisse der 
@@ -21,24 +10,27 @@ zeitgenössischen Kunst aneignen können, die stets kritisch diskutiert und und 
 Teil des Künstlerduos *Barking Dogs United* ausgestellt. 
 
 In meiner Masterthesis *Simon says: Take me by the Word* behandelte ich die Umstellung der Pyramide des Auftraggebers in der Kunstwelt als Folge des 
-Auftretens und der Intensivierung von Street Art und ihre ambivalente Beziehung zum *white cube*. Bei den Recherchen für meinen PhD der Freien Kunst mit dem Thema 
+Auftretens und der Intensivierung von Street Art sowie ihre ambivalente Beziehung zum *white cube*. Bei den Recherchen für meinen PhD der Freien Kunst mit dem Thema 
 „Der Berufskünstler: Von der Zähmung und Professionalisierung einer mythischen Freiheit, oder: der Künstler als Arbeiter“ habe ich unter anderem folgende Tendenzen 
 festgestellt: Eine langsame Wandlung des Künstlers zum „Traumberuf”, die fortschreitende Einmischung von Künstlern in soziale und politische Bereiche sowie die 
 beschleunigte Verzahnung von Akademie, Kunstmarkt und Netzöffentlichkeit. 
 
-Mittelpunkt meiner kritischen Untersuchung ist, wie sich diese Erscheinungen in der Praxis entwickeln und in Wechselwirkung treten. Nach dem Studium verkaufen 
+Im Mittelpunkt meiner kritischen Untersuchung steht, wie sich diese Erscheinungen in der Praxis entwickeln und in Wechselwirkung treten. Nach dem Studium verkaufen 
 sich heutzutage viele Künstler selbst und gestalten Öffentlichkeits- und Pressearbeit womöglich autonom, sind selbstständig als PR-Agent, agieren als Manager 
 und erklären Kunstwerke souverän, oder zumindest wird von ihnen erwartet, dies zu können. Die Lehre und Aneignung dieser Fertigkeiten werden immer mehr innerhalb 
 der Kunsthochschulen von den Studierenden gewünscht und gleichzeitig von den Lehrenden eingefordert. Das unaufhaltbare Multitasking, die Selbstbeschäftigung auch 
 als Galeristen/Kuratoren, die Teilnahme an Produzenten-Galerien und anderen Künstler-Selbstinitiativen, die das veränderte Bild des Künstler in der Gesellschaft 
-aufzeigen, ist Kern meiner Dissertation. 
+aufzeigen, bilden den thematischen Kern meiner Dissertation. 
 
-Inwieweit wurde dieser Inanspruchnahme nachgekommen? Und was bedeutet es? Das Lehrangebot, welches hier analysiert wird, 
+Inwieweit wurde dieser Inanspruchnahme seitens der Hochschulen nachgekommen? Und was bedeutet es? Das Lehrangebot, welches hier analysiert wird, 
 zeigt Verbindungen zum Kunstmarkt auf und verweist ferner auf mein persönliches Interesse an der Entwicklung bzw. Wandlung des Kunstbegriffs und darüber hinaus 
-auf Änderungen in der Wahrnehmung des Künstlers als Figur. Die Lehrform des Weimarer Modells ist interdisziplinär ausgerichtet 
-und verbindet Praxis mit Wissenschaft in allen künstlerischen und gestalterischen Studienrichtungen. In meiner Erfahrung 
+auf Änderungen in der Wahrnehmung des Künstlers[^geschlechtsprache]
+[^geschlechtsprache]: Bemerkungen zur geschlechtsungerechten Sprache: Das Wort *Künstler*, kommt in diese Dissertation ca. 500 mal vor. Wenn ich *Künstler* *Student* oder *Kurator* schreibe, meine ich selbstverständlich sowohl Künstler als auch KünstlerInnen, 
+StudentInnen und KuratorInnen. 
+als Figur. Die Lehrform des Weimarer Modells ist interdisziplinär ausgerichtet 
+und verbindet Praxis mit Theorie in allen künstlerischen und gestalterischen Studienrichtungen. In meiner Erfahrung 
 stehen das Projekt und die künstlerischen sowie gestalterischen Belange in der Lehre und Forschung in einem engen Zusammenhang mit 
-einer konsequenten dreistufigen Bildungsstruktur mit allen akademischen Abschlüssen (Diplom, Bachelor, Master of Fine Art, Meisterklasse) bis hin zum 
+einer konsequenten dreistufigen Bildungsstruktur mit allen akademischen Abschlüssen (Diplom, Bachelor, Master of Fine Arts, Meisterklasse) bis hin zum 
 Promotionsstudiengang PhD Kunst und Design / Freie Kunst / Medienkunst mit dem Abschluss Doctor of Philosophy. Dieses Modell halte ich für 
 eine besondere Grundlage im Umgang mit meinem entwickelten Lehrprogramm, welches das Leben nach dem Studium und den Übergang 
 von der Akademie zum Berufsleben darstellt und analysiert und die Studierenden auf diese Phase vorbereitet. 
@@ -57,6 +49,3 @@ Theorie als auch der Praxis manifestiert. Die zwei Welten, Kunststudium und die 
 Facetten darstellen, aus meiner Sicht, aus jener der Studenten, und angereichert mit vielen Einsichten anderen Künstler, in Form von Zitaten oder transkribierten Texten aus 
 Büchern, Interviews, Videos, Musik und aus dem Internet. 
 
-Bemerkungen zu Geschlechtsungerechte Sprache:   
-Das Wort *Künstler* kommt in diese Dissertation ca. 500 mal vor. Wenn ich *Künstler* *Student* oder *Kurator* schreibe, meine ich sowohl Künstler als auch KünstlerInnen, 
-StudentInnen und KuratorInnen. 
