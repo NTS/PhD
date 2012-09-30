@@ -253,8 +253,8 @@ dem üblichen Fernsehniveau an und zwar nicht das der Kreationen, sondern jenes 
 Das *Artist's Statement* von Charlotte Young, das sich auch über das Internet verbreitet hat, zeigt eine schnelle Vergeltungskraft im Dialog über die Arbeitsverhältnisse: 
 
 "Hey, my Name is Charlotte Young..." so fängt der Werbefilm der Künstlerin an, die auf Englisch über sich als Künstlerin erzählt, während die "Wahrheit" bzw. eine 
-Sozial-wirtschaftliche Interpretation über sie als eine Art Übersetzung im Untertitel läuft. Viele Künstler wurden dieser Diskrepanz zustimmen: Eine kreative 
-Anzeige und gleichzeitig eines bissiges Geständnis zur Diskrepanz zwischen Eigenbewertung (wahrgenommener Realität und wie sie in Sprache als Selbstbewusstsein übersetzt wird.
+sozial-wirtschaftliche Interpretation über sie als eine Art Übersetzung im Untertitel läuft. Viele Künstler würden dieser Diskrepanz zustimmen: Eine kreative 
+Anzeige und gleichzeitig ein bissiges Geständnis zur Diskrepanz zwischen Eigenbewertung (wahrgenommener Realität) und wie sie in Sprache als Selbstbewusstsein übersetzt wird.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
                                                           Stimme        Untertitel
@@ -273,20 +273,20 @@ Anzeige und gleichzeitig eines bissiges Geständnis zur Diskrepanz zwischen Eige
 
     und neben Werken von Künstlern von großen Renommees gezeigt.        Es gab ein Kunstwerk in ihr von diesem Kerl vom College,
                                                                         der im Programm der *School of Saatchi* war
-             Im Wesentlichen ist meiner Arbeit Narrativ bezogen,
-	             auf seine unterschiedlichen Formen und Rendern.        aber nicht gewonnen hat. 
+             Im Wesentlichen ist meiner Arbeit narrativ bezogen,
+	             auf seine unterschiedlichen Formen und Ränder.        aber nicht gewonnen hat. 
 
                   Ich versuche, fiktive Erzählungen zu schaffen,        Ich mag Geschichten 
  
-	        und sie als verifizierte Wahrheiten zu präsentieren,        verschiedenen Arten von Geschichten 
+	        und sie als verifizierte Wahrheiten zu präsentieren,        verschiedene Arten von Geschichten 
 
-      Ich frage nach der Natur von sowohl Fakt als auch Fiktion,        Ich Erfinde Sachen und nennen es "Kunst" 
+      Ich frage nach der Natur von sowohl Fakt als auch Fiktion,        Ich erfinde Sachen und nennen es "Kunst" 
 
-	        Ziehe den Blick des Betrachters auf die Linie, an der        aber ich sage den Leuten nicht das es ist alles erfunden ist.
+	        Ziehe den Blick des Betrachters auf die Linie, an der        aber ich sage den Leuten nicht, dass es alles erfunden ist.
 	                                            sie sich treffen.        Das gibt mir das Gefühl, ich sei klug.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsche Übersetzung); Teil 1
+Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsche Übersetzung: Naomi T. Salmon); Teil 1
 
 ------------------------------------------------------------------------------------------------------------------------------------------
                                                           Stimme        Untertitel
@@ -294,20 +294,20 @@ Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsch
                                      Ich bin von internationalen        Ich gucke viel Fernsehen
                               Nachrichten-Reportage beeinflusst, 
 
-	               Dokumentarfilme, die Kunst des Filmbiografie,        und ich habe alle Batman-Filme auf Blu-rayTM.
+	               Dokumentarfilme, die Kunst der Filmbiografie,        und ich habe alle Batman-Filme auf Blu-rayTM.
 
-	               auch von geschrieben oder gefilmten Berichten        Ich habe in den letzten 8 Monaten nichts getan
+	               auch von geschriebenen oder gefilmten Berichten        Ich habe in den letzten 8 Monaten nichts getan
 
 	               über das Leben von ungewöhnlichen Individuen.        Ich muss wirklich mehr Kontakte in der Kunstwelt knüpfen, 
 	                                                                    Ansonsten bin ich am Arsch. 
 
             Meine Arbeit ist derzeit in einem flüssigem Zustand.        Also, ich ziehe nach Berlin um
 
-    Ich suche, versuche, weitere Ergänzungen zu meinem kreativen        oder im schlimmsten Fall nach Packham.
+    Ich suche, versuche, weitere Ergänzungen zu meinem kreativen        oder im schlimmsten Fall nach Peckham.
                Einflüsse zu erwerben durch die Erforschung neuer 
                                          künstlerischer Gebiete. 
 
-         Zusätzlich zu meiner kreativer Bestrebung kann ich auch        Ich suche zur Zeit verzweifelt nach bezahlte Arbeit 
+         Zusätzlich zu meiner kreativer Bestrebung kann ich auch        Ich suche zur Zeit verzweifelt nach bezahlter Arbeit 
                 als freiberuflicher Praktikant engagiert werden, 
 	
                                 und meine Kontaktdaten werden am        und würde so ziemlich alles für Geld tun.
@@ -317,79 +317,5 @@ Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsch
 	                                                                    T: @charlotteyoung 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsche Übersetzung); Teil 2
+Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsche Übersetzung: Naomi T. Salmon); Teil 2
 
-**EN Version zum Vergleich: TODO: danach löschen** 
-
-**Voice:**
-
-	Hey, I'm Charlotte Young
-	and I am a visual artist.
-	I work largely but not exclusively
-	through the medium of performance
-	I also make Videos and I am a published writer.
-
-	My art has been exhibited internationally
-	and shown alongside the work of artists of great renown.
-	For the main part my work is concerned with narrative, 
-	its varying forms and renderings.
-
-	I attempt to create fictional narratives,
-	and present them as varifyable truths,
-	questioning the nature of both fact and fiction,
-	and drawing the viewers attention to the line in 
-	which they meet.
-
-	I am influenced by international news reportage, 
-	documentaries, the art of the biopic, 
-	also written or filming accounts
-	of the lives of unusual individuals.
-
-	My work is currently in a state of flux.
-	I search, I aim to acquire further additions to my 
-	creative influences
-	by exploring new artistic territories.
-	In addition to my creative endeaveres, 
-	I can also be employed as a freelance practitioner,
-	and my contact details will appear at the bottom 
-	of this screen shortly.
-
-	E: charlotteemilyyoung@gmail.com
-	T:@charlotteyoung
-
-	Thanks.
-
-
-**Untertitel:**
-
-	Hello
-	My name is Charlotte Young
-	and I am a visual artist
-	I am an attention seeker
-	My Dad bout me a MacBook Pro
-	and my blog has over 100 hits.
-
-	I was in a group show in Cardiff 2 years ago
-	There was a piece in it by that bloke at college 
-	who was on the 'School of Saatchi' programme
-	but didn't win.
-
-	I like stories
-	different kinds of stories
-	I make things up and call it 'art'
-	but I don't tell people it's all made up
-	which makes me feel clever.
-
-	I watch a lot of television
-	and I've got all the Batman films on Blu-rayTM.
-	I haven't made anything in 8 months
-	I really need to make more contacts in the art world,
-	otherwise, I'm screwed.
-
-	So, I'm going to move to Berlin
-	or, at worst, Packham.
-	I am currently desperate for paid work 
-	and will do pretty much anything for cash.
-
-	E: charlotteemilyyoung@gmail.com
-	T: @charlotteyoung
