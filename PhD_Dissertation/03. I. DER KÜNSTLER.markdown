@@ -24,42 +24,38 @@ und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns
  
 [^source-beuysprager]: J. Beuys im Gespräch mit B. Blume u. H. G. Prager vom 15.11.1975, D 6-Kat.I/156
 
-Gilt die Aussage "Das kann mein Kind auch" in diesem Sinne? (Nicht nur Kinder können das, auch Affen (Arnulf Rainer), oder Elefanten (Komar und Melamid), 
-und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb formaler Ähnlichkeiten). Kann wirklich jeder lernen, ein Künstler zu werden?
+Gilt die Aussage „Das kann mein Kind auch“ in diesem Sinne? Nicht nur Kinder können das, auch Affen (Arnulf Rainer), oder Elefanten (Komar und Melamid), 
+und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb formaler Ähnlichkeiten. Kann wirklich jeder lernen, ein Künstler zu werden?
 
 
 **Bild:** [Dan Perjovschi Installation zu Venedig Biennale 2009](perjovschi_venice_52_2009)
 
 
-Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von "const" was soviel wie Können, 
-Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch "Kunst kommt vom Können".[^book-etymode](Etymologisches Wörterbuch der deutschen Sprache /Kluge. 24. Auflage, De Gruyter, Berlin, New York 2002.) 
-Dieser Aphorismus hat sogar einen eigenen [Artikel bei deutschsprachigen Wikipedia](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
-Hierzu ein Auszug aus [Meyers Online-Lexikon](http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie): "Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
-Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler)". 
+Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von „const“ was soviel wie Können, 
+Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch „Kunst kommt vom Können"[@lexi:KlugeEtym] -- 
+dieser Aphorismus hat sogar einen eigenen [Artikel bei der deutschsprachigen *Wikipedia*](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
+Hierzu ein Auszug aus dem ehemaligen [Meyers Online-Lexikon](http://web.archive.org/web/20090105132257/http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie):
 
-
-**Bild:** [Der Künstler Begriff nach Pons[^source-kuenstler_nach_pons]](kuenstler_nach_pons.png) 
-
-[^source-kuenstler_nach_pons]: Scan nts 
-
-
-
-Weiter heißt es in Meyers Online-Lexikon: 
-
-> "Im 6. Jahrhundert v. Chr. gibt es in Griechenland die ersten Künstlersignaturen. 
+> „Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
+> Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler).
+> Im 6. Jahrhundert v. Chr. gibt es in Griechenland die ersten Künstlersignaturen. 
 > Während der Künstler des Mittelalters Handwerker ist, eine Werkstatt mit Gesellen unterhält 
 > und in die Zunftorganisation eingegliedert ist, löste sich der Künstler in der italienischen 
 > Renaissance erstmals aus dem Zunftzwang. 
 > Der Renaissancekünstler trieb mit wissenschaftlichem Anspruch Studien auf den Gebieten der Geometrie, 
 > Perspektive und Anatomie. Seit der Romantik bildete sich ein neues Selbstverständnis des Künstlers heraus. 
 > In dieser Epoche wurzelt der moderne Begriff des Künstlers. 
-> Die Originalität wird Mittelpunkt des Geniebegriffs."
+> Die Originalität wird Mittelpunkt des Geniebegriffs.“
+
+**Bild:** [Der Künstler Begriff nach Pons[^source-kuenstler_nach_pons]](kuenstler_nach_pons.png) 
+
+[^source-kuenstler_nach_pons]: Scan nts
 
 
 ## Looking at you (looking at me)[^LadyGaga]
 
 
-[^LadyGaga]: LadyGaga, "Looking at me" [Link](http://www.youtube.com/watch?v=2Hjm4D4LAGg)
+[^LadyGaga]: LadyGaga, "Looking at me" <http://www.youtube.com/watch?v=2Hjm4D4LAGg>
 
 
 Der Künstler wird gern von anderen gesehen und beschrieben, aber stimmt dies mit dem wie Künstler sich selber beschreiben, überein? In jedem Kunststudium wird über "Mimesis" 
@@ -68,17 +64,17 @@ Ausgangspunkt wählen. In seinem Versuch das *je ne sais quoi* (das gewisse Etwa
 der Urteilskraft: 'Genie ist, nicht Geschicklichkeitsanlage zu dem, was nach irgendeiner Regel gelernt werden kann… selbst nicht beschreiben oder wissenschaftlich 
 anzeigen… '(in dem Sinne nicht erklären können, was der Künstler selber tut). Positiv geäußert: Genie ist die Gemütslage (Ingenium) durch welche die Natur der 
 Kunst die Regel gibt". Seine Interpretation: "Nie Regeln zu folgen, sondern immer nur etwas zu schaffen, das regelhaft ist, ohne selber je zur Regel werden 
-zu können, – das ist Kants Umschreibung genial-schöpferischen Tuns". Der Künstler wird oft als: "Der Seher und der Störenfried, der Schamane und der Außenseiter, 
-der Clown und der Harlekin beschrieben – diese Rollen ergaben sich daraus, dass der Künstler nicht weiß, was er macht", soweit Ullrich, oder anders gesagt: 
+zu können, -- das ist Kants Umschreibung genial-schöpferischen Tuns". Der Künstler wird oft als: "Der Seher und der Störenfried, der Schamane und der Außenseiter, 
+der Clown und der Harlekin beschrieben -- diese Rollen ergaben sich daraus, dass der Künstler nicht weiß, was er macht", soweit Ullrich, oder anders gesagt: 
 nicht weiß, wie er es in Worte fassen soll. Denn: "Er gilt als Medium höherer Kräfte, die über ihn verfügen (…) da er seine Werkprozesse nicht zu kontrollieren 
-oder mitzuteilen vermag"[@Ullrich:Was?, pp. 22],(was heute nicht mehr für alle Künstler so stimmt), kann er nur für sich allein tätig sein. Er ist unzuverlässig, 
+oder mitzuteilen vermag"[-@Ullrich:WasWarKunst, pp. 22],(was heute nicht mehr für alle Künstler so stimmt), kann er nur für sich allein tätig sein. Er ist unzuverlässig, 
 weil sich das, was er tut, kaum auf Wissen oder Know-How – auf erlernbare Faktoren – stützt.  
 
-Der Schaffensprozess bleibt ein Geheimnis: "ist es die Hand, das Auge oder der Kopf, wo sich das Eigentliche abspielt?" (SOURCE: ibid, S. 26)
-Über dieses Thema schreibt auch Verena Krieger in ihrem Buch: "Was ist ein Künstler? Genie. Heilsbringer. AntiKünstler"[@AKrieger:WasIstKnstler, pp. 86].
-(http://www.sehepunkte.de/2007/10/pdf/13278.pdf), 1.2.09); [Buch](http://www.zvab.com/displayBookDetails.do?itemId=11655262&b=1)) Die Frage, die ich gern stellen möchte, 
-ist: Wer wirft den Blick auf die Künstler und wie verflochten sind dadurch die möglichen Interpretationen? 
-Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten:
+Der Schaffensprozess bleibt ein Geheimnis: "ist es die Hand, das Auge oder der Kopf, wo sich das Eigentliche abspielt?" (ibid. -@Ullrich:WasWarKunst, S. 26)
+Über dieses Thema schreibt auch Verena Krieger in ihrem Buch: "Was ist ein Künstler? Genie. Heilsbringer. AntiKünstler".[@AKrieger:WasIstKnstler, pp. 86] 
+Die Frage, die ich gern stellen möchte, ist: Wer wirft den Blick auf die Künstler und wie verflochten sind dadurch die möglichen Interpretationen? 
+
+Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten: Siehe dazu die Bilder X und Y.
 
 
 **Bild:** ["Französische Künstlermütze", zu ersteigen bei E-bay[^source-french_artist_golf_cap_by_ebay]](french_artist_golf_cap_by_ebay.png) 
@@ -91,23 +87,23 @@ Früher war es "einfacher", wenn Künstler ihr Selbstportrait malten:
 [^source-naomi_campbell_for_vivian_westwood]: TODO: source Scan nts nachschlagen
 
 	
-Dieser "Look" entspricht eher dem Typ "Armer Künstler", oder dem daraus entstandenen Klischee. In seinem Buch *Why Are Artists Poor?*[-@Abbing:poor] beschreibt Hans 
+Dieser *look* entspricht eher dem Typ "Armer Künstler", oder dem daraus entstandenen Klischee. In seinem Buch *Why Are Artists Poor?*[-@Abbing:poor] beschreibt Hans 
 Abbing die verstrickten Verhältnisse zwischen Künstler und der Gesellschaft. Abbing vertritt unter anderem die These, dass die Kunst 
 für den Künstler zu heilig wäre, um in Worten wie Profit und Kommerz beschrieben zu werden. Der Künstler erhält Stipendien und wird weiterhin als arm und als 
 Outsider wahrgenommen. Oftmals wird er auch als autistische Person, die sich im Atelier vergräbt, bis sie entdeckt wird, wahrgenommen. Da der Künstler so sensibel 
 sei und geschützt werden müsse, benötige er einen Vermittler, auch weil er seine eigene Arbeit nicht schätzen kann. Er produziert, weil er produzieren muss, 
-egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, einem US-amerikanischem Spielfilm aus dem Jahr 1996 Regie Julian Schnabel (Selbst Künstler),
-wird ein Text des Kunstkritikers Rene Ricard aus seinem Schreiben *The Radiant Child* [Link](http://www.smartwentcrazy.com/basquiat/text/jmb_radiantchild.htm) 
-über Jean-Michel Basquiat aus dem Artforum Magazin Dezember 1981 zitiert: 
+egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, einem US-amerikanischem Spielfilm aus dem Jahr 1996 Regie Julian Schnabel (selbst Künstler),
+wird ein Text des Kunstkritikers Rene Ricard aus seinem Schreiben [*The Radiant Child*](http://www.smartwentcrazy.com/basquiat/text/jmb_radiantchild.htm) 
+über Jean-Michel Basquiat aus dem *Artforum* Magazin, Dezember 1981, zitiert: 
 
-"Warum schenken wir der Kunst so viel Bedeutung? Arme respektieren Künstler, da sie 
-aus dem Slum herauskommen, indem sie sich selbst als Medium benutzen. Das verdiente Geld beweist den Wert des Künstlers". Wenn es früher massenhaft 
-Bilder von Künstlern im eigenen Atelier, neben ihrer Staffelei, vor der eigenen Arbeit gab, so hat sich parallel zur Entwicklung der Fotografie als 
-dokumentarisches Medium, eine langsame Auflösung des Künstler getrennt von seiner Arbeit vollzogen. Er wird per se nicht mehr durch oder neben 
-seinem Werk erkannt, sondern auf Grund seiner Berühmtheit autark davon als Person. [^fn-picassoswfoto]
+> "Warum schenken wir der Kunst so viel Bedeutung? Arme respektieren Künstler, da sie 
+> aus dem Slum herauskommen, indem sie sich selbst als Medium benutzen. Das verdiente Geld beweist den Wert des Künstlers". 
 
-[^fn-picassoswfoto]: [^Denken wir an Picasso oder Paul Klee in den 
-Schwarzweiß-Fotografien von Henri Cartier-Bresson].
+Wenn es früher massenhaft Bilder von Künstlern im eigenen Atelier, neben ihrer Staffelei, vor der eigenen Arbeit gab, so hat sich parallel 
+zur Entwicklung der Fotografie als dokumentarisches Medium, eine langsame Auflösung des Künstler getrennt von seiner Arbeit vollzogen. 
+Er wird per se nicht mehr durch oder neben seinem Werk erkannt, sondern auf Grund seiner Berühmtheit autark davon als Person.[^fn-picassoswfoto]
+
+[^fn-picassoswfoto]: [^Denken wir an Picasso oder Paul Klee in den Schwarzweiß-Fotografien von Henri Cartier-Bresson].
 
 Mit dem Fotografieboom der 1980er Jahre des vorigen Jahrhunderts ist das Bewusstsein der Künstler hinsichtlich der Wirkung ihres Aussehens gestiegen. 
 Künstler wie Josef Beuys und Andy Warhol wussten das für ihre Zwecke zu nutzen. Es entwickelte sich, eine Tendenz des wohlhabenden Künstlers, der zu 
@@ -115,33 +111,33 @@ Lebzeiten und nicht erst nach dem Tod als berühmt und reich zu erscheinen hatte
 Die beiden Zeitgenossen, Beuys und Warhol, können als stellvertretend für die Unterschiede in der Entwicklung der Künstlerfigur zwischen den USA und Europa gesehen werden.
 Der Vergleich bezieht sich auf die Sorte Künstler den sie verkörpern, die gleichzeitig mit ihrer Kunst auch verbunden ist. Beuys verkörpert den beinahe klassischen 
 Künstlertypus mit genialen Einfällen, formaler Leichtfertigkeit und Sicherheit, Ironie und Präsenz und trotzdem gesellschaftspolitisch innovativ und seriös, 
-(Beuys war Gründer der Freien Universität und der Grünen Partei). Während Warhol zwar seine *Factory* hatte, was auf einen Teamgeist schließen ließe, und zum Teil 
-auch funktionierte, wae er letzten Endes aber ein Einzelkämpfer (mehr als Beuys), der das Glück hatte, als guter oder anerkannter Werbegraphiker auf den Kunstpfad
+(Beuys war Mitbegründer der [*Freien Universität*](http://en.wikipedia.org/wiki/Free_International_University) und der [Partei "Die Grünen"](http://www.medienkunstnetz.de/werke/wahlplakat-fur-die-grunen/)). Während Warhol zwar seine *Factory* hatte, was auf einen Teamgeist schließen ließe, und zum Teil 
+auch funktionierte, war er aber letzten Endes (mehr als Beuys) ein Einzelkämpfer, der das Glück hatte, als guter oder anerkannter Werbegraphiker auf den Kunstpfad
 zu gelangen, damit berühmt zu werden und weitermachen zu können. Letzten Endes hat er „nur“ die Strategien des Kapitals, des Marktes, der PR perpetuiert und nicht 
 in Frage gestellt. Dies könnte auch als eine Polarität zwischen Schamane und Kaufmann verstanden werden. Jedoch befinden sie sich beide unter den ersten 5 auf der 
-Top 100 Künstler Weltrangliste von *Artfact.net* [Link](http://www.artfacts.net/en/artists/top100.html) und haben sich in den letzten zwei Jahren nicht von dort weg bewegt.
+[Top 100 Künstler Weltrangliste von *Artfact.net*](http://www.artfacts.net/en/artists/top100.html) und haben sich in den letzten zwei Jahren nicht von dort weg bewegt.
 
-Wenn man die Bilder Warhols mit Arbeiten von Fotografen wie denen der US-amerikanischen Fotografin Annie Leibowitz vergleicht, die während der 191980er für das Musik Magazin *The Rolling Stone* 
+Wenn man die Bilder Warhols mit Arbeiten von Fotografen wie denen der US-amerikanischen Fotografin Annie Leibowitz vergleicht, die während der 1980er für das Musik Magazin *The Rolling Stone* 
 viele US-amerikanische Musiker und Künstler fotografiert hat, so liegt bei Warhol das Zentrum in der Technik, während bei Leibowitz der Schwerpunkt eher 
 auf einer kreativen Idee der Fotografin selbst beruht, die in Zusammenarbeit mit den Künstlern etwas persönliches mitteilt. Wenn wir deutsche Künstler mit solchen Bildern 
 vergleichen, so scheint es, dass diese von einer solchen Interpretation nichts halten und eher ihre gediegene Seite zeigen: 
 
-
-**Bild:** [Jörg Immendorf, Foto: Andrea Strappert 2001](joerg-immendorf-by-andrea-strappert-2001.jpg) 
-[TODO](Footnote/Bildnachweis: source netz)
-
-
 Es gilt jedoch weiter die ungeschriebene Regel: Bei Ausstellungseröffnungen sollte der Künstler nicht wohlhabender aussehen als sein Galerist oder sein Sammler. 
 Andy Warhol machte sich Gedanken über sein Selbstbildnis, in *Die Philosophie des Andy Warhol von A bis B und zurück* sagt er: "Ich glaube, wenn ich in den 
 Spiegel sehe, werde ich NICHTS sehen. Man nennt mich immer einen Spiegel, und wenn ein Spiegel in einen Spiegel sieht, was ist dann zu sehen? Wenn ich in den 
-Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen."[@source:tag, pp. 14] Und Anna Marie Freybourg schreibt: "Dass ihm 
-innerhalb und ebenso außerhalb der Kunstwelt der Status eines großen Stars, ja einer legendären Kultfigur zukommt, scheint ganz maßgeblich auch in der Inszenierung
-seiner Person und ihrer öffentlichen medialen Präsenz begründet zu sein. [TODO: SOURCE ins bibex!]([@Author:book, pp. 12] : pp12 Aus: Die Inszenierung des Künstlers. Anna Marie Freybourg (Hg.), jovis 2008.) 
-
+Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen."[@source:tag, pp. 14] Und Anna Marie Freybourg schreibt: „Dass ihm 
+innerhalb und ebenso außerhalb der Kunstwelt der Status eines großen Stars, ja einer legendären Kultfigur zukommt, scheint ganz maßgeblich auch in der Inszenierung seiner Person und ihrer öffentlichen medialen Präsenz begründet zu sein.
 Das Bild fungiert nicht als Mittel der Selbsterkenntnis, sondern in erster Linie als Mittel der Selbstdefinition, denn es gibt Warhol die Möglichkeit, 
-sich so zu zeigen, wie er von anderen gesehen werden will.“ (Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat). Warhols Anerkennung 
-erfolgte nicht allein durch die Würdigung seiner Kunst, sondern auch und insbesondere durch die Selbstdarstellung in den Massenmedien“ @Author:book, pp. 16] Warhol hat das 
-Thema des Künstlerseins auf eine höhere, fast bis auf die Metaebene gehoben, durch Selbstbeobachtung, kalkuliertem Zynismus und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden.
+sich so zu zeigen, wie er von anderen gesehen werden will.“[@Freybourg:DieInszen, pp. 12] 
+
+(Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat, siehe Bild X.)
+
+**Bild:** [Jörg Immendorf, Foto: Andrea Strappert 2001](joerg-immendorf-by-andrea-strappert-2001.jpg)
+ 
+
+„Warhols Anerkennung erfolgte nicht allein durch die Würdigung seiner Kunst, sondern auch und insbesondere durch die Selbstdarstellung in den Massenmedien“. @Freybourg:DieInszen, pp. 16] 
+
+Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metaebene gehoben, durch Selbstbeobachtung, kalkuliertem Zynismus und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden (siehe dazu Bilder X, Y und Z).
 
 
 **Bild:** [Stickers mit Zitate von Andy Warhol, Museumshop am Hamburger Bahnhof, Berlin 2009](warhol_stickers.png) 
