@@ -85,14 +85,14 @@ do
 		--include-before-body="Version.generated.latex" \
 		--include-after-body="$IMPRINT" \
 		\
-		--output=""$PAPER".latex"
+		--output=""$PAPER".pdf"
 		
 		#--variable=links-as-notes:true
 
 	} && {
 	    echo "SUCCESS"
-		#cp "$PAPER".pdf ~/"Dropbox/MFA+NTS/PHD.NTS-output"
-		#open "$PAPER.pdf"
+		cp "$PAPER".pdf ~/"Dropbox/MFA+NTS/PHD.NTS-output"
+		open "$PAPER.pdf"
 	}
 	
     [[ -e ""$PAPER"_Impressum.generated.latex" ]] && rm ""$PAPER"_Impressum.generated.latex"
