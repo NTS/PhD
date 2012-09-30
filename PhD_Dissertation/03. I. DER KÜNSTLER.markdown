@@ -43,7 +43,7 @@ Hierzu ein Auszug aus dem ehemaligen [Meyers Online-Lexikon](http://web.archive.
 > In dieser Epoche wurzelt der moderne Begriff des Künstlers. 
 > Die Originalität wird Mittelpunkt des Geniebegriffs.“
 
-**Bild:** [Künstler nach Pons] 
+**Bild:** [Künstlerbegriff nach Pons] 
 
 [^source-kuenstler_nach_pons]: Scan nts
 
@@ -82,8 +82,8 @@ Abbing die verstrickten Verhältnisse zwischen Künstler und der Gesellschaft. A
 für den Künstler zu heilig wäre, um in Worten wie Profit und Kommerz beschrieben zu werden. Der Künstler erhält Stipendien und wird weiterhin als arm und als 
 Outsider wahrgenommen. Oftmals wird er auch als autistische Person, die sich im Atelier vergräbt, bis sie entdeckt wird, wahrgenommen. Da der Künstler so sensibel 
 sei und geschützt werden müsse, benötige er einen Vermittler, auch weil er seine eigene Arbeit nicht schätzen kann. Er produziert, weil er produzieren muss, 
-egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, einem US-amerikanischem Spielfilm aus dem Jahr 1996 Regie Julian Schnabel (selbst Künstler),
-wird ein Text des Kunstkritikers Rene Ricard aus seinem Schreiben [*The Radiant Child*](http://www.smartwentcrazy.com/basquiat/text/jmb_radiantchild.htm) 
+egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, einem US-amerikanischem Spielfilm aus dem Jahr 1996 - Regie Julian Schnabel (selbst Künstler)
+wird ein Text des Kunstkritikers Renè Ricard aus seinem Schreiben [*The Radiant Child*](http://www.smartwentcrazy.com/basquiat/text/jmb_radiantchild.htm) 
 über Jean-Michel Basquiat aus dem *Artforum* Magazin, Dezember 1981, zitiert: 
 
 > "Warum schenken wir der Kunst so viel Bedeutung? Arme respektieren Künstler, da sie 
@@ -91,37 +91,35 @@ wird ein Text des Kunstkritikers Rene Ricard aus seinem Schreiben [*The Radiant 
 
 Wenn es früher massenhaft Bilder von Künstlern im eigenen Atelier, neben ihrer Staffelei, vor der eigenen Arbeit gab, so hat sich parallel 
 zur Entwicklung der Fotografie als dokumentarisches Medium, eine langsame Auflösung des Künstler getrennt von seiner Arbeit vollzogen. 
-Er wird per se nicht mehr durch oder neben seinem Werk erkannt, sondern auf Grund seiner Berühmtheit autark davon als Person.[^fn-picassoswfoto]
+Er wird per se nicht mehr durch oder neben seinem Werk erkannt, sondern auf Grund seiner Berühmtheit unabhängig davon als Person.[^fn-picassoswfoto]
 
-[^fn-picassoswfoto]: [^Denken wir an Picasso oder Paul Klee in den Schwarzweiß-Fotografien von Henri Cartier-Bresson].
+[^fn-picassoswfoto]: [^Denken wir an Picasso oder Paul Klee in den Schwarzweiß-Fotografien von Henri Cartier-Bresson]
 
 
 Mit dem Fotografieboom der 1980er Jahre des vorigen Jahrhunderts ist das Bewusstsein der Künstler hinsichtlich der Wirkung ihres Aussehens gestiegen. 
-Künstler wie Josef Beuys und Andy Warhol wussten das für ihre Zwecke zu nutzen. Es entwickelte sich, eine Tendenz des wohlhabenden Künstlers, der zu 
-Lebzeiten und nicht erst nach dem Tod als berühmt und reich zu erscheinen hatte. In der USA war der unbestrittee Meister in Sachen Selbstdarstellung Andy Warhol.
+Künstler wie Josef Beuys und Andy Warhol wussten das für ihre Zwecke zu nutzen. Es entwickelte sich eine Tendenz zum wohlhabenden Künstlers der zu 
+Lebzeiten und nicht erst nach dem Tod als berühmt und reich zu erscheinen hatte. In der USA war der unbestrittene Meister in Sachen Selbstdarstellung Andy Warhol.
 Die beiden Zeitgenossen, Beuys und Warhol, können als stellvertretend für die Unterschiede in der Entwicklung der Künstlerfigur zwischen den USA und Europa gesehen werden.
-Der Vergleich bezieht sich auf die Sorte Künstler den sie verkörpern, die gleichzeitig mit ihrer Kunst auch verbunden ist. Beuys verkörpert den beinahe klassischen 
-Künstlertypus mit genialen Einfällen, formaler Leichtfertigkeit und Sicherheit, Ironie und Präsenz und trotzdem gesellschaftspolitisch innovativ und seriös, 
+Der Vergleich bezieht sich auf die Sorte Künstler den sie verkörpern, die aber gleichzeitig mit ihrer Kunst auch verbunden ist. Beuys verkörpert den beinahe klassischen 
+Künstlertypus mit genialen Einfällen, formaler Leichtigkeit und Sicherheit, Ironie und Präsenz und trotzdem gesellschaftspolitisch innovativ und seriös, 
 (Beuys war Mitbegründer der [*Freien Universität*](http://en.wikipedia.org/wiki/Free_International_University) und der [Partei "Die Grünen"](http://www.medienkunstnetz.de/werke/wahlplakat-fur-die-grunen/)). Während Warhol zwar seine *Factory* hatte, was auf einen Teamgeist schließen ließe, und zum Teil 
 auch funktionierte, war er aber letzten Endes (mehr als Beuys) ein Einzelkämpfer, der das Glück hatte, als guter oder anerkannter Werbegraphiker auf den Kunstpfad
 zu gelangen, damit berühmt zu werden und weitermachen zu können. Letzten Endes hat er „nur“ die Strategien des Kapitals, des Marktes, der PR perpetuiert und nicht 
 in Frage gestellt. Dies könnte auch als eine Polarität zwischen Schamane und Kaufmann verstanden werden. Jedoch befinden sie sich beide unter den ersten 5 auf der 
 [Top 100 Künstler Weltrangliste von *Artfact.net*](http://www.artfacts.net/en/artists/top100.html) und haben sich in den letzten zwei Jahren nicht von dort weg bewegt.
 
-Wenn man die Bilder Warhols mit Arbeiten von Fotografen wie denen der US-amerikanischen Fotografin Annie Leibowitz vergleicht, die während der 1980er für das Musik Magazin *The Rolling Stone* 
+Wenn man die Bilder Warhols mit Arbeiten von Fotografen wie der US-amerikanischen Fotografin Annie Leibowitz vergleicht, die während der 1980er für das Musik Magazin *The Rolling Stone* 
 viele US-amerikanische Musiker und Künstler fotografiert hat, so liegt bei Warhol das Zentrum in der Technik, während bei Leibowitz der Schwerpunkt eher 
-auf einer kreativen Idee der Fotografin selbst beruht, die in Zusammenarbeit mit den Künstlern etwas persönliches mitteilt. Wenn wir deutsche Künstler mit solchen Bildern 
+auf einer kreativen Idee der Fotografin selbst beruht, die in Zusammenarbeit mit den Künstlern etwas Persönliches mitteilt. Wenn wir die Aufnahmendeutsche Künstler mit solchen Bildern 
 vergleichen, so scheint es, dass diese von einer solchen Interpretation nichts halten und eher ihre gediegene Seite zeigen: 
 
 Es gilt jedoch weiter die ungeschriebene Regel: Bei Ausstellungseröffnungen sollte der Künstler nicht wohlhabender aussehen als sein Galerist oder sein Sammler. 
-Andy Warhol machte sich Gedanken über sein Selbstbildnis, in *Die Philosophie des Andy Warhol von A bis B und zurück* sagt er: "Ich glaube, wenn ich in den 
+Andy Warhol machte sich Gedanken über sein Selbstbildnis. In *Die Philosofie des Andy Warhol von A bis B und zurück* sagt er: "Ich glaube, wenn ich in den 
 Spiegel sehe, werde ich NICHTS sehen. Man nennt mich immer einen Spiegel, und wenn ein Spiegel in einen Spiegel sieht, was ist dann zu sehen? Wenn ich in den 
-Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen."[@source:tag, pp. 14] Und Anna Marie Freybourg schreibt: „Dass ihm 
+Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen."[@Warhol:vonAbisZ, pp. 14] Und Anna Marie Freybourg schreibt: „Dass ihm 
 innerhalb und ebenso außerhalb der Kunstwelt der Status eines großen Stars, ja einer legendären Kultfigur zukommt, scheint ganz maßgeblich auch in der Inszenierung seiner Person und ihrer öffentlichen medialen Präsenz begründet zu sein.
 Das Bild fungiert nicht als Mittel der Selbsterkenntnis, sondern in erster Linie als Mittel der Selbstdefinition, denn es gibt Warhol die Möglichkeit, 
-sich so zu zeigen, wie er von anderen gesehen werden will.“[@Freybourg:DieInszen, pp. 12] 
-
-(Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat, siehe Bild X.)
+sich so zu zeigen, wie er von anderen gesehen werden will.“[@Freybourg:DieInszen, pp. 12] Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat, siehe Bild X.)
 
 **Bild:** [Jörg Immendorf]
  
