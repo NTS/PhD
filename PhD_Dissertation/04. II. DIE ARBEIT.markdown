@@ -1,5 +1,6 @@
 # II. DIE ARBEITSWELT
 
+
 ## Das Bild von Kunst als *Business* 
 
 
@@ -181,9 +182,9 @@ jedoch an ein System anpassen, welches (anders) reguliert ist und Zeitbegrenzte 
 
 
 
-## Why, are the artists poor?[^whyartistspoor]   
+## Where Is My Money?[^wheremymoney]   
 
-[^whyartistspoor]: nach dem Buchtitel von Hans Abbing *Why are the artists poor?*
+[^wheremymoney]: TC - Where's My Money (Caspa Remix)
 
 
 > "Was ich an meinem Beruf am meisten mag? Ich liebe es am meisten, eine Pressemitteilung per Mail von den Kuratoren, 
@@ -242,7 +243,7 @@ Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse.
 
 
 
-#### Fanny van Dannen - Künstler sind nicht Überflüssig
+## Fanny van Dannen - Künstler sind nicht Überflüssig
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
 Künstler sind nicht überflüssig
