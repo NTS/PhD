@@ -11,8 +11,9 @@ TODO
 
 > "Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt -- aus irgendeinem Grund -- jedoch an, 
 > es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen. \
-> -- *Andy Warhol*  [-@Warhol:vonAbisZ, pp. 130]
+> -- *Andy Warhol*[^andy-sinnlos]
 
+[^andy-sinnlos]: [@Warhol:vonAbisZ, pp. 130]
 
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was oder wer ist heute ein Künstler? Künstler stellten sich 
 selbst seit jeher als Beobachter von sich und der Welt dar. Aber was sind ihre 'Aufgaben', wenn sie denn solche haben? Wie werden sie von der Gesellschaft wahrgenommen? 
