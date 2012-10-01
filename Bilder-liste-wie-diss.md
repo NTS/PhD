@@ -284,7 +284,16 @@ Bibex!
 
 
 
-**Bild:** [Justin_Hansch_Happy_Artists.jpg]  (images/bild.jpg) [Justin Hansch: „Best friends painting“, 2010]
+**Bild:** [Justin Hansch: „Best friends painting]  
+{
+  "title-short" : "\"Justin Hansch: „Best friends painting“„“\"",
+  "title" : "Justin Hansch: „Best friends painting“, Oil on Canvas, 40x50 cm, 2010 Schalter Galerie, Berlin\"",
+  "filename" : "justin_hansch_best_friends_painting.jpg",
+  "media-type" : "Foto",
+  "copyright" : "nts, courtesy of Ryan Weber, Schalter Gallery, Berlin, " ,
+  "source" : "",
+  "source-url" : "http://www."
+}
 
 **Bild:** [Barking Dogs United, FX I 2008]
 **Bild:** [Barking Dogs United, FX II 2008]
