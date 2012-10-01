@@ -238,13 +238,12 @@ etabliert. Die Menschen versuchen sie als Strategien, Künstler, wie auch andere
 
 *Dieses Kapitel entstand im Rahmen des Wissenschaftsmoduls „Medien – Theorie – Geschichte“ bei Prof. Dr. Hartmann im Rahmen des PhD Programms 2011*
 
+\pagebreak
 
-### Spieltrieb - Hypnose
-
+### Hypnose
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
-
 Du musst ein Handy haben.
 Du musst ein Handy haben.
 Geh in den nächsten Laden.
@@ -312,9 +311,10 @@ Lauf mit, lauf mit, den letzten beißen die Hunde.
 Lauf nicht in das Messer, 
 Es wird alles besser.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	
-- [MP3 Link](http://soundcloud.com/eins78/hypnose-eins78-digital-is-besser-remix-preview) 2.4.11 19:37
-- [Lyrics Link](http://www.xlyrics.de/spieltrieb-lyrics/hypnose-lyrics.html), 2.4.11 19:37
+
+- Text: ***Spieltrieb*** - *Hypnose (eins78 Remix)*
+- Sound: <http://soundcloud.com/eins78/hypnose-eins78-digital-is-besser-remix-preview> 2.4.11 19:37
+- Lyrics: <http://www.xlyrics.de/spieltrieb-lyrics/hypnose-lyrics.html>, 2.4.11 19:37
 
 
 ## Next Project.
@@ -359,7 +359,7 @@ Der Theoretiker und Publizist [Slavoj Žižek schrieb über Pussy Riot](http://d
 
 Neulich in einer Diskussion mit Norbert Hinterberger meinte dieser: „*Pussy Riot* sind ein gutes Beispiel für gesellschaftspolitisch erfolgreichen Dilettantismus unter dem Motto ‚Der Zweck heiligt die Mittel‘.
 Mir ist das aber noch allemal lieber als PC-weichgespülte Mitleidsattitüden und viele Formen der ‚Sozialkunst‘!“ Die Grenzen zwischen politischer Kunst, welche sich mit den negativen Auswirkungen
-der sozio-ökonomischen Ära des Spätkapitalismus auseinandersetzt, und reiner sozialer Arbeit verwischen langsam, wie zum Beispiel die Arbeit der Künstlergruppen *Wochenklausur* oder *Reinigungsgesellschaft*, die sich als 
+der sozio-ökonomischen Ära des Spätkapitalismus auseinandersetzt, und reiner sozialer Arbeit verwischen langsam, wie zum Beispiel die Arbeit der Künstlergruppen *Wochenklausur*[@Zinggl:Wochenklausur] oder *Reinigungsgesellschaft*, die sich als 
 „künstlerisches Unternehmen an der Schnittstelle zwischen Kunst und Gesellschaft“ [@Erhardt:Social] verstehen, und fast reine Sozialarbeit, nämlich welche, die eigentlich von der Staat zu erwarten wären, treiben.
 
 Im Züge der *Occupy Bewegung* in verschiedenen Ländern, gab es auch diverse Auseinandersetzungen von Künstlern mit der Institution Museum. In Tel Aviv z.B. haben im Sommer 2011 mehrere Künstler eine Demonstration
@@ -397,7 +397,9 @@ Oft und gern zitiere ich in diesem Bezug die Worte Simon Sheikhs:
 > wir für uns selbst tun? (...) Kunst bewirkt natürlich etwas, aber Kunst ist nicht genug …“ [-@Sheikh:Reprasen]
 
 
-###  Le Tigre - Get Off The Internet
+\pagebreak
+
+### Get Off The Internet
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
@@ -430,10 +432,10 @@ I'll meet you in the street
 Destroy the right wing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
-- From: *From The Desk Of Mr.Lady*, ep 2001.
-- [Lyrics Link](http://www.metrolyrics.com/get-off-the-internet-lyrics-le-tigre.html)
-- [Video](http://www.youtube.com/watch?feature=player_embedded&v=UWtBD0uRN0g)
-
+- Text: ***Le Tigre***: *Get Off The Internet*
+- aus dem Album *From The Desk Of Mr.Lady*, 2001 --
+- Video: <http://youtube.com/watch?v=UWtBD0uRN0g>
+- Lyrics: <http://www.metrolyrics.com/get-off-the-internet-lyrics-le-tigre.html>
 
 
 

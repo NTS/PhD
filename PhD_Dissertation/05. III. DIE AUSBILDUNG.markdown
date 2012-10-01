@@ -70,13 +70,13 @@ Deutschland kann für viele als ein Künstlerparadies (in Relation zu anderen L�
 niedrig, in Weimar liegen sie zur Zeit bei ca. 137,- Euro pro Semester. Erst nachdem man die Regelstudienzeit überschritten hat, muss man 500,- Euro pro Semester zahlen, 
 was immer noch ein lächerlicher Betrag im Vergleich zu den Gebühren z.B. in den USA und Großbritannien ist. Sie kreisen dort um die 25,000€ pro Studiumsjahr ist, laut [*Art & Society*](http://suite101.com/article/top-10-art-schools-compared-a53521) Online Magazin. 
 
-Nach dem Studium und mit Verweis auf eine künstlerische Tätigkeit kann sich jeder, der nachweisen kann, dass er hauptberuflich als Künstler tätig ist, mit der [Künstlersozialkasse](http://www.kuenstlersozialkasse.de/Krankenversicherung)(KSK) abschließen, was ein [einmaliges Modell](http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html) in Europa bildet. Fast ein Prozent der Einwohner in Berlin ist durch die KSK versichert. Zusätzlich wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch den [Art. 5 Abs. 3 des Grundgesetzes](http://www.gesetze-im-internet.de/gg/art_5.html) gewährleistet. Auch finden Künstler große finanzielle Unterstützung durch unzählige Wettbewerbsmöglichkeiten und Stipendienangebote sowie Staatliche Förderungen, wie die [*Bundeskulturstiftung*](http://www.bundeskulturstiftung.de/) und den [*Fonds Soziokultur*.](http://www.fonds-soziokultur.de/) Für eingereichte Bewerbungen können bei der Bundeskulturstiftung  Forderungsgelder in Höhe bis zu 50,000€ pro Projekt beantragen. [Die Kulturausgaben insgesamt](https://www.destatis.de/DE/Publikationen/Thematisch/BildungForschungKultur/Kultur/Kulturindikatoren.html) pro Einwohner pro Jahr betragen bundesweit durchschnittlich 100€.
+Nach dem Studium und mit Verweis auf eine künstlerische Tätigkeit kann sich jeder, der nachweisen kann, dass er hauptberuflich als Künstler tätig ist, mit der [Künstlersozialkasse](http://www.kuenstlersozialkasse.de/Krankenversicherung)(KSK) abschließen, was ein [einmaliges Modell](http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html) in Europa bildet. Fast ein Prozent der Einwohner in Berlin ist durch die KSK versichert. Zusätzlich wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch den [Art. 5 Abs. 3 des Grundgesetzes](http://www.gesetze-im-internet.de/gg/art_5.html) gewährleistet. Auch finden Künstler große finanzielle Unterstützung durch unzählige Wettbewerbsmöglichkeiten und Stipendienangebote sowie Staatliche Förderungen, wie die [*Bundeskulturstiftung*](http://www.bundeskulturstiftung.de/) und den [*Fonds Soziokultur*.](http://www.fonds-soziokultur.de/) Für eingereichte Bewerbungen können bei der Bundeskulturstiftung  Forderungsgelder in Höhe bis zu 50,000€ pro Projekt beantragen. [Die Kulturausgaben insgesamt pro Einwohner pro Jahr betragen bundesweit durchschnittlich rund 100€.](https://www.destatis.de/DE/Publikationen/Thematisch/BildungForschungKultur/Kultur/Kulturindikatoren.html)
 
 
+\pagebreak
 
-### Rainald Grebe - Akademikerinnen
+### Akademikerinnen
 
-Rainald Grebe Und Die Kapelle Der Versöhnung aus der Album *Volksmusik* (2007).
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
 Die Familienministerin Ursula von der Leyen
@@ -124,9 +124,9 @@ Durch Frauen mit Diplom
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-From:
-Lyrics: <http://lyrics.wikia.com/Rainald_Grebe_Und_Die_Kapelle_Der_Vers%C3%B6hnung:Akademikerinnen>
-Audio:
+- Text: ***Rainald Grebe und die Kapelle der Versöhnung*** - *Akademikerinnen*
+- aus dem Album *Volksmusik* (2007)
+- Lyrics: <http://lyrics.wikia.com/Rainald_Grebe_Und_Die_Kapelle_Der_Vers%C3%B6hnung:Akademikerinnen>
 
 
 
@@ -205,10 +205,11 @@ die Avantgarde und das Kuratorium, ist das Thema künstlerische Recherche innerh
 inzwischen fest verankert. Seit geraumer Zeit häufen sich auch die Online Magazine wie *Artistic Research UK.org*, die sich diesem Thema widmen.
 
 Ein gutes Beispiel für diese Auseinandersetzung ist die Arbeit von Hagen Betzwieser, der seit 2001 das [*Institut für Allgemeine Theorie*](http://www.iat-research.com/index.php/about-the-institute) in Stuttgart 
-in Zusammenarbeit mit mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Leiter der Akademie Schloss Solitude beschreibt die Tätigkeit von Betzwieser wie folgt: 
-“Das Institut für Allgemeine Theorie ist ein Projekt von unbestimmter Dauer, für alles von einem auf einer unendlichen Anzahl von Teilnehmern. Er arbeitet in einem undefinierten 
-Bereich, in der Grauzone, wo es keine Unterscheidung zwischen Fiktion und Wissenschaft, Kunst und Handwerk, selbständiges Arbeiten und Selbstausbeutung, zwischen Spiel-, 
-Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”. TODO: [^fn-jolie] [^fn-jolie]:(http://www.iat-research.com/index.php/about-the-institute)
+in Zusammenarbeit mit mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Leiter der Akademie Schloss Solitude, beschreibt die Tätigkeit von Betzwieser wie folgt: 
+
+> „Das Institut für Allgemeine Theorie ist ein Projekt von unbestimmter Dauer, für alles von einem auf einer unendlichen Anzahl von Teilnehmern. Er arbeitet in einem undefinierten 
+> Bereich, in der Grauzone, wo es keine Unterscheidung zwischen Fiktion und Wissenschaft, Kunst und Handwerk, selbständiges Arbeiten und Selbstausbeutung, zwischen Spiel-, 
+> Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt.“ [@Joly:Institute]
 
 Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläubigkeit gegenüber der 
 neuen Realität, einen PhD Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]bezieht sich der 
@@ -227,8 +228,6 @@ uns in dieser Entwicklung, weil die Intention nicht mehr nur allein aus der prak
 Kunst ist natürlich ein Thema für Philosophen, es ist kein Wunder also, dass Künstler sich auch zurück an die Philosophie lehnen, oder wie Adorno sagt: „ ... genuine ästhetische Erfahrung muss Philosophie werden oder sie ist überhaupt nicht.“ [-@Adorno:GS 7, pp. 197]
 
 
-
-
 Welche Eigenschaften verbinden künstlerische und wissenschaftliche Recherche? Neugier, Kreativität, Experimentierfreude, die Forschung als Prozess, 
 Neues entdecken und zu erfinden. Laut Kuhn streben beide in ihren Fragestellungen nach Antworten. Der Unterschied beginnt damit, dass die Wissenschaft 
 nur sich selbst als Publikum hat während die Kunst ein viel breiteres Publikum genießt. Aus heutiger Sicht lässt sich dieser Sachverhalt relativieren, denn ein 
@@ -237,10 +236,9 @@ interessieren wiederum nur solche Künstler, die Master- und PhD-Programme beleg
 Zielgruppe ansprechen. Ein weiterer Unterschied ist, dass der Künstler auch das Scheitern als Resultat präsentieren kann oder um es mit den Worten des Musikers 
 Genesis P. Orridge zu sagen: „Der Prozess ist das Produkt“. Die Wissenschaft kann sich das kaum leisten. Künstler können ein ästhetisches, aber durchaus hermetisches Werk 
 erzeugen, ein Bild von ihren Gedanken, von ihrer Suche kreieren, während Wissenschaftler nach luzidem Schreiben streben, welches wiederum ihren Gedanken ein Bild verleiht. 
-Recht und Anerkennung verlangen und erhalten beide. In dem 2008 erschienenem Buch *The artist as public Intellectual* hat Hirschhorn seinen Beitrag *About art in 
-public space – the space of public life* genannt. [@Wulffen:Public, pp. 72-103] 
+Recht und Anerkennung verlangen und erhalten beide. In dem Buch *The artist as public Intellectual* hat Hirschhorn seinen Beitrag *About art in 
+Public Space – the Space of Public Life!* [-@Hirschhorn:PublicSpace] genannt.  
 
-[TODO][@Wulffen:Public,...
 
 **Bild:** [Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual]
 
@@ -263,11 +261,11 @@ Als Beobachter und Kritiker, als Erzähler,
 schauen sich die Künstler genau um, um neue Ausdrucksmöglichkeiten zu entwickeln, die im Grunde einer Bereicherung des Pinselsortiments in der Werkzeugkiste gleichen. 
 Künstler kreieren außer Objekten und Gemälden auch Musik, Filme, Videos, Fotos, Interventionen in verschiedenen Formen und erfinden stets neue Strategien, um ihre Arbeit 
 nicht nur sichtbar zu machen, sondern wahrgenommen zu werden. Sie schleichen sich als Geschäftsleute ein, machen Werbung, halten Vorträge, wollen die Welt verbessern. Nun, wenn alles 
-*Fake* ist und nicht echt, kann es auch als Entertainment rezipiert werden. Bernard Hoffert schreibt in *Taking Art Seriously:Understanding Studio Research*: „Kunst ernst zu nehmen 
+*fake* ist und nicht echt, kann es auch als Entertainment rezipiert werden. Bernard Hoffert schreibt in *Taking Art Seriously: Understanding Studio Research*: „Kunst ernst zu nehmen 
 bedeutet nicht nur, dass wir ihr kreatives Potenzial verstehen, sondern auch wie wir ihr Forschungs-Wissen nutzen können, um parallel zu anderen Disziplinen und zur 
-Entwicklung zur Kultur beizutragen“. (http://artandeducation.net/) oder wie es auf der Website des Potsdamer Institut für künstlerische Forschung steht: 
-“Künstlerische Forschung setzt sich mit dem Entstehungsprozess eines Kunstwerkes auseinander und entwickelt auf der Schnittstelle von Kunst und Wissenschaft neue 
-Methoden zur Erforschung und Abbildung des Verhältnisses von Individuum und Gesellschaft”.
+Entwicklung zur Kultur beizutragen“ (@Hoffert:Seriously). Oder, wie es auf der Website des Potsdamer Institut für künstlerische Forschung steht: 
+„Künstlerische Forschung setzt sich mit dem Entstehungsprozess eines Kunstwerkes auseinander und entwickelt auf der Schnittstelle von Kunst und Wissenschaft neue 
+Methoden zur Erforschung und Abbildung des Verhältnisses von Individuum und Gesellschaft“.
 
 
 Als solches braucht jeder Diplomand der sein Studium beendet hat Strategien, um einen Unterschied machen zu können auf dem überfüllten Feld, das ihn draußen erwartet. 
@@ -275,53 +273,55 @@ Als solches braucht jeder Diplomand der sein Studium beendet hat Strategien, um 
 *Dieses Kapitel entstand im Rahmen des Wissenschaftsmoduls „Künste und Wissenschaften: Konkurrenzen, Korrespondenzen, Konstellationen“ bei Prof. Dr. Reck im Rahmen des PhD Programms 2010*
 
 
+\pagebreak
 
-#### Saalschutz - Leerer, Inhaltsloser Ausdruck 
- 
+#### Leerer, Inhaltsloser Ausdruck
 
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
-	Ich fragte sie: 
-	"Kennst du dich bei Kunst aus?"
-	Dann gestand ich ihr: 
-	Ich plane einen Kunstraub.
-	Ich sagte ihr:
-	"Ich frage dich, 
-	Welche Kunst ich rauben soll 
-    und welche Kunst nicht?"
 
-	Ich fragte sie: 
-	"Stimmt es, dass du was von Kunst weißt?"
-	Sie sagte mir: 
-	"Ich bewege mich in entsprechendem Dunstkreis"
-	Ich sagte dann zu ihr:
-	"Komm, wir geh'n zu mir"
-	Sie fragte: "Um über Kunst zu diskutieren"?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
+Ich fragte sie: 
+"Kennst du dich bei Kunst aus?"
+Dann gestand ich ihr: 
+Ich plane einen Kunstraub.
+Ich sagte ihr:
+"Ich frage dich, 
+Welche Kunst ich rauben soll 
+und welche Kunst nicht?"
 
-	Ich fragte sie: 
-	"Kennst du dich bei Kunst aus?"
-	Dann gestand ich ihr: 
-	Ich plane einen Kunstraub,
-	Weil ich dringend Kunst brauch'.
-	Warte ich vor dem Kunsthaus auf dich,
-	Doch du kommst nicht.
+Ich fragte sie: 
+"Stimmt es, dass du was von Kunst weißt?"
+Sie sagte mir: 
+"Ich bewege mich in entsprechendem Dunstkreis"
+Ich sagte dann zu ihr:
+"Komm, wir geh'n zu mir"
+Sie fragte: "Um über Kunst zu diskutieren"?
 
-	Leerer, inhaltsloser Ausdruck,
-	Das ist das was ihr hier hört
-	Leerer, inhaltsloser Ausdruck,
-	Ist uns egal wenn euch das stört
-	weil dieses Song hier uns gehört (3x)
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	
-- Album:  *Das ist nicht mein Problem*, 2004
+Ich fragte sie: 
+"Kennst du dich bei Kunst aus?"
+Dann gestand ich ihr: 
+Ich plane einen Kunstraub,
+Weil ich dringend Kunst brauch'.
+Warte ich vor dem Kunsthaus auf dich,
+Doch du kommst nicht.
+
+Leerer, inhaltsloser Ausdruck,
+Das ist das was ihr hier hört
+Leerer, inhaltsloser Ausdruck,
+Ist uns egal wenn euch das stört
+weil dieser Song hier uns gehört (3x)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Text: ***Saalschutz*** - *Leerer, Inhaltsloser Ausdruck*[^saalschutz-video]
+- aus dem Album:  *Das ist nicht mein Problem*, 2004
 - Lyrics: Transkript NTS
-- [Video on YouTube](https://www.youtube.com/watch?v=YO-nZ7CDfYQ)
+- Video: <https://www.youtube.com/watch?v=YO-nZ7CDfYQ>
 
 
 
 ##  Akademie trifft Kunstmarkt
 
 
-Als erster Schritt haben alle Kunstakademien innerhalb der Hochschulrektorenkonferenz der Deutschen Kunsthochschulen sich zusammen [gegen die Bologna Reform Festlegung eines B.A.verwahrt](http://www.sueddeutsche.de/bildung/2.220/zehn-jahre-bologna-reform-harsche-kritik-an-bachelor-und-master-1.1441136) und das fünfjährige Studiumsformat beibehalten, denn es wäre verwegen, einen Bachelor-Künstler (wie soll die Basis-Ausbildung aussehen?)
+Als erster Schritt haben alle Kunstakademien innerhalb der Hochschulrektorenkonferenz der Deutschen Kunsthochschulen sich zusammen [gegen die Bologna Reform Festlegung eines B.A.verwahrt](http://www.sueddeutsche.de/bildung/1.1441136) und das fünfjährige Studiumsformat beibehalten, denn es wäre verwegen, einen Bachelor-Künstler (wie soll die Basis-Ausbildung aussehen?)
 in drei oder vier Jahren auszubilden. Wäre das dann ein „kleiner Künstler“ und der Master der „Chef“? Die Kunstausbildung ist – wie in allen anderen Berufen auch – nie abgeschlossen 
 und als quasi philosophische Disziplin nicht im Schnelldurchgang zu machen. Auch das Diplom ist keine Garantie für Berufserfolg, allenfalls ein akademischer 
 Abschluss.
@@ -365,10 +365,10 @@ Es diskutierten: Frank Motz (ACC Weimar), Silke Opitz (Projektkoordinatorin der 
 (Kuratorin Bauhaus Essentials) mit den Grafe-Preis Gewinnern Ruth Kroll, Lucian Patermann und Berit Schönfelder sowie den Studierenden 
 der Bauhaus-Universität und Gästen.
 
-Moderation: Naomi T. Salmon
+*Moderation: Naomi T. Salmon*
 
 
-NAOMI TEREZA SALMON (NTS): 
+*NAOMI TEREZA SALMON (NTS):* 
    „Ich freue mich besonders über diese Diskussion, die mithilfe der marke.6 zustande gekommen ist. Ich glaube, es ist der richtige Moment, 
    um über die Beziehungen zwischen Kunstmarkt und Kunstakademie zu reden und die Änderungen in diesem Verhältnis noch einmal anzudeuten sowie über Reaktionen und 
    Wahrnehmungen zu sprechen.
@@ -383,11 +383,11 @@ NAOMI TEREZA SALMON (NTS):
    Heute gab es einen Artikel in der TLZ über die Bauhaus Essential vom Kulturmanagement Network geschrieben. Hier heißt es, dass wir die Zielgruppe erreicht haben‚ 
    mit Fragezeichen: ‚Gehen wir in diese Richtung?‘“
 
-NTS Frage an Frank Motz: 
+*NTS, Frage an Frank Motz:* 
    „Wie findest du das, wenn Künstler sich immer mehr selbst vermarkten, Texte und Einladungen selbst schreiben und eigene Galerien gründen, 
    wo es doch genug Galerien und schon genug Produzentengalerien gibt; heißt dies, dass Galeristen als Vermittler bald arbeitslos sind?“
 
-FRANK MOTZ: 
+*FRANK MOTZ:* 
    „Wenn es echte Galeristen gäbe. Zwar ist Thüringen reich bestückt mit Kunsthändlern und Galeristen, die erwähnenswerten allerdings kann man an einer Hand abzählen. 
    Insofern bleibt Künstlern jeden Alters oftmals keine Wahl. Sie müssen sich selbst vermarkten, wenn sie kommerziell erfolgreich sein möchten. Zumindest müssen sie versuchen, 
    ihr Schicksal selbst in die Hand zu nehmen. Initiativen wie die Galerie 9T, Galerie Eigenheim und dergleichen kann man nicht hoch genug schätzen, weil es studentische 
@@ -400,7 +400,7 @@ FRANK MOTZ:
    Fuß zu fassen. Oder sie gründen eine Familie, verlieren den Bezug zum Künstlerischen.  Es gibt durchaus viele interessante Projekte, die man ans Studium anschließen kann.  
    Allerdings bleiben die wenigsten Absolventen künstlerisch tätig; tatsächlich eine Galerie zu finden, ist die Voraussetzung, kommerziell erfolgreich zu sein. 
    Schon zu Studienzeiten sollte man damit beginnen, sich diesem Ziel zu widmen und zu zeigen, dass man es mit der Kunst ernst meint: ‚Das ist meine Sache, 
-   mein Herz schlägt für die bildende Kunst, ich möchte da dran bleiben. ‘Das, wozu die Bauhaus-Universität scheinbar nicht in der Lage ist, nämlich auszutesten, 
+   mein Herz schlägt für die bildende Kunst, ich möchte da dran bleiben. Das, wozu die Bauhaus-Universität scheinbar nicht in der Lage ist, nämlich auszutesten, 
    gelingt eben dieser seit 18 Jahren ‚hergebeteten‘ Universitätsgalerie. 
    
    Ich rede nicht von einem Museum ohne Programm, dem ‚Neuen Museum‘ oder einem Zusatz für die ‚Tonne‘. Schließlich ist dies eine ernste Angelegenheit. Das habe ich auch zur ersten 
@@ -427,14 +427,14 @@ FRANK MOTZ:
    Unternehmungen zu unterstützen.“
 
 
-NTS, Frage an Dirk Teschner: 
+*NTS, Frage an Dirk Teschner:* 
    „Neulich gab es in der *Monopol* einen [Artikel](http://www.monopol-magazin.de/artikel/20101720/klaus-gerrit-friese-interview-bvdg-leitfaden.html) vom deutschen Galerieverband, welcher sinngemäß meinte: ‚Wir können nicht mehr denken wie vor 10 Jahren, die Kosten steigen, 
    die Messekosten sind zu viel, die Künstler sollen sich beteiligen.‘: ‚Der *Bundesverband Deutscher Galerien und Editionen e.V. (BVDG)* gibt einen Leitfaden für die Zusammenarbeit von Künstlern und Galerien heraus. Die Broschüre schlägt vor, die Künstler stärker an den Kosten zu beteiligen. Im *Monopol*-Interview erklärt Klaus Gerit Friese, Vorsitzender des *BVDG*, warum: „Jede Messebeteiligung mit Vorbereitung, Transporten etc. verschlingt unglaublich viel Geld. Mit den ständig steigenden Kosten bei einer Messebeteiligung hat sich eine Verlagerung der Erlösstruktur zu Ungunsten der Galerien ergeben. Bei dieser Verlagerung oder bei diesen schlechten Erträgen, die auf Messen gemacht werden können, und gleichzeitig extremem Preisbewusstsein der Sammler, kann man nicht mehr so tun, als wäre die Welt noch so wie vor zehn Jahren. Nur unter solchen Konstellationen geben wir zu bedenken: Es wäre doch gut, sich mit den Künstlern zu unterhalten, ob es nicht ein anderes Erlösmodell geben kann, als es bisher üblicherweise unhinterfragt praktiziert wird.“ […] *Wären Sie Dozent in so einem Studiengang: Was würden Sie den Studierenden mit auf den Weg geben?* -- „Galerist zu sein, steht unter dem ideologischen Gewand des schärfsten Individualismus: Nichts sei lehrbar, nichts wirklich vermittelbar, der gute Galerist ein Instinktmensch. Wir wollen zusammen mit den Studierenden erkunden, welche allgemeinen Voraussetzungen es gibt, wie mit den Rahmenbedingungen wie beispielsweise dem Folgerecht umzugehen ist, welche Fragen des Urheberrechts sie einfach kennen müssen etc. In drei Semestern entlassen wir sie dann in die ihnen gut bekannt gemachte Realität der Kunstwelt. Und ich bin mir sicher, dass die ihnen vermittelte Systematik in der doch allgemeinen gesetzten folgenden Kunstwelt wesentlich nutzen wird.“‘
  
    Also sind Sie bald arbeitslos?“ 
    
 
-DIRK TESCHNER: 
+*DIRK TESCHNER:* 
    „Das gibt es ja bei Messen schon seit Jahren, dass sich bei manchen Galerien Künstler beteiligen. Ich halte das  nicht für gut, da dann meistens vieles an den Künstlern hängen 
    bleibt. Es kommt immer darauf an, welche Messen es sind, um welche Galerien es sich handelt und welches Verhältnis zu den Galerien man hat. Ich möchte für meine Ausführungen etwas weiter 
    ausholen: Durch die Künstler, die ja durch unsere ‚Schule‘ gingen in diesem und im letzen Jahr und durch Ausstellungen wurde mir bewusst, dass an der Bauhaus-Universität ganz bestimmte Dinge 
@@ -446,10 +446,10 @@ DIRK TESCHNER:
    ‚Sammler sollen so und so sein, Galeristen sollen so sein.‘ Jetzt kennt man sie! Ich schließe mich Franks Meinung mit den eigenen Wänden an.  Warum gehen junge Leute nicht geschlossen 
    (meistens junge Leute eines Jahrgangs) und finden einen Weg, einen Laden, eine Galerie, eine Produzentengalerie und keinen ‚Computerkram.‘“
 
-NTS Frage an Silke Opitz: 
+*NTS, Frage an Silke Opitz:*
    „Ich würde dich gerne fragen, ob Studenten Deiner Meinung nach überhaupt etwas auf einer Messe zu suchen haben?“
 
-SILKE OPITZ: 
+*SILKE OPITZ:*
    „Um auf deine Frage zu antworten und auf den vorherigen Beitrag Bezug nehmend möchte ich vorwegschicken, dass die Bauhaus-Universität ein ganz besonderes Konstrukt ist. 
    Alles ist eine Frage der Perspektive. Wir sitzen hier in dieser Runde und präsentieren die Fakultäten Gestaltung und Medien. Wir haben aber auch noch zwei weitere Fakultäten, Architektur 
    und Bauwesen. Aus deren Perspektive sieht alles etwas anders aus.  Deshalb finde ich es wichtig, noch einmal hervorzuheben, was eine Unigalerie leisten kann, abgesehen von räumlichen 
@@ -463,14 +463,14 @@ SILKE OPITZ:
    Warum soll man nicht schon während des Studiums sein Medium finden? Die Bauhaus Universität definiert sich nicht über kunstakademische Klassen, wie Malerei, Skulptur, 
    Grafik und Zeichnung wie eine Kunstakademie. Man arbeitet projektbezogen und findet sein Medium über Projekte. Trotzdem ist man marktkompatibel, weil man letzten Endes liefert, was gefragt ist.“
 
-NTS: 
+*NTS:*
    „Es gibt natürlich auch Meinungen, dass das Kunststudium ein Studium sein solle, in welchem die Studierenden ihre Freiheit haben zu experimentieren. 
    Was ist da passiert, warum sind sie dann plötzlich marktreif, was hat sich geändert, in der Haltung vielleicht, selbst vom künstlerischen Werdegang, dass man sich reif fühlt, 
    bevor man sein Diplom gemacht hat? Es gibt bestimmt genug Leute, die sich dagegen wehren. Erst einmal stört es die Freiheit, man ist sozusagen zielstrebig darauf aus, auf den Markt zu kommen. 
    Natürlich gibt es auch viele andere Argumente. Denn Künstler kann man auch sein, wenn man den Markt ignoriert, bis man entdeckt wird. Also ist es kein Störfaktor, 
    wenn man während des Studiums schon nach außen denkt?“
 
-FRANK MOTZ: 
+*FRANK MOTZ:* 
    „Ich habe gerade noch einmal über das andere Thema nachgedacht. Jemals Veranstalter auf einer Messe gewesen zu sein, hat auch etwas mit Prestige zu tun. 
    Studenten können an Messen teilnehmen, solange der Veranstalter nichts dagegen hat. Ich würde es nicht zulassen. Für diese Zwecke gibt es die vielen kleinen Zwischenmessen bzw. 
    Trabantenmessen. Im ACC - Atelierprogramm können sich keine Studenten bewerben. Eine Bewerbung als Student ist zwar möglich, sie dürfen aber mit Antritt des Stipendiums keine Studenten mehr sein.
@@ -478,7 +478,7 @@ FRANK MOTZ:
    autodidaktische Kenntnisse vorweisen können. Andererseits leben wir heute in einer Übergangsgesellschaft, in welcher alles möglich ist, also z.B. auch das Ausstellen von 
    ‚Tieraquarellen aus der Kindertagesstätte‘. Aber warum eigentlich nicht. Es liegt an jedem selbst, Begeisterung zu zeigen oder diese Art von Kunst mit Missachtung zu strafen.“ 
 
-DIRK TESCHNER: 
+*DIRK TESCHNER:* 
    „Diesen konkreten Fall hat es gegeben. Es gab einen offenen Bereich mit Ständen von Galerien auch im Bereich der marke.6, wo man gemerkt hat, dass hier etwas anders ist. 
    Es gab es ja schon eigentlich immer, dass Kunststudenten freie Bereiche nutzten oder während des Studiums schon in eine Galerie gelangten, ausstellten und auf dem Markt Fuß fassten. 
    Trotzdem studierten sie weiter. Eine Verallgemeinerung, was denn nun gut oder schlecht sei kann es meiner Meinung nach nicht geben. Die Gefahr besteht immer, nur noch marktorientiert 
@@ -490,10 +490,11 @@ Die Diskussion zeigt, wie relevant das Thema zur Zeit ist. Eine Nachfolge dieser
 und die Marke.6, in der dritten Runde zur Preview Berlin Kunstmesse, diesmal mit 5 Studenten, davon zwei Gaststudenten aus Spanien, die die Entscheidung getroffen haben, zur BUW zu wechseln. 
 Die Berlin Preview, ist eine Art Fair, seit 2004 existent. Im Hangar 2 des ehemaligen Flughafens Berlin-Tempelhof situiert, hat sie ihr Format ab 2009 zu *FOCUS ACADEMY* geändert, sodass der Schwerpunkt auf
 Kunsthochschulen liegt, um den „Übergang vom Studium hin zur künstlerischen Selbstständigkeit die Möglichkeit zu geben, sich einer großen, kunstinteressierten Öffentlichkeit zu präsentieren und
-erste Erfahrungen auf dem Kunstmarkt zu sammeln“. Quelle(http://www.previewberlin.com/Sites/ueberunsd.html). Im Jahr 2010 war die Marke.6 die erste Universitätsgalerie auf eine Kunstmesse.
-Der Erfurter Galerist Dirk Teschner präsentierte mehrere BUW Alumni, u.a. auch unseren Absolvent Benedikt Braun. Neben der Bauhaus-Universität Weimar, sind dann im Jahr 2011 Muthesius 
-Kunsthochschule Kiel und Akademie der Bildenden Künste Nürnberg vertreten gewesen, 2012 kamen die Burg Giebichenstein Kunsthochschule Halle, die Kunsthochschule Kassel, die UdK Berlin, 
-die HfG Offenbach sowie die Weißensee Kunsthochschule Berlin hinzu.
+erste Erfahrungen auf dem Kunstmarkt zu sammeln“ [@previewb:about]. Im Jahr 2010 war die Marke.6 die erste Universitätsgalerie auf eine Kunstmesse.
+Der Erfurter Galerist Dirk Teschner präsentierte mehrere BUW Alumni, u.a. auch unseren Absolvent Benedikt Braun. Neben der Bauhaus-Universität Weimar, sind dann im Jahr 2011 die *Muthesius 
+Kunsthochschule Kiel* und die *Akademie der Bildenden Künste Nürnberg* vertreten gewesen, 2012 kamen die *Burg Giebichenstein*, *Kunsthochschule Halle*, die *Kunsthochschule Kassel*, die *UdK Berlin*, 
+die *HfG Offenbach* sowie die *Weißensee Kunsthochschule Berlin* hinzu.
+
 
 ## Das Dilemma
 
@@ -515,11 +516,9 @@ oder indirekt vermittelt. Klar ist, es entstehen unterschiedliche 'Sorten' von K
 und der Netzkünstler, und andere noch mehr. Sie haben alle unterschiedliche Bedürfnisse.
 
 
-
-
 ## Wo ist eigentlich...?
 
-_Resultate_
+*Resultate*
 
 
 **Bild** [Eintrag im ACC Besucher Buch zur Eröffnung der Ausstellung von *Barking Dogs United* *Size Matterz* im Winter 2008](der_kunstbewusste_mensch_investiert_heute_schon_in_benedikt_braun)
@@ -531,7 +530,7 @@ Einige Beispiele zeigen, dass mehrere sich alternativ bewegen, entweder noch wä
 Ich berichte hauptsächlich von Studierenden aus der Kiosk09 Gruppe, solche, die bei mir und Prof. Hinterberger mehrere Projekte absolviert und anschließend ihr Diplom bei uns 
 gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben und währenddessen ihre Strategien für das Diplom entwickelten, Ausstellungsräume eröffneten und diese leiten oder selbst dort ausstellten. 
 
-- Max Albrecht -- gründet die Firma *KTE* Kunst Technik Einheit.
+- Max Albrecht -- gründet die Firma *KTE* — Kunst-Technik-Einheit.
 
 - Franziska Becher -- arbeitet als Freie Mitarbeiterin bei der ACC Galerie.
 
@@ -567,8 +566,9 @@ gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben
 
 **Bild:** [Die Kunststipendiatin Minna XY aus XY, Kunstbetrieb Istanbuls als Mindmap] TODO: minnas_map_2006.jpg
 
+\pagebreak
  
-### CSS - Artbitch 
+### Artbitch
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
@@ -611,9 +611,10 @@ Lick lick lick my art-tit
 Suck suck suck my art-hole
 Suck suck suck my art-hole
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	
+
+- Text: ***CSS*** - *Artbitch*
 - Lyrics: <http://lyrics.wikia.com/CSS:Artbitch>
-- [Video on Youtube](https://www.youtube.com/watch?v=BFuVJDz5XuU)
+- Video: <https://youtube.com/watch?v=BFuVJDz5XuU>
 	
 
 

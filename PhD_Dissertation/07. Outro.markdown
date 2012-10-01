@@ -28,7 +28,7 @@ Für die kreativen Studiengänge bedeutet dies eine doppelte Anpassung, die enor
 für das Leben nach der Universität - innerhalb der Studienzeit. Diese Entwicklung unterbindet den Laborgedanken eines Studiums auf drastische Weise und verhindert eine 
 intensive Auseinandersetzung mit Nachbarthemen, sodass keine Zeit zum Testen, Probieren und Experimentieren bleibe.
 
- Am sinnvollsten für das, was man derzeit im Studium anbieten kann und soll, sei es aufzuzeigen wie es draußen läuft, weg von Suggerieren eines 'Sprungs ins kalte Wasser', und mehr die Möglichkeiten
+Am sinnvollsten für das, was man derzeit im Studium anbieten kann und soll, sei es aufzuzeigen wie es draußen läuft, weg von Suggerieren eines 'Sprungs ins kalte Wasser', und mehr die Möglichkeiten
 erproben, das heißt die Parameter kennenlernen. Der Rest verbleibe dem inneren Drang, etwas zu tun oder zu lassen. Leider stimme er der Meinung Sigrid Weigels zu, dass die meisten das Kunststudium heutzutage antreten, um zuerst reich oder zumindest berühmt 
 werden zu wollen und erst danach zu sterben.
 
@@ -148,8 +148,9 @@ falls sie zu Lebenszeit scheitern.
 
 
 
+\pagebreak
 
-### DJ Koze AKA Adolf Noise - Zuviel Zeit?
+### Zuviel Zeit?
 
 
 Am X Tag 2004 hat Günther Gabriel seinen Frust während eines bestellten Auftritts herausgelassen, und für Wellen gesorgt, bis dieser zu einem Musik-track gesampelt wurde. In der Radio live Aufnahme wandete sich Günther Gabriel mit seinen Worten gegen die Arbeitslosen,
@@ -158,10 +159,10 @@ im Studio wurde der Text gegenüber den Fans und Zuhörern angepasst.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
+(Zusammenschnitt aus Radioreport):
 
-(Zusammenschnitt aus der Radioreport):
-
-Intro: Moderatorin: "Andreas Heimann über den
+Intro:
+Moderatorin: "Andreas Heimann über den
 Skandalauftritt, und warum Günther Gabriel um Eisleben
 künftig besser einen großen Bogen machen sollte":
 
@@ -186,7 +187,7 @@ wütend, doch auch am Tag danach bereut Günther Gabriel
 nichts, im Gegenteil, der Schlagersänger tritt noch
 mal nach, vor allem, gegen Arbeitslose".
 
-Günther Gabriel: "---und deshalb ist Harz 4 verdammt
+Günther Gabriel: "-- und deshalb ist Harz 4 verdammt
 endlich mal notwendig,(…) es doch nicht sein, den
 einen den ganzen Tag auf dem Arsch auf der Sofa sitzt,
 und derjenige, der den Schweiß im Rücken runter
@@ -216,15 +217,13 @@ macht sich von alleine, von wegen Arbeit, und das Geld
 kommt per Post an?
 	
 ...
-
-
-	
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	
-	From: Spex CD #51 
-	Lyrics: Transkript NTS
-	Audio: http://soundcloud.com/tdackel/dj-koze-aka-adolf-noise-zuviel
+
+- Text: ***DJ Koze AKA Adolf Noise*** - *Zuviel Zeit?*,[^zuviel-zeit-sound]
+- aus dem Album *Spex CD #51*, 2004
+- Sound: http://soundcloud.com/tdackel/dj-koze-aka-adolf-noise-zuviel
+- Lyrics: Transkript NTS
+
 	
 	
 
