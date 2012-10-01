@@ -63,12 +63,12 @@
 }
 
 
-20. **Bild:** [Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual]
+20. **Bild:** [Hirschhorn: Buchumschlag]
 
 
 
 {
-  "title-short" : "\"Hirschhorn Buchumschlag\"",
+  "title-short" : "\"Hirschhorn: Buchumschlag\"",
   "title" : "Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
   "filename" : "thomas_hirschhorn_booksleeve.jpg",
   "media-type" : "Grafik",
@@ -78,11 +78,11 @@
 }
 
 
-**Bild:** [Hirschhorn: Seite aus dem Buch mit Text]
+21. **Bild:** [Hirschhorn: Seite mit Text]
 
 
 {
-  "title-short" : "\"Seite mit Text\"",
+  "title-short" : "\"Hirschhorn: Seite mit Text\"",
   "title" : "Seite aus dem Buch mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
   "filename" : "thomas_hirschhorn_booksleeve.jpg",
   "media-type" : "Grafik",
@@ -93,23 +93,32 @@
 
 
 
-**Bild:** [Thomas Hirschhorn: Mindmap]
+22. **Bild:** [Hirschhorn: Mindmap]
 
 {
-  "title-short" : "\"Bauhaus Curriculum\"",
-  "title" : "Das Bauhaus Curriculum, 1922 \"",
+  "title-short" : "\"Hirschhorn: Mindmap\"",
+  "title" : "Thomas Hirschhorn: Mindmap als Einladungsmotiv \"",
   "filename" : "thomas_hirschhorn_mindmap.jpg",
   "media-type" : "Grafik",
-  "copyright" : "Johannes Itten",
-  "source" : "My Life 600 Website",
+  "copyright" : "Thomas Hirschhorn",
+  "source" : "",
   "source-url" : "http://"
 }
 
 
 
 
+23. **Bild** [Die Gallerie ist Tot]
 
-
+{
+  "title-short" : "\"Die Gallerie ist Tot\"",
+  "title" : "Die Gallerie ist Tot, Aktion zur Vorgrundung der marke.6, 2006 \"",
+  "filename" : "die_galerie_ist_tot.jpg",
+  "media-type" : "Button",
+  "copyright" : "Sebastian Helm",
+  "source" : "Giveaway vor Ort",
+  "source-url" : "http://www.es-lebe-die-galerie.de"
+}
 
 
 
