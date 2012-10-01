@@ -54,5 +54,6 @@ Diese Dissertation ist eine Kombination aus kapitel und Texte die während der R
 - [\XeLaTeX](http://scripts.sil.org/xetex) document preparation and typesetting system
 - BIBTEX Bibliographiemanagement
 - Bibliographie nach `DIN 1505-2`
+- [punch](https://github.com/laktek/punch), [JSON](http://json.org), [handlebars](http://handlebarsjs.com)
 - client-side hardware and operating system from [Apple](http://apple.com)
 - [TextMate2](http://macromates.com)
