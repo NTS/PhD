@@ -103,6 +103,7 @@ Das Verhalten des Polizisten John Pike während eines Protests an der UC Davis i
 die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension, nachdem Remixe aus dem Netz ihn einmal quer durch die Kunstgeschichte *mashten*. 
 
 TODO:
+
 **Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis]
 
 **Bild:** [Sunday Afternoon]
@@ -163,7 +164,7 @@ was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, 
 
 **Bild:** [Viktor Hertz: „Honest Logos“]
 
-Wie Flusser ausführt: „Man kann sagen, dass viele Bilder nicht versuchen, „konkrete“ Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen 
+Wie Flusser ausführt: „Man kann sagen, dass viele Bilder nicht versuchen, «konkrete» Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen 
 wie die Welt ist, sondern, wie sie sein kann oder sein soll.“ [-@Flusser:Kommuni, pp. 111] Obwohl er Bild im allgemein meint, macht speziell die Kunst genau das: Oft im voraus und nicht immer mit vollem Bewusstsein. Basiert die Kraft der Künstler  als Vorhersehende auf ihrem Beobachtungsvermögen, 
 das immer mehrere Parameter beinhaltet, z.B. auch solche von Anthropologen.
 Eine Mischung aus Neugierde, der Suche nach der Wahrheit und Experimentierfreude erzeugt mutige Feststellungen in visueller Form.
@@ -171,16 +172,17 @@ Eine Mischung aus Neugierde, der Suche nach der Wahrheit und Experimentierfreude
 **Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010] 
 
 Flussers Äußerungen der Kunst gegenüber in diesem Text sollte man aber aus der heutigen Sicht eher kritisch betrachten, vor allem wenn man das 
-epistemologische Narrativ wahrnimmt: „Man kann nicht zeigen, wie sich die Dinge verhalten sollen, ohne gezeigt zu haben, wie sie sich tatsächlich 
-verhalten, also ein Dèontologisches Motiv“ [-@Flusser:Kommuni, pp 112]. 
+*epistemologische Motiv* wahrnimmt, denn er schreibt weiter, „daß hinter den meisten Bildern (…) ein «dentologisches» Motiv steht: Sie wollen zeigen, was sein soll. Aber dieses Motiv schließt von selbst ein «epistemologisches» Motiv ein: Man kann nicht zeigen, wie sich die Dinge verhalten sollen, ohne gezeigt zu haben, wie sie sich tatsächlich 
+verhalten.“ [-@Flusser:Kommuni, pp. 112]. 
 
-Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Technik und ihre Ersetzung durch Technick an. Für ihn werden Bilder zu 
+Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Technik und ihre Ersetzung durch Technik an . Für ihn werden Bilder zu 
 Kunstwerken, sobald sie aufhören, der dominante 
-Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können. Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, 
+Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können [-@Flusser:Kommuni, pp. 113]. 
+Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, 
 gerade mit der Entwicklung der „Vergleichenden Ästhetik“ als Kunstsparte.[^fn-relationalaest]
 
 [^fn-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch *Relational Aesthetics* Kunst als eine Aktivität, die aus der Produktion von 
-Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), Aktionen und Objekten. [@Bourriaud:Relational]
+Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), Aktionen und Objekten. [vgl. -@Bourriaud:Relational]
 
 
 
