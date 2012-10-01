@@ -152,14 +152,56 @@
 
 
 
-27. **Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis]
+27. **Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis 2012]
+{
+  "title-short" : "\"John Pike pepper sprays students\"",
+  "title" : "Police lieutenant John Pike pepper sprays students at UC Davis 2012 \"",
+  "filename" : "police-officer-pepper-spr-007.jpeg",
+  "media-type" : "Foto",
+  "copyright" : "" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
+
 28. **Bild:** [Sunday Afternoon]sundayafternoon.jpeg [Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)]
-30. **Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth]
+
+{
+  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
+  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
+  "filename" : "valenta_biz.jpg",
+  "media-type" : "Foto",
+  "copyright" : "cc nts" ,
+  "source" : "nts 2010",
+  "source-url" : "http://www."
+}
+
+30. **Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth] pepper-spray-cop9.jpeg
+
+{
+  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
+  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
+  "filename" : "valenta_biz.jpg",
+  "media-type" : "Foto",
+  "copyright" : "cc nts" ,
+  "source" : "nts 2010",
+  "source-url" : "http://www."
+}
+
 31. **Bild:** [ Marcel Walldorf: „Pinkelnde Petra“, 2010]pinkelnde-petra.jpeg
 
-pepper-spray-cop9.jpeg
+{
+  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
+  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
+  "filename" : "valenta_biz.jpg",
+  "media-type" : "Foto",
+  "copyright" : "cc nts" ,
+  "source" : "nts 2010",
+  "source-url" : "http://www."
+}
 
-police-officer-pepper-spr-007.jpeg
+
+
+
 
 
 
