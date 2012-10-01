@@ -7,7 +7,7 @@
 ## Kunststudium am Beispiel der Bauhaus-Universität Weimar
 
 Die Bauhaus-Universität Weimar besteht aus vier Fakultäten: Architektur, Medien, Gestaltung und Bauingenieurwesen. Studierenden ist es hier möglich interdisziplinär zu 
-studieren und Projekte sowie Fachkurse auch in anderen Fakultäten zu besuchen. Neben Visueller Kommunikation, Produktdesign, Kunst auf Lehramt an Gymnasien und dem postgradualen Programm "Kunst im öffentlichen Raum und neue künstlerische Strategien" wird an der Fakultät Gestaltung Freie Kunst in erster Linie nach dem Montessori System gelehrt. 
+studieren und Projekte sowie Fachkurse auch in anderen Fakultäten zu besuchen. Neben Visueller Kommunikation, Produktdesign, Kunst für den Lehramt an Gymnasien und dem postgradualen Programm "Kunst im öffentlichen Raum und neue künstlerische Strategien" wird an der Fakultät Gestaltung Freie Kunst in erster Linie nach dem Montessori System gelehrt. 
 Das heißt, dass im ersten Semester alle neuen Studenten im zweiwöchigen Rhythmus, im Rahmen des Projektes „Wechselstrom“, alle Lehrenden der Fakultät Freie Kunst kennenlernen 
 und in einer Art „Speed Dating“ - in welchem man jeweils bei den Professoren und ihren Mitarbeitern eine Kostprobe bekommt, verschiedene Arbeitsweisen erproben. Vom 2.-8. 
 Semester arbeiten alle gemeinsam jeweils in Projekten ihrer Wahl, wobei stets Studienanfänger und ältere Semester in einem Projekt zusammen kommen.
@@ -15,16 +15,16 @@ Semester arbeiten alle gemeinsam jeweils in Projekten ihrer Wahl, wobei stets St
 Bei der spezifischen Projektarbeit zusammen mit Prof. Norbert Hinterberger geht es zunächst darum, sich dem Thema durch Input des Professors anzunähern, welches in Form von Vorlesungen, 
 Exkursionen und künstlerischer Recherche erfolgt. Am Ende jedes Semesters soll ein Kunstwerk entstehen. Fast zu jedem Semesterende gibt es eine Ausstellung, im Winter in den Arbeitsräumen 
 des jeweiligen Projektes und zum Ende des Sommersemesters die *Summaery* - die Jahresschau der gesamten Universität. Zunehmend entstehen für diese Ausstellungen Kollaborationen mit Museen, Galerien 
-und Kulturzentren, die gern mit der Freien Kunst kooperieren möchten und den Studierenden eine Chance geben, schon während des Studiums mit Professionellen Institutionen 
+und Kulturzentren, die gern mit der Freien Kunst kooperieren möchten und den Studierenden eine Chance geben, schon während des Studiums mit professionellen Institutionen 
 zusammenzuarbeiten und außerhalb der Hochschule auszustellen. Zusätzlich wird versucht, die Studenten zur Reflexion über die eigene Arbeit zu animieren. Sie müssen 
 bis zur jeweiligen Eröffnung einen Text zum Werk liefern, möglicherweise auch ein Bild. Sie sollen den Titel ihrer Arbeit kennen, dazu Materialkosten, investierte Arbeitszeit 
 und den Preis sowie Versicherungswert schätzen können. Das ist unsere Arbeitsweise und es muss betont werden, dass diese unter anderen Professoren nicht ganz so klar strukturiert wäre.
 
 Allgemein gesehen ist vieles an der Bauhaus-Universität Weimar besonders, einzigartig und anders als an anderen Kunsthochschulen und Universitäten in Deutschland. Der Fachbereich Freie 
 Kunst der Bauhaus-Universität Weimar ist keiner gesonderten Akademie untergeordnet sondern hier wird Kunst an einer Universität gelehrt und nicht wie im Fall der Bezalel Academy of Arts and 
-Design (staatliche Kunst- und Designhochschule in Jerusalem) die zur Hebräischen Universität Jerusalem gehört aber losgelöst davon eben als eigenständige Akademie funktioniert. Innerhalb des 
-Studiengangs Freie Kunst haben die Studenten in den Projekten eine freie Medienwahl. Viele Fertigkeiten lassen sich in den unterschiedlichen Werkstätten erlernen: Fotografie-, Holz-, Metal-, 
-Kunststoff- oder Gipswerkstatt sowie in verschiedenen Grafikkursen. Hier können sich die Studierenden ein vielfältiges Repertoire an Fähigkeiten aneignen und sich an welchem Medium auch immer bedienen. Die Belegung der Werkstattkurse geschieht zumeist getrennt vom Projektunterricht, in dem Inhalte zum Projektthema besprochen werden. Davon getrennt wird in verschiedenen Seminaren, die obligatorisch sind, Kunsttheorie- und Geschichte gelehrt und vermittelt. Das was in diesem Spektrum meines Erachtens fehlt - das Erlernen von Strategien zur Professionalisierung als Künstler, um später überleben 
+Design (staatliche Kunst- und Designhochschule in Jerusalem), die zur Hebräischen Universität Jerusalem gehört aber losgelöst davon eben als eigenständige Akademie funktioniert. Innerhalb des 
+Studiengangs Freie Kunst haben die Studenten in den Projekten eine freie Medienwahl. Viele Fertigkeiten lassen sich in den unterschiedlichen Werkstätten erlernen: Fotografie-, Holz-, Metall-, 
+Kunststoff- oder Gipswerkstatt sowie in verschiedenen Grafikkursen. Hier können sich die Studierenden ein vielfältiges Repertoire an Fähigkeiten aneignen und sich an welchem Medium auch immer erproben. Die Belegung der Werkstattkurse geschieht zumeist getrennt vom Projektunterricht, in dem Inhalte zum Projektthema besprochen werden. Davon getrennt wird in verschiedenen Seminaren, die obligatorisch sind, Kunsttheorie- und Geschichte gelehrt und vermittelt. Das was in diesem Spektrum meines Erachtens fehlt - das Erlernen von Strategien zur Professionalisierung als Künstler, um später überleben 
 zu können - versuche ich seit 2007, erst allein und seit 2011 zusammen mit meiner Kollegin Anke Hannemann in Fachkursen und Workshops anzubieten. 
 
 
@@ -40,12 +40,12 @@ Im Kapitel Fünfjahresplan werden diese Kurse ausführlich und mit Beispielen be
 ## Be an Art Student, be a Master, be a Doctor!
 
 In Folge der Reform der Hochschulabschlüsse in Europa (des sogenannten Bologna-Prozesses), und der damit verbundenen Anpassung an die aus den USA und Großbritannien bekannten
-Klassifizierungen, vermehrten sich die Angebote an akademischen Master- (=MFA) Programmen für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
+Klassifizierungen, vermehrten sich die Angebote an akademischen Master- (=MfA) Programmen für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
 vor allem in Westeuropa, (aber zunehmend auch im Osten), die solche Aufbau-Studienprogramme für die Kunstpraxis anbieten. Darunter befinden sich viele, die 
 sogar als Hauptthema Kunst im öffentlichen Raum wählen und gewählt haben. Einige bieten den öffentlichen Raum als Schwerpunkt an, andere das Kuratorische. Gern verwenden sie den 
 Ausdruck “Neue künstlerische Strategien”. Im Grunde kann das eigentlich alles bedeuten und explizit nur: kein “Bild an der Wand”. Unter “Neue künstlerische Strategien” wird 
-alles, was außerhalb des *white cube*, einer Galerie erscheinen kann und erscheint, geordnet. Der Drang, etwas Neues vermitteln zu wollen, liegt also zum Teil in
- einem Ausschlussprinzip, nämlich dem des traditionellen Raums: Museum, Galerie, etc., der nicht mehr Gegenstand der Lehre ist. Dazu kommen Radio, Fernseher und das Internet, als möglichst alternatives Platform.
+alles, was außerhalb des *white cube* einer Galerie erscheinen kann und erscheint, geordnet. Der Drang, etwas Neues vermitteln zu wollen, liegt also zum Teil in
+ einem Ausschlussprinzip, nämlich dem des traditionellen Raums: Museum, Galerie, etc., der nicht mehr Gegenstand der Lehre ist. Dazu kommen Radio, Fernsehen und das Internet, als möglichst alternativen Plattform.
 
 In diesen Studiengängen wird die Lehre überwiegend in kleinen Gruppen durchgeführt. Es treffen sich Studierende aus verschiedenen Ländern, aus unterschiedlichen 
 Bereichen der Kunst und diverse Altersgruppen, manche sehr jung, direkt nach dem Diplom, manche haben aber erst das Leben außerhalb der Akademie erprobt und kehren 
@@ -61,16 +61,16 @@ Regel zur Öffentlichkeit gehören, werden auch andere Gebiete zugänglich gemac
 und Interventionen im öffentlichen Raum, mit denen eine Konfrontationsrichtung ausgegeben wird. Daneben werden den Studierenden auch berufliche Themen, mit denen sich 
 Künstler beschäftigen, vermittelt, wie: Strukturen von Bewerbungseinrichtung, Finanzierungen, Genehmigungen und Selbstpräsentation sowie professioneller Umgang in der 
 Zusammenarbeit mit soziopolitischen Kulturzentren und anderen Einrichtungen. In den meisten Fällen stößt dieses Angebot auf ein großes Interesse seitens der Studierenden. 
-Sogar das Semantische Feld wird theoretisch sowie praktisch analysiert, verbunden mit der Vermittlung von Kenntnissen über Begriffe wie Urbanität, Identität, Migration, 
+Sogar das semantische Feld wird theoretisch sowie praktisch analysiert, verbunden mit der Vermittlung von Kenntnissen über Begriffe wie Urbanität, Identität, Migration, 
 Geschlecht (Gender), Regulierung und Standardisierung sowie Differenzierung, Kollaboration, Kooperation und kultureller Zusammenarbeit, Aneignung und Eigentum, 
 Dienstleistung, Recht und Ordnung, Aktivismus und das Identifizieren von Konfliktfeldern, moralischen Fragen wie auch philosophische Kontextualisierung. Dieses vielseitige 
 Angebot findet mittlerweile in einer mehr oder weniger geordneten Art und Weise seinen Platz im Lehrprogramm für Künstler.
 
 Deutschland kann für viele als ein Künstlerparadies (in Relation zu anderen Ländern) verstanden werden. Die allgemeinen Studiengebühren sind sehr 
 niedrig, in Weimar liegen sie zur Zeit bei ca. 137,- Euro pro Semester. Erst nachdem man die Regelstudienzeit überschritten hat, muss man 500,- Euro pro Semester zahlen, 
-was immer noch ein lächerlicher Betrag im Vergleich zu den Gebühren z.B. in den USA und Großbritannien, die um den 25,000€ pro Studiumsjahr kreisen, laut [*Art & Society*](http://suite101.com/article/top-10-art-schools-compared-a53521) Online Magazin zu entnehmen ist. 
+was immer noch ein lächerlicher Betrag im Vergleich zu den Gebühren z.B. in den USA und Großbritannien ist. Sie kreisen dort um die 25,000€ pro Studiumsjahr ist, laut [*Art & Society*](http://suite101.com/article/top-10-art-schools-compared-a53521) Online Magazin. 
 
-Nach dem Studium und mit Verweis auf eine künstlerische Tätigkeit kann sich jeder, der nachweisen kann, dass er hauptberuflich als Künstler tätig ist, mit der [Künstlersozialkasse](http://www.kuenstlersozialkasse.de/Krankenversicherung)(KSK) abschließen, was ein [einmaliges Modell](http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html) in Europa bildet. Fast ein Prozent der Einwohner in Berlin ist durch die KSK versichert. Zusätzlich, wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch den [Art. 5 Abs. 3 des Grundgesetzes](http://www.gesetze-im-internet.de/gg/art_5.html) gewährleistet. Auch finden Künstler große finanzielle Unterstützung durch unzählige Wettbewerbsmöglichkeiten und Stipendienangebote sowie Staatliche Förderungen, wie die [*Bundeskulturstiftung*](http://www.bundeskulturstiftung.de/) und [*Fonds Soziokultur*](http://www.fonds-soziokultur.de/) Eingereichte Bewerbungen können bei der Bundeskulturstiftung  Forderungsgelder in höhe bis zu 50,000€ Pro Projekt beantragen. Die Kulturausgaben insgesamt[Die Kulturausgaben insgesamt](https://www.destatis.de/DE/Publikationen/Thematisch/BildungForschungKultur/Kultur/Kulturindikatoren.html) pro Einwohner pro Jahr tragen bundesweit Durchschnittlich 100€.
+Nach dem Studium und mit Verweis auf eine künstlerische Tätigkeit kann sich jeder, der nachweisen kann, dass er hauptberuflich als Künstler tätig ist, mit der [Künstlersozialkasse](http://www.kuenstlersozialkasse.de/Krankenversicherung)(KSK) abschließen, was ein [einmaliges Modell](http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html) in Europa bildet. Fast ein Prozent der Einwohner in Berlin ist durch die KSK versichert. Zusätzlich wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch den [Art. 5 Abs. 3 des Grundgesetzes](http://www.gesetze-im-internet.de/gg/art_5.html) gewährleistet. Auch finden Künstler große finanzielle Unterstützung durch unzählige Wettbewerbsmöglichkeiten und Stipendienangebote sowie Staatliche Förderungen, wie die [*Bundeskulturstiftung*](http://www.bundeskulturstiftung.de/) und den [*Fonds Soziokultur*.](http://www.fonds-soziokultur.de/) Für eingereichte Bewerbungen können bei der Bundeskulturstiftung  Forderungsgelder in Höhe bis zu 50,000€ pro Projekt beantragen. [Die Kulturausgaben insgesamt](https://www.destatis.de/DE/Publikationen/Thematisch/BildungForschungKultur/Kultur/Kulturindikatoren.html) pro Einwohner pro Jahr betragen bundesweit durchschnittlich 100€.
 
 
 
@@ -132,25 +132,25 @@ Audio:
 
 ## Theorie für Praktiker 
 
-So ein Schulungssystem versucht einerseits, die Studenten umfangreich mit den verschiedenen Möglichkeiten vertraut zu machen, um sich ihnen auszusetzen, 
+So ein Schulungssystem wie in Weimar versucht einerseits, die Studenten umfangreich mit den verschiedenen Möglichkeiten vertraut zu machen, um sich ihnen auszusetzen, 
 sowie darum gemeinsamen Sprachcodes auf der Grundlage kollektiver historischer Basis zu schaffen, andererseits, die persönliche  
 Entwicklung zu fördern , und die Ermutigung nach neuen, und in vielen Fällen überraschenden Strategien zu suchen, um die parallele Nachfrage am Markt zu stillen. 
 Es ist wichtig anzumerken, dass in solchen Programmen in der Regel sehr interessante menschliche Mischungen gebildet werden. Neben Künstler die sich in solche Programme 
 einschreiben, studieren in diesen Programmen auch solche mit einem Bachelor-Abschluss aus diversen anderen Bereichen wie Architektur, Grafikdesign oder Medienkunst. Ein weiteres Ziel, 
 in Zeiten des überschwemmtem Kunstmarkts, ist die Ausbildung von eigenen Nischen als alternative Arbeitsmöglichkeiten. Dies geschieht zum Beispiel durch das Involvieren der Industrie 
-und der Einhaltung geordneter Zusammenarbeit mit Institutionen aus den Bereichen Bau und Architektur. (In Deutschland ist zum Beispiel in jedem Neubauplan vom öffentlichen Hochbau 
+und die Einhaltung geordneter Zusammenarbeit mit Institutionen aus den Bereichen Bau und Architektur. (In Deutschland ist zum Beispiel in jedem Neubauplan vom öffentlichen Hochbau 
 mindestens ein Prozent des Gesamtbudgets für Kunst zur Verfügung zu stellen). 
 
 Das Mitwirken von Künstlern im Betrieb des Bildungssystems und auf dem Gebiet der Sozialhilfe, auch 
 in der Arbeit mit Organisationen und Gruppen sowie NGOs, wie auch gefährdeter aber organisierter oder kontrollierter Bevölkerungsgruppen, wie Obdachlosen, Behinderten und anderen 
-benachteiligten Minderheiten, ist eine wachsende Tendenz auf und ist auf beiden Seiten willkommen. Künstler werden aufgrund ihrer Fähigkeit, einen kritischen Blick auf das System zu werfen 
+benachteiligten Minderheiten, weist eine wachsende Tendenz auf und ist auf beiden Seiten willkommen. Künstler werden aufgrund ihrer Fähigkeit, einen kritischen Blick auf das System zu werfen 
 und in eine ästhetische Aussage bzw. eine international verständliche Sprache zu fassen, gern als Vermittler und als Brückenschläger betrachtet. Als jemand, der mehrere Sprachen 
-beherrscht und damit sind nicht Ländersprachen gemeint, sondern eher die Sprachen und Signale unterschiedlicher Segmente der Gesellschaft. So oder so, wird das Studium zu 
+beherrscht und damit sind nicht Ländersprachen gemeint, sondern eher die Sprachen und Signale unterschiedlicher Segmente der Gesellschaft. So oder so wird das Studium zu 
 einer “Professionalisierungsmaßnahme”. 
 
 Der Akademische Grad wird zunehmend als Voraussetzung für die Tätigkeit als Dozent oder Professor in akademischen Positionen gefordert. Die Fortsetzung des Kunststudiums 
 im PhD-Format nimmt global zu, jedoch finden Künstler mit akademischen Titeln ihren Standpunkt noch nicht. Der PhD- Titel wird von niemandem geliebt, für die Wissenschaftler ist das Kunst, für die Kunst eine Wissenschaft und der Kunstbetrieb kann den PhD auch nicht gebrauchen, sieht ihn vielleicht sogar 
-als „Streber“ auf Kosten der eigenen Obsession? Für die theoretischen Akademiker sind sie zu sehr Künstler, 
+als „Streber“ auf Kosten der eigenen Obsession. Für die theoretischen Akademiker sind Künstler mit PhD zu sehr Künstler 
 während sie für die Kunstpraxis als „zu theoretisch“ wahrgenommen werden. Ob sich dieser Trend in den nächsten Generationen ändert und Künstler erst als Universitätsprofessoren 
 den Titel ergattern werden, oder bereits bevor sie sich auf solche Stellen bewerben, bleibt offen. Verglichen mit den Stellenangeboten für Kuratoren in großen Museen und anderen 
 Institutionen, wo Kunstpraxis eingefügt werden soll (also: kein Job ohne Titel), wird klar, das die Messlatte immer höher gesetzt wird.
@@ -159,7 +159,7 @@ Institutionen, wo Kunstpraxis eingefügt werden soll (also: kein Job ohne Titel)
 und gehen anschließend zurück in ihre Heimatländer. Einige aus Osteuropa und Südamerika versuchen diese Gelegenheit als Sprungbrett nach Westeuropa zu nutzen, wo Budgets für Kultur und Kunst 
 immer noch recht großzügig verwendet werden. Also handelt es sich dabei auch um eine kulturelle Migration. Auf jeden Fall entsteht ein neues internationales Netzwerk von Künstlern, Kuratoren 
 und zum Teil neu entstandenen Arbeitsgruppen. Es handelt sich vorwiegend um Künstler, die sich an verschiedene kulturelle Organisationen angedockt haben und es bevorzugen geographische und kulturelle Grenzen zu ignorieren 
-(bzw. zu durchforsten). Sie arbeiten in Richtung der Legitimität des Künstlers als ein interdisziplinärer Unternehmer. Dieser ist bemüht, innovative Lösungen zu finden, er strebt und sucht 
+(bzw. zu durchforsten). Sie arbeiten in Richtung der Legitimität des Künstlers als ein interdisziplinärer Unternehmer. Dieser ist bemüht, innovative Lösungen zu finden, er erstrebt und sucht 
 diverse alternative Lösungen. Er nimmt gesellschaftliche Segmentierung und falsch gestellte Meinungen über das Andere, das Fremde wahr und arbeitet von sich aus oder im Auftrag an einer Aufklärung. 
 (Das Projekt der Gruppe *Wocheklausur* ist als beispielhaft für die Osmose zwischen Kunst und Sozialarbeit zu sehen). Dass diese Tendenz kein Zufall ist, kann die zunehmende Präsenz solcher 
 Künstlergruppen auf internationalen Kunstbiennalen (die sich auch seit 1990 maßlos vermehrten), bestätigen. Das Künstlernomadentum nimmt zu, auch thematisch wandelt es sich von land- und 
@@ -177,14 +177,12 @@ Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden ko
 
 
 
-## Theorie vs. Praxis
-
-_Zur Entstehung der Akademischen Künstler_
+_Theorie vs. Praxis: Zur Entstehung der Akademischen Künstler_
 
 Es entwickeln sich neue Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender PhD-Programme an Kunsthochschulen, und spürbarem Anstieg in der Anzahl
 von Kolloquien, Konferenzen und Diskussionen über Künstlerische Recherche (Artistic Research).
 
-Künstler mischen sich, unter anderem in sozial-politische Angelegenheiten ein und bedienen sich immer mehr an Ausdrucksformen, die uns aus 
+Künstler mischen sich, unter anderen in sozial-politische Angelegenheiten ein und bedienen sich immer mehr an Ausdrucksformen, die uns aus 
 dem wissenschaftlichen Bereich bekannt sind. Was machen diese Formen für Künstler so attraktiv? Können Künstler Theorie schreiben? 
 Können und wollen Künstler Theorie als Praxis betreiben?
 
@@ -193,7 +191,7 @@ geweckt: "Placebo für die Kunst gesucht, um die Effekte der Kunst auf das Gesun
 Recherche, das in Deutschland und in den Niederlanden aktiv ist, sucht nach Kunstprojekten, die zu Folgendem passen: „Die Ergebnisse vieler Studien 
 zeigen ein positives Ergebnis in Bezug auf die Behandlung von Patienten und zeigen, dass Kunst zur Reduktion der Medikamente für den Patienten 
 verwendet werden kann, zur Verkürzung des Patientenaufenthalts in Krankenhäusern, zur Verbesserung der Arbeitsbedingungen führt und die Arzt / Patient 
-Beziehung und die Verbesserung der psychischen Gesundheit fördert.“ Die Post kam via *E-Flux*, ein Online-Kunst-Nachrichten-Service, das neben der 
+Beziehung und die Verbesserung der psychischen Gesundheit fördert.“ Die Post kam via *E-Flux*, ein Online-Kunst-Nachrichten-Service, der neben der 
 Ankündigung von Ausstellungen in der ganze Welt, auch Texte über Kunst und Erziehung *Art & Education* veröffentlicht. 
 
 Die akademische wissenschaftliche Welt verfolgt mit Unruhe diese Entwicklung und zweifelt an der Fähigkeit, dass Künstler theoretische Texte und Dissertationen 
@@ -210,7 +208,7 @@ Ein gutes Beispiel für diese Auseinandersetzung ist die Arbeit von Hagen Betzwi
 in Zusammenarbeit mit mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Leiter der Akademie Schloss Solitude beschreibt die Tätigkeit von Betzwieser wie folgt: 
 “Das Institut für Allgemeine Theorie ist ein Projekt von unbestimmter Dauer, für alles von einem auf einer unendlichen Anzahl von Teilnehmern. Er arbeitet in einem undefinierten 
 Bereich, in der Grauzone, wo es keine Unterscheidung zwischen Fiktion und Wissenschaft, Kunst und Handwerk, selbständiges Arbeiten und Selbstausbeutung, zwischen Spiel-, 
-Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”.
+Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”. TODO: [^fn-jolie] [^fn-jolie]:(http://www.iat-research.com/index.php/about-the-institute)
 
 Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläubigkeit gegenüber der 
 neuen Realität, einen PhD Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]bezieht sich der 
@@ -226,7 +224,7 @@ für die Betrachter. Möglicherweise findet das visuelle Konzept des Künstlers 
 oder eine Beobachtung, die in Worte gefasst wurde, zu welcher der Künstler ein Bild (im Sinne von Image) erstellt hat. Ist das Untermauern der visuellen Arbeit mit Worten, 
 die die Intention des Künstlers erläutern, nur eine Mode oder eine iterative Entwicklung des künstlerischen Werdegangs, die so mehr und mehr gefördert wird? Befinden wir 
 uns in dieser Entwicklung, weil die Intention nicht mehr nur allein aus der praktischen Arbeit klar abzulesen ist oder weil Künstler das Wort auch als visuelles Material betrachten?
-Kunst ist natürlich ein Thema für Philosophen, es ist kein wunder also, das Künstler sich auch zurück an die Philosophie lehnen, oder wie Adorno sagt: „ ... genuine ästhetische Erfahrung muss Philosophie werden oder sie ist überhaupt nicht.“ [-@Adorno:GS 7, pp. 197]
+Kunst ist natürlich ein Thema für Philosophen, es ist kein Wunder also, dass Künstler sich auch zurück an die Philosophie lehnen, oder wie Adorno sagt: „ ... genuine ästhetische Erfahrung muss Philosophie werden oder sie ist überhaupt nicht.“ [-@Adorno:GS 7, pp. 197]
 
 
 
@@ -265,16 +263,16 @@ Als Beobachter und Kritiker, als Erzähler,
 schauen sich die Künstler genau um, um neue Ausdrucksmöglichkeiten zu entwickeln, die im Grunde einer Bereicherung des Pinselsortiments in der Werkzeugkiste gleichen. 
 Künstler kreieren außer Objekten und Gemälden auch Musik, Filme, Videos, Fotos, Interventionen in verschiedenen Formen und erfinden stets neue Strategien, um ihre Arbeit 
 nicht nur sichtbar zu machen, sondern wahrgenommen zu werden. Sie schleichen sich als Geschäftsleute ein, machen Werbung, halten Vorträge, wollen die Welt verbessern. Nun, wenn alles 
-„Fake“ ist und nicht echt, kann es auch als Entertainment rezipiert werden. Bernard Hoffert schreibt in „Taking Art Seriously“:"Understanding Studio Research: Kunst ernst zu nehmen 
+*Fake* ist und nicht echt, kann es auch als Entertainment rezipiert werden. Bernard Hoffert schreibt in *Taking Art Seriously:Understanding Studio Research*: „Kunst ernst zu nehmen 
 bedeutet nicht nur, dass wir ihr kreatives Potenzial verstehen, sondern auch wie wir ihr Forschungs-Wissen nutzen können, um parallel zu anderen Disziplinen und zur 
-Entwicklung zur Kultur beizutragen. (http://artandeducation.net/) oder wie es auf der Website des Potsdamer Institut für künstlerische Forschung steht: 
+Entwicklung zur Kultur beizutragen“. (http://artandeducation.net/) oder wie es auf der Website des Potsdamer Institut für künstlerische Forschung steht: 
 “Künstlerische Forschung setzt sich mit dem Entstehungsprozess eines Kunstwerkes auseinander und entwickelt auf der Schnittstelle von Kunst und Wissenschaft neue 
 Methoden zur Erforschung und Abbildung des Verhältnisses von Individuum und Gesellschaft”.
 
 
-Als solches braucht jeder Diplomand der sein Studium beendet hat Strategien, um einen Unterschied machen zu können auf dem überfülltem Feld, das ihn draußen erwartet. 
+Als solches braucht jeder Diplomand der sein Studium beendet hat Strategien, um einen Unterschied machen zu können auf dem überfüllten Feld, das ihn draußen erwartet. 
 
-*Dieses Kapitel entstand im Rahmen des Wissenschaftsmoduls „Künste und Wissenschaften: Konkurrenzen, Korrespondenzen, Konstellationen“ Bei Prof. Dr. Reck im Rahmen des PhD Programms 2010*
+*Dieses Kapitel entstand im Rahmen des Wissenschaftsmoduls „Künste und Wissenschaften: Konkurrenzen, Korrespondenzen, Konstellationen“ bei Prof. Dr. Reck im Rahmen des PhD Programms 2010*
 
 
 
@@ -323,33 +321,33 @@ Als solches braucht jeder Diplomand der sein Studium beendet hat Strategien, um 
 ##  Akademie trifft Kunstmarkt
 
 	
-Als erster Schritt haben alle Kunstakademien innerhalb der Hochschulkonferenz der Deutschen Kunsthochschulen sich zusammen  [gegen die Bologna 
-Reform Festlegung von B.A.](http://www.sueddeutsche.de/bildung/2.220/zehn-jahre-bologna-reform-harsche-kritik-an-bachelor-und-master-1.1441136)verwahrt und das fünfjährige Studiumsformat beibehalten, den es wäre verwegen, einen Bachelor-Künstler (wie soll die Basis-Ausbildung aussehen?) 
+Als erster Schritt haben alle Kunstakademien innerhalb der Hochschulrektorenkonferenz der Deutschen Kunsthochschulen sich zusammen  [gegen die Bologna 
+Reform Festlegung eines B.A.](http://www.sueddeutsche.de/bildung/2.220/zehn-jahre-bologna-reform-harsche-kritik-an-bachelor-und-master-1.1441136)verwahrt und das fünfjährige Studiumsformat beibehalten, denn es wäre verwegen, einen Bachelor-Künstler (wie soll die Basis-Ausbildung aussehen?) 
 in drei oder vier Jahren auszubilden. Wäre das dann ein „kleiner Künstler“ und der Master der „Chef“? Die Kunstausbildung ist – wie in allen anderen Berufen auch – nie abgeschlossen 
 und als quasi philosophische Disziplin nicht im Schnelldurchgang zu machen. Auch das Diplom ist keine Garantie für Berufserfolg, allenfalls ein akademischer 
 Abschluss.
 
-Das ausstellen und der Ausstellungsbetrieb gehören unbedingt zum Ausbildungsprofil, sozusagen als Einübung in die Realität und Zukunft, aber auch als Finale eines Werkes. Der Bezug zum Raum und Ort, die Frage was verträgt sich mit den anderen Arbeiten in einer Gemeinschaftsausstellung, Arbeits- und Terminplanung, Presse, Führungen, und das Sprechen über die eigene Arbeit müssen erlernt werden. So was kann man gut in die dafür vorgesehene eigene oder für den Zweck umwandelte Räume innerhalb der BUWA üben. Aus Raummangel aber entwickelte sich die Geschichte der Präsentation an der Bauhaus Universität auf eine sehr eigenartiger Weise.
+Das Ausstellen und der Ausstellungsbetrieb gehören unbedingt zum Ausbildungsprofil, sozusagen als Einübung in die Realität und Zukunft, aber auch als Finale eines Werkes. Der Bezug zum Raum und Ort, die Frage was verträgt sich mit den anderen Arbeiten in einer Gemeinschaftsausstellung, Arbeits- und Terminplanung, Presse, Führungen, und das Sprechen über die eigene Arbeit müssen erlernt werden. So was kann man gut in den dafür vorgesehenen eigenen oder für den Zweck umgewandelte Räume innerhalb der BUW üben. Aus Raummangel aber entwickelte sich die Geschichte der Präsentation an der Bauhaus Universität auf eine sehr eigenartiger Weise.
 
 
 ## Der eigene *white cube* (Unigalerie) oder: a room of your own
 
 
-Die Kultur- und Kunstbetriebe sehen in Weimar folgendermaßen aus: Weimar gehört zum UNESCO-Welterbe, ist eine sehr kleine Stadt mit 60.000 Einwohnern und ca. 6.000 verfügt über ein übergroßes Kulturangebot und Viele Institutionen, des Kulturbetriebs. Außer der Stiftung Weimar Klassik, die mit Goethe-Nationalmuseum, dem Schiller Museum, dem Schlossmuseum, auch für das Bauhaus Museum und das Neues Museum zuständig ist und somit das größte Kultur-Konglomerat anbietet,gibt es unter anderem noch Archive,
-die Musikhochschule Franz Liszt, die Gedenkstätte Buchenwald, das Stadtmuseum, die Kunsthalle Harry Graf Kessler und das Haus am Horn, zusammen unter dem Titel *Kosmos Weimar* (http://www.klassik-stiftung.de/uploads/tx_lombkswmargcontent/Klassik_Stiftung_Weimar_Kosmos_Weimar_8.7.2008.pdf) Seit 2004 findet Jährlich im Spätsommer den Internationales Kunstfest statt. Die Galerielandschaft ist etwas trockener. Als Hauptgalerie für Zeitgenössische Kunst steht seit 1988 die ACC Galerie unter der Langjährigen Leitung von Frank Motz, der für seine Tätigkeiten in Sache Zeitgenössische Kunst und Kooperationen mit der Stadt im Europäischen Kulturjahr 1999 den Weimarpreis erhielt. Das ACC Weimar ist ein gemeinnütziger Kunstverein mit eine Galerie, Internationales Atelierprogramm, regelmäßige Veranstaltungen und ein Café-Restaurant. Im Jahr 2006 wurde die Galerie Eigenheim - Raum für zeitgenössische Kunst und Kommunikation von Konstantin Bayer, selbst Künstler und ein BUW-Absolvent gegründet und stellt vorwiegend Bauhaus Alumni aus, vergibt ein Stipendium und seit geraumer Zeit beteiligt sich die Galerie auch an Kunstmessen und Shows wie *BLOOOM* in Köln und der Preview Berlin. 
+Die Kultur- und Kunstbetriebe sehen in Weimar folgendermaßen aus: Weimar gehört zum UNESCO-Welterbe, ist eine sehr kleine Stadt mit 60.000 Einwohnern und ca. 6.000 Studenten. Sie verfügt über ein übergroßes Kulturangebot und viele Institutionen des Kulturbetriebs. Außer der Stiftung Weimar Klassik, die mit Goethe-Nationalmuseum, dem Schiller Museum, dem Schlossmuseum, auch für das Bauhaus Museum und das Neues Museum zuständig ist und somit das größte Kultur-Konglomerat anbietet, gibt es unter anderem noch Archive,
+die Musikhochschule Franz Liszt, die Gedenkstätte Buchenwald, das Stadtmuseum, die Kunsthalle Harry Graf Kessler und das Haus am Horn, zusammen unter dem Titel *Kosmos Weimar* (http://www.klassik-stiftung.de/uploads/tx_lombkswmargcontent/Klassik_Stiftung_Weimar_Kosmos_Weimar_8.7.2008.pdf) Seit 2004 findet jährlich im Spätsommer das Internationale Kunstfest statt. Die Galerielandschaft ist etwas trockener. Als Hauptgalerie für Zeitgenössische Kunst steht seit 1988 die ACC Galerie unter der langjährigen Leitung von Frank Motz, der für seine Tätigkeiten in Sachen Zeitgenössische Kunst und Kooperationen mit der Stadt im Europäischen Kulturjahr 1999 den Weimarpreis erhielt. Das ACC Weimar ist ein gemeinnütziger Kunstverein mit einer Galerie, Internationalen Atelierprogramm, regelmäßigen Veranstaltungen und ein Café-Restaurant. Im Jahr 2006 wurde die Galerie Eigenheim - Raum für zeitgenössische Kunst und Kommunikation von Konstantin Bayer, selbst Künstler und ein BUW-Absolvent, gegründet und stellt vorwiegend Bauhaus Alumni aus, vergibt ein Stipendium und seit geraumer Zeit beteiligt sich die Galerie auch an Kunstmessen und Shows wie *BLOOOM* in Köln und der Preview Berlin. 
 
-Der Bedarf an offiziellen Ausstellungsräumen in Kunstakademien, der bereits im neunzehnten Jahhundert als gegeben galt, wurde hierzulande nach dem zweiten Weltkrieg erst wieder über die USA, wo solche schon Mitte der 80er Jahre gegründet worden sind, importiert. Wie konstruierten sich Uni-Galerien innerhalb Deutschlands? Die Burg Giebichenstein, Halle, wie auch der *Kunst im Tunnel*-Raum der Kunsthochschule Düsseldorf werden durch eine Stadt unterstützt. Ähnlich gilt für den *Portikus* in Frankfurt. Die HfBK Hamburg verfügt über Räume innerhalb der Hochschule. Der Kunstraum der Leuphana-Universität Lüneburg finanziert sich aus Drittmitteln und ist an die Lehre angedockt.[^fn-markebeiratinfo]
+Der Bedarf an offiziellen Ausstellungsräumen in Kunstakademien, der bereits im neunzehnten Jahhundert als gegeben galt, wurde hierzulande nach dem zweiten Weltkrieg erst wieder über die USA, wo solche schon Mitte der 80er Jahre gegründet worden sind, importiert. Wie konstruierten sich Uni-Galerien innerhalb Deutschlands? Die Burg Giebichenstein, Halle, wie auch der *Kunst im Tunnel*-Raum der Kunsthochschule Düsseldorf werden durch eine Stadt unterstützt. Ähnliches gilt für den *Portikus* in Frankfurt. Die HfBK Hamburg verfügt über Räume innerhalb der Hochschule. Der Kunstraum der Leuphana-Universität Lüneburg finanziert sich aus Drittmitteln und ist an die Lehre angedockt.[^fn-markebeiratinfo]
 
 [^fn-markebeiratinfo]: Diese Informationen basieren auf den Recherchen die bei der Neuformierung der marke.6 im Beirat erarbeitet wurde
 
-Im Falle der Bauhaus Universität Weimar haben über die Jahre die verschiedene Rektoren eine unterschiedliche Verständnis von der Wichtigkeit eines Ausstellungsortes für die Studenten gezeigt.
-Als erstes gab es eine unabhängige Eigeninitiativen Namens *Neu-Deli* die sich Räume über der Post am Goetheplatz in Weimar gemietet hat. Die Räume waren schön und sehr passend für Kunstausstellungen, mit hohen Decken und Stahlsäulen sowie viel Licht. Die Beziehungen zwischen der ACC Galerie und der BUW sind, wie man heute auf Facebook sagen wurde "It's complicated": Manche Professoren und Mitarbeiter (darunter auch ich), sind Künstler der Galerie oder waren eingeladen dort auszustellen. Nur in seltenen Fällen werden Studenten oder Alumni dort ausgestellt, abgesehen von seltenen zusagen zu Master/Diplomarbeit Vorstellungen und Präsentationen. Direkt nach der Neubegründung der Universität Fing eine Reihe der Studenten, bzw. Fachschaft, in der Galerie eine Vortragsreihe namens *Herzblut* wo mehrere Professoren aus alle Fakultäten Vorträge hielten. 2001 wanderte die Galerie unter der Name Bauhaus Universitätsgalerie als Untermieter in der expandierte ACC Galerie. Über ein Jahr lang liefen Ausstellungen der verschiedene Fakultäten darin unter der Koordination von David Mannstein, auch er BUW-Absolvent. Leider war das Engagement seitens der Uni-Leitung hinsichtlich einer Uni-Galerie eher zurückhaltend angelegt, da eine neu eingestellte Kulturmanagerin gemeinsam mit dem damaligen Rektor Bauer-Wabnegg TODO: Formulierung die bestens funktionierende Kooperation leichtfertig abgesagt hat. Nach der Rückkehr des ehemaligen Rektors Gerd Zimmermann, eröffnete im April 2008 die Bauhaus-Universität auf Initiative der Studenten Sebastian Helm, Laura Straßer und Maximilian Sauerbier vom StudierendenKonvent (StuKo) und in Zusammenarbeit mit der Klassik Stiftung den Ausstellungsraum »marke.6« im Neuen Museum: eine Ausstellungsfläche für studentische Arbeiten und Hochschulkooperationen. (Text zur Entstehung der Marke.6 wie sie auf der Seite (http://www.uni-weimar.de/cms/fileadmin/uni/files/aktuelles/bogen/2008_3/41.pdf) dokumentiert ist.) Ab diesem Moment stand die marke.6 als studentisch geführte Universitätsgalerie mit eine Koordinationsstelle. Die Universitätsgalerie fing als Unabhängige Institution an, war weiter in Kooperation mit ein gemeinnütziger Kunstverein getreten und ist nun von dort aus zum Gast der Stiftung Weimar Klassik im Keller des neues Museum unter einer andere Infrastruktur geworden.
+Im Falle der Bauhaus Universität Weimar haben über die Jahre die verschiedenen Rektore eine unterschiedliches Verständnis von der Wichtigkeit eines Ausstellungsortes für die Studenten gezeigt.
+Als erstes gab es eine unabhängige Eigeninitiative namens *Neu-Deli* die sich Räume über der Post am Goetheplatz in Weimar gemietet hat. Die Räume waren schön und sehr passend für Kunstausstellungen, mit hohen Decken und Stahlsäulen sowie viel Licht. Die Beziehungen zwischen der ACC Galerie und der BUW sind, wie man heute auf Facebook sagen würde "It's complicated": Manche Professoren und Mitarbeiter (darunter auch ich), sind Künstler der Galerie oder waren eingeladen dort auszustellen. Nur in seltenen Fällen werden Studenten oder Alumni dort ausgestellt, abgesehen von seltenen Zusagen zu Master/Diplomarbeit Vorstellungen und Präsentationen. Direkt nach der Neubegründung der Universität fing eine Reihe der Studenten, bzw. der Fachschaft in der Galerie eine Vortragsreihe namens *Herzblut* an wo mehrere Professoren aus allen Fakultäten Vorträge hielten. 2001 wanderte die Galerie unter dem Namen Bauhaus Universitätsgalerie als Untermieter in die expandierte ACC Galerie. Über ein Jahr lang liefen Ausstellungen der verschiedenen Fakultäten unter der Koordination von David Mannstein, auch er BUW-Absolvent. Leider war das Engagement seitens der Uni-Leitung hinsichtlich einer Uni-Galerie eher zurückhaltend angelegt, da eine neu eingestellte Kulturmanagerin gemeinsam mit dem damaligen Rektor Bauer-Wabnegg TODO: Formulierung die bestens funktionierende Kooperation leichtfertig abgesagt hat. Nach der Rückkehr des ehemaligen Rektors Gerd Zimmermann eröffnete im April 2008 die Bauhaus-Universität auf Initiative der Studenten Sebastian Helm, Laura Straßer und Maximilian Sauerbier vom StudierendenKonvent (StuKo) und in Zusammenarbeit mit der Klassik Stiftung den Ausstellungsraum »marke.6« im Neuen Museum: eine Ausstellungsfläche für studentische Arbeiten und Hochschulkooperationen. (Text zur Entstehung der Marke.6 wie sie auf der Seite (http://www.uni-weimar.de/cms/fileadmin/uni/files/aktuelles/bogen/2008_3/41.pdf) dokumentiert ist.) Ab diesem Moment stand die marke.6 als studentisch geführte Universitätsgalerie mit einer Koordinationsstelle. Die Universitätsgalerie fing als unabhängige Institution an, war weiter in Kooperation mit einem gemeinnützigen Kunstverein getreten und ist nun von dort aus zum Gast der Stiftung Weimar Klassik im Keller des Neues Museums unter einer anderen Infrastruktur geworden.
 
 **Bild** Die Gallerie ist Tot
 
 ## Das Konstrukt Bauhaus Essentials
 
-2009 im Rahmen meine Aufgaben als Künstlerische Assistentin wurde ich 2009 im Umfeld der Fakultätsgremien angefragt, im Beirat der marke.6 den Mittelbau der Fak. Gestaltung für zwei Jahre als Beiratsmitglied zu vertreten. Zusammen mit der damaligen Koordinationsstelle - besetzt durch Dörte Dennemann - entwickelten wir ein Konzept namens *Bauhaus Essential*. Unserem Ziel war es, die besten Kunstwerke von der Summaery (Jahresausstellung von Studierenden der Bauhaus-Universität Weimar, früher auch *Rundgang* genannt) in einer Ausstellung zusammenzufassen und im Herbst zu zeigen, also das „best of“ nach der Sommerpause zu präsentieren und vor dem Jahresende noch einmal hervorzuheben. Im Jahre 2010 waren Beirat und Initiative der Meinung, dass die besten Arbeiten der Summaery  prämiert werden sollen. Für den Rundgang wurde eine Jury, bestehend aus kompetenten und kunstnahen Persönlichkeiten zusammen gestellt, (alle nicht aus der Uni.) welche insgesamt 19 herausragende Positionen auswählten. Das Vorhaben wurde großzügig durch die in Thüringen ansässige Firma Grafe unterstützt, die auch Namensgeber für den Preis wurde. Die drei Erstplatzierten erhielten daraufhin den Grafe Kreativpreis, und die Möglichkeit auf der Preview Berlin vertreten zu werden. Die 3 besten Arbeiten wanderten von der Hauptausstellung nach Berlin und zurück in die marke.6 Galerie im Neuen Museum gezeigt wurden. Einen Reader wurde erstellt und das entsprechende Echo seitens der Presse war angemessen, zumal einige unserer Teilnehmer sogar ihr Werk verkaufen konnten. 
+2009 wurde ich im Rahmen meiner Aufgaben als Künstlerische Assistentin im Umfeld der Fakultätsgremien angefragt, im Beirat der marke.6 den Mittelbau der Fak. Gestaltung für zwei Jahre als Beiratsmitglied zu vertreten. Zusammen mit der damaligen Koordinationsstelle - besetzt durch Dörte Dennemann - entwickelten wir ein Konzept namens *Bauhaus Essential*. Unser Ziel war es, die besten Kunstwerke von der Summaery (Jahresausstellung von Studierenden der Bauhaus-Universität Weimar, früher auch *Rundgang* genannt) in einer Ausstellung zusammenzufassen und im Herbst zu zeigen, also das „best of“ nach der Sommerpause zu präsentieren und vor dem Jahresende noch einmal hervorzuheben. Im Jahre 2010 waren Beirat und Initiative der Meinung, dass die besten Arbeiten der Summaery  prämiert werden sollen. Für den Rundgang wurde eine Jury, bestehend aus kompetenten und kunstnahen Persönlichkeiten zusammen gestellt, (alle nicht aus der Uni) welche insgesamt 19 herausragende Positionen auswählten. Das Vorhaben wurde großzügig durch die in Thüringen ansässige Firma Grafe unterstützt, die auch Namensgeber für den Preis wurde. Die drei Erstplatzierten erhielten daraufhin den Grafe Kreativpreis, und die Möglichkeit auf der Preview Berlin vertreten zu werden. Die 3 besten Arbeiten wanderten von der Hauptausstellung nach Berlin und zurück in die marke.6 Galerie im Neuen Museum. Ein Reader wurde erstellt und das entsprechende Echo seitens der Presse war angemessen, zumal einige unserer Teilnehmer sogar ihr Werk verkaufen konnten. 
 
 **Bild:** [Einladung BE-I]
 
@@ -358,7 +356,7 @@ Als erstes gab es eine unabhängige Eigeninitiativen Namens *Neu-Deli* die sich 
 
 **Eine Podiumsdiskussion** 
 
-Im Rahmen der ersten *Bauhaus Essentials* Ausstellung und anlässlich der Teilnahme der Grafe-Kreativ-Preisgewinner an der preview im Berlin 
+Im Rahmen der ersten *Bauhaus Essentials* Ausstellung und anlässlich der Teilnahme der Grafe-Kreativ-Preisgewinner an der Preview im Berlin 
 lud die Universitätsgalerie marke.6 zur Präsentation des Ausstellungsreaders sowie zum Podiumsgespräch "Sind Kunstmarkt und Kunststudium kompatibel?" ein.
 
 Ort: Universitätsgalerie marke.6, Neues Museum Weimar
@@ -391,14 +389,14 @@ NTS Frage an Frank Motz:
    wo es doch genug Galerien und schon genug Produzentengalerien gibt; heißt dies, dass Galeristen als Vermittler bald arbeitslos sind?“
 
 FRANK MOTZ: 
-   „Wenn es echte Galeristen gäbe. Zwar ist Thüringen reich bestückt mit Kunsthändlern und Galeristen, die Erwähnenswerten allerdings kann man an einer Hand abzählen. 
+   „Wenn es echte Galeristen gäbe. Zwar ist Thüringen reich bestückt mit Kunsthändlern und Galeristen, die erwähnenswerten allerdings kann man an einer Hand abzählen. 
    Insofern bleibt Künstlern jeden Alters oftmals keine Wahl. Sie müssen sich selbst vermarkten, wenn sie kommerziell erfolgreich sein möchten. Zumindest müssen sie versuchen, 
    ihr Schicksal selbst in die Hand zu nehmen. Initiativen wie die Galerie 9T, Galerie Eigenheim und dergleichen kann man nicht hoch genug schätzen, weil es studentische 
    Eigeninitiativen sind, die nichts mit dem Überbau der Bauhaus-Universität zu tun haben. Immer wieder gab es Inszenierungen, bei denen sich der Überbau nach den Studenten 
    richten musste. Es kann nicht mehr heißen, dass das ACC am Tropf der Bauhaus-Universität hängt. Schlicht und einfach geht es doch um die Frage: ‚Was passiert mit uns, 
    wenn wir unser Studium beendet haben, wenn wir akademisch ausgebildete Künstler sind?‘
    
-   2004 organisierten wir eine Ausstellung, welche *Ich war Künstler* [Link](http://old.acc-weimar.de/ausstellungen/a2005/a163/index.html) hieß. Viele junge Künstler werden arbeitslos, suchen sich andere Betätigungsfelder oder versuchen 
+   2004 organisierten wir eine Ausstellung, welche [*Ich war Künstler*](http://old.acc-weimar.de/ausstellungen/a2005/a163/index.html) hieß. Viele junge Künstler werden arbeitslos, suchen sich andere Betätigungsfelder oder versuchen 
    sich in künstlerisch verwandten Berufen, wie zum Bsp. dem Computer- oder Grafikdesign. Wiederum andere versuchen, in ihre alten Berufe zurückzukehren oder in Berlin 
    Fuß zu fassen. Oder sie gründen eine Familie, verlieren den Bezug zum Künstlerischen.  Es gibt durchaus viele interessante Projekte, die man ans Studium anschließen kann.  
    Allerdings bleiben die wenigsten Absolventen künstlerisch tätig; tatsächlich eine Galerie zu finden, ist die Voraussetzung, kommerziell erfolgreich zu sein. 
@@ -407,7 +405,7 @@ FRANK MOTZ:
    gelingt eben dieser seit 18 Jahren ‚hergebeteten‘ Universitätsgalerie. 
    
    Ich rede nicht von einem Museum ohne Programm, dem ‚Neuen Museum‘ oder einem Zusatz für die ‚Tonne‘. Schließlich ist dies eine ernste Angelegenheit. Das habe ich auch zur ersten 
-   Ausstellung in der Tonne gesagt. Es geht nicht nach dem Motto: ‚Der Zweck heiligt die Mittel‘ Im Prinzip ist es ja nichts anderes als ein joint venture, Museum ohne Programm 
+   Ausstellung in der Tonne gesagt. Es geht nicht nach dem Motto: ‚Der Zweck heiligt die Mittel‘. Im Prinzip ist es ja nichts anderes als ein *joint venture*, Museum ohne Programm 
    sucht sich die Universität, die allerdings nicht weiß, wo sie ihre Bildenden ‚Kunst‘ Projekte realisieren soll. Wer jetzt in der Bildenden Kunst nur noch an Großstadt denkt 
    und nicht wieder zurück nach Weimar findet, ist auf Dauer verloren. Die Bauhaus-Universität braucht eine ‚Spielstätte‘ für zeitgenössische Kunst und müsste meiner Meinung nach 
    unabhängig sein von der ‚Scharfschaltung‘ des neuen Museums. Allerdings denke ich, dass dieser Zug auch schon abgefahren ist. Denn was in den letzten 18 Jahren nicht passiert ist, 
@@ -416,9 +414,9 @@ FRANK MOTZ:
    Es gibt sie nicht mehr. Andererseits ist es aber auch etwas Positives, wenn Initiativen im Rhythmus von 3 - 5 Jahren kommen und gehen. Es zeugt von Kampf - und Gefechtsbereitschaft 
    der jungen Künstlerschaft. So etwas wünsche ich mir auch bei den älteren Künstlern. 
    
-   Es handelt sich um Ligen. So kommt es auch zu merkwürdigen Konstrukten wie der ARTHUER, einer Kunstmesse, auf welcher der Künstler selbst versucht, sich zu vermarkten.[^fn-ARTHUER]
+   Es handelt sich um Ligen. So kommt es auch zu merkwürdigen Konstrukten wie der ARTTHUER, einer Kunstmesse, auf welcher der Künstler selbst versucht, sich zu vermarkten.[^fn-ARTTHUER]
    
-   [^fn-ARTHUER]: zur ARTHUER könnte man noch bemerken, dass es eine gut gemeinte Aktion in einer strukturschwachen Region (auch kunstmäßig) war, und hoffentlich noch ist. Die Organisation und Gestaltung von Seiten der Künstler stellt eine Notlösung dar – weil keine wichtige Galerie, Presse, Sammler überhaupt anreisen würden.
+   [^fn-ARTTHUER]: zur ARTTHUER könnte man noch bemerken, dass es eine gut gemeinte Aktion in einer strukturschwachen Region (auch kunstmäßig) war, und hoffentlich noch ist. Die Organisation und Gestaltung von Seiten der Künstler stellt eine Notlösung dar – weil keine wichtige Galerie, Presse, Sammler überhaupt anreisen würden.
    
    Dies ist etwas Besonderes. 
    Ich weiß nicht, ob es andernorts solche Künstlermessen gibt. Wie also geht man mit dem zeitgenössischen Kunstrahmen um, mit Erscheinungen, die es auf kommerzieller Ebene eigentlich nicht gibt? 
@@ -489,33 +487,32 @@ DIRK TESCHNER:
    Das beste Beispiel ist Gerhard Niedling, welcher mit dem Studium aufhörte, erfolgreich auf dem Markt war, es aber bitter bereute, da er sehr viele Seiten seiner Ausbildung verpasst hat.“
 
 
-Die Diskussion zeigt, wie relevant das Thema zur Zeit ist. Eine Nachfolge dieser Stand der Dinge soll im Herbst 2012 fortsetzten, denn Mittlerweile geht die Bauhaus Essentials 
-und die Marke.6, in den dritte Runde zu Preview Berlin Kunstmesse, diesmal mit 5 Studenten, davon zwei Gaststudenten aus Spanien, die die Entscheidung getroffen haben, zur BUW zu wechseln. 
-Die Berlin preview, eine Art Fair, seit 2004 existent Im Hangar 2 des ehemaligen Flughafens Berlin-Tempelhof und hat ihre Format ab 2009 zu *FOCUS ACADEMY* geändert, sodass der Schwerpunkt auf
-Kunsthochschulen liegt um den "Übergang vom Studium hin zur künstlerischen Selbstständigkeit die Möglichkeit zu geben, sich einer großen, kunstinteressierten Öffentlichkeit zu präsentieren und 
-erste Erfahrungen auf dem Kunstmarkt zu sammeln". Quelle(http://www.previewberlin.com/Sites/ueberunsd.html). Im Jahr 2010 War die Marke.6 die erste Universitätsgalerie auf eine Kunstmesse, 
-Der Erfurter Galerist Dirk Techner präsentierte mehrere BUW Alumnae, u.a. auch unserem Absolvent Benedikt Braun. Neben der Bauhaus-Universität Weimar, sind dann im Jahr 2011 der Muthesius 
-Kunsthochschule Kiel und der Akademie der Bildenden Künste Nürnberg vertreten gewesen, 2012 kamen die Burg Giebichenstein Kunsthochschule Halle, die Kunsthochschule Kassel, die UdK Berlin, 
-die HfG Offenbach sowie die Weißensee Kunsthochschule Berlin auf der PREVIEW BERLIN präsent gewesen. 
-
+Die Diskussion zeigt, wie relevant das Thema zur Zeit ist. Eine Nachfolge dieser Stand der Dinge soll im Herbst 2012 fortgesetzt werden, denn Mittlerweile geht die Bauhaus Essentials 
+und die Marke.6, in der dritten Runde zur Preview Berlin Kunstmesse, diesmal mit 5 Studenten, davon zwei Gaststudenten aus Spanien, die die Entscheidung getroffen haben, zur BUW zu wechseln. 
+Die Berlin Preview, ist eine Art Fair, seit 2004 existent. Im Hangar 2 des ehemaligen Flughafens Berlin-Tempelhof situiert, hat sie ihr Format ab 2009 zu *FOCUS ACADEMY* geändert, sodass der Schwerpunkt auf
+Kunsthochschulen liegt, um den "Übergang vom Studium hin zur künstlerischen Selbstständigkeit die Möglichkeit zu geben, sich einer großen, kunstinteressierten Öffentlichkeit zu präsentieren und 
+erste Erfahrungen auf dem Kunstmarkt zu sammeln". Quelle(http://www.previewberlin.com/Sites/ueberunsd.html). Im Jahr 2010 war die Marke.6 die erste Universitätsgalerie auf eine Kunstmesse. 
+Der Erfurter Galerist Dirk Teschner präsentierte mehrere BUW Alumni, u.a. auch unseren Absolvent Benedikt Braun. Neben der Bauhaus-Universität Weimar, sind dann im Jahr 2011 Muthesius 
+Kunsthochschule Kiel und Akademie der Bildenden Künste Nürnberg vertreten gewesen, 2012 kamen die Burg Giebichenstein Kunsthochschule Halle, die Kunsthochschule Kassel, die UdK Berlin, 
+die HfG Offenbach sowie die Weißensee Kunsthochschule Berlin hinzu.
 
 ## Das Dilemma
 
-Was bedeutet es, so früh auszustellen? Während meines Studiums Ende der 80er Jahre, war es noch verboten, solange man angeschrieben, auszustellen. Heute machen die Erstsemestler schon eine 
-Präsentation ihre Ergebnisse. Was passiert mit dem sicheren Labor, wo man auch ruhig einmal scheitern kann? Wird der Erfolg daran gemäßen, wie gut eine Idee zum Deadline präsentiert 
-werden muss? Überwiegt dies und wird wichtiger, als Prozesse zu beobachten? Ist es möglich, die studierenden beizubringen, wie sie die dinge nach dem Studium "besser" angehen können? 
+Was bedeutet es, so früh auszustellen? Während meines Studiums Ende der 80er Jahre war es noch verboten, solange man eingeschrieben, auszustellen. Heute machen die Erstsemestler schon eine 
+Präsentation ihrer Ergebnisse. Was passiert mit dem sicheren Labor, wo man auch ruhig einmal scheitern kann? Wird der Erfolg daran gemessen, wie gut einer Idee zum *deadline* präsentiert 
+wurde? Überwiegt dies und wird wichtiger, als Prozesse zu beobachten? Ist es möglich, den Studierenden beizubringen, wie sie die Dinge nach dem Studium "besser" angehen können? 
 
-Laut bekannte Statistiken können etwa 1% alle Absolventen von Kunsthochschulen von Kunst-Machen allein leben. In diesem Feld Erfolg zu haben bedeutet Mitmachen und ist an und für sich
-auch eine Art von Anpassung. Anpassung an einem Apparat an Menschen, der für einen Gelegenheiten vermitteln und alles organisiert, und das gegen Einnahme von bis zu 60%
+Laut bekannter Statistiken können etwa 1% aller Absolventen von Kunsthochschulen von Kunst-Machen allein leben. In diesem Feld Erfolg zu haben bedeutet Mitmachen und ist an und für sich
+auch eine Art von Anpassung. Anpassung an einem Apparat an Menschen, der für einen Gelegenheiten vermittelt und alles organisiert, und das gegen Einnahme von bis zu 60%
 des Gewinns, der durch der Verkauf des Kunstwerks erzielt wird, wobei in der Regel viele Kosten vom Künstler selbst getragen werden, der beispielsweise für das Material sorgte und es bezahlt hat.
 
-Wenn der angehende Künstler schon im ersten Semester ausgestellt und verkauft, so entfallen dann die Möglichkeit 4 Jahre zu experimentieren ohne vom Blick und Kritik von aussen gestört zu sein, unbeachtet 
-von Fremden, den die Entwicklung und die Kritik verlagern sich auf die Öffentlichkeit. 
-Bei massivem ausstellen während des Studiums wird die Kritik über die Professoren und Mitstudenten hinaus in die Öffentlichkeit geraten. Unreife Kunst wird als solche ausgestellt, und es entstehen 
-überall die gleiche Versuche, die als fertige Kunst präsentiert werden. Immer öfter wird bei den Korrekturen innerhalb des Projektes gefragt: "Dies ist schon gemacht worden?".
+Wenn der angehende Künstler schon im ersten Semester ausstellt und verkauft, so entfällt dann die Möglichkeit 4 Jahre zu experimentieren ohne vom Blick und Kritik von aussen gestört zu sein, unbeachtet 
+von Fremden, denn die Entwicklung und die Kritik verlagern sich auf die Öffentlichkeit. 
+Bei massivem Ausstellen während des Studiums wird die Kritik über die Professoren und Mitstudenten hinaus in die Öffentlichkeit geraten. Unreife Kunst wird als solche ausgestellt, und es entstehen 
+überall die gleiche Versuche, die als fertige Kunst präsentiert werden. Immer öfter wird bei den Korrekturen innerhalb des Projektes gefragt: "ist dies schon gemacht worden?".
 Was für einen Einfluss hat dies auf Parameter der Kritik? Was ist, wenn Kunst im Netz selbstständig gestellt wird und dafür 'likes' auf Blogs und Facebook bekommt? Ist dies gleichwertig 
 mit einer Ausstellung in einer anerkannten Institution samt ihrem Apparat? Es stellt sich die Frage, inwieweit wird Anpassung an dem Kunstmarkt, um Erfolg zu erreichen in der Kunstakademien direkt 
-oder indirekt vermittelt wird. Klar ist, es entstehen unterschiedliche 'Sorten' von Künstlern, die man wie folgt bezeichnen könnte: Der Businesskünstler, der Sozialkünstler, der Akademische künstler
+oder indirekt vermittelt. Klar ist, es entstehen unterschiedliche 'Sorten' von Künstlern, die man wie folgt bezeichnen könnte: Der Businesskünstler, der Sozialkünstler, der Akademische Künstler
 und der Netzkünstler, und andere noch mehr. Sie haben alle unterschiedliche Bedürfnisse.
 
 
@@ -529,40 +526,40 @@ _Resultate_
 **Bild** [Eintrag im ACC Besucher Buch zur Eröffnung der Ausstellung von *Barking Dogs United* *Size Matterz* im Winter 2008](der_kunstbewusste_mensch_investiert_heute_schon_in_benedikt_braun)
 
 Als Künstler habe ich sehr viele Erfahrungen und Kenntnisse sowie know-how überwiegend selbstständig gesammelt, und dies versuche ich an die Studierenden weiterzugeben.
-Noch ist es etwas früh um festzustellen, wie die Wirkung auf den Werdegang der Studierenden sein wird. Die erste "Resultate", das heißt, die erste Spuren der neuen Künstlerische 
-Strategien, getragen von Studenten und Absolventen der Bauhaus Universität, fangen jedoch sichtbar zu werden. 
-Einige Beispiele zeigen das mehrere sich alternativ bewegen, entweder noch während des Studiums oder direkt nach dem Abschluss. 
-Ich berichte hauptsächlich von Studierende aus der Kiosk09 Gruppe, solche, die bei mir und Prof. Hinterberger mehrere Projekte absolviert und anschließend ihr Diplom bei uns 
+Noch ist es etwas früh um festzustellen, wie die Wirkung auf den Werdegang der Studierenden sein wird. Die erste "Resultate", das heißt, die erste Spuren der neuen künstlerischen 
+Strategien, getragen von Studenten und Absolventen der Bauhaus Universität, fangen jedoch an sichtbar zu werden. 
+Einige Beispiele zeigen, dass mehrere sich alternativ bewegen, entweder noch während des Studiums oder direkt nach dem Abschluss. 
+Ich berichte hauptsächlich von Studierenden aus der Kiosk09 Gruppe, solche, die bei mir und Prof. Hinterberger mehrere Projekte absolviert und anschließend ihr Diplom bei uns 
 gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben und währenddessen ihre Strategien für das Diplom entwickelten, Ausstellungsräume eröffneten und diese leiten oder selbst dort ausstellten. 
 
-- Max Albrecht -- Gründet die Firma *KTE* Kunst Technik Einheit.
+- Max Albrecht -- gründet die Firma *KTE* Kunst Technik Einheit.
 
 - Franziska Becher -- arbeitet als Freie Mitarbeiterin bei der ACC Galerie.
 
 - Benedikt Braun
-    - TKM (Thüringer Kunstministerium) Stipendiat, Mehrere Ausstellungen im Eigenheim Galerie in Weimar und Erfurt, sowie Vertrettung in Preview Berlin.
-    - Zu seinem Diplom hat er eine für den Kunstmarkt umfangreiche Ausbreitung vorbereitet, mit Retrospektive, wenn auch als fiktive Ausstellung in eine fiktiven Galerie mit (einem echtem) Katalog. In diesem schreiben fiktive Kunsthistoriker, Kuratoren und andere Kunstkenner über ihm und seiner Arbeit. 
-    - Direkt nach seinem Diplom, ist er strategisch ein "Hartz-4-Empfänger" geworden, und hatte zum Thema ein neues Arbeitszyklus begonnen. 
+    - TKM (Thüringer Kunstministerium) Stipendiat, Mehrere Ausstellungen in der Eigenheim Galerie in Weimar und Erfurt, sowie Vertrettung in der Preview Berlin.
+    - Zu seinem Diplom hat er eine für den Kunstmarkt umfangreiche Ausbreitung vorbereitet, mit Retrospektive, wenn auch als Ausstellung in ein fiktiven Galerie mit (einem echtem) Katalog. In diesem schreiben fiktive Kunsthistoriker, Kuratoren und andere Kunstkenner über ihn und seine Arbeit. 
+    - Direkt nach seinem Diplom, ist er strategisch ein "Hartz-4-Empfänger" geworden, und hatte zum Thema einen neuen Arbeitszyklus begonnen. 
 
 - Cosima Göpfert -- eröffnete ihr Atelier als Laden in der Stadtmitte und betreibt das Kunstkartell zur Vermittlung und Verkauf von Kunst.
 
 - Maxie Götze  
-    - Initiative Marke.6 und Leitung und Koordination vom Kiosk.6 nach der Übergabe an den StoKo (und damit an der Universität) im Jahr 2011.
+    - Initiative Marke.6 und Leitung und Koordination vom Kiosk.6 nach der Übergabe an den StoKo (und damit an die Universität) im Jahr 2011.
 
 - Christoph Kraus hatte den *Kunstraum Kraus* in der Marienstr. eröffnet, Der Anfang war gut, aber es fehlte die Möglichkeit während des Studiums den Ort ernsthaft zu betreiben. 
-  - Zusammen mit Fabian Fontain und Marc Aaron Faesser, haben sie es geschafft bei der kulturfonds Geld zu acquirieren, um während der documenta 13 an eine renommierten Stelle ein [gemeinsames Kunstobjekt](http://www.tlz.de/web/zgt/kultur/detail/-/specific/Bauhaus-Studenten-zeigten-Installation-zur-Documenta-1144759424) zu installieren.
+  - Zusammen mit Fabian Fontain und Marc Aaron Faesser, haben sie es geschafft beim Kulturfonds Geld zu acquirieren, um während der documenta 13 an einer renommierten Stelle ein [gemeinsames Kunstobjekt](http://www.tlz.de/web/zgt/kultur/detail/-/specific/Bauhaus-Studenten-zeigten-Installation-zur-Documenta-1144759424) zu installieren.
 
 - Lucian Patermann 
-    - Initiative Marke.6, mehrere Preise und in alle Bauhaus Essentials (1-3) von der Jury in den ersten 20 Plätze plaziert, davon ein Mal gut genug, um zur Preview Berlin zu gelangen.
+    - Initiative Marke.6, mehrere Preise und in allen Bauhaus Essentials (1-3) von der Jury unter die ersten 20 Plätze plaziert, davon ein Mal gut genug, um zur Preview Berlin zu gelangen.
 
-- Phillip Valenta -- Entwickelte als Strategie den *Philipp Valenta Holdings* und produziert Luxus Kunst-Objekte.
+- Phillip Valenta -- entwickelte als Strategie die *Philipp Valenta Holdings* und produziert Luxus Kunst-Objekte.
 
-- Simone Weikelt -- TKM (Thüringer Kultusministerium) Stipendiatin, mehrere Ausstellungen und Aktiv im Kunstbetrieb in Erfurt.
+- Simone Weikelt -- TKM (Thüringer Kultusministerium) Stipendiatin, mehrere Ausstellungen und aktiv im Kunstbetrieb in Erfurt.
 
 - Rosmarie Weinlich 
-    - Leitet das *‚MOGA Salon Rejected‘* einen in einen *white cube* umfunktionierten Caravan, mit dem sie sich wie ein Parasit (nach Absprache und in Zusammenarbeit mit 
-  diversen Institutionen, versteht sich) an Galerien andockt, um in ihrer Wohnwagen-Galerie diejenige Künstler auszustellen, die von der jeweiligen Galerie abgelehnt wurden.  
-  Ihre Diplomarbeit über der Erfolg der Künstler und die ihm vorliegende Marktstrukturen, konnte Sie ans ACC andocken.
+    - leitet das *‚MOGA Salon Rejected‘* einen in einen *white cube* umfunktionierten Caravan, mit dem sie sich wie ein Parasit (nach Absprache und in Zusammenarbeit mit 
+  diversen Institutionen, versteht sich) an Galerien andockt, um in ihrer Wohnwagen-Galerie diejenigen Künstler auszustellen, die von der jeweiligen Galerie abgelehnt wurden.  
+  Ihre Diplomarbeit über den Erfolg der Künstler und die ihnen vorliegenden Marktstrukturen, konnte sie ans ACC andocken.
 
 
 **Bild:** [Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim] TODO: http://www.galerie-eigenheim.de/?page_id=295)
@@ -586,7 +583,7 @@ Wouldn't it be easier for Beardsley
 He could drop the paintings
 And photograph his penis
 Or take pics of the chicks
-Yeah, you know what i mean
+Yeah, you know what I mean
 Wouldn't it be better for Escher
 He could drop the marh
 And make it happen on his mattress
@@ -598,7 +595,7 @@ I ain't no art-ist
 I am an art-bitch
 I sell my panties to the men I eat
 I have no port-fo-lii-o
-Cos I only show
+Cuz I only show
 Where there's free al-co-hol
 
 I am so hardcore
@@ -607,7 +604,7 @@ Call me re-vo-lu-tionaire
 I poo on a plate and get it published on *Visionaire*
 What I do, it's called art-shit
 And don't you dare make fun of me
-Cos everything I do was featured on the pages of *id*
+Cuz everything I do was featured on the pages of *id*
 
 
 Lick lick lick my art-tit
