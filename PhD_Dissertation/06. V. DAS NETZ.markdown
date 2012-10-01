@@ -32,11 +32,11 @@ Eine Verschmelzung der Begriffe, Codes und Kategorien führte zu einer Weiterent
 Wahrnehmung von Kunst, ihren Indikatoren und Aufgabenbereichen führte. Künstler suchten nach neuen Wegen den Betrachter – über den *white cube* hinaus – zu erreichen, z.B. in der „Kunst in 
 öffentlichen Raum“, die nicht mehr nur die Form einer Skulptur oder eines Denkmals wahrt.
 
-    TODO: Wiederholungsgefahr!
+   
 Es stellt sich die Frage, welcher kommunikativen Strategien sich die Künstler im Zeitalter der Digitalisierung und Vernetzung bedienen. Seit einigen Jahren findet eine Verschiebung 
 in der Wahrnehmung und den Aufgabenbereichen zwischen Künstlern und den Vermittlungsapparaten wie Galerien, Museen, Kuratoren, Sammlern, etc. statt, die ihre Spuren bei den Philosophen 
 der Kunstwelt hinterlässt und bei den Künstlern großes Interesse weckt. Die Kunst stellt ihre eigenen Entstehungsprozesse auf der Meta-Ebene dar: Künstler beschäftigen sich mit dem 
-Kunstmarkt und dem Apparat als solchem, es entsteht der Begriff “Artist’s Artist” (*Künstler für Künstler*), als Bezeichnung für einen Künstler der in seiner Kunst vermehrt kritische 
+Kunstmarkt und dem Apparat als solchem, es entsteht der hier schon erwähnten Begriff *Artist’s Artist* (*Künstler für Künstler*), als Bezeichnung für einen Künstler der in seiner Kunst vermehrt kritische 
 Äußerungen über die Kunstwelt an sich vermittelt.
 
 **Bild:** [Justin Hansch: „Best friends painting“, 2010]
@@ -50,8 +50,7 @@ eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der St
 Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. Dr. Georg Hehn reflektiert in seinem Artikel „Der Genius und die gelangweilten Anderen“ [-@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. Dort meint er, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[^src-Genius1] -- „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[^src-Genius2] 
 Die Exilierung des Sakralen aus der Sphäre des künstlerischen Erlebens änderte nichts an ihrem Status als der wahren Wirklichkeit. Die Künstler kommunizierten nicht mit ihren 
 Rezipienten, sie schritten ihnen voran. Das Bedürfnis nach Aufklärung, Erklärung und Vermittlung ist Kern der schöpferischen Kraft, ein inneres Bild in die materielle Welt zu übersetzen, 
-„…und der Künstler zeigt sich als Virtuose der Kommunikation, dessen künstlerische Leistung gerade auf Meta-kommunikativer Kreativität beruht. Er mag provozieren, verfremden oder verstören, 
-er mag überhöhen oder ins Lächerliche ziehen, er mag überhöhen oder ins Lächerliche ziehen, er mag visionär oder fehlgelagert arbeiten, immer ist der Vektor seiner kreativen Explosion auf den Rezipienten gerichtet.“[^src-Genius3] 
+„…und der Künstler zeigt sich als Virtuose der Kommunikation, dessen künstlerische Leistung gerade auf meta-kommunikativer Kreativität beruht. Er mag provozieren, verfremden oder verstören, er mag überhöhen oder ins Lächerliche ziehen, er mag visionär oder fehlgelagert arbeiten, immer ist der Vektor seiner kreativen Explosion auf den Rezipienten gerichtet.“[^src-Genius3] 
 Für den heutigen Künstler heißt das, immer die Zielgruppe im Visier zu haben, und zunehmend sind das nicht nur kulturorientierte Menschen. 
 Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig vom Kunstapparat, seine Arbeit sieht. Die Kunstkritik inklusive, die ihm einerseits zur Verfügung steht, aber andererseits auch an ihm verdient.Hier wird gleichzeitig ein Problemfeld aufgemacht, nämlich: Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn das Kunstwerk nicht ausschließlich durch die diversen Komponenten dieses Apparats (Galerist, Kurator, Käufer, Kunstkritiker) transportiert wird? Oder, um es mit Marcel Duchamp zu sagen: „Soviel Künstler, soviele Einzelausstellungen, soviele Händler und Sammler und Kritiker, die nichts anderes sind als Läuse an den Hintern der Künstler!“ [zitiert nach: @Barck:Aisthesis, pp. 105]
 
@@ -65,11 +64,7 @@ Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig 
 Vilèm Flusser schreibt [-@Flusser:Kommuni], dass auch wenn die Begriffe Schönheit, Originalität, Interesse, usw. schwierig zu definieren sind, so doch alles immer wieder auf die Information 
 zurückgeführt werden kann und Information will kommuniziert werden. Übernimmt die Digitalisierung unserer Gesellschaft die Oberhand und bringt die hervorgebrachte elektronische Einsamkeit 
 ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: die Künstler , die nun nicht mehr nur lokal agieren, sondern globale Kulturströmungen verursachen. Das Quellenmaterial, 
-die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar.
-
-    TODO: Wiederholung checken, Zitat Lovink: siehe Wiederholung z. 219 
-
-Der *Virtuelle Intellektuelle* ist vor allem mit technischen Kompetenzen ausgestattet und kann sich ungehindert innerhalb von Onlinedatenbanken bewegen. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“. Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
+die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“. Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
 Verlängerung derselben ist. Auch die Selbst- und Anerkennung als Angehöriger einer Strömung geht nun über die politische, soziale und lokale Ebene hinaus. Man gehört nicht mehr einem bestimmten 
 politischen Club eines bestimmten Ortes an, sondern wandert in eine andere Sphäre und tritt dort mit Menschen aufgrund des gemeinsamen Interesses in Kontakt. Man teilt die gleiche Meinung und 
 kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.  
@@ -81,7 +76,7 @@ kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.
 
 Der []*digital native*](https://de.wikipedia.org/wiki/Digital_Native) wird zu einer politischen und globalen Persönlichkeit. 
 
-*Digital natives* bekommen ihre Information längst aus anderen Quellen als den offizielle Nachrichtenkanälen in Funk & Fernsehen und haben gelernt, sie auf ihre Echtheit zu prüfen. 
+*Digital natives* bekommen ihre Information längst aus anderen Quellen als den offiziellen Nachrichtenkanälen in Funk & Fernsehen und haben gelernt, sie auf ihre Echtheit zu prüfen. 
 Man kann feststellen, dass in vielen Fällen wie bei der Entwicklung der „Occupy“-Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien diese durch Twitter 
 und Facebook nicht nur mitgeteilt und verfolgt, sondern eben auch organisiert wurden. Durch ihre Verbreitung wurden sie zur Inspiration für Initiativen in anderen Ländern. 
 Allerdings hat sich gezeigt, dass die klassischen Medien die digitalen Netzwerke beobachteten und eine Gegenstrategie entwickelten, nämlich die des gezielten Desinteresses. 
@@ -107,6 +102,7 @@ die sich schnell über das Internet verbreitet.
 Das Verhalten des Polizisten John Pike während eines Protests an der UC Davis in Kalifornien wurde zwar ursprünglich von Journalisten ausreichend bebildert, 
 die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension, nachdem Remixe aus dem Netz ihn einmal quer durch die Kunstgeschichte *mashten*. 
 
+TODO:
 **Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis]
 
 **Bild:** [Sunday Afternoon]
@@ -115,13 +111,13 @@ die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension, na
 
 **Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth]
 
-Den Konflikt zwischen dem Machtkampf und menschlichen Bedürfnissen hat wiederum Marcel Walldorf in seiner lebensechten Plastik "Pinkelnde Petra" (2010) auf dem Punkt gebracht, in dem er ein 1:1 Skulptur nach eine Polizistin in eine unangenehme Position nachbildete.
+Den Konflikt zwischen dem Machtkampf und menschlichen Bedürfnissen hat wiederum Marcel Walldorf in seiner lebensechten Plastik "Pinkelnde Petra" (2010) auf dem Punkt gebracht, in dem er eine 1:1 Skulptur nach einer Polizistin in eine unangenehmen Position nachbildete.
 
 **Bild:** [ Marcel Walldorf: „Pinkelnde Petra“, 2010]
 
 Wie werden solche Einzelbilder zum Meme? Sie werden zuerst im Netz und digital produziert und zirkuliert, ihr Ursprung aber kommt meist aus dem nichtvirtuellen 
 Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert, selektiert, reproduziert und re-reprojiziert und reisen so durch die Kanäle, 
-Interessensgruppen und Zirkeln. So entstehen Meme, die nach Walter Benjamin „in unserem kollektiven Bildwissen“ durch Reproduzierbarkeit und wiederholte Erscheinung zu Ikonen werden. 
+Interessensgruppen und Zirkel. So entstehen Meme, die, wenn man so sagen kann, nach Walter Benjamin „in unserem kollektiven Bildwissen“ durch Reproduzierbarkeit und wiederholte Erscheinung zu Ikonen werden. 
 
 
 ### Kunst $\oplus$ Freiheit
@@ -138,8 +134,8 @@ Künstlerische Strategien wie Flashmobbing[^fn-flashmob] werden auf einen Punkt 
 setzen. Das persönliche Erlebnis dieser (und ähnlicher) Ereignisse muss intensiv gewesen sein, jedoch wird ihre Einmaligkeit durch die vielfältige Verbreitung 
 im Internet via *YouTube* wieder aufgehoben und führt so wieder zu verstärkter Aufmerksamkeit.  
 
-[^fn-flashmob]: Bestes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen sich in alltäglichen Positionen 
-für fünf Minuten innerhalb der verkehrsreiche Station eingefroren stehen geblieben sind, um auf die Beschleunigung der Lebens aufmerksam zu machen. <https://youtu.be/jwMj3PJDxuo>
+[^fn-flashmob]: Bestes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen in alltäglichen Positionen 
+für fünf Minuten innerhalb der verkehrsreichen Station eingefroren stehen geblieben sind, um auf die Beschleunigung des Lebens aufmerksam zu machen. <https://youtu.be/jwMj3PJDxuo>
 
 
 Ikonographische Symbole mit einer gewandelten Aussage, nämlich einer widersprüchlicheren oder kritischeren als ursprünglich intendiert, 
@@ -154,7 +150,7 @@ d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geri
 
 **Bild:** [Giancio: „Logo T-Shirt“]
 
-Mindestens seit der 1970er Jahre tragen wir Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit uns herum. Als ich 12 Jahre alt war, hieß es entweder *Adidas*, 
+Mindestens seit den 1970er Jahren tragen wir Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit uns herum. Als ich 12 Jahre alt war, hieß es entweder *Adidas*, 
 *Levis* und *Lee* als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation 
 der Mode oder Anti-Mode (*„Hipsterie“*), ist als kulturelles Merkmal nicht weg zu denken. Individualität und Wohlstand werden durch Gestaltung und Design transportiert.
 Durch die wiederholte Erscheinung dieser mutierten Bilder, werden Meinungen im öffentlichen Raum kommuniziert und bieten in dem Sinne das symbolische Bild, 
@@ -176,12 +172,12 @@ Eine Mischung aus Neugierde, der Suche nach der Wahrheit und Experimentierfreude
 
 Flussers Äußerungen der Kunst gegenüber in diesem Text sollte man aber aus der heutigen Sicht eher kritisch betrachten, vor allem wenn man das 
 epistemologische Narrativ wahrnimmt: „Man kann nicht zeigen, wie sich die Dinge verhalten sollen, ohne gezeigt zu haben, wie sie sich tatsächlich 
-verhalten, also ein Dèontologisches Motiv“ [-@Flusser:Kommuni]. 
+verhalten, also ein Dèontologisches Motiv“ [-@Flusser:Kommuni, pp 112]. 
 
 Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kunst und Technik und ihre Ersetzung durch Technick an. Für ihn werden Bilder zu 
 Kunstwerken, sobald sie aufhören, der dominante 
 Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können. Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, 
-gerade mit der Entwicklung der „Vergleichende Ästhetik“ als Kunstsparte.[^fn-relationalaest]
+gerade mit der Entwicklung der „Vergleichenden Ästhetik“ als Kunstsparte.[^fn-relationalaest]
 
 [^fn-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch *Relational Aesthetics* Kunst als eine Aktivität, die aus der Produktion von 
 Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), Aktionen und Objekten. [@Bourriaud:Relational]
@@ -189,7 +185,7 @@ Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), 
 
 
 
-### Vom Migration & Nomadentum zur Wohnraum
+### Von Migration & Nomadentum zum Wohnraum
 
 „Travelling without moving“ wird zu einer Realität. Künstler bedienen sich an allem, was die Welt zu bieten hat, alles ist eine Quelle, Philosophie und Kunsttheorie machen keine Ausnahme. 
 Laut Geert Lovink, Gründungsdirektor des medientheoretischen [*Institute of Network Cultures (INC)*](http://networkcultures.org) mit Sitz an der 
@@ -202,12 +198,12 @@ Künstler sind zunehmend ortsunabhängig, die Migrationsraten steigen und das Le
 Übernimmt der Digitalisierungsprozess in unserer Gesellschaft die Oberhand? Elektronische Einsamkeit bringt ein Kybernetisches 
 Ödland hervor, das aber auf den vorherigen Paradigmen beruht. Dazu gehört eine Aristokratie, die einen tiefen Hass auf die Online-Massen hegt, 
 doch in der Wirklichkeit ist zunehmend von den „Netz-Kindern“ zu hören (wobei diese sich im Gegensatz zu vorherigen „Generationen“ 
-nicht über eine Altersgruppe definieren lässt, wie der polnische Dichter Piotr Czerski in seinem Text ["Wir, die Netz-Kinder"](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt). 
+nicht über eine Altersgruppe definieren lassen, wie der polnische Dichter Piotr Czerski in seinem Text ["Wir, die Netz-Kinder"](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt). 
 
 Die sog. “Millenials” sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein-und-die-selbe Realität. Muttersprache und Fremdsprache werden 
 durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung ersetzt. „Der virtuelle Intellektuelle ist vor allem ausgestattet mit technischen Kompetenzen 
 und kann sich ungehindert innerhalb von Online-Datenbanken, Listenkulturen, Suchmachienen und Hypertext-Umgebungen bewegen. Tut er auch, heutzutage.“[@Lovink:Dark, pp. 39]
-Sein Charakter ist vor allem als technisch zu bezeichnen, und mehr als seinen Vorgängern, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, sondern aus eigener Initiative. Sein Milieu befindet sich im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
+Sein Charakter ist vor allem als technisch zu bezeichnen, und mehr als seine Vorgänger, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, sondern aus eigener Initiative. Sein Milieu befindet sich im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
 „Ziel der Demokratisierung der Medien ist die Abschaffung aller Formen medialisierter Repräsentation und künstlicher Verknappung von Kanälen. Die technischen Möglichkeiten, Menschen 
 für sich sprechen zu lassen, (...) durch Kommunikationswerkzeuge“ [@Lovink:Dark, pp. 39]. So gesehen treiben Künstler stets eine Art säkulare Exegesis, 
 oder haben hermeneutische Züge, ob mit oder ohne Bewusstsein. So etwas nennen sie dann künstlerische Recherche: In erster Linie für sich selbst, aber auch für ihr Publikum. 
@@ -218,7 +214,7 @@ sie lassen sich dabei auch von Theoretikern beeinflussen.
 ### Attention Whores
 
 
-Hehns Meinung nach, scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
+Hehns Meinung nach scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
 „It’s not the What, it’s the How“. Er zählt die vier Komponenten, die als Form-Inhalt-Dynamiken zu beschreiben sind: Produzent / Form / Inhalt / Konsument. 
 „Jedes Verstehen ist heute ein Verstehen von Relationen, alles Wahrnehmen ein Wahrnehmen von Elementen in kodierten Systemen – nicht nur 
 Raum und Zeit.“[-@Hehn:Genius]. Kunst ist unverbindliche Kommunikation. Der Künstler besitzt den Drang, seine Erkenntnisse zu vermitteln, 
@@ -316,7 +312,7 @@ Lauf nicht in das Messer,
 Es wird alles besser.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
-- From: TODO:
+- [MP3 Link](http://soundcloud.com/eins78/hypnose-eins78-digital-is-besser-remix-preview) 2.4.11 19:37
 - [Lyrics Link](http://www.xlyrics.de/spieltrieb-lyrics/hypnose-lyrics.html), 2.4.11 19:37
 
 
@@ -324,55 +320,55 @@ Es wird alles besser.
 
 
 > "I went from being an artist that makes things to being an artist that makes things happen" - Jeremy Deller
-> **Jeremy Deller**, Künstler, Turner Price Gewinner 2006 
+>  Künstler, Turner Price Gewinner 2006 
 
 **Bild:** [jeremy_deller_on_my_iphone]
 
 
 **Der Fall Pussy Riot**
 
-Beispiele wie Künstler versuchen einem Sozial- oder politischen Unterschied zu machen, sind hier schon genug diskutiert worden. Zum Schluss und aus aktuellem Anlaß, möchte ich ein Paar weitere Aspekte die mit der Fall von *Pussy Riot* zusammenhängen ansprechen.
+Beispiele dafür wie Künstler versuchen einem Sozial- oder politischen Unterschied zu machen, sind hier schon genug diskutiert worden. Zum Schluss und aus aktuellem Anlaß, möchte ich ein Paar weitere Aspekte, die mit der Fall von *Pussy Riot* zusammenhänge ansprechen.
 
 *Pussy Riot* ist eine Punk-Rock Band von russischen feministischen Künstlerinnen, die im August 2011 in Moskau gegründet wurde. Drei Bandmitglieder, Jekaterina Samuzewitsch, 30,
  Nadeschda  Tolokonnikowa, 22, und Marija Aljochina, 24, wurden wegen des Verdachts der Unruhen in öffentlichen Raum festgenommen, nachdem sie eine Kathedrale 
-in Moskau im Februar dieses Jahres infiltriert und Lieder die gegen der russische Präsident Vladimir Putin und gegen die Kirche gerichtet waren aufgeführt haben. Vier 
-weitere Band Mitglieder konnten fliehen. Nach einem halben Jahr, in dem die drei inhaftiert waren, verurteilte sie das Gericht wegen Hetzen zur religiösem 
-Hass und Hooliganismus zu einer Zweijährige Haftstrafe. Die Songs von *Pussy Riot* greifen vor allem die russischen Politik an und machen auf den Status der 
+in Moskau im Februar dieses Jahres infiltriert und Lieder, die gegen der russische Präsident Vladimir Putin und gegen die Kirche gerichtet waren, aufgeführt haben. Vier 
+weitere Band Mitglieder konnten fliehen. Nach einem halben Jahr, in dem die drei inhaftiert waren, verurteilte sie das Gericht wegen Hetze zu religiösem 
+Hass und Hooliganismus zu einer zweijährigen Haftstrafe. Die Songs von *Pussy Riot* greifen vor allem die russische Politik an und machen auf den Status der 
 Frauen im Land aufmerksam. Die Aufführungen finden an ungewöhnlichen Orten, wie Busse oder auf Gebäudedächern statt, und die Performer tragen immer Strumpfmasken 
-und bunten Kleider. Die Band arbeitet als ein Aktivisten Kollektiv: es sind 10 Musiker, und weiter 15 Menschen auf der technischen Seite, die die entstandenen Videoclips auf 
-dem Internet hochladen. Die Weibliche Mitglieder nennen sich übersetzt *Fischsuppe*, *Katze*, *Hut* und *Schuhmacher.* Seit der Verhaftung, und noch 
-stärker nach dem Urteil, genießt *Pussy Riot* breite Unterstützung von vielen westlichen Musikern, darunter die Band "Faith No More" 
+und bunte Kleider. Die Band arbeitet als ein Aktivisten Kollektiv: es sind 10 Musiker, und weitere 15 Menschen auf der technischen Seite, die die entstandenen Videoclips auf 
+das Internet hochladen. Die weiblichen Mitglieder nennen sich übersetzt *Fischsuppe*, *Katze*, *Hut* und *Schuhmacher.* Seit der Verhaftung, und noch 
+stärker nach dem Urteil, genießt *Pussy Riot* breite Unterstützung von vielen westlichen Musikern, darunter die Band "Faith No More", 
 Madonna, "Red Hot Chili Peppers", Björk und Paul McCartney.[^fn-urizeraviv] 
 
-[^fn-urizeraviv]: Kurze Fassung der Nachrichten Meldung *Kollektiv in Bewegung* von Uri Zer Aviv für 
+[^fn-urizeraviv]: Kurze Fassung der Nachrichten Meldung *Kollektiv in Bewegung* von Uri Zer Aviv für die
 Haaretz Zeitung am 20.08.2012 [Link] http://www.haaretz.co.il/gallery/music/1.1805128 15.09.2012 13:40 Aus dem Heb. übersetzt von nts)
 
-Auf Facebook ist nach dem Urteil folgenden "Zettel" auf mehrere Blog Seiten hochgeladen und geteilt worden:
+Auf Facebook ist nach dem Urteil folgender "Zettel" auf mehrere Blog Seiten hochgeladen und geteilt worden:
 
-**Bild:** [Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung]
+**Bild:** [Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung]
 
 Der Theoretiker und Publizist [Slavoj Žižek schrieb über Pussy Riot](http://dangerousminds.net/comments/the_true_blasphemy_slavoj_zhizhek_on_pussy_riot):
 
->„Ihre Botschaft ist: IDEEN SIND VON BELANG Sie sind Konzeptkünstler im edelsten Sinne des Wortes:. Künstler, die eine Idee verkörpern.
->Dies ist (der Grund), warum sie Sturmhauben tragen: Masken der Ent-Individualisierung, der befreiende Anonymität. Die Botschaft ihres Sturmhauben
+>„Ihre Botschaft ist: IDEEN SIND VON BELANG. Sie sind Konzeptkünstler im edelsten Sinne des Wortes: Künstler, die eine Idee verkörpern.
+>Dies ist (der Grund), warum sie Sturmhauben tragen: Masken der Ent-Individualisierung, der befreienden Anonymität. Die Botschaft ihrer Sturmhauben
 >ist, dass es keine Rolle spielt, welche von ihnen verhaftet werden - sie sind nicht Einzelpersonen, sind sie eine Idee. Und das ist (der Grund), warum sie
 >eine solche Bedrohung darstellen: Es ist leicht Personen zu inhaftieren, aber versuche, eine Idee zu inhaftieren“ 
 > -- *Slavoj Žižek*
 
-Neulich im Diskussion mit Norbert Hinterberger meinte dieser: "*Pussy Riot* sind ein gutes Beispiel für gesellschaftspolitisch erfolgreichen Dilettantismus unter dem Motto „Der Zweck heiligt die Mittel“. 
-Mir ist das aber noch allemal lieber als PC-weichgespülte Mitleidsattitüden und viele Formen der „Sozialkunst“!" Die Grenzen zwischen politischer Kunst, welche sich mit den negativen Auswirkungen 
-der Sozio-ökonomischen Ära des Spätkapitalismus auseinandersetzt, und reiner sozialer Arbeit verwischen langsam, wie zum Beispiel die Arbeit der Künstlergruppen *Wochenklausur* oder *Reinigungsgesellschaft*, die sich als 
-"künstlerisches Unternehmen an der Schnittstelle zwischen Kunst und Gesellschaft" verstehen, [Link](http://www.reinigungsgesellschaft.de/) und fast reine Sozialarbeit, nämlich welche, die eigentlich von der Staat zu erwarten wären, treiben. 
+Neulich in einer Diskussion mit Norbert Hinterberger meinte dieser: "*Pussy Riot* sind ein gutes Beispiel für gesellschaftspolitisch erfolgreichen Dilettantismus unter dem Motto 'Der Zweck heiligt die Mittel'. 
+Mir ist das aber noch allemal lieber als PC-weichgespülte Mitleidsattitüden und viele Formen der 'Sozialkunst'!" Die Grenzen zwischen politischer Kunst, welche sich mit den negativen Auswirkungen 
+der sozio-ökonomischen Ära des Spätkapitalismus auseinandersetzt, und reiner sozialer Arbeit verwischen langsam, wie zum Beispiel die Arbeit der Künstlergruppen *Wochenklausur* oder *Reinigungsgesellschaft*, die sich als 
+"künstlerisches Unternehmen an der Schnittstelle zwischen Kunst und Gesellschaft" verstehen, und fast reine Sozialarbeit, nämlich welche, die eigentlich von der Staat zu erwarten wären, treiben. 
 
-Im Züge der *Occupy Bewegung* in verschiedene Länder, gab es auch diverse Auseinandersetzungen von Künstler mit der Institution Museum. In Tel Aviv z.B. haben im Sommer 2011 mehrere Künstler eine Demonstration
-vor und im Museum durchgeführt und öffentlich mehr Dialog mit ihnen seitens des Instituts gefördert. In kleinen lokalen Aufständen in diversen Städten entstehen neue Kunststrukturen 
+Im Züge der *Occupy Bewegung* in verschiedenen Ländern, gab es auch diverse Auseinandersetzungen von Künstlern mit der Institution Museum. In Tel Aviv z.B. haben im Sommer 2011 mehrere Künstler eine Demonstration
+vor und im Museum durchgeführt und öffentlich mehr Dialog mit ihnen seitens des Instituts gefordert. In kleinen lokalen Aufständen in diversen Städten entstehen neue Kunststrukturen 
 Die Drosselung und Begrenzung der Meinungsfreiheit durch Kontrolle wird bekämpft. 
 
 
-Die *dOCUMENTA(13)* unter der Künstlerische Leitung von Carolyn Christov-Bakargiev unterstützte die Occupy Bewegung und duldete Zelte auf der Wiese des Friedrichsplatzes. Just zum Preview stand das Erste Zelt direkt vor 
-der Eingang zum Fridericianum, an der Schwelle zu den Kaffeeständer draußen.[^documenta] 
+Die *dOCUMENTA(13)* unter der künstlerischen Leitung von Carolyn Christov-Bakargiev unterstützte die Occupy Bewegung und duldete Zelte auf der Wiese des Friedrichsplatzes. Just zur Preview stand das erste Zelt direkt vor 
+dem Eingang zum Fridericianum, an der Schwelle zu den Kaffeeständern draußen.[^documenta] 
 
-[^documenta]: Echo zu dieses Zeitgeistes ist noch in der Pressemitteilung nach der Schließung zu spuren: (die) "dOCUMENTA(13)
+[^documenta]: Ein Echo dieses Zeitgeistes ist noch in der Pressemitteilung nach der Schließung zu spüren: "dOCUMENTA(13)
 war für die Besucher keine Tagesveranstaltung. Die Ausstellung hat für die Besucher viel mehr eine Form von lebender Kultur repräsentiert, die zum Leben der Menschen gehört und in wiederholten Besuchen 
 erkundet wird, um dabei das Empfinden von Zeitdruck zu brechen, die Zeit und das Empfinden von Kunst befreien zu lassen." http://d13.documenta.de/de/#de/welcome/] 
 
@@ -381,17 +377,17 @@ erkundet wird, um dabei das Empfinden von Zeitdruck zu brechen, die Zeit und das
 
 **Bild:** [Meldung über die Occupy Zelte] 
 
-**Bild:** [Facebook Meldung von Johanna Warm im Bezug auf Schlafplatz in Kassel zum Documenta Besuch]
+**Bild:** [Facebook Meldung von Johanna Warm in Bezug auf Schlafplatz in Kassel zum Documenta Besuch]
 
    
 Auch bei der Rolle des Künstlers, der auf diese sozialen Phänomene verweist, vermischen sich Kreativität mit der Neigung zur Selbst-Ausbeutung. Wobei diese Neigung eher Künstlern als anderen zugeschrieben werden 
-kann, auf Grund ihre Verachtung oder Unfähigkeit, das was sie tun entgeltlich zu quantifizieren und zwar auf Grund ihres wachsenden Bedarfs, ihren Beitrag an den Aufgaben der Gesellschaft eben mittels ihre künstlerische
+kann, auf Grund ihre Verachtung oder Unfähigkeit, das was sie tun entgeltlich zu quantifizieren und zwar auf Grund ihres wachsenden Bedarfs, ihren Beitrag an den Aufgaben der Gesellschaft eben mittels ihrer künstlerischen
 Arbeit manifestieren zu wollen, und wenn Räume dafür nicht zu finden sind, so schafft er sich welche woanders. 
-Eine oberflächige Prüfung und einige Angebote von Kulturstiftungen und finanziellen Ressourcen, die seit geraumer Zeit sich für diverse Förderprojekte in ganz Europa rekrutieren lassen, machen verständlich, 
+Eine oberflächliche Prüfung und einige Angebote von Kulturstiftungen und finanzielle Ressourcen, die seit geraumer Zeit sich für diverse Förderprojekte in ganz Europa rekrutieren lassen, machen verständlich, 
 dass sogar die Politik in der Kunstwelt eine unerschöpfliche (und arme) Garnison fand: Willig zum Söldner zu werden, während die Künstler glauben, selbst die Entscheidungen zu treffen, wofür sie 
-zu kämpfen haben. Nur wenige schaffen es durch diese neue agit-prop-artigen Verhältnisse zu durchblicken, um ein zutreffendes Bild  von sich selbst als Künstler, und von der Kunst als solches zu bewahren.
+zu kämpfen haben. Nur wenige schaffen es diese neuen agit-prop-artigen Verhältnisse zu durchblicken, um ein zutreffendes Bild von sich selbst als Künstler, und von der Kunst als solches zu bewahren.
 
-Oft und gern zitiere ich in diesen Bezug die Worte Simon Sheikhs:
+Oft und gern zitiere ich in diesem Bezug die Worte Simon Sheikhs:
 
 > Diese derzeitige Situation im kulturellen und auch im politischen Feld führt zu einer möglichen - manchmal strategischen,
 > manchmal eher unwillkürlichen - Radikalisierung statt des Mainstreamings kritischer Praxen in Kunst und Aktivismus. Es ist ein Kampf an zwei Fronten,
