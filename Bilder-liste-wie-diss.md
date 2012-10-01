@@ -201,21 +201,33 @@
 
 
 
-32. **Bild:** [„Viva La Resolution“]
+31. **Bild:** [„Viva La Resolution“]
 
 {
-  "title-short" : "\"Marcel Walldorf: „Pinkelnde Petra\"",
-  "title" : "Marcel Walldorf: „Pinkelnde Petra“, 2010\"",
-  "filename" : "pinkelnde-petra.jpeg",
-  "media-type" : "",
-  "copyright" : "c" ,
+  "title-short" : "\"„Viva La Resolution“\"",
+  "title" : "Viva La Resolution“, Grafik\"",
+  "filename" : "viva_la_resolution2.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
   "source" : "",
   "source-url" : "http://www."
 }
 
-**Bild:** [Giancio: „Logo T-Shirt“]
-**Bild:** [Viktor Hertz: „Honest Logos“]
-**Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010] 
+
+**Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom] 
+
+{
+  "title-short" : "\"Adam Romberg & Oliver Chanarin: „Art & Freedom“, Cairo, 2010\"",
+  "title" : "Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010\"",
+  "filename" : "art_and_freedom.jpeg",
+  "media-type" : "Grafik",
+  "copyright" : "Adam Romberg & Oliver Chanarin" ,
+  "source" : "Bidoun Magazin",
+  "source-url" : "http://www."
+}
+
+Bibex!
+
 **Bild:** [Richard Hamilton: „Just what is it that makes today's homes so different, so appealing?“, 1956]
 **Bild:** [jeremy_deller_on_my_iphone]
 **Bild:** [Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung]
