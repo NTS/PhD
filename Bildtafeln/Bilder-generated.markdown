@@ -8,7 +8,7 @@
 ## [Betreten der Ausstellung Verboten] 
 \vfill
 ![Bild](pix/ulrichs_betreten_verboten.jpg) \
-\vfill
+
 Timm Ulrichs: "Betreten der Ausstellung Verboten"
 
 zweifarbiger Siebdruck auf Aluminium, 1968/69 --
@@ -26,7 +26,7 @@ Quelle: Sprengel Museum Hannover
 ## [Everything Has Been Done (Videostill)] 
 \vfill
 ![Bild](pix/azorro_everything_has_been_done_2.JPG) \
-\vfill
+
 
 
 eigenes Bildschirmfoto vom Video --
@@ -42,7 +42,7 @@ Quelle: privat
 ## [Everything Has Been Done (Transkription)] 
 \vfill
 ![Bild](pix/azorro_everything_has_been_done_1.JPG) \
-\vfill
+
 
 
 eigener Scan --
@@ -60,7 +60,7 @@ Quelle: privat
 ## [Künstlerbegriff nach Pons] 
 \vfill
 ![Bild](pix/kuenstler_nach_pons.png) \
-\vfill
+
 
 
 eigener Scan --
@@ -76,7 +76,7 @@ Quelle: Pons Wörtbuch TODO
 ## [Französische Künstlermütze] 
 \vfill
 ![Bild](pix/french_artist_golf_cap_by_ebay.png) \
-\vfill
+
 Französische Künstlermütze, zu ersteigen bei ebay
 
 eigener Screenshot --
@@ -92,7 +92,7 @@ Quelle: Google-Bildsuche
 ## [Naomi Campbell im Künstlerlook] 
 \vfill
 ![Bild](pix/naomi_campbell_for_vivian_westwood.jpg) \
-\vfill
+
 Model Naomi Campbell im Künstlerlook für Vivian Westwood
 
 Foto --
@@ -108,7 +108,7 @@ Quelle: Unbekannt
 ## [Jörg Immendorf] 
 \vfill
 ![Bild](pix/joerg-immendorf-by-andrea-strappert-2001.jpg) \
-\vfill
+
 
 
 Foto --
@@ -124,7 +124,7 @@ Quelle: privat
 ## [Warhol-Stickers] 
 \vfill
 ![Bild](pix/warhol_stickers.png) \
-\vfill
+
 Aufkleber mit Zitaten von Andy Warhol
 
 eigener Scan --
@@ -140,7 +140,7 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 ## [In the future everyone will be famous for fifteen minutes] 
 \vfill
 ![Bild](pix/warhol_etoui.jpg) \
-\vfill
+
 Aufkleber mit Zitat von Andy Warhol: "In the future everyone will be famous for fifteen minutes"
 
 eigener Scan --
@@ -156,7 +156,7 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 ## [Your 15 minutes are up!] 
 \vfill
 ![Bild](pix/warhol_your_15_minutes_are_up.jpg) \
-\vfill
+
 Ha-Ha Funny Buttons: "Your 15 minutes are up (Warhol)"
 
 eigener Scan --
@@ -172,7 +172,7 @@ Quelle: privat
 ## [Kunstmarkt-Brettspiel-Flyer] 
 \vfill
 ![Bild](pix/kunstmarkt_prestel_flyer.jpg) \
-\vfill
+
 
 
 Flyer --
@@ -188,7 +188,7 @@ Quelle: Prestel Verlag, 2007
 ## [Kunstmarkt-Brettspiel] 
 \vfill
 ![Bild](pix/kunstmarkt_prestel_2karten.jpg) \
-\vfill
+
 
 
 Detail: 2 Spielkarten --
@@ -204,7 +204,7 @@ Quelle: Prestel Verlag, 2007
 ## [Verstehen Sie Moderne Kunst auf Anhieb] 
 \vfill
 ![Bild](pix/understand_modern_art_object.jpg) \
-\vfill
+
 Mundspray: „Verstehen Sie Moderne Kunst auf Anhieb“
 
 Multiple --
@@ -220,7 +220,7 @@ Quelle: aus dem Museumshop, MoMA Berlin
 ## [Contemporary Artist] 
 \vfill
 ![Bild](pix/garnet_hertz_contemporary_artist_fb_meme.jpg) \
-\vfill
+
 
 
 Grafik, Internet-Meme --
@@ -236,7 +236,7 @@ Quelle: *facebook*: "Garnet Hertz Fotos"
 ## [What Artists Do] 
 \vfill
 ![Bild](pix/what_artists_do_mylife-600.jpg) \
-\vfill
+
 
 
 Pie Chart --
@@ -252,7 +252,7 @@ Quelle: My Life 600 Website
 ## [HBO's TV Serie Figur Claire Fisher (Six Feet Under)] 
 \vfill
 ![Bild](pix/claire_fisher-milestogo1440.jpg) \
-\vfill
+
 Claire Fisher (Six Feet Under)
 
 HBO's TV series promotion material --
@@ -268,7 +268,7 @@ Quelle: Fan Art Website
 ## [The Electrician] 
 \vfill
 ![Bild](pix/willem_dafoe_basquiat.png) \
-\vfill
+
 "The Electrician" erklärt seine Überlebensstrategie als Künstler
 
 eigener Still  --
@@ -284,7 +284,7 @@ Quelle: aus dem Film *Basquiat*, 1996
 ## [Jeff Koons mit seinen Mitarbeitern] 
 \vfill
 ![Bild](pix/jeff_koons_und_mitarbeiter.jpg) \
-\vfill
+
 
 
 Foto --
@@ -300,7 +300,7 @@ Quelle: *Monopol* Magazin
 ## [Künstler im Einsatz] 
 \vfill
 ![Bild](pix/kuenstler_im_einsatz_david_tartakover.jpg) \
-\vfill
+
 Künstler im Einsatz: David Tartakover, "I am There" (IL) 2006"
 
 Foto --
@@ -316,7 +316,7 @@ Quelle: uuufi
 ## [Bauhaus Curriculum] 
 \vfill
 ![Bild](pix/bauhaus_curriculum_1922.jpg) \
-\vfill
+
 
 
 Grafik --
@@ -332,7 +332,7 @@ Quelle: Itten, Johannes : Mein Vorkurs am Bauhaus. Otto Maier Verlag, 1963
 ## [Thomas Hirschhorn: Buchumschlag] 
 \vfill
 ![Bild](pix/thomas_hirschhorn_booksleeve.jpg) \
-\vfill
+
 "The artist as public Intellectual" mit Text von Thomas Hirschhorn 
 
 Buchumschlag --
@@ -348,7 +348,7 @@ Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Sc
 ## [Thomas Hirschhorn: Seite mit Text] 
 \vfill
 ![Bild](pix/thomas_hirschhorn_Buch_seite.jpg) \
-\vfill
+
 
 
 Seite aus dem Buch "The artist as public Intellectual" mit Text von Thomas Hirschhorn --
@@ -364,7 +364,7 @@ Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Sc
 ## [Hirschhorn: Mindmap] 
 \vfill
 ![Bild](pix/thomas_hirschhorn_mindmap.jpg) \
-\vfill
+
 
 
 Mindmap als Einladungsmotiv --
@@ -380,7 +380,7 @@ Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Sc
 ## [Die Gallerie ist Tot] 
 \vfill
 ![Bild](pix/die_galerie_ist_tot.jpg) \
-\vfill
+
 Aktion zur Vorgründung der marke.6
 
 Button --
@@ -396,7 +396,7 @@ Quelle: privat
 ## [Bauhaus Essentials I] 
 \vfill
 ![Bild](pix/bauhaus_essentials_1_einladung_marke_6.jpg) \
-\vfill
+
 
 
 Einladungs-Postkarte --
@@ -412,7 +412,7 @@ Quelle: Studentische Galerie marke.6
 ## [Benedikt Braun: Super Arm] 
 \vfill
 ![Bild](pix/benedikt_braun_super_arm.png) \
-\vfill
+
 Benedikt Braun Super Arm Solo Exhibition
 
 Blogpost (eigener Screenshot) --
@@ -428,7 +428,7 @@ Quelle: Eigenheim Galerie Website
 ## [Philipp Valenta mit Geldbeutel] 
 \vfill
 ![Bild](pix/valenta_biz.jpg) \
-\vfill
+
 Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game*
 
 Foto --
@@ -444,7 +444,7 @@ Quelle: privat
 ## [John Pike pepper sprays students] 
 \vfill
 ![Bild](pix/police-officer-pepper-spr-007.jpeg) \
-\vfill
+
 Police lieutenant John Pike pepper sprays students at UC Davis 2012
 
 Foto --
@@ -460,7 +460,7 @@ Quelle: Internet
 ## [Sunday Afternoon nach Edouard Manet] 
 \vfill
 ![Bild](pix/sundayafternoon.jpeg) \
-\vfill
+
 Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)"
 
 Foto --
@@ -476,7 +476,7 @@ Quelle: Internet
 ## [John Pike in Christina’s World] 
 \vfill
 ![Bild](pix/pepper-spray-cop9.jpeg) \
-\vfill
+
 John Pike makes a stop in "Christina's World"
 
 Foto --
@@ -493,7 +493,7 @@ Quelle: Internet
 ## [Marcel Walldorf: Pinkelnde Petra] 
 \vfill
 ![Bild](pix/pinkelnde-petra.jpeg) \
-\vfill
+
 „Pinkelnde Petra“
 
 lebensgroße Plastik --
@@ -509,7 +509,7 @@ Quelle: rebel:art
 ## [Viva La Resolution] 
 \vfill
 ![Bild](pix/viva_la_resolution2.jpg) \
-\vfill
+
 
 
 Grafik --
@@ -525,7 +525,7 @@ Quelle: Internet
 ## [Art & Freedom] 
 \vfill
 ![Bild](pix/art_and_freedom.jpeg) \
-\vfill
+
 "Art & Freedom", Townhouse Gallery
 
 Anzeige --
@@ -541,7 +541,7 @@ Quelle: Bidoun Magazin
 ## [Jeremy Deller Zitat] 
 \vfill
 ![Bild](pix/jeremy_deller_on_my_iphone.png) \
-\vfill
+
 
 
 Text als Grafik als Bildschirmfoto --
@@ -557,7 +557,7 @@ Quelle: *facebook*
 ## [Brief von Billy Bragg an Pussy Riot] 
 \vfill
 ![Bild](pix/pussy_riot_billy_bragg.jpg) \
-\vfill
+
 Brief von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung
 
 Foto --
@@ -573,7 +573,7 @@ Quelle: *facebook*
 ## [Occupy dOCUMENTA (13)] 
 \vfill
 ![Bild](pix/occupy_documenta1.png) \
-\vfill
+
 Meldung über die Occupy Zelte auf der dOCUMENTA (13)
 
 Bildschirmfoto --
@@ -589,7 +589,7 @@ Quelle: E-Mail-Newsletter
 ## [Facebook-Meldung von Johanna Warm] 
 \vfill
 ![Bild](pix/occupy_documenta_2_johanna_warm.png) \
-\vfill
+
 in Bezug auf Schlafplatz in Kassel zum documenta-Besuch
 
 Bildschirmfoto --
@@ -605,7 +605,7 @@ Quelle: *facebook*
 ## [Marc Bijl: Never Mind The Politics] 
 \vfill
 ![Bild](pix/bijl_never_mind_the_politics.jpg) \
-\vfill
+
 Marc Bijl (NL): "Never Mind the Politics"
 
 Poster --
@@ -621,7 +621,7 @@ Quelle: Courtesy Upstream gallery, Amsterdam/The breeder, Athens
 ## [FUCK THE CURATOR] 
 \vfill
 ![Bild](pix/fuck_the_curator_kunstzeitung.png) \
-\vfill
+
 
 
 Foto in der "Kunstzeitung", Ausgabe 157, September 2009 --
@@ -637,7 +637,7 @@ Quelle: via Aram's Blog
 ## [next documenta should be curated by an artist] 
 \vfill
 ![Bild](pix/next_documenta_should_be_curated_by_an_artist.png) \
-\vfill
+
 
 
 Bildschirmfoto --
@@ -653,7 +653,7 @@ Quelle: e-flux
 ## [BDU Manifest] 
 \vfill
 ![Bild](pix/BDU_MANIFESTO.pdf) \
-\vfill
+
 
 
 Manifest der Künstlergruppe --
@@ -671,7 +671,7 @@ Quelle: BDU
 ## [Justin Hansch: Best friends painting] 
 \vfill
 ![Bild](pix/justin_hansch_best_friends_painting.jpg) \
-\vfill
+
 Justin Hansch: „Best friends painting“
 
 Oil on Canvas, 40x50 cm --
@@ -689,7 +689,7 @@ Quelle: courtesy of Ryan Weber, Schalter Gallery, Berlin
 ## [BDU: Bender Flip Size] 
 \vfill
 ![Bild](pix/bdu_bender_flip_size_matterz_acc_2008.png) \
-\vfill
+
 Barking Dogs United: FX I, II, III - "Bender Flip Size"
 
 Digital Collage --
@@ -705,7 +705,7 @@ Quelle: BDU
 ## [BDU: Brain Equalizer] 
 \vfill
 ![Bild](pix/bdu_brain_equalizer_size_matterz_acc_2008.png) \
-\vfill
+
 Barking Dogs United: FX I, II, III - "Brain Equalizer"
 
 Digital Collage --
@@ -721,7 +721,7 @@ Quelle: BDU
 ## [BDU: Creative Reverb] 
 \vfill
 ![Bild](pix/bdu_creative_reverb_size_matterz_acc_2008.png) \
-\vfill
+
 Barking Dogs United: FX I, II, III - "Creative Reverb"
 
 Digital Collage --
@@ -737,7 +737,7 @@ Quelle: BDU
 ## [BDU: Influence Modifier] 
 \vfill
 ![Bild](pix/bdu_influence_modifier_size_matterz_acc_2008.png) \
-\vfill
+
 Barking Dogs United: FX I, II, III - "Influence Modifier"
 
 Digital Collage --
@@ -753,7 +753,7 @@ Quelle: BDU
 ## [BDU: Lust Station] 
 \vfill
 ![Bild](pix/bdu_lust_station_size_matterz_acc_2008.png) \
-\vfill
+
 Barking Dogs United: FX I, II, III - "Lust Station"
 
 Digital Collage --
@@ -769,7 +769,7 @@ Quelle: BDU
 ## [BDU: Mental Core] 
 \vfill
 ![Bild](pix/bdu_mental_core_size_matterz_acc_2008.png) \
-\vfill
+
 Barking Dogs United: FX I, II, III - "Mental Core"
 
 Digital Collage --
@@ -785,7 +785,7 @@ Quelle: BDU
 ## [BDU: Range-r] 
 \vfill
 ![Bild](pix/bdu_range-r_size_matterz_acc_2008.png) \
-\vfill
+
 Barking Dogs United: FX I, II, III - "Range-r"
 
 Digital Collage --
@@ -801,7 +801,7 @@ Quelle: BDU
 ## [BDU: Reliability] 
 \vfill
 ![Bild](pix/bdu_reliability_size_matterz_acc_2008.png) \
-\vfill
+
 Barking Dogs United: FX I, II, III - "Reliability"
 
 Digital Collage --
@@ -817,7 +817,7 @@ Quelle: BDU
 ## [BDU: thinking booster] 
 \vfill
 ![Bild](pix/bdu_thinking_booster_size_matterz_acc_2008.png) \
-\vfill
+
 Barking Dogs United: FX I, II, III - "thinking booster"
 
 Digital Collage --
@@ -833,7 +833,7 @@ Quelle: BDU
 ## [Vuk Vidor: Art history] 
 \vfill
 ![Bild](pix/vuk_vidor_art_history.jpg) \
-\vfill
+
 Vuk Vidor: "Art history (part one - version C)"
 
 Silkscreen --
@@ -849,7 +849,7 @@ Quelle: privat
 ## [KoCA inn Schild (Entwurf)] 
 \vfill
 ![Bild](pix/kocainn_entwurf_auf_tisch.jpg) \
-\vfill
+
 
 
 Studentischer Entwurf vom Fachkurs auf Universitätstisch --
@@ -865,7 +865,7 @@ Quelle: privat, 2009
 ## [KIOSK09-Fachkurs Teilnehmer bei der Arbeit] 
 \vfill
 ![Bild](pix/fachkurs_teilnehmer_bei_der_arbeit.jpg) \
-\vfill
+
 KIOSK09-Fachkurs Teilnehmer bei der Arbeit, 2009
 
 Foto --
