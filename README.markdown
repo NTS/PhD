@@ -108,3 +108,22 @@ Just Book [@Author:book]
 **Bild:** [Foto K3 bei der Arbeit](images/bild.jpg)[^k3]
 
 **Bild:** [Bildunterschrift [^fn-zum-bild]](~/Dropbox/MFA+NTS/...
+
+
+{
+  "title-short" : "\"Betreten der Ausstellung Verboten\"",
+  "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
+  "filename" : "ulrichs_betreten_verboten.jpg",
+  "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
+  "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
+  "source" : "Sprengel Museum Hannover",
+  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
+}
+
+
+
+
+
+
+
+

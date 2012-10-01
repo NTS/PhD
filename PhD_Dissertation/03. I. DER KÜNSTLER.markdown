@@ -164,20 +164,17 @@ Galerie und Galerist aufgelöst, der Künstler versteht sich als autark genug, u
 Er gestaltet seine Einladungen am eigenen Rechner, schreibt Texte, und wird sogar aufgefordert selbst die Aussagen über seine Arbeit und deren Aufklärung zu schreiben. 
 Er verschickt eigenständig Ausstellungseinladungen, E-Mails, publiziert sein Werk auf Internet-Plattformen wie Facebook und versteigert seine eigene Arbeit bei 
 Sotheby’s (Siehe den Fall Damien Hirst). Zum Mainstreaming gehören auch andere Verkaufsgelegenheiten, den der "Markt" bleibt nicht gleichgültig, das Thema ist interessant genug und im Jahr 2010 hat die 
-Kunstreproduktionsfirma *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht:
+Kunstreproduktionsfirma *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht (siehe Bilder) **Bilder:** [Kunstmarkt Brettspiel, Flyer], [Kunstmarkt Brettspiel]
 
-**Bild:** [Kunstmarkt Brettspiel, Flyer] 
 
-**Bild:** [Kunstmarkt Brettspiel]
 
 Ein Blick von außen auf den Künstler bzw. die unausgesprochene Leichtigkeit des Künstlerseins wird auch durch Bücher geworfen wie: 
 *Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, der für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
 sondern eher eienn "Knigge für Vernissagen" darstellt und in dem alle Klischees über Künstler in einer sehr verdaulichen Form aufgezeigt sind. 
 Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblößt sich selbst weiter und zwar ganz. 
  
-[TODO]  Weitere_Bilder_Richtig_verteilen
 
-TODO: **Bild:** [Mundspray, Dana Wyse, Verstehen Sie Moderne Kunst auf Anhieb, Objekt, 2004]
+**Bild:** [Mundspray, Dana Wyse, Verstehen Sie Moderne Kunst auf Anhieb, Objekt, 2004]
 
 
 ## Vom Künstlerbild in den Medien
@@ -198,26 +195,20 @@ Die erste Version des Memes wurde im Februar 2012 auf *facebook* publiziert, und
 aus unterschiedlichen Perspektiven.
 
 **Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme]
-{
-  "title-short" : "\"Betreten der Ausstellung Verboten\"",
-  "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
-  "filename" : "ulrichs_betreten_verboten.jpg",
-  "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
-  "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
-  "source" : "Sprengel Museum Hannover",
-  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
-}
+
+TODO:
 
 **Bild:** [What Artists Do, Pie Chart auf Mylife 600]
 {
-  "title-short" : "\"Betreten der Ausstellung Verboten\"",
-  "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
-  "filename" : "ulrichs_betreten_verboten.jpg",
-  "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
-  "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
-  "source" : "Sprengel Museum Hannover",
-  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
+  "title-short" : "\"What Artists Do, Pie Chart\"",
+  "title" : "What Artists Do, \"Pie Chart auf *Mylife 600*\"",
+  "filename" : "what_artists_do_mylife-600.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "",
+  "source" : "My Life 600 Website",
+  "source-url" : "http://"
 }
+
 
 
 ### Lisa Simpson & Claire Fisher

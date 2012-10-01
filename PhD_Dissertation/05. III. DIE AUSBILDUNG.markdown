@@ -32,9 +32,20 @@ Im Kapitel Fünfjahresplan werden diese Kurse ausführlich und mit Beispielen be
 
 
 
-**Bild:** [Das Bauhaus Curriculum, 1922[^source-bauhaus_curriculum_1922]] TODO: bauhaus_curriculum_1922
+**Bild:** [Das Bauhaus Curriculum, 1922[^source-bauhaus_curriculum_1922]]
 
 [^source-bauhaus_curriculum_1922]: TODO
+
+{
+  "title-short" : "\"Bauhaus Curriculum\"",
+  "title" : "Das Bauhaus Curriculum, 1922 \"",
+  "filename" : "bauhaus_curriculum_1922.gif",
+  "media-type" : "Grafik",
+  "copyright" : "Johannes Itten",
+  "source" : "My Life 600 Website",
+  "source-url" : "http://"
+}
+
 
 
 ## Be an Art Student, be a Master, be a Doctor!
@@ -240,11 +251,47 @@ Recht und Anerkennung verlangen und erhalten beide. In dem Buch *The artist as p
 Public Space – the Space of Public Life!* [-@Hirschhorn:PublicSpace] genannt.  
 
 
-**Bild:** [Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual]
+**Bilder:** [Thomas Hirschhorn Buchumschlag], [Thomas Hirschhorn: Seite mit Text], [Thomas Hirschhorn: Mindmap]
 
-**Bild:** [Thomas Hirschhorn: Seite mit Text]
 
-**Bild:** [Thomas Hirschhorn: Mindmap]
+
+{
+  "title-short" : "\"Thomas Hirschhorn: Buchumschlag\"",
+  "title" : "Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
+  "filename" : "thomas_hirschhorn_booksleeve.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "",
+  "source" : "bibtext!!!",
+  "source-url" : "http://"
+}
+
+
+
+
+
+{
+  "title-short" : "\"Thomas Hirschhorn: Seite mit Text\"",
+  "title" : "Seite aus dem Buch mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
+  "filename" : "thomas_hirschhorn_booksleeve.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "",
+  "source" : "bibtext!!!",
+  "source-url" : "http://"
+}
+
+
+
+{
+  "title-short" : "\"Hirschhorn: Mindmap\"",
+  "title" : "Thomas Hirschhorn: Mindmap als Einladungsmotiv \"",
+  "filename" : "thomas_hirschhorn_mindmap.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "Thomas Hirschhorn",
+  "source" : "",
+  "source-url" : "http://"
+}
+
+
 
 
 Als Ausstellungseinladung hat Hirschhorn eine Art visualisierten Text über seinen künstlerischen Gedankenwerdegang publiziert. Der Beitrag gibt seine Recherche zur Arbeit selbst 
@@ -340,9 +387,20 @@ Der Bedarf an offiziellen Ausstellungsräumen in Kunstakademien, der bereits im 
 [^fn-markebeiratinfo]: Diese Informationen basieren auf den Recherchen die bei der Neuformierung der marke.6 im Beirat erarbeitet wurde
 
 Im Falle der Bauhaus Universität Weimar haben über die Jahre die verschiedenen Rektore eine unterschiedliches Verständnis von der Wichtigkeit eines Ausstellungsortes für die Studenten gezeigt.
-Als erstes gab es eine unabhängige Eigeninitiative namens *Neu-Deli* die sich Räume über der Post am Goetheplatz in Weimar gemietet hat. Die Räume waren schön und sehr passend für Kunstausstellungen, mit hohen Decken und Stahlsäulen sowie viel Licht. Die Beziehungen zwischen der ACC Galerie und der BUW sind, wie man heute auf Facebook sagen würde "It's complicated": Manche Professoren und Mitarbeiter (darunter auch ich), sind Künstler der Galerie oder waren eingeladen dort auszustellen. Nur in seltenen Fällen werden Studenten oder Alumni dort ausgestellt, abgesehen von seltenen Zusagen zu Master/Diplomarbeit Vorstellungen und Präsentationen. Direkt nach der Neubegründung der Universität fing eine Reihe der Studenten, bzw. der Fachschaft in der Galerie eine Vortragsreihe namens *Herzblut* an wo mehrere Professoren aus allen Fakultäten Vorträge hielten. 2001 wanderte die Galerie unter dem Namen Bauhaus Universitätsgalerie als Untermieter in die expandierte ACC Galerie. Über ein Jahr lang liefen Ausstellungen der verschiedenen Fakultäten unter der Koordination von David Mannstein, auch er BUW-Absolvent. Leider war das Engagement seitens der Uni-Leitung hinsichtlich einer Uni-Galerie eher zurückhaltend angelegt, da eine neu eingestellte Kulturmanagerin gemeinsam mit dem damaligen Rektor Bauer-Wabnegg TODO: Formulierung die bestens funktionierende Kooperation leichtfertig abgesagt hat. Nach der Rückkehr des ehemaligen Rektors Gerd Zimmermann eröffnete im April 2008 die Bauhaus-Universität auf Initiative der Studenten Sebastian Helm, Laura Straßer und Maximilian Sauerbier vom StudierendenKonvent (StuKo) und in Zusammenarbeit mit der Klassik Stiftung den Ausstellungsraum »marke.6« im Neuen Museum: eine Ausstellungsfläche für studentische Arbeiten und Hochschulkooperationen. (Text zur Entstehung der Marke.6 wie sie auf der Seite (http://www.uni-weimar.de/cms/fileadmin/uni/files/aktuelles/bogen/2008_3/41.pdf) dokumentiert ist.) Ab diesem Moment stand die marke.6 als studentisch geführte Universitätsgalerie mit einer Koordinationsstelle. Die Universitätsgalerie fing als unabhängige Institution an, war weiter in Kooperation mit einem gemeinnützigen Kunstverein getreten und ist nun von dort aus zum Gast der Stiftung Weimar Klassik im Keller des Neues Museums unter einer anderen Infrastruktur geworden.
+Als erstes gab es eine unabhängige Eigeninitiative namens *Neu-Deli* die sich Räume über der Post am Goetheplatz in Weimar gemietet hat. Die Räume waren schön und sehr passend für Kunstausstellungen, mit hohen Decken und Stahlsäulen sowie viel Licht. Die Beziehungen zwischen der ACC Galerie und der BUW sind, wie man heute auf Facebook sagen würde "It's complicated": Manche Professoren und Mitarbeiter (darunter auch ich), sind Künstler der Galerie oder waren eingeladen dort auszustellen. Nur in seltenen Fällen werden Studenten oder Alumni dort ausgestellt, abgesehen von seltenen Zusagen zu Master/Diplomarbeit Vorstellungen und Präsentationen. Direkt nach der Neubegründung der Universität fing eine Reihe der Studenten, bzw. der Fachschaft in der Galerie eine Vortragsreihe namens *Herzblut* an wo mehrere Professoren aus allen Fakultäten Vorträge hielten. 2001 wanderte die Galerie unter dem Namen Bauhaus Universitätsgalerie als Untermieter in die expandierte ACC Galerie. Über ein Jahr lang liefen Ausstellungen der verschiedenen Fakultäten unter der Koordination von David Mannstein, auch er BUW-Absolvent. Leider war das Engagement seitens der Uni-Leitung hinsichtlich einer Uni-Galerie eher zurückhaltend angelegt, da eine neu eingestellte Kulturmanagerin gemeinsam mit dem damaligen Rektor Bauer-Wabnegg die bestens funktionierende Kooperation leichtfertig abgesagt hat. Nach der Rückkehr des ehemaligen Rektors Gerd Zimmermann eröffnete im April 2008 die Bauhaus-Universität auf Initiative der Studenten Sebastian Helm, Laura Straßer und Maximilian Sauerbier vom StudierendenKonvent (StuKo) und in Zusammenarbeit mit der Klassik Stiftung den Ausstellungsraum »marke.6« im Neuen Museum: eine Ausstellungsfläche für studentische Arbeiten und Hochschulkooperationen. (Text zur Entstehung der Marke.6 wie sie auf der Seite (http://www.uni-weimar.de/cms/fileadmin/uni/files/aktuelles/bogen/2008_3/41.pdf) dokumentiert ist.) Ab diesem Moment stand die marke.6 als studentisch geführte Universitätsgalerie mit einer Koordinationsstelle. Die Universitätsgalerie fing als unabhängige Institution an, war weiter in Kooperation mit einem gemeinnützigen Kunstverein getreten und ist nun von dort aus zum Gast der Stiftung Weimar Klassik im Keller des Neues Museums unter einer anderen Infrastruktur geworden.
 
 **Bild** Die Gallerie ist Tot
+
+
+{
+  "title-short" : "\"Die Gallerie ist Tot\"",
+  "title" : "Die Gallerie ist Tot, Aktion zur Vorgrundung der marke.6, 2006 \"",
+  "filename" : "die_galerie_ist_tot.jpg",
+  "media-type" : "Button",
+  "copyright" : "Sebastian Helm",
+  "source" : "Giveaway vor Ort",
+  "source-url" : "http://www.es-lebe-die-galerie.de"
+}
 
 ## Das Konstrukt Bauhaus Essentials
 
@@ -560,11 +618,32 @@ gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben
   Ihre Diplomarbeit über den Erfolg der Künstler und die ihnen vorliegenden Marktstrukturen, konnte sie ans ACC andocken.
 
 
-**Bild:** [Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim] TODO: http://www.galerie-eigenheim.de/?page_id=295)
+**Bilder:** [Benedikt Braun: Super Arm], [Philipp Valenta mit Geldbeutel]  
 
-**Bild:** [Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010] TODO valenta_biz.jpg
 
-**Bild:** [Die Kunststipendiatin Minna XY aus XY, Kunstbetrieb Istanbuls als Mindmap] TODO: minnas_map_2006.jpg
+{
+  "title-short" : "\"Benedikt Braun: Super Arm\"",
+  "title" : "Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim \"",
+  "filename" : "benedikt_braun_super_arm.png",
+  "media-type" : "Grafik",
+  "copyright" : "Benedikt Braun, Galerie Eigenheim" ,
+  "source" : "Eigenheim Galerie Website",
+  "source-url" : "http://www.galerie-eigenheim.de/?page_id=295) 2012-09-19 um 17.42.45"
+}
+
+ 
+
+{
+  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
+  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
+  "filename" : "valenta_biz.jpg",
+  "media-type" : "Foto",
+  "copyright" : "cc nts" ,
+  "source" : "nts 2010",
+  "source-url" : "http://www."
+}
+
+
 
 \pagebreak
  
