@@ -290,7 +290,7 @@ Bibex!
   "source-url" : "http://www."
 }
 
-38.-47.**Bilder:** [Barking Dogs United: FX I, FX II, FX III, 2008]
+38. - 47.**Bilder:** [Barking Dogs United: FX I, FX II, FX III, 2008]
 
 {
   "title-short" : "\"BDU: "Bender Flip Size"\"",
@@ -388,10 +388,37 @@ Bibex!
 
 
 
+**Bild:** [Fachkurs Teilnehmer bei der Arbeit, 2009] 
+
+{
+  "title-short" : "\"BDU: "Fachkurs Teilnehmer bei der Arbeit, 2009"\"",
+  "title" : "Fachkurs Teilnehmer bei der Arbeit, 2009\"",
+  "filename" : "fachkurs_teilnehmer_bei_der_arbeit.jpg",
+  "media-type" : "Foto",
+  "copyright" : nts ,
+  "source" : nts,
+  
+}
+
+**Bild:** [KoCAinn Entwurf auf Tisch]
+
+{
+  "title-short" : "\"kocainn Entwurf auf Tisch"\"",
+  "title" : "Kiosk KoCAinn Entwurf auf Tisch im Fackkurs Zimmer geritzt, 2009\"",
+  "filename" : "kocainn_entwurf_auf_tisch.jpg",
+  "media-type" : "Foto",
+  "copyright" : "nts" ,
+  "source" : "nts",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
 
 
 
 
 
 
-bijl_never_mind_the_politics.jpg
+
+
+
+
+
