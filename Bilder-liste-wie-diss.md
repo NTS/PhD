@@ -145,18 +145,24 @@
   "filename" : "valenta_biz.jpg",
   "media-type" : "Foto",
   "copyright" : "cc nts" ,
-  "source" : "nts",
+  "source" : "nts 2010",
   "source-url" : "http://www."
 }
 
 
-**Bild:** [Die Kunststipendiatin Minna XY aus XY, Kunstbetrieb Istanbuls als Mindmap] TODO: minnas_map_2006.jpg
-**Bild:** [Justin Hansch: „Best friends painting“, 2010]
-**Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis]
-**Bild:** [Sunday Afternoon]
-**Bild:** [Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)]
-**Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth]
-**Bild:** [ Marcel Walldorf: „Pinkelnde Petra“, 2010]
+
+
+27. **Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis]
+28. **Bild:** [Sunday Afternoon]sundayafternoon.jpeg [Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)]
+30. **Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth]
+31. **Bild:** [ Marcel Walldorf: „Pinkelnde Petra“, 2010]pinkelnde-petra.jpeg
+
+pepper-spray-cop9.jpeg
+
+police-officer-pepper-spr-007.jpeg
+
+
+
 **Bild:** [„Viva La Resolution“]
 **Bild:** [Giancio: „Logo T-Shirt“]
 **Bild:** [Viktor Hertz: „Honest Logos“]
@@ -167,7 +173,7 @@
 **Bild:** vom ersten Zelt NTS!
 **Bild:** [Meldung über die Occupy Zelte] 
 **Bild:** [Facebook Meldung von Johanna Warm im Bezug auf Schlafplatz in Kassel zum Documenta Besuch]
-**Bild:** [Justin_Hansch_Happy_Artists.jpg]  (images/bild.jpg)
+**Bild:** [Justin_Hansch_Happy_Artists.jpg]  (images/bild.jpg) [Justin Hansch: „Best friends painting“, 2010]
 
 **Bild:** [Barking Dogs United, FX I 2008]
 **Bild:** [Barking Dogs United, FX II 2008]
