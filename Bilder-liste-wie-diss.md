@@ -163,12 +163,12 @@
   "source-url" : "http://www."
 }
 
-28. **Bild:** [Sunday Afternoon]sundayafternoon.jpeg [Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)]
+28. **Bild:** [Sunday Afternoon] 
 
 {
   "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
-  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
-  "filename" : "valenta_biz.jpg",
+  "title" : "Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)\"",
+  "filename" : "sundayafternoon.jpeg",
   "media-type" : "Foto",
   "copyright" : "cc nts" ,
   "source" : "nts 2010",
