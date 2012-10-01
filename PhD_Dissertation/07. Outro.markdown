@@ -255,11 +255,19 @@ und permanent auf dieser Ebene geblieben.
 	
 	
 
-And now, if you will excuse me, I am going to make some art.
+And now, if you will excuse me, I am going to make some art.  **Bild:** [Justin Hansch: „Best friends painting] 
 
-
-    TODO: es wiederholt sich! lieber hier!
+ 
+{
+  "title-short" : "\"Justin Hansch: „Best friends painting“„“\"",
+  "title" : "Justin Hansch: „Best friends painting“, Oil on Canvas, 40x50 cm, 2010 Schalter Galerie, Berlin\"",
+  "filename" : "justin_hansch_best_friends_painting.jpg",
+  "media-type" : "Foto",
+  "copyright" : "cc nts, courtesy of Ryan Weber, Schalter Gallery, Berlin, " ,
+  "source" : "",
+  "source-url" : "http://www." ???(http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)???
+}
     
-**Bild:** [Justin_Hansch_Happy_Artists.jpg]  (images/bild.jpg) [LINK](http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)
+ 
 
 
