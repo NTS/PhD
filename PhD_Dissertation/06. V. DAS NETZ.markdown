@@ -4,7 +4,7 @@
 
 Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint zu steigen.
 Künstler & Hacker sowie Künstler und Experten der digitalen Medien sitzen nicht nur in der Uni beieinander. In Folge der gegenwärtigen Paradigmenverschiebung
-in der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommunikation aus Künstlerischer Sicht untersucht werden.
+in der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommunikation aus künstlerischer Sicht untersucht werden.
 
  
 ## Kunst ./. Kommunikation*
@@ -22,7 +22,7 @@ in der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommu
 Kommunikation manifestiert sich als kollektives und kollegiales Feld. Welche Mitteilungsform erhält das Haptische und welche Stellung nehmen Daten ein? 
 Hat die Kunst eine andere Berechtigung, wird sie anders wahrgenommen? Wie entwickelt sich die eigene Ansicht auf Individualität in den immer 
 vielfältiger werdenden Kommunikationswegen? Inwieweit wirkt sich die Entwicklung auf unsere Wahrnehmung aus? Was passiert mit dem Künstler, sein Werk und 
-dessen Vermittlungswegen, im Zeitalter der unendlichen digitalen Reproduzierbarkeit von Information? Diese Art „Osmose“, hinterlässt bei vielen 
+dessen Vermittlungswege, im Zeitalter der unendlichen digitalen Reproduzierbarkeit von Information? Diese Art „Osmose“, hinterlässt bei vielen 
 kunstorientierten Theoretikern Spuren und stößt das Interesse der Künstler auf der Meta-Ebene an. 
 
 In den 1960er Jahren, im Zuge der Entmaterialisierung der Kunst, erweiterte die Konzeptkunst das Sehen durch das Denken. Das bloße Betrachten eines Kunstwerkes reichte zum Verständnis 
@@ -33,7 +33,7 @@ Wahrnehmung von Kunst, ihren Indikatoren und Aufgabenbereichen führte. Künstle
 öffentlichen Raum“, die nicht mehr nur die Form einer Skulptur oder eines Denkmals wahrt.
 
     TODO: Wiederholungsgefahr!
-Es stellt sich die Frage, welcher kommunikativen Strategien sich die Künstler im Zeitalter der Digitalisierung und Vernetzung behelfen. Seit einigen Jahren findet eine Verschiebung 
+Es stellt sich die Frage, welcher kommunikativen Strategien sich die Künstler im Zeitalter der Digitalisierung und Vernetzung bedienen. Seit einigen Jahren findet eine Verschiebung 
 in der Wahrnehmung und den Aufgabenbereichen zwischen Künstlern und den Vermittlungsapparaten wie Galerien, Museen, Kuratoren, Sammlern, etc. statt, die ihre Spuren bei den Philosophen 
 der Kunstwelt hinterlässt und bei den Künstlern großes Interesse weckt. Die Kunst stellt ihre eigenen Entstehungsprozesse auf der Meta-Ebene dar: Künstler beschäftigen sich mit dem 
 Kunstmarkt und dem Apparat als solchem, es entsteht der Begriff “Artist’s Artist” (*Künstler für Künstler*), als Bezeichnung für einen Künstler der in seiner Kunst vermehrt kritische 
