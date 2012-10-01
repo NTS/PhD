@@ -163,7 +163,7 @@
   "source-url" : "http://www."
 }
 
-28. **Bild:** [Sunday Afternoon] 
+28. **Bild:** [Sunday Afternoon nach Edouard Manet] 
 
 {
   "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
@@ -175,37 +175,44 @@
   "source-url" : "http://www."
 }
 
-30. **Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth] pepper-spray-cop9.jpeg
+30. **Bild:** [John Pike in “Christina’s World] 
 
 {
-  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
-  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
-  "filename" : "valenta_biz.jpg",
+  "title-short" : "\"John Pike in “Christina’s World\"",
+  "title" : "John Pike makes a stop in “Christina’s World,“ by Andrew Wyeth \"",
+  "filename" : "pepper-spray-cop9.jpeg",
   "media-type" : "Foto",
   "copyright" : "cc nts" ,
   "source" : "nts 2010",
   "source-url" : "http://www."
 }
 
-31. **Bild:** [ Marcel Walldorf: „Pinkelnde Petra“, 2010]pinkelnde-petra.jpeg
+31. **Bild:** [Marcel Walldorf: „Pinkelnde Petra“, 2010]
 
 {
-  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
-  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
-  "filename" : "valenta_biz.jpg",
-  "media-type" : "Foto",
-  "copyright" : "cc nts" ,
-  "source" : "nts 2010",
+  "title-short" : "\"Marcel Walldorf: „Pinkelnde Petra\"",
+  "title" : "Marcel Walldorf: „Pinkelnde Petra“, 2010\"",
+  "filename" : "pinkelnde-petra.jpeg",
+  "media-type" : "",
+  "copyright" : "c" ,
+  "source" : "",
   "source-url" : "http://www."
 }
 
 
 
+32. **Bild:** [„Viva La Resolution“]
 
+{
+  "title-short" : "\"Marcel Walldorf: „Pinkelnde Petra\"",
+  "title" : "Marcel Walldorf: „Pinkelnde Petra“, 2010\"",
+  "filename" : "pinkelnde-petra.jpeg",
+  "media-type" : "",
+  "copyright" : "c" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
 
-
-
-**Bild:** [„Viva La Resolution“]
 **Bild:** [Giancio: „Logo T-Shirt“]
 **Bild:** [Viktor Hertz: „Honest Logos“]
 **Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010] 
