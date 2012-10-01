@@ -132,25 +132,25 @@ Audio:
 
 ## Theorie für Praktiker 
 
-So ein Schulungssystem versucht einerseits, die Studenten umfangreich mit den verschiedenen Möglichkeiten vertraut zu machen, um sich ihnen auszusetzen, 
+So ein Schulungssystem wie in Weimar versucht einerseits, die Studenten umfangreich mit den verschiedenen Möglichkeiten vertraut zu machen, um sich ihnen auszusetzen, 
 sowie darum gemeinsamen Sprachcodes auf der Grundlage kollektiver historischer Basis zu schaffen, andererseits, die persönliche  
 Entwicklung zu fördern , und die Ermutigung nach neuen, und in vielen Fällen überraschenden Strategien zu suchen, um die parallele Nachfrage am Markt zu stillen. 
 Es ist wichtig anzumerken, dass in solchen Programmen in der Regel sehr interessante menschliche Mischungen gebildet werden. Neben Künstler die sich in solche Programme 
 einschreiben, studieren in diesen Programmen auch solche mit einem Bachelor-Abschluss aus diversen anderen Bereichen wie Architektur, Grafikdesign oder Medienkunst. Ein weiteres Ziel, 
 in Zeiten des überschwemmtem Kunstmarkts, ist die Ausbildung von eigenen Nischen als alternative Arbeitsmöglichkeiten. Dies geschieht zum Beispiel durch das Involvieren der Industrie 
-und der Einhaltung geordneter Zusammenarbeit mit Institutionen aus den Bereichen Bau und Architektur. (In Deutschland ist zum Beispiel in jedem Neubauplan vom öffentlichen Hochbau 
+und die Einhaltung geordneter Zusammenarbeit mit Institutionen aus den Bereichen Bau und Architektur. (In Deutschland ist zum Beispiel in jedem Neubauplan vom öffentlichen Hochbau 
 mindestens ein Prozent des Gesamtbudgets für Kunst zur Verfügung zu stellen). 
 
 Das Mitwirken von Künstlern im Betrieb des Bildungssystems und auf dem Gebiet der Sozialhilfe, auch 
 in der Arbeit mit Organisationen und Gruppen sowie NGOs, wie auch gefährdeter aber organisierter oder kontrollierter Bevölkerungsgruppen, wie Obdachlosen, Behinderten und anderen 
-benachteiligten Minderheiten, ist eine wachsende Tendenz auf und ist auf beiden Seiten willkommen. Künstler werden aufgrund ihrer Fähigkeit, einen kritischen Blick auf das System zu werfen 
+benachteiligten Minderheiten, weist eine wachsende Tendenz auf und ist auf beiden Seiten willkommen. Künstler werden aufgrund ihrer Fähigkeit, einen kritischen Blick auf das System zu werfen 
 und in eine ästhetische Aussage bzw. eine international verständliche Sprache zu fassen, gern als Vermittler und als Brückenschläger betrachtet. Als jemand, der mehrere Sprachen 
-beherrscht und damit sind nicht Ländersprachen gemeint, sondern eher die Sprachen und Signale unterschiedlicher Segmente der Gesellschaft. So oder so, wird das Studium zu 
+beherrscht und damit sind nicht Ländersprachen gemeint, sondern eher die Sprachen und Signale unterschiedlicher Segmente der Gesellschaft. So oder so wird das Studium zu 
 einer “Professionalisierungsmaßnahme”. 
 
 Der Akademische Grad wird zunehmend als Voraussetzung für die Tätigkeit als Dozent oder Professor in akademischen Positionen gefordert. Die Fortsetzung des Kunststudiums 
 im PhD-Format nimmt global zu, jedoch finden Künstler mit akademischen Titeln ihren Standpunkt noch nicht. Der PhD- Titel wird von niemandem geliebt, für die Wissenschaftler ist das Kunst, für die Kunst eine Wissenschaft und der Kunstbetrieb kann den PhD auch nicht gebrauchen, sieht ihn vielleicht sogar 
-als „Streber“ auf Kosten der eigenen Obsession? Für die theoretischen Akademiker sind sie zu sehr Künstler, 
+als „Streber“ auf Kosten der eigenen Obsession. Für die theoretischen Akademiker sind Künstler mit PhD zu sehr Künstler 
 während sie für die Kunstpraxis als „zu theoretisch“ wahrgenommen werden. Ob sich dieser Trend in den nächsten Generationen ändert und Künstler erst als Universitätsprofessoren 
 den Titel ergattern werden, oder bereits bevor sie sich auf solche Stellen bewerben, bleibt offen. Verglichen mit den Stellenangeboten für Kuratoren in großen Museen und anderen 
 Institutionen, wo Kunstpraxis eingefügt werden soll (also: kein Job ohne Titel), wird klar, das die Messlatte immer höher gesetzt wird.
@@ -159,7 +159,7 @@ Institutionen, wo Kunstpraxis eingefügt werden soll (also: kein Job ohne Titel)
 und gehen anschließend zurück in ihre Heimatländer. Einige aus Osteuropa und Südamerika versuchen diese Gelegenheit als Sprungbrett nach Westeuropa zu nutzen, wo Budgets für Kultur und Kunst 
 immer noch recht großzügig verwendet werden. Also handelt es sich dabei auch um eine kulturelle Migration. Auf jeden Fall entsteht ein neues internationales Netzwerk von Künstlern, Kuratoren 
 und zum Teil neu entstandenen Arbeitsgruppen. Es handelt sich vorwiegend um Künstler, die sich an verschiedene kulturelle Organisationen angedockt haben und es bevorzugen geographische und kulturelle Grenzen zu ignorieren 
-(bzw. zu durchforsten). Sie arbeiten in Richtung der Legitimität des Künstlers als ein interdisziplinärer Unternehmer. Dieser ist bemüht, innovative Lösungen zu finden, er strebt und sucht 
+(bzw. zu durchforsten). Sie arbeiten in Richtung der Legitimität des Künstlers als ein interdisziplinärer Unternehmer. Dieser ist bemüht, innovative Lösungen zu finden, er erstrebt und sucht 
 diverse alternative Lösungen. Er nimmt gesellschaftliche Segmentierung und falsch gestellte Meinungen über das Andere, das Fremde wahr und arbeitet von sich aus oder im Auftrag an einer Aufklärung. 
 (Das Projekt der Gruppe *Wocheklausur* ist als beispielhaft für die Osmose zwischen Kunst und Sozialarbeit zu sehen). Dass diese Tendenz kein Zufall ist, kann die zunehmende Präsenz solcher 
 Künstlergruppen auf internationalen Kunstbiennalen (die sich auch seit 1990 maßlos vermehrten), bestätigen. Das Künstlernomadentum nimmt zu, auch thematisch wandelt es sich von land- und 
@@ -177,14 +177,12 @@ Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden ko
 
 
 
-## Theorie vs. Praxis
-
-_Zur Entstehung der Akademischen Künstler_
+_Theorie vs. Praxis: Zur Entstehung der Akademischen Künstler_
 
 Es entwickeln sich neue Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender PhD-Programme an Kunsthochschulen, und spürbarem Anstieg in der Anzahl
 von Kolloquien, Konferenzen und Diskussionen über Künstlerische Recherche (Artistic Research).
 
-Künstler mischen sich, unter anderem in sozial-politische Angelegenheiten ein und bedienen sich immer mehr an Ausdrucksformen, die uns aus 
+Künstler mischen sich, unter anderen in sozial-politische Angelegenheiten ein und bedienen sich immer mehr an Ausdrucksformen, die uns aus 
 dem wissenschaftlichen Bereich bekannt sind. Was machen diese Formen für Künstler so attraktiv? Können Künstler Theorie schreiben? 
 Können und wollen Künstler Theorie als Praxis betreiben?
 
@@ -193,7 +191,7 @@ geweckt: "Placebo für die Kunst gesucht, um die Effekte der Kunst auf das Gesun
 Recherche, das in Deutschland und in den Niederlanden aktiv ist, sucht nach Kunstprojekten, die zu Folgendem passen: „Die Ergebnisse vieler Studien 
 zeigen ein positives Ergebnis in Bezug auf die Behandlung von Patienten und zeigen, dass Kunst zur Reduktion der Medikamente für den Patienten 
 verwendet werden kann, zur Verkürzung des Patientenaufenthalts in Krankenhäusern, zur Verbesserung der Arbeitsbedingungen führt und die Arzt / Patient 
-Beziehung und die Verbesserung der psychischen Gesundheit fördert.“ Die Post kam via *E-Flux*, ein Online-Kunst-Nachrichten-Service, das neben der 
+Beziehung und die Verbesserung der psychischen Gesundheit fördert.“ Die Post kam via *E-Flux*, ein Online-Kunst-Nachrichten-Service, der neben der 
 Ankündigung von Ausstellungen in der ganze Welt, auch Texte über Kunst und Erziehung *Art & Education* veröffentlicht. 
 
 Die akademische wissenschaftliche Welt verfolgt mit Unruhe diese Entwicklung und zweifelt an der Fähigkeit, dass Künstler theoretische Texte und Dissertationen 
@@ -210,7 +208,7 @@ Ein gutes Beispiel für diese Auseinandersetzung ist die Arbeit von Hagen Betzwi
 in Zusammenarbeit mit mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Leiter der Akademie Schloss Solitude beschreibt die Tätigkeit von Betzwieser wie folgt: 
 “Das Institut für Allgemeine Theorie ist ein Projekt von unbestimmter Dauer, für alles von einem auf einer unendlichen Anzahl von Teilnehmern. Er arbeitet in einem undefinierten 
 Bereich, in der Grauzone, wo es keine Unterscheidung zwischen Fiktion und Wissenschaft, Kunst und Handwerk, selbständiges Arbeiten und Selbstausbeutung, zwischen Spiel-, 
-Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”.
+Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt”. TODO: [^fn-jolie] [^fn-jolie]:(http://www.iat-research.com/index.php/about-the-institute)
 
 Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläubigkeit gegenüber der 
 neuen Realität, einen PhD Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]bezieht sich der 
