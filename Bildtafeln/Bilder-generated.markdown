@@ -454,7 +454,7 @@ Quelle: Internet
 
 <http://www.occupythegame.com/lieutenant_john_pike/>
 
-© unknown
+© Unbekannt
 \vfill
    
 \pagebreak[4]
@@ -474,6 +474,150 @@ Quelle: Internet
 
 © Andrew Wyeth, 2010
 
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Marcel Walldorf: Pinkelnde Petra 
+\vfill
+![Bild](pix/pinkelnde-petra.jpeg) \
+\vfill
+„Pinkelnde Petra“
+
+lebensgroße Plastik --
+Quelle: rebel:art
+
+<http://rebelart.net/marcel-walldorf-pinkelnde-petra>
+
+© Marcel Walldorf, 2010
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Viva La Resolution 
+\vfill
+![Bild](pix/viva_la_resolution2.jpg) \
+\vfill
+
+
+Grafik --
+Quelle: Internet
+
+
+
+© Unbekannt
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Art & Freedom 
+\vfill
+![Bild](pix/art_and_freedom.jpeg) \
+\vfill
+"Art & Freedom" - Townhouse Gallery
+
+Grafik --
+Quelle: Bidoun Magazin
+
+<http://www.>
+
+© Adam Romberg & Oliver Chanarin, April 2010"
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Jeremy Dellers Zitat 
+\vfill
+![Bild](pix/jeremy_deller_on_my_iphone.png) \
+\vfill
+
+
+Text als Grafik als Bildschirmfoto --
+Quelle: Unbekannt
+
+
+
+© internetz
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Zettel von Billy Bragg an Pussy Riot 
+\vfill
+![Bild](pix/pussy_riot_billy_bragg.jpg) \
+\vfill
+: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung"
+
+Foto --
+Quelle: *facebook*
+
+
+
+© Unbekannt
+\vfill
+   
+\pagebreak[4]
+
+
+
+## "Occupy" Zelte dOCUMENTA (13) 
+\vfill
+![Bild](pix/occupy_documenta1.png) \
+\vfill
+Meldung über die Occupy Zelte auf dOCUMENTA (13)
+
+Grafik --
+Quelle: Bildschirmfoto
+
+<http://www.>
+
+© internetz
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Facebook-Meldung von Johanna Warm 
+\vfill
+![Bild](pix/occupy_documenta_2_johanna_warm.png) \
+\vfill
+im Bezug auf Schlafplatz in Kassel zum documenta Besuch
+
+Bildschirmfoto --
+Quelle: *facebook*
+
+
+
+© Unbekannt
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Facebook-Meldung von Johanna Warm 
+\vfill
+![Bild](pix/next_documenta_should_be_curated_by_an_artist.png) \
+\vfill
+im Bezug auf Schlafplatz in Kassel zum documenta Besuch
+
+Bildschirmfoto --
+Quelle: *facebook*
+
+
+
+© Unbekannt
 \vfill
    
 \pagebreak[4]
@@ -591,7 +735,7 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 ## BDU: "Range-r" 
 \vfill
-![Bild](pix/bdu_ranger-r_size_matterz_acc_2008.png) \
+![Bild](pix/bdu_range-r_size_matterz_acc_2008.png) \
 \vfill
 Barking Dogs United: "Range-r"
 

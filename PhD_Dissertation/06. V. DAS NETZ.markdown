@@ -151,28 +151,6 @@ was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, 
 
 **Bild:**  [„Viva La Resolution“]
 
-{
-  "title-short" : "\"„Viva La Resolution“\"",
-  "title" : "Viva La Resolution“, Grafik\"",
-  "filename" : "viva_la_resolution2.jpg",
-  "media-type" : "Grafik",
-  "copyright" : "internetz" ,
-  "source" : "",
-  "source-url" : "http://www."
-}
-
-**Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom] 
-
-{
-  "title-short" : "\"Adam Romberg & Oliver Chanarin: „Art & Freedom“, Cairo, 2010\"",
-  "title" : "Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010\"",
-  "filename" : "art_and_freedom.jpeg",
-  "media-type" : "Grafik",
-  "copyright" : "Adam Romberg & Oliver Chanarin" ,
-  "source" : "Bidoun Magazin",
-  "source-url" : "http://www."
-}
-
 
 ### Kunst als Prophezeihung
 
@@ -182,7 +160,7 @@ wie die Welt ist, sondern, wie sie sein kann oder sein soll.“ [-@Flusser:Kommu
 das immer mehrere Parameter beinhaltet, z.B. auch solche von Anthropologen.
 Eine Mischung aus Neugierde, der Suche nach der Wahrheit und Experimentierfreude erzeugt mutige Feststellungen in visueller Form.
 
-**Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010] 
+**Bild:** [Art & Freedom] 
 
 Flussers Äußerungen der Kunst gegenüber in diesem Text sollte man aber aus der heutigen Sicht eher kritisch betrachten, vor allem wenn man das 
 *epistemologische Motiv* wahrnimmt, denn er schreibt weiter, „daß hinter den meisten Bildern (…) ein «dentologisches» Motiv steht: Sie wollen zeigen, was sein soll. Aber dieses Motiv schließt von selbst ein «epistemologisches» Motiv ein: Man kann nicht zeigen, wie sich die Dinge verhalten sollen, ohne gezeigt zu haben, wie sie sich tatsächlich 
@@ -336,18 +314,8 @@ Es wird alles besser.
 > -- Jeremy Deller
 >  (Künstler, Turner Price Gewinner 2006)]
 
-[^pic-deller]: **Bild:** [Jeremy Dellers Zitat] 
+[^pic-deller]: **Bild:** [Jeremy Deller Zitat] 
 
-
-{
-  "title-short" : "\"Jeremy Dellers Zitat„“\"",
-  "title" : "Jeremy Dellers Zitat als Screenshot\"",
-  "filename" : "viva_la_resolution2.jpg",
-  "media-type" : "Grafik",
-  "copyright" : "internetz" ,
-  "source" : "",
-  "source-url" : "http://www."
-}
 
 
 **Der Fall Pussy Riot**
@@ -372,16 +340,6 @@ Auf Facebook ist nach dem Urteil folgender Zettel auf mehreren Webseiten geteilt
 
 **Bild:** [Zettel von Billy Bragg an Pussy Riot]
 
-{
-  "title-short" : "\"Zettel von Billy Bragg an Pussy Riot“\"",
-  "title" : "Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung\"",
-  "filename" : "pussy_riot_billy_bragg.jpg",
-  "media-type" : "Grafik",
-  "copyright" : "internetz" ,
-  "source" : "",
-  "source-url" : "http://www."
-}
-
 
 Der Theoretiker und Publizist [Slavoj Žižek schrieb über Pussy Riot](http://dangerousminds.net/comments/the_true_blasphemy_slavoj_zhizhek_on_pussy_riot):
 
@@ -402,35 +360,13 @@ Die Drosselung und Begrenzung der Meinungsfreiheit durch Kontrolle wird bekämpf
 
 
 Die *dOCUMENTA(13)* unter der künstlerischen Leitung von Carolyn Christov-Bakargiev unterstützte die Occupy Bewegung und duldete Zelte auf der Wiese des Friedrichsplatzes. Just zur Preview stand das erste Zelt direkt vor 
-dem Eingang zum Fridericianum, an der Schwelle zu den Kaffeeständern draußen.[^documenta] **Bilder:** [Meldung über die Occupy Zelte], [Facebook Meldung von Johanna Warm]
+dem Eingang zum Fridericianum, an der Schwelle zu den Kaffeeständern draußen.[^documenta]
+
+**Bilder:** ["Occupy" Zelte dOCUMENTA (13)], [Facebook-Meldung von Johanna Warm]
 
 [^documenta]: Ein Echo dieses Zeitgeistes ist noch in der Pressemitteilung nach der Schließung zu spüren: „dOCUMENTA(13)
 war für die Besucher keine Tagesveranstaltung. Die Ausstellung hat für die Besucher viel mehr eine Form von lebender Kultur repräsentiert, die zum Leben der Menschen gehört und in wiederholten Besuchen 
-erkundet wird, um dabei das Empfinden von Zeitdruck zu brechen, die Zeit und das Empfinden von Kunst befreien zu lassen.“ http://d13.documenta.de/de/#de/welcome/]
-
- 
-{
-  "title-short" : "\"Occupy" Zelte auf dOCUMENTA (13)\"",
-  "title" : "Meldung über die Occupy Zelte auf dOCUMENTA (13)\"",
-  "filename" : "occupy_documenta1.png",
-  "media-type" : "Grafik",
-  "copyright" : "internetz" ,
-  "source" : "Bildschirmfoto",
-  "source-url" : "http://www."
-}
-
-
-
-
-{
-  "title-short" : "\"Facebook Meldung von Johanna Warm“\"",
-  "title" : "Facebook Meldung von Johanna Warm im Bezug auf Schlafplatz in Kassel zum documenta Besuch\"",
-  "filename" : "occupy_documenta_2_johanna_warm.png",
-  "media-type" : "Grafik",
-  "copyright" : "internetz" ,
-  "source" : "",
-  "source-url" : "www.facebook.com-johanna.warm. 2012-09-15 um 18.35.59 "
-}
+erkundet wird, um dabei das Empfinden von Zeitdruck zu brechen, die Zeit und das Empfinden von Kunst befreien zu lassen.“ <http://d13.documenta.de/de/#de/welcome>]
 
    
 Auch bei der Rolle des Künstlers, der auf diese sozialen Phänomene verweist, vermischen sich Kreativität mit der Neigung zur Selbst-Ausbeutung. Wobei diese Neigung eher Künstlern als anderen zugeschrieben werden 

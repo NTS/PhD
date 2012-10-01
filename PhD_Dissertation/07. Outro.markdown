@@ -96,13 +96,11 @@ auch parallel zueinander laufen können, sollten gleichfalls bedacht werden. Es 
 Die Kunstwelt hat 2008 während der großen Wirtschaftskrise erstaunliche Stabilität bewiesen, der Wert der meisten Werken bliebeerhalten. Zahllose Biennalen gibt es schon; mittlerweile wurde das nach 
 Nationalität getrennte Pavillonkonzept der Biennale in Venedig mehrfach in Frage gestellt. Die Künstlerin Esther Shalev-Gerz meinte schon 2004, dass die Künstlerkooperationen und Künstlerkooperativen 
 das sind, was kommen wird und soll. Einen Staatenlosen Pavillon in Venedig zu initiieren bildete schon 2004 eine Idee, die im Gespräch zwischen uns beiden bei einem Treffen in Paris 2004, entwickelt wurde. Diese Idee wurde in Form von Graffiti in der letzten Biennale in Venedig (2011) schon realisiert. 
-Die VII Berlin Biennale (BB7) war eine fast reine politische Veranstaltung in Kunstform während derer ein *Artistwiki* [Link](http://artwiki.org/Special:BrowseData/Artist) gegründet und veröffentlicht wurde 
-
+Die VII Berlin Biennale (BB7) war eine fast reine politische Veranstaltung in Kunstform während derer ein *Artistwiki* [Link](http://artwiki.org/Special:BrowseData/Artist) gegründet und veröffentlicht wurde. 
 
 ...und die nächste Documenta soll von einem Künstler kuratiert werden.
 
-**Bild** (next_documenta_should_be_curated_by_an_artist.png)
-
+**Bild:** [next documenta should be curated by an artist]
 
 
 
@@ -144,7 +142,7 @@ Es ist Ende 2012 und zugleich sind alle Menschen Künstler, während es die Kün
 Der nächste Künstlertypus: (siehe BDU Manifest) Künstler arbeiten immer gern auf einen utopischen Zustand hin, weil sie diesen selber kreieren können, und halten es vielleicht im schlimmsten Fall für egal, 
 falls sie zu Lebenszeit scheitern. 
 
-**BILD** BDU Manifest
+**Bild:** [BDU Manifest]
 
 
 

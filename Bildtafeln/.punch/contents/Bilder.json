@@ -289,6 +289,55 @@
       "source" : "Internet"
     },
     {
+      "title-short" : "Art & Freedom",
+      "title" : "\"Art & Freedom\" - Townhouse Gallery",
+      "filename" : "art_and_freedom.jpeg",
+      "media-type" : "Grafik",
+      "copyright" : "Adam Romberg & Oliver Chanarin, April 2010\"",
+      "source" : "Bidoun Magazin",
+      "source-url" : "http://www."
+    },
+    {
+      "title-short" : "Jeremy Dellers Zitat",
+      "filename" : "jeremy_deller_on_my_iphone.png",
+      "media-type" : "Text als Grafik als Bildschirmfoto",
+      "copyright" : "internetz",
+      "source" : "Unbekannt"
+    },
+    {
+      "title-short" : "Zettel von Billy Bragg an Pussy Riot",
+      "title" : ": Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung\"",
+      "filename" : "pussy_riot_billy_bragg.jpg",
+      "media-type" : "Foto",
+      "copyright" : "Unbekannt",
+      "source" : "*facebook*"
+    },
+    {
+      "title-short" : "\"Occupy\" Zelte dOCUMENTA (13)",
+      "title" : "Meldung über die Occupy Zelte auf dOCUMENTA (13)",
+      "filename" : "occupy_documenta1.png",
+      "media-type" : "Grafik",
+      "copyright" : "internetz",
+      "source" : "Bildschirmfoto",
+      "source-url" : "http://www."
+    },
+    {
+      "title-short" : "Facebook-Meldung von Johanna Warm",
+      "title" : "im Bezug auf Schlafplatz in Kassel zum documenta Besuch",
+      "filename" : "occupy_documenta_2_johanna_warm.png",
+      "media-type" : "Bildschirmfoto",
+      "copyright" : "Unbekannt",
+      "source" : "*facebook*"
+    },
+    {
+      "title-short" : "[next documenta should be curated by an artist]",
+      "filename" : "next_documenta_should_be_curated_by_an_artist.png",
+      "media-type" : "Bildschirmfoto",
+      "copyright" : "Unbekannt",
+      "source" : "e-flux",
+      "source-url" : "http://www.e-flux.com"
+    },
+    {
       "title-short" : "BDU: \"Bender Flip Size\"",
       "title" : "Barking Dogs United: \"Bender Flip Size\"",
       "filename" : "bdu_bender_flip_size_matterz_acc_2008.png",
@@ -345,7 +394,7 @@
     {
       "title" : "Barking Dogs United: \"Range-r\"",
       "title-short" : "BDU: \"Range-r\"",
-      "filename" : "bdu_ranger-r_size_matterz_acc_2008.png",
+      "filename" : "bdu_range-r_size_matterz_acc_2008.png",
       "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
       "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
