@@ -12,6 +12,9 @@
 \usepackage{amsfonts}
 \usepackage{longtable}
 \renewcommand{\contentsname}{Inhaltsverzeichnis}
+% HEADER
+\usepackage{fancyhdr}
+\pagestyle{headings}
 %
 % END NTS FIXES
 %
