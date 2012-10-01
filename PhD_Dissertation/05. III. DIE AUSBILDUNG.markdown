@@ -619,7 +619,7 @@ gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben
   Ihre Diplomarbeit über den Erfolg der Künstler und die ihnen vorliegenden Marktstrukturen, konnte sie ans ACC andocken.
 
 
-**Bilder:** [Benedikt Braun: Super Arm] 
+**Bilder:** [Benedikt Braun: Super Arm], [Philipp Valenta mit Geldbeutel]  
 
 
 {
@@ -632,8 +632,7 @@ gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben
   "source-url" : "http://www.galerie-eigenheim.de/?page_id=295) 2012-09-19 um 17.42.45"
 }
 
-
-**Bild:** [Philipp Valenta mit Geldbeutel] 
+ 
 
 {
   "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
@@ -646,7 +645,6 @@ gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben
 }
 
 
-**Bild:** [Die Kunststipendiatin Minna XY aus XY, Kunstbetrieb Istanbuls als Mindmap] TODO: minnas_map_2006.jpg
 
  
 ### CSS - Artbitch 
