@@ -137,7 +137,7 @@
 }
 
 
-26. **Bild:** [Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010] 
+26. **Bild:** [Philipp Valenta mit Geldbeutel] 
 
 {
   "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
@@ -152,7 +152,7 @@
 
 
 
-27. **Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis 2012]
+27. **Bild:** [John Pike pepper sprays students]
 {
   "title-short" : "\"John Pike pepper sprays students\"",
   "title" : "Police lieutenant John Pike pepper sprays students at UC Davis 2012 \"",
@@ -166,7 +166,7 @@
 28. **Bild:** [Sunday Afternoon nach Edouard Manet] 
 
 {
-  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
+  "title-short" : "\"Sunday Afternoon nach Edouard Manet\"",
   "title" : "Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)\"",
   "filename" : "sundayafternoon.jpeg",
   "media-type" : "Foto",
@@ -175,7 +175,7 @@
   "source-url" : "http://www."
 }
 
-30. **Bild:** [John Pike in “Christina’s World] 
+29. **Bild:** [John Pike in “Christina’s World] 
 
 {
   "title-short" : "\"John Pike in “Christina’s World\"",
@@ -187,7 +187,7 @@
   "source-url" : "http://www."
 }
 
-31. **Bild:** [Marcel Walldorf: „Pinkelnde Petra“, 2010]
+30. **Bild:** [Marcel Walldorf: „Pinkelnde Petra“]
 
 {
   "title-short" : "\"Marcel Walldorf: „Pinkelnde Petra\"",
