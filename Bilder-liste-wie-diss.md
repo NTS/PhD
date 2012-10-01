@@ -242,7 +242,7 @@ Bibex!
 
 
 
-**Bild:** [Zettel von Billy Bragg an Pussy Riot]
+34. **Bild:** [Zettel von Billy Bragg an Pussy Riot]
 
 {
   "title-short" : "\"Zettel von Billy Bragg an Pussy Riot“\"",
@@ -254,9 +254,36 @@ Bibex!
   "source-url" : "http://www."
 }
 
-**Bild:** vom ersten Zelt NTS!
-**Bild:** [Meldung über die Occupy Zelte] 
-**Bild:** [Facebook Meldung von Johanna Warm im Bezug auf Schlafplatz in Kassel zum Documenta Besuch]
+
+35. **Bild:** ["Occupy" Zelte auf dOCUMENTA (13)] 
+{
+  "title-short" : "\"Occupy" Zelte auf dOCUMENTA (13)\"",
+  "title" : "Meldung über die Occupy Zelte auf dOCUMENTA (13)\"",
+  "filename" : "occupy_documenta1.png",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "Bildschirmfoto",
+  "source-url" : "http://www."
+}
+
+36. **Bild:** []
+
+
+{
+  "title-short" : "\"Facebook Meldung von Johanna Warm“\"",
+  "title" : "Facebook Meldung von Johanna Warm im Bezug auf Schlafplatz in Kassel zum documenta Besuch\"",
+  "filename" : "occupy_documenta_2_johanna_warm.png",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "www.facebook.com-johanna.warm. 2012-09-15 um 18.35.59 "
+}
+
+
+
+
+
+
 **Bild:** [Justin_Hansch_Happy_Artists.jpg]  (images/bild.jpg) [Justin Hansch: „Best friends painting“, 2010]
 
 **Bild:** [Barking Dogs United, FX I 2008]
