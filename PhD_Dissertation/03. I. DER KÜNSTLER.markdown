@@ -131,7 +131,7 @@ sich so zu zeigen, wie er von anderen gesehen werden will.“[@Freybourg:DieInsz
 Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metaebene gehoben, durch Selbstbeobachtung, kalkuliertem Zynismus und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden (siehe dazu Bilder X, Y und Z).
 
 
-**Bilder:** [Warhol-Stickers], ["In the future everyone will be famous for fifteen minutes"], ["Your 15 minutes are up!"] 
+**Bilder:** [Warhol-Stickers], [In the future everyone will be famous for fifteen minutes], [Your 15 minutes are up!] 
 
 
 
@@ -164,17 +164,14 @@ Galerie und Galerist aufgelöst, der Künstler versteht sich als autark genug, u
 Er gestaltet seine Einladungen am eigenen Rechner, schreibt Texte, und wird sogar aufgefordert selbst die Aussagen über seine Arbeit und deren Aufklärung zu schreiben. 
 Er verschickt eigenständig Ausstellungseinladungen, E-Mails, publiziert sein Werk auf Internet-Plattformen wie Facebook und versteigert seine eigene Arbeit bei 
 Sotheby’s (Siehe den Fall Damien Hirst). Zum Mainstreaming gehören auch andere Verkaufsgelegenheiten, den der "Markt" bleibt nicht gleichgültig, das Thema ist interessant genug und im Jahr 2010 hat die 
-Kunstreproduktionsfirma *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht (siehe Bilder) **Bilder:** [Kunstmarkt Brettspiel, Flyer], [Kunstmarkt Brettspiel]
-
-
+Kunstreproduktionsfirma *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht  (siehe **Bilder:** [Kunstmarkt Brettspiel, Flyer], [Kunstmarkt Brettspiel]).
 
 Ein Blick von außen auf den Künstler bzw. die unausgesprochene Leichtigkeit des Künstlerseins wird auch durch Bücher geworfen wie: 
 *Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, der für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
 sondern eher eienn "Knigge für Vernissagen" darstellt und in dem alle Klischees über Künstler in einer sehr verdaulichen Form aufgezeigt sind. 
 Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblößt sich selbst weiter und zwar ganz. 
- 
 
-**Bild:** [Mundspray, Dana Wyse, Verstehen Sie Moderne Kunst auf Anhieb, Objekt, 2004]
+**Bild:** [Verstehen Sie Moderne Kunst auf Anhieb]
 
 
 ## Vom Künstlerbild in den Medien
@@ -194,20 +191,12 @@ TODO: [^fn-meme]:[Meme](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen)]
 Die erste Version des Memes wurde im Februar 2012 auf *facebook* publiziert, und beschreibt die Rezeption des Schaffens eines Berufssegments 
 aus unterschiedlichen Perspektiven.
 
-**Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme]
+**Bild:** [Contemporary Artist]
 
 TODO:
 
-**Bild:** [What Artists Do, Pie Chart auf Mylife 600]
-{
-  "title-short" : "\"What Artists Do, Pie Chart\"",
-  "title" : "What Artists Do, \"Pie Chart auf *Mylife 600*\"",
-  "filename" : "what_artists_do_mylife-600.jpg",
-  "media-type" : "Grafik",
-  "copyright" : "",
-  "source" : "My Life 600 Website",
-  "source-url" : "http://"
-}
+**Bild:** [What Artists Do]
+
 
 
 

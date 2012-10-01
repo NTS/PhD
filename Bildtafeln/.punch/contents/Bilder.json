@@ -1,24 +1,7 @@
 {
   "Bilder" : [
     {
-      "title" : "\"Everything Has Been Done\" (Audio Transkription)",
-      "filename" : "azorro_everything_has_been_done_1.JPG",
-      "media-type" : "eigener Scan",
-      "copyright" : "Azorro Collective, 2003",
-      "source" : "Magazin TODO",
-      "source-url" : null,
-      "snap" : true
-    },
-    {
-      "title" : "\"Everything Has Been Done\" (Videostill)",
-      "filename" : "azorro_everything_has_been_done_2.JPG",
-      "media-type" : "eigenes Bildschirmfoto vom Video",
-      "copyright" : "Azorro Collective, 2003",
-      "source" : null,
-      "source-url" : null
-    },
-    {
-      "title-short" : "\"Betreten der Ausstellung Verboten\"",
+      "title-short" : "Betreten der Ausstellung Verboten",
       "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
       "filename" : "ulrichs_betreten_verboten.jpg",
       "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
@@ -27,7 +10,24 @@
       "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
     },
     {
-      "title-short" : "\"Künstler\" nach Pons",
+      "title" : "Everything Has Been Done (Videostill)",
+      "filename" : "azorro_everything_has_been_done_2.JPG",
+      "media-type" : "eigenes Bildschirmfoto vom Video",
+      "copyright" : "Azorro Collective, 2003",
+      "source" : "privat",
+      "source-url" : null,
+      "snap" : true
+    },
+    {
+      "title" : "Everything Has Been Done (Transkription)",
+      "filename" : "azorro_everything_has_been_done_1.JPG",
+      "media-type" : "eigener Scan",
+      "copyright" : "Azorro Collective, 2003",
+      "source" : "privat",
+      "source-url" : null
+    },
+    {
+      "title-short" : "Künstlerbegriff nach Pons",
       "filename" : "kuenstler_nach_pons.png",
       "media-type" : "eigener Scan",
       "copyright" : "PONS GmbH",
@@ -35,8 +35,8 @@
       "source-url" : null
     },
     {
-      "title" : "Französische Künstlermütze, zu ersteigen bei ebay",
       "title-short" : "Französische Künstlermütze",
+      "title" : "Französische Künstlermütze, zu ersteigen bei ebay",
       "filename" : "french_artist_golf_cap_by_ebay.png",
       "media-type" : "eigener Screenshot",
       "copyright" : "Internet",
@@ -53,7 +53,7 @@
       "source-url" : null
     },
     {
-      "title" : "\"Jörg Immendorf\"",
+      "title" : "Jörg Immendorf",
       "filename" : "joerg-immendorf-by-andrea-strappert-2001.jpg",
       "media-type" : "Foto",
       "copyright" : "Andrea Strappert, 2001",
@@ -70,7 +70,7 @@
       "source-url" : null
     },
     {
-      "title-short" : "\"In the future everyone will be famous for fifteen minutes\"",
+      "title-short" : "In the future everyone will be famous for fifteen minutes",
       "title" : "Aufkleber mit Zitat von Andy Warhol: \"In the future everyone will be famous for fifteen minutes\"",
       "filename" : "warhol_etoui.jpg",
       "media-type" : "eigener Scan",
@@ -79,29 +79,12 @@
       "source-url" : null
     },
     {
-      "title-short" : "\"Your 15 minutes are up\"",
+      "title-short" : "Your 15 minutes are up!",
       "title" : "Ha-Ha Funny Buttons: \"Your 15 minutes are up (Warhol)\"",
       "filename" : "warhol_your_15_minutes_are_up.jpg",
       "media-type" : "eigener Scann",
       "copyright" : "Ha-Ha Funny Buttons",
       "source" : "privat",
-      "source-url" : "http://www.ephemera-inc.com/Shop-By-Product-Type/Pinback-Buttons/Other-/-Random-Pinback-Buttons/Your-15-minutes-are-up.-Warhol-Pinback-Button-0584b.html"
-    },
-    {
-      "title-short" : "\"The Electrician\"",
-      "title" : "\"The Electrician\" erklärt seine Überlebensstrategie als Künstler",
-      "filename" : "willem_dafoe_basquiat.png",
-      "media-type" : "eigener Still ",
-      "copyright" : "Eleventh Street Production",
-      "source" : "aus dem Film *Basquiat*, 1996",
-      "source-url" : "http://www.imdb.com/title/tt0115632/"
-    },
-    {
-      "title" : "Jeff Koons mit seinen Mitarbeitern",
-      "filename" : "jeff_koons_und_mitarbeiter.jpg",
-      "media-type" : "Foto",
-      "copyright" : "Jason Schmidt",
-      "source" : "für das *Monopol* Magazin",
       "source-url" : null
     },
     {
@@ -121,11 +104,87 @@
       "source-url" : null
     },
     {
-      "title" : "Verstehen Sie Moderne Kunst auf Anhieb",
+      "title" : "Mundspray: „Verstehen Sie Moderne Kunst auf Anhieb“",
+      "title-short" : "Verstehen Sie Moderne Kunst auf Anhieb",
       "filename" : "understand_modern_art_object.jpg",
-      "media-type" : "Objekt",
-      "copyright" : "MoMA Berlin",
-      "source" : "aus dem Museumshop",
+      "media-type" : "Multiple",
+      "copyright" : "Dana Wyse, 2004",
+      "source" : "aus dem Museumshop, MoMA Berlin",
+      "source-url" : null
+    },
+    {
+      "title" : "Contemporary Artist",
+      "filename" : "garnet_hertz_contemporary_artist_fb_meme.jpg",
+      "media-type" : "Grafik, Internet-Meme",
+      "copyright" : "Garnet Hertz, 2012",
+      "source" : "facebook: \"Garnet Hertz Fotos\"",
+      "source-url" : "https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater"
+    },
+    {
+      "title" : "What Artists Do",
+      "filename" : "what_artists_do_mylife-600.jpg",
+      "media-type" : "Pie Chart",
+      "copyright" : "*Mylife 600*",
+      "source" : "My Life 600 Website",
+      "source-url" : "http://"
+    },
+    {
+      "title" : "Claire Fisher (Six Feet Under)",
+      "title-short" : "HBO's TV Serie Figur Claire Fisher (Six Feet Under)",
+      "filename" : "claire_fisher-milestogo1440.jpg",
+      "media-type" : "HBO's TV series promotion material",
+      "copyright" : "*Dearly Devoted*, HBO",
+      "source" : "Fan Art Website",
+      "source-url" : null
+    },
+    {
+      "title-short" : "\"The Electrician\"",
+      "title" : "\"The Electrician\" erklärt seine Überlebensstrategie als Künstler",
+      "filename" : "willem_dafoe_basquiat.png",
+      "media-type" : "eigener Still ",
+      "copyright" : "Eleventh Street Production",
+      "source" : "aus dem Film *Basquiat*, 1996",
+      "source-url" : "http://www.imdb.com/title/tt0115632/"
+    },
+    {
+      "title" : "Jeff Koons mit seinen Mitarbeitern",
+      "filename" : "jeff_koons_und_mitarbeiter.jpg",
+      "media-type" : "Foto",
+      "copyright" : "Jason Schmidt",
+      "source" : "für das *Monopol* Magazin",
+      "source-url" : null
+    },
+    {
+      "title" : "Bauhaus Curriculum",
+      "filename" : "bauhaus_curriculum_1922.jpg",
+      "media-type" : "Grafik",
+      "copyright" : "Johannes Itten, 1922",
+      "source" : "Itten, Johannes : Mein Vorkurs am Bauhaus. Otto Maier Verlag, 1963",
+      "source-url" : null
+    },
+    {
+      "title-short" : "Thomas Hirschhorn: Buchumschlag",
+      "title" : "Buchumschlag \"The artist as public Intellectual\" mit Text von Thomas Hirschhorn ",
+      "filename" : "thomas_hirschhorn_booksleeve.jpg",
+      "media-type" : "Grafik",
+      "copyright" : "Thomas Hirschhorn, 2008",
+      "source" : "Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008",
+      "source-url" : null
+    },
+    {
+      "title" : "Thomas Hirschhorn: Seite mit Text",
+      "filename" : "thomas_hirschhorn_Buch_seite.jpg",
+      "media-type" : "Seite aus dem Buch \"The artist as public Intellectual\" mit Text von Thomas Hirschhorn",
+      "copyright" : "Thomas Hirschhorn, 2008",
+      "source" : "Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008",
+      "source-url" : null
+    },
+    {
+      "title" : "\"Hirschhorn: Mindmap\"",
+      "filename" : "thomas_hirschhorn_mindmap.jpg",
+      "media-type" : "Mindmap als Einladungsmotiv",
+      "copyright" : "Thomas Hirschhorn",
+      "source" : "Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008",
       "source-url" : null
     },
     {
@@ -216,23 +275,6 @@
       "media-type" : "Silkscreen",
       "copyright" : "Vuk Vidor, 2004-2009",
       "source" : "TODO",
-      "source-url" : null
-    },
-    {
-      "title" : "\"Contemporary Artist\"",
-      "filename" : "garnet_hertz_contemporary_artist_fb_meme.jpg",
-      "media-type" : "Grafik, Internet-Meme",
-      "copyright" : "Garnet Hertz, 2012",
-      "source" : "facebook: \"Garnet Hertz Fotos\"",
-      "source-url" : "https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater"
-    },
-    {
-      "title" : "Claire Fisher (Six Feet Under)",
-      "title-short" : "HBO's TV Serie Figur Claire Fisher (Six Feet Under)",
-      "filename" : "claire_fisher-milestogo1440.jpg",
-      "media-type" : "HBO's TV series promotion material",
-      "copyright" : "*Dearly Devoted*, HBO",
-      "source" : "Fan Art Website",
       "source-url" : null
     },
     {

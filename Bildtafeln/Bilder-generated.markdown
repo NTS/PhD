@@ -5,41 +5,7 @@
 
 
 
-## "Everything Has Been Done" (Audio Transkription) 
-\vfill
-![Bild](pix/azorro_everything_has_been_done_1.JPG) \
-\vfill
-
-
-eigener Scan --
-Quelle: Magazin TODO
-
-
-
-© Azorro Collective, 2003
-\vfill
-
-
-
-## "Everything Has Been Done" (Videostill) 
-\vfill
-![Bild](pix/azorro_everything_has_been_done_2.JPG) \
-\vfill
-
-
-eigenes Bildschirmfoto vom Video --
-Quelle: 
-
-
-
-© Azorro Collective, 2003
-\vfill
-   
-\pagebreak[4]
-
-
-
-## "Betreten der Ausstellung Verboten" 
+## Betreten der Ausstellung Verboten 
 \vfill
 ![Bild](pix/ulrichs_betreten_verboten.jpg) \
 \vfill
@@ -57,7 +23,41 @@ Quelle: Sprengel Museum Hannover
 
 
 
-## "Künstler" nach Pons 
+## Everything Has Been Done (Videostill) 
+\vfill
+![Bild](pix/azorro_everything_has_been_done_2.JPG) \
+\vfill
+
+
+eigenes Bildschirmfoto vom Video --
+Quelle: privat
+
+
+
+© Azorro Collective, 2003
+\vfill
+
+
+
+## Everything Has Been Done (Transkription) 
+\vfill
+![Bild](pix/azorro_everything_has_been_done_1.JPG) \
+\vfill
+
+
+eigener Scan --
+Quelle: privat
+
+
+
+© Azorro Collective, 2003
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Künstlerbegriff nach Pons 
 \vfill
 ![Bild](pix/kuenstler_nach_pons.png) \
 \vfill
@@ -111,7 +111,7 @@ Quelle: TODO
 
 
 
-## "Jörg Immendorf" 
+## Jörg Immendorf 
 \vfill
 ![Bild](pix/joerg-immendorf-by-andrea-strappert-2001.jpg) \
 \vfill
@@ -147,7 +147,7 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 
 
 
-## "In the future everyone will be famous for fifteen minutes" 
+## In the future everyone will be famous for fifteen minutes 
 \vfill
 ![Bild](pix/warhol_etoui.jpg) \
 \vfill
@@ -165,7 +165,7 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 
 
 
-## "Your 15 minutes are up" 
+## Your 15 minutes are up! 
 \vfill
 ![Bild](pix/warhol_your_15_minutes_are_up.jpg) \
 \vfill
@@ -174,45 +174,9 @@ Ha-Ha Funny Buttons: "Your 15 minutes are up (Warhol)"
 eigener Scann --
 Quelle: privat
 
-<http://www.ephemera-inc.com/Shop-By-Product-Type/Pinback-Buttons/Other-/-Random-Pinback-Buttons/Your-15-minutes-are-up.-Warhol-Pinback-Button-0584b.html>
+
 
 © Ha-Ha Funny Buttons
-\vfill
-   
-\pagebreak[4]
-
-
-
-## "The Electrician" 
-\vfill
-![Bild](pix/willem_dafoe_basquiat.png) \
-\vfill
-"The Electrician" erklärt seine Überlebensstrategie als Künstler
-
-eigener Still  --
-Quelle: aus dem Film *Basquiat*, 1996
-
-<http://www.imdb.com/title/tt0115632/>
-
-© Eleventh Street Production
-\vfill
-   
-\pagebreak[4]
-
-
-
-## Jeff Koons mit seinen Mitarbeitern 
-\vfill
-![Bild](pix/jeff_koons_und_mitarbeiter.jpg) \
-\vfill
-
-
-Foto --
-Quelle: für das *Monopol* Magazin
-
-
-
-© Jason Schmidt
 \vfill
    
 \pagebreak[4]
@@ -259,14 +223,176 @@ Quelle: Prestel Verlag, 2007
 \vfill
 ![Bild](pix/understand_modern_art_object.jpg) \
 \vfill
+Mundspray: „Verstehen Sie Moderne Kunst auf Anhieb“
+
+Multiple --
+Quelle: aus dem Museumshop, MoMA Berlin
 
 
-Objekt --
-Quelle: aus dem Museumshop
+
+© Dana Wyse, 2004
+\vfill
+   
+\pagebreak[4]
 
 
 
-© MoMA Berlin
+## Contemporary Artist 
+\vfill
+![Bild](pix/garnet_hertz_contemporary_artist_fb_meme.jpg) \
+\vfill
+
+
+Grafik, Internet-Meme --
+Quelle: facebook: "Garnet Hertz Fotos"
+
+<https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater>
+
+© Garnet Hertz, 2012
+\vfill
+   
+\pagebreak[4]
+
+
+
+## What Artists Do 
+\vfill
+![Bild](pix/what_artists_do_mylife-600.jpg) \
+\vfill
+
+
+Pie Chart --
+Quelle: My Life 600 Website
+
+<http://>
+
+© *Mylife 600*
+\vfill
+   
+\pagebreak[4]
+
+
+
+## HBO's TV Serie Figur Claire Fisher (Six Feet Under) 
+\vfill
+![Bild](pix/claire_fisher-milestogo1440.jpg) \
+\vfill
+Claire Fisher (Six Feet Under)
+
+HBO's TV series promotion material --
+Quelle: Fan Art Website
+
+
+
+© *Dearly Devoted*, HBO
+\vfill
+   
+\pagebreak[4]
+
+
+
+## "The Electrician" 
+\vfill
+![Bild](pix/willem_dafoe_basquiat.png) \
+\vfill
+"The Electrician" erklärt seine Überlebensstrategie als Künstler
+
+eigener Still  --
+Quelle: aus dem Film *Basquiat*, 1996
+
+<http://www.imdb.com/title/tt0115632/>
+
+© Eleventh Street Production
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Jeff Koons mit seinen Mitarbeitern 
+\vfill
+![Bild](pix/jeff_koons_und_mitarbeiter.jpg) \
+\vfill
+
+
+Foto --
+Quelle: für das *Monopol* Magazin
+
+
+
+© Jason Schmidt
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Bauhaus Curriculum 
+\vfill
+![Bild](pix/bauhaus_curriculum_1922.jpg) \
+\vfill
+Das Bauhaus Curriculum, 1922
+
+Grafik --
+Quelle: Itten, Johannes : Mein Vorkurs am Bauhaus. Otto Maier Verlag, 1963
+
+
+
+© Johannes Itten, 1922
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Thomas Hirschhorn: Buchumschlag 
+\vfill
+![Bild](pix/thomas_hirschhorn_booksleeve.jpg) \
+\vfill
+Buchumschlag "The artist as public Intellectual" mit Text von Thomas Hirschhorn 
+
+Grafik --
+Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008
+
+
+
+© Thomas Hirschhorn, 2008
+\vfill
+   
+\pagebreak[4]
+
+
+
+## Thomas Hirschhorn: Seite mit Text 
+\vfill
+![Bild](pix/thomas_hirschhorn_Buch_seite.jpg) \
+\vfill
+
+
+Seite aus dem Buch "The artist as public Intellectual" mit Text von Thomas Hirschhorn --
+Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008
+
+
+
+© Thomas Hirschhorn, 2008
+\vfill
+   
+\pagebreak[4]
+
+
+
+## "Hirschhorn: Mindmap" 
+\vfill
+![Bild](pix/thomas_hirschhorn_mindmap.jpg) \
+\vfill
+
+
+Mindmap als Einladungsmotiv --
+Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008
+
+
+
+© Thomas Hirschhorn
 \vfill
    
 \pagebreak[4]
@@ -448,42 +574,6 @@ Quelle: TODO
 
 
 © Vuk Vidor, 2004-2009
-\vfill
-   
-\pagebreak[4]
-
-
-
-## "Contemporary Artist" 
-\vfill
-![Bild](pix/garnet_hertz_contemporary_artist_fb_meme.jpg) \
-\vfill
-
-
-Grafik, Internet-Meme --
-Quelle: facebook: "Garnet Hertz Fotos"
-
-<https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater>
-
-© Garnet Hertz, 2012
-\vfill
-   
-\pagebreak[4]
-
-
-
-## HBO's TV Serie Figur Claire Fisher (Six Feet Under) 
-\vfill
-![Bild](pix/claire_fisher-milestogo1440.jpg) \
-\vfill
-Claire Fisher (Six Feet Under)
-
-HBO's TV series promotion material --
-Quelle: Fan Art Website
-
-
-
-© *Dearly Devoted*, HBO
 \vfill
    
 \pagebreak[4]

@@ -36,16 +36,6 @@ Im Kapitel Fünfjahresplan werden diese Kurse ausführlich und mit Beispielen be
 
 [^source-bauhaus_curriculum_1922]: TODO
 
-{
-  "title-short" : "\"Bauhaus Curriculum\"",
-  "title" : "Das Bauhaus Curriculum, 1922 \"",
-  "filename" : "bauhaus_curriculum_1922.gif",
-  "media-type" : "Grafik",
-  "copyright" : "Johannes Itten",
-  "source" : "My Life 600 Website",
-  "source-url" : "http://"
-}
-
 
 
 ## Be an Art Student, be a Master, be a Doctor!
@@ -251,47 +241,7 @@ Recht und Anerkennung verlangen und erhalten beide. In dem Buch *The artist as p
 Public Space – the Space of Public Life!* [-@Hirschhorn:PublicSpace] genannt.  
 
 
-**Bilder:** [Thomas Hirschhorn Buchumschlag], [Thomas Hirschhorn: Seite mit Text], [Thomas Hirschhorn: Mindmap]
-
-
-
-{
-  "title-short" : "\"Thomas Hirschhorn: Buchumschlag\"",
-  "title" : "Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
-  "filename" : "thomas_hirschhorn_booksleeve.jpg",
-  "media-type" : "Grafik",
-  "copyright" : "",
-  "source" : "bibtext!!!",
-  "source-url" : "http://"
-}
-
-
-
-
-
-{
-  "title-short" : "\"Thomas Hirschhorn: Seite mit Text\"",
-  "title" : "Seite aus dem Buch mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
-  "filename" : "thomas_hirschhorn_booksleeve.jpg",
-  "media-type" : "Grafik",
-  "copyright" : "",
-  "source" : "bibtext!!!",
-  "source-url" : "http://"
-}
-
-
-
-{
-  "title-short" : "\"Hirschhorn: Mindmap\"",
-  "title" : "Thomas Hirschhorn: Mindmap als Einladungsmotiv \"",
-  "filename" : "thomas_hirschhorn_mindmap.jpg",
-  "media-type" : "Grafik",
-  "copyright" : "Thomas Hirschhorn",
-  "source" : "",
-  "source-url" : "http://"
-}
-
-
+**Bilder:** [Thomas Hirschhorn: Buchumschlag], [Thomas Hirschhorn: Seite mit Text], [Thomas Hirschhorn: Mindmap]
 
 
 Als Ausstellungseinladung hat Hirschhorn eine Art visualisierten Text über seinen künstlerischen Gedankenwerdegang publiziert. Der Beitrag gibt seine Recherche zur Arbeit selbst 

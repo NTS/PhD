@@ -17,7 +17,7 @@ chapters:
 punch:
 	cd Bildtafeln; make
 
-html: chapters punch
+html: punch chapters
 	sh .papermill/output-html.sh
 
 pdf: chapters punch
