@@ -11,7 +11,7 @@ Teil des Künstlerduos *Barking Dogs United* ausgestellt.
 
 In meiner Masterthesis *Simon says: Take me by the Word* behandelte ich die Umstellung der Pyramide des Auftraggebers in der Kunstwelt als Folge des 
 Auftretens und der Intensivierung von Street Art sowie ihre ambivalente Beziehung zum *white cube*. Bei den Recherchen für meinen PhD der Freien Kunst mit dem Thema 
-„Der Berufskünstler: Von der Zähmung und Professionalisierung einer mythischen Freiheit, oder: der Künstler als Arbeiter“ habe ich unter anderem folgende Tendenzen 
+„Als ich Künstler[^fn-geschlechtsprache] war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:* der Künstler als Arbeiter“ habe ich unter anderem folgende Tendenzen 
 festgestellt: Eine langsame Wandlung des Künstlers zum „Traumberuf”, die fortschreitende Einmischung von Künstlern in soziale und politische Bereiche sowie die 
 beschleunigte Verzahnung von Akademie, Kunstmarkt und Netzöffentlichkeit. 
 
@@ -24,7 +24,7 @@ aufzeigen, bilden den thematischen Kern meiner Dissertation.
 
 Inwieweit wurde dieser Inanspruchnahme seitens der Hochschulen nachgekommen? Und was bedeutet es? Das Lehrangebot, welches hier analysiert wird, 
 zeigt Verbindungen zum Kunstmarkt auf und verweist ferner auf mein persönliches Interesse an der Entwicklung bzw. Wandlung des Kunstbegriffs und darüber hinaus 
-auf Änderungen in der Wahrnehmung des Künstlers[^fn-geschlechtsprache] als Figur. Die Lehrform des Weimarer Modells ist interdisziplinär ausgerichtet 
+auf Änderungen in der Wahrnehmung des Künstlers als Figur. Die Lehrform des Weimarer Modells ist interdisziplinär ausgerichtet 
 und verbindet Praxis mit Theorie in allen künstlerischen und gestalterischen Studienrichtungen. In meiner Erfahrung 
 stehen das Projekt und die künstlerischen sowie gestalterischen Belange in der Lehre und Forschung in einem engen Zusammenhang mit 
 einer konsequenten dreistufigen Bildungsstruktur mit allen akademischen Abschlüssen (Diplom, Bachelor, Master of Fine Arts, Meisterklasse) bis hin zum 
@@ -32,8 +32,7 @@ Promotionsstudiengang PhD Kunst und Design / Freie Kunst / Medienkunst mit dem A
 eine besondere Grundlage im Umgang mit meinem entwickelten Lehrprogramm, welches das Leben nach dem Studium und den Übergang 
 von der Akademie zum Berufsleben darstellt und analysiert und die Studierenden auf diese Phase vorbereitet. 
 
-[^fn-geschlechtsprache]: Bemerkungen zur geschlechtsungerechten Sprache: Das Wort *Künstler*, kommt in diese Dissertation ca. 500 mal vor. Wenn ich *Künstler* *Student* oder *Kurator* schreibe, meine ich selbstverständlich sowohl Künstler als auch KünstlerInnen, 
-StudentInnen und KuratorInnen.
+[^fn-geschlechtsprache]: Bemerkungen zur geschlechtsungerechten Sprache: Das Wort *Künstler* kommt in dieser Dissertation ca. 500 mal vor. Wenn ich *Künstler*, *Student* oder *Kurator* schreibe, meine ich selbstverständlich sowohl Künstler als auch *„KünstlerInnen“*, *„StudentInnen“* und *„KuratorInnen“*.
 
 Die Welt um den werdenden Künstler wird immer komplexer. Die Vermittlung, Nutzung und Kombination unterschiedlichster 
 kommunikativer und kollaborativer Medien und Technologien ist inzwischen zu einem untrennbaren Teil des heutigen Künstlerdaseins geworden. Meine Erfahrungen 
