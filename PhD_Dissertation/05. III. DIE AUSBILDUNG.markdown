@@ -32,9 +32,20 @@ Im Kapitel Fünfjahresplan werden diese Kurse ausführlich und mit Beispielen be
 
 
 
-**Bild:** [Das Bauhaus Curriculum, 1922[^source-bauhaus_curriculum_1922]] TODO: bauhaus_curriculum_1922
+**Bild:** [Das Bauhaus Curriculum, 1922[^source-bauhaus_curriculum_1922]]
 
 [^source-bauhaus_curriculum_1922]: TODO
+
+{
+  "title-short" : "\"Bauhaus Curriculum\"",
+  "title" : "Das Bauhaus Curriculum, 1922 \"",
+  "filename" : "bauhaus_curriculum_1922.gif",
+  "media-type" : "Grafik",
+  "copyright" : "Johannes Itten",
+  "source" : "My Life 600 Website",
+  "source-url" : "http://"
+}
+
 
 
 ## Be an Art Student, be a Master, be a Doctor!
@@ -242,11 +253,51 @@ public space – the space of public life* genannt. [@Wulffen:Public, pp. 72-103
 
 [TODO][@Wulffen:Public,...
 
-**Bild:** [Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual]
+**Bilder:** [Thomas Hirschhorn Buchumschlag], [Thomas Hirschhorn: Seite mit Text], [Thomas Hirschhorn: Mindmap]
 
-**Bild:** [Thomas Hirschhorn: Seite mit Text]
+20. **Bild:** [Hirschhorn: Buchumschlag]
 
-**Bild:** [Thomas Hirschhorn: Mindmap]
+
+
+{
+  "title-short" : "\"Thomas Hirschhorn: Buchumschlag\"",
+  "title" : "Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
+  "filename" : "thomas_hirschhorn_booksleeve.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "",
+  "source" : "bibtext!!!",
+  "source-url" : "http://"
+}
+
+
+21. **Bild:** [Hirschhorn: Seite mit Text]
+
+
+{
+  "title-short" : "\"Thomas Hirschhorn: Seite mit Text\"",
+  "title" : "Seite aus dem Buch mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
+  "filename" : "thomas_hirschhorn_booksleeve.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "",
+  "source" : "bibtext!!!",
+  "source-url" : "http://"
+}
+
+
+
+22. **Bild:** [Thomas Hirschhorn: Mindmap]
+
+{
+  "title-short" : "\"Hirschhorn: Mindmap\"",
+  "title" : "Thomas Hirschhorn: Mindmap als Einladungsmotiv \"",
+  "filename" : "thomas_hirschhorn_mindmap.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "Thomas Hirschhorn",
+  "source" : "",
+  "source-url" : "http://"
+}
+
+
 
 
 Als Ausstellungseinladung hat Hirschhorn eine Art visualisierten Text über seinen künstlerischen Gedankenwerdegang publiziert. Der Beitrag gibt seine Recherche zur Arbeit selbst 
