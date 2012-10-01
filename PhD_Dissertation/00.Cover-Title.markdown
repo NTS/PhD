@@ -4,7 +4,19 @@
 % Naomi Tereza Salmon
 
 
+\pagebreak
+\newpage
+\pagestyle{headings}
 
-## Thesenpapier
+
+## Anlagen
 
 ***(separat gebunden)***
+
+* Thesenpapier
+
+* Bildtafeln
+
+* Dokumentation Praktischer Teil
+- - KIOSK09-Katalog
+- - Der 5-Jahres-Plan

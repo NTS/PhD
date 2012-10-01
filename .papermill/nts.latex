@@ -14,7 +14,7 @@
 \renewcommand{\contentsname}{Inhaltsverzeichnis}
 % HEADER
 \usepackage{fancyhdr}
-\pagestyle{headings}
+%\pagestyle{headings}
 %
 % END NTS FIXES
 %
