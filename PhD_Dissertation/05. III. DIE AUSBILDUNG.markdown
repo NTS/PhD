@@ -7,7 +7,7 @@
 ## Kunststudium am Beispiel der Bauhaus-Universität Weimar
 
 Die Bauhaus-Universität Weimar besteht aus vier Fakultäten: Architektur, Medien, Gestaltung und Bauingenieurwesen. Studierenden ist es hier möglich interdisziplinär zu 
-studieren und Projekte sowie Fachkurse auch in anderen Fakultäten zu besuchen. Neben Visueller Kommunikation, Produktdesign, Kunst auf Lehramt an Gymnasien und dem postgradualen Programm "Kunst im öffentlichen Raum und neue künstlerische Strategien" wird an der Fakultät Gestaltung Freie Kunst in erster Linie nach dem Montessori System gelehrt. 
+studieren und Projekte sowie Fachkurse auch in anderen Fakultäten zu besuchen. Neben Visueller Kommunikation, Produktdesign, Kunst für den Lehramt an Gymnasien und dem postgradualen Programm "Kunst im öffentlichen Raum und neue künstlerische Strategien" wird an der Fakultät Gestaltung Freie Kunst in erster Linie nach dem Montessori System gelehrt. 
 Das heißt, dass im ersten Semester alle neuen Studenten im zweiwöchigen Rhythmus, im Rahmen des Projektes „Wechselstrom“, alle Lehrenden der Fakultät Freie Kunst kennenlernen 
 und in einer Art „Speed Dating“ - in welchem man jeweils bei den Professoren und ihren Mitarbeitern eine Kostprobe bekommt, verschiedene Arbeitsweisen erproben. Vom 2.-8. 
 Semester arbeiten alle gemeinsam jeweils in Projekten ihrer Wahl, wobei stets Studienanfänger und ältere Semester in einem Projekt zusammen kommen.
@@ -15,16 +15,16 @@ Semester arbeiten alle gemeinsam jeweils in Projekten ihrer Wahl, wobei stets St
 Bei der spezifischen Projektarbeit zusammen mit Prof. Norbert Hinterberger geht es zunächst darum, sich dem Thema durch Input des Professors anzunähern, welches in Form von Vorlesungen, 
 Exkursionen und künstlerischer Recherche erfolgt. Am Ende jedes Semesters soll ein Kunstwerk entstehen. Fast zu jedem Semesterende gibt es eine Ausstellung, im Winter in den Arbeitsräumen 
 des jeweiligen Projektes und zum Ende des Sommersemesters die *Summaery* - die Jahresschau der gesamten Universität. Zunehmend entstehen für diese Ausstellungen Kollaborationen mit Museen, Galerien 
-und Kulturzentren, die gern mit der Freien Kunst kooperieren möchten und den Studierenden eine Chance geben, schon während des Studiums mit Professionellen Institutionen 
+und Kulturzentren, die gern mit der Freien Kunst kooperieren möchten und den Studierenden eine Chance geben, schon während des Studiums mit professionellen Institutionen 
 zusammenzuarbeiten und außerhalb der Hochschule auszustellen. Zusätzlich wird versucht, die Studenten zur Reflexion über die eigene Arbeit zu animieren. Sie müssen 
 bis zur jeweiligen Eröffnung einen Text zum Werk liefern, möglicherweise auch ein Bild. Sie sollen den Titel ihrer Arbeit kennen, dazu Materialkosten, investierte Arbeitszeit 
 und den Preis sowie Versicherungswert schätzen können. Das ist unsere Arbeitsweise und es muss betont werden, dass diese unter anderen Professoren nicht ganz so klar strukturiert wäre.
 
 Allgemein gesehen ist vieles an der Bauhaus-Universität Weimar besonders, einzigartig und anders als an anderen Kunsthochschulen und Universitäten in Deutschland. Der Fachbereich Freie 
 Kunst der Bauhaus-Universität Weimar ist keiner gesonderten Akademie untergeordnet sondern hier wird Kunst an einer Universität gelehrt und nicht wie im Fall der Bezalel Academy of Arts and 
-Design (staatliche Kunst- und Designhochschule in Jerusalem) die zur Hebräischen Universität Jerusalem gehört aber losgelöst davon eben als eigenständige Akademie funktioniert. Innerhalb des 
-Studiengangs Freie Kunst haben die Studenten in den Projekten eine freie Medienwahl. Viele Fertigkeiten lassen sich in den unterschiedlichen Werkstätten erlernen: Fotografie-, Holz-, Metal-, 
-Kunststoff- oder Gipswerkstatt sowie in verschiedenen Grafikkursen. Hier können sich die Studierenden ein vielfältiges Repertoire an Fähigkeiten aneignen und sich an welchem Medium auch immer bedienen. Die Belegung der Werkstattkurse geschieht zumeist getrennt vom Projektunterricht, in dem Inhalte zum Projektthema besprochen werden. Davon getrennt wird in verschiedenen Seminaren, die obligatorisch sind, Kunsttheorie- und Geschichte gelehrt und vermittelt. Das was in diesem Spektrum meines Erachtens fehlt - das Erlernen von Strategien zur Professionalisierung als Künstler, um später überleben 
+Design (staatliche Kunst- und Designhochschule in Jerusalem), die zur Hebräischen Universität Jerusalem gehört aber losgelöst davon eben als eigenständige Akademie funktioniert. Innerhalb des 
+Studiengangs Freie Kunst haben die Studenten in den Projekten eine freie Medienwahl. Viele Fertigkeiten lassen sich in den unterschiedlichen Werkstätten erlernen: Fotografie-, Holz-, Metall-, 
+Kunststoff- oder Gipswerkstatt sowie in verschiedenen Grafikkursen. Hier können sich die Studierenden ein vielfältiges Repertoire an Fähigkeiten aneignen und sich an welchem Medium auch immer erproben. Die Belegung der Werkstattkurse geschieht zumeist getrennt vom Projektunterricht, in dem Inhalte zum Projektthema besprochen werden. Davon getrennt wird in verschiedenen Seminaren, die obligatorisch sind, Kunsttheorie- und Geschichte gelehrt und vermittelt. Das was in diesem Spektrum meines Erachtens fehlt - das Erlernen von Strategien zur Professionalisierung als Künstler, um später überleben 
 zu können - versuche ich seit 2007, erst allein und seit 2011 zusammen mit meiner Kollegin Anke Hannemann in Fachkursen und Workshops anzubieten. 
 
 
@@ -40,12 +40,12 @@ Im Kapitel Fünfjahresplan werden diese Kurse ausführlich und mit Beispielen be
 ## Be an Art Student, be a Master, be a Doctor!
 
 In Folge der Reform der Hochschulabschlüsse in Europa (des sogenannten Bologna-Prozesses), und der damit verbundenen Anpassung an die aus den USA und Großbritannien bekannten
-Klassifizierungen, vermehrten sich die Angebote an akademischen Master- (=MFA) Programmen für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
+Klassifizierungen, vermehrten sich die Angebote an akademischen Master- (=MfA) Programmen für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
 vor allem in Westeuropa, (aber zunehmend auch im Osten), die solche Aufbau-Studienprogramme für die Kunstpraxis anbieten. Darunter befinden sich viele, die 
 sogar als Hauptthema Kunst im öffentlichen Raum wählen und gewählt haben. Einige bieten den öffentlichen Raum als Schwerpunkt an, andere das Kuratorische. Gern verwenden sie den 
 Ausdruck “Neue künstlerische Strategien”. Im Grunde kann das eigentlich alles bedeuten und explizit nur: kein “Bild an der Wand”. Unter “Neue künstlerische Strategien” wird 
-alles, was außerhalb des *white cube*, einer Galerie erscheinen kann und erscheint, geordnet. Der Drang, etwas Neues vermitteln zu wollen, liegt also zum Teil in
- einem Ausschlussprinzip, nämlich dem des traditionellen Raums: Museum, Galerie, etc., der nicht mehr Gegenstand der Lehre ist. Dazu kommen Radio, Fernseher und das Internet, als möglichst alternatives Platform.
+alles, was außerhalb des *white cube* einer Galerie erscheinen kann und erscheint, geordnet. Der Drang, etwas Neues vermitteln zu wollen, liegt also zum Teil in
+ einem Ausschlussprinzip, nämlich dem des traditionellen Raums: Museum, Galerie, etc., der nicht mehr Gegenstand der Lehre ist. Dazu kommen Radio, Fernsehen und das Internet, als möglichst alternativen Plattform.
 
 In diesen Studiengängen wird die Lehre überwiegend in kleinen Gruppen durchgeführt. Es treffen sich Studierende aus verschiedenen Ländern, aus unterschiedlichen 
 Bereichen der Kunst und diverse Altersgruppen, manche sehr jung, direkt nach dem Diplom, manche haben aber erst das Leben außerhalb der Akademie erprobt und kehren 
@@ -61,14 +61,14 @@ Regel zur Öffentlichkeit gehören, werden auch andere Gebiete zugänglich gemac
 und Interventionen im öffentlichen Raum, mit denen eine Konfrontationsrichtung ausgegeben wird. Daneben werden den Studierenden auch berufliche Themen, mit denen sich 
 Künstler beschäftigen, vermittelt, wie: Strukturen von Bewerbungseinrichtung, Finanzierungen, Genehmigungen und Selbstpräsentation sowie professioneller Umgang in der 
 Zusammenarbeit mit soziopolitischen Kulturzentren und anderen Einrichtungen. In den meisten Fällen stößt dieses Angebot auf ein großes Interesse seitens der Studierenden. 
-Sogar das Semantische Feld wird theoretisch sowie praktisch analysiert, verbunden mit der Vermittlung von Kenntnissen über Begriffe wie Urbanität, Identität, Migration, 
+Sogar das semantische Feld wird theoretisch sowie praktisch analysiert, verbunden mit der Vermittlung von Kenntnissen über Begriffe wie Urbanität, Identität, Migration, 
 Geschlecht (Gender), Regulierung und Standardisierung sowie Differenzierung, Kollaboration, Kooperation und kultureller Zusammenarbeit, Aneignung und Eigentum, 
 Dienstleistung, Recht und Ordnung, Aktivismus und das Identifizieren von Konfliktfeldern, moralischen Fragen wie auch philosophische Kontextualisierung. Dieses vielseitige 
 Angebot findet mittlerweile in einer mehr oder weniger geordneten Art und Weise seinen Platz im Lehrprogramm für Künstler.
 
 Deutschland kann für viele als ein Künstlerparadies (in Relation zu anderen Ländern) verstanden werden. Die allgemeinen Studiengebühren sind sehr 
 niedrig, in Weimar liegen sie zur Zeit bei ca. 137,- Euro pro Semester. Erst nachdem man die Regelstudienzeit überschritten hat, muss man 500,- Euro pro Semester zahlen, 
-was immer noch ein lächerlicher Betrag im Vergleich zu den Gebühren z.B. in den USA und Großbritannien, die um den 25,000€ pro Studiumsjahr kreisen, laut [*Art & Society*](http://suite101.com/article/top-10-art-schools-compared-a53521) Online Magazin zu entnehmen ist. 
+was immer noch ein lächerlicher Betrag im Vergleich zu den Gebühren z.B. in den USA und Großbritannien, die 25,000€ pro Studiumsjahr ist, laut [*Art & Society*](http://suite101.com/article/top-10-art-schools-compared-a53521) Online Magazin zu entnehmen ist. 
 
 Nach dem Studium und mit Verweis auf eine künstlerische Tätigkeit kann sich jeder, der nachweisen kann, dass er hauptberuflich als Künstler tätig ist, mit der [Künstlersozialkasse](http://www.kuenstlersozialkasse.de/Krankenversicherung)(KSK) abschließen, was ein [einmaliges Modell](http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html) in Europa bildet. Fast ein Prozent der Einwohner in Berlin ist durch die KSK versichert. Zusätzlich, wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch den [Art. 5 Abs. 3 des Grundgesetzes](http://www.gesetze-im-internet.de/gg/art_5.html) gewährleistet. Auch finden Künstler große finanzielle Unterstützung durch unzählige Wettbewerbsmöglichkeiten und Stipendienangebote sowie Staatliche Förderungen, wie die [*Bundeskulturstiftung*](http://www.bundeskulturstiftung.de/) und [*Fonds Soziokultur*](http://www.fonds-soziokultur.de/) Eingereichte Bewerbungen können bei der Bundeskulturstiftung  Forderungsgelder in höhe bis zu 50,000€ Pro Projekt beantragen. Die Kulturausgaben insgesamt[Die Kulturausgaben insgesamt](https://www.destatis.de/DE/Publikationen/Thematisch/BildungForschungKultur/Kultur/Kulturindikatoren.html) pro Einwohner pro Jahr tragen bundesweit Durchschnittlich 100€.
 
