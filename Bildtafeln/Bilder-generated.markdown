@@ -1,7 +1,7 @@
 % Bildtafeln
 % Naomi Tereza Salmon
 
-
+\hypersetup{linkcolor=black}
 
 
 
@@ -265,7 +265,7 @@ Quelle: Fan Art Website
 
 
 
-## ["The Electrician"] 
+## [The Electrician] 
 \vfill
 ![Bild](pix/willem_dafoe_basquiat.png) \
 \vfill
@@ -393,7 +393,7 @@ Quelle: privat
 
 
 
-## [Bauhaus-Essentials I] 
+## [Bauhaus Essentials I] 
 \vfill
 ![Bild](pix/bauhaus_essentials_1_einladung_marke_6.jpg) \
 \vfill
@@ -457,7 +457,7 @@ Quelle: Internet
 
 
 
-## ["Sunday Afternoon nach Edouard Manet"] 
+## [Sunday Afternoon nach Edouard Manet] 
 \vfill
 ![Bild](pix/sundayafternoon.jpeg) \
 \vfill
@@ -473,7 +473,7 @@ Quelle: Internet
 
 
 
-## [John Pike in "Christina’s World"] 
+## [John Pike in Christina’s World] 
 \vfill
 ![Bild](pix/pepper-spray-cop9.jpeg) \
 \vfill
@@ -538,7 +538,7 @@ Quelle: Bidoun Magazin
 
 
 
-## [Jeremy Dellers Zitat] 
+## [Jeremy Deller Zitat] 
 \vfill
 ![Bild](pix/jeremy_deller_on_my_iphone.png) \
 \vfill
@@ -554,11 +554,11 @@ Quelle: *facebook*
 
 
 
-## [Zettel von Billy Bragg an Pussy Riot] 
+## [Brief von Billy Bragg an Pussy Riot] 
 \vfill
 ![Bild](pix/pussy_riot_billy_bragg.jpg) \
 \vfill
-Zettel von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung
+Brief von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung
 
 Foto --
 Quelle: *facebook*
@@ -570,7 +570,7 @@ Quelle: *facebook*
 
 
 
-## ["Occupy" Zelte dOCUMENTA (13)] 
+## [Occupy dOCUMENTA (13)] 
 \vfill
 ![Bild](pix/occupy_documenta1.png) \
 \vfill
@@ -620,7 +620,7 @@ Quelle: Courtesy Upstream gallery, Amsterdam/The breeder, Athens
 
 ## [FUCK THE CURATOR] 
 \vfill
-![Bild](pix/bijl_never_mind_the_politics.jpg) \
+![Bild](pix/fuck_the_curator_kunstzeitung.png) \
 \vfill
 
 
@@ -629,7 +629,7 @@ Quelle: via Aram's Blog
 
 <http://datenform.de/blog/oh-its-a-curator>
 
-© Marc Bijl, 2005
+© Unbekannt
 \vfill
 
 
@@ -647,6 +647,42 @@ Quelle: e-flux
 
 © keines
 \vfill
+
+
+
+## [BDU Manifest] 
+\vfill
+![Bild](pix/BDU_MANIFESTO.pdf) \
+\vfill
+
+
+Manifest der Künstlergruppe --
+Quelle: BDU
+
+
+
+© Barking Dogs United, 2008
+\vfill
+   
+\pagebreak[4]
+
+
+
+## [Justin Hansch: Best friends painting] 
+\vfill
+![Bild](pix/justin_hansch_best_friends_painting.jpg) \
+\vfill
+Justin Hansch: „Best friends painting“
+
+Oil on Canvas, 40x50 cm --
+Quelle: courtesy of Ryan Weber, Schalter Gallery, Berlin
+
+<http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png>
+
+© Justin Hansch, 2010
+\vfill
+   
+\pagebreak[4]
 
 
 
@@ -670,7 +706,7 @@ Quelle: BDU
 \vfill
 ![Bild](pix/bdu_brain_equalizer_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: FX I, II, III - "Brain Equalizer", Digital Collage, 2008"
+Barking Dogs United: FX I, II, III - "Brain Equalizer"
 
 Digital Collage --
 Quelle: BDU
@@ -686,7 +722,7 @@ Quelle: BDU
 \vfill
 ![Bild](pix/bdu_creative_reverb_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: FX I, II, III - "Creative Reverb", Digital Collage, 2008"
+Barking Dogs United: FX I, II, III - "Creative Reverb"
 
 Digital Collage --
 Quelle: BDU
@@ -702,7 +738,7 @@ Quelle: BDU
 \vfill
 ![Bild](pix/bdu_influence_modifier_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: FX I, II, III - "Influence Modifier", Digital Collage, 2008"
+Barking Dogs United: FX I, II, III - "Influence Modifier"
 
 Digital Collage --
 Quelle: BDU
@@ -718,7 +754,7 @@ Quelle: BDU
 \vfill
 ![Bild](pix/bdu_lust_station_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: FX I, II, III - "Lust Station", 2008"
+Barking Dogs United: FX I, II, III - "Lust Station"
 
 Digital Collage --
 Quelle: BDU
@@ -734,7 +770,7 @@ Quelle: BDU
 \vfill
 ![Bild](pix/bdu_mental_core_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: FX I, II, III - "Mental Core", Digital Collage, 2008"
+Barking Dogs United: FX I, II, III - "Mental Core"
 
 Digital Collage --
 Quelle: BDU
@@ -750,7 +786,7 @@ Quelle: BDU
 \vfill
 ![Bild](pix/bdu_range-r_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: FX I, II, III - "Range-r", Digital Collage, 2008"
+Barking Dogs United: FX I, II, III - "Range-r"
 
 Digital Collage --
 Quelle: BDU
@@ -766,7 +802,7 @@ Quelle: BDU
 \vfill
 ![Bild](pix/bdu_reliability_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: FX I, II, III - "Reliability", Digital Collage, 2008"
+Barking Dogs United: FX I, II, III - "Reliability"
 
 Digital Collage --
 Quelle: BDU
@@ -782,7 +818,7 @@ Quelle: BDU
 \vfill
 ![Bild](pix/bdu_thinking_booster_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: FX I, II, III - "thinking booster", Digital Collage, 2008"
+Barking Dogs United: FX I, II, III - "thinking booster"
 
 Digital Collage --
 Quelle: BDU

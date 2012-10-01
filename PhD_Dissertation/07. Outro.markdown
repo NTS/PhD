@@ -139,7 +139,7 @@ Es ist Ende 2012 und zugleich sind alle Menschen Künstler, während es die Kün
 *Jeder Mensch ist ein Künstler* heissen, sondern *Alles ist Kunst!* 
 
  
-Der nächste Künstlertypus: (siehe BDU Manifest) Künstler arbeiten immer gern auf einen utopischen Zustand hin, weil sie diesen selber kreieren können, und halten es vielleicht im schlimmsten Fall für egal, 
+Der nächste Künstlertypus: Künstler arbeiten immer gern auf einen utopischen Zustand hin, weil sie diesen selber kreieren können, und halten es vielleicht im schlimmsten Fall für egal, 
 falls sie zu Lebenszeit scheitern. 
 
 **Bild:** [BDU Manifest]
@@ -238,18 +238,6 @@ Ich bin im Atelier am Schreiben. Ich überlege, was heisst das, wenn Künstler s
  
 Ein fliegender Ornithologe. **Bild:** [Justin Hansch: „Best friends painting] 
 
- 
-{
-  "title-short" : "\"Justin Hansch: „Best friends painting“„“\"",
-  "title" : "Justin Hansch: „Best friends painting“, Oil on Canvas, 40x50 cm, 2010 Schalter Galerie, Berlin\"",
-  "filename" : "justin_hansch_best_friends_painting.jpg",
-  "media-type" : "Foto",
-  "copyright" : "cc nts, courtesy of Ryan Weber, Schalter Gallery, Berlin, " ,
-  "source" : "",
-  "source-url" : "http://www." ???(http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)???
-}
-    
-
 Klopfen an der Tür, meine ehemalige Studentin Simone Weikelt kommt herein. Sie will mich fragen, ob ich bereit wäre, an ihrer 
 nächsten Ausstellung teilzunehmen. Sie will nicht meine Kunst ausstellen, sondern mich (u.a.). Sie meint, dass was übrig bleiben wird, 
 nach der großen *Materialschlacht*, nur die Künstlerfigur und seine Fähigkeiten als Vorherseher sein wird. Künstler ähneln immer noch den Schamanen. Sie beobachten, vergleichen und ziehen Schlüsse aus dem was sie sehen. Die bloße Anwesenheit, und Ideen zu haben sollten reichen. "Aber das ist schon gemacht worden und bildet bloß ein Echo zu Marina Abramovics Werk *The Artist Is Present* müsste ich ihr sagen. 
@@ -265,111 +253,9 @@ und permanent auf dieser Ebene geblieben.
 	
 	
 
-And now, if you will excuse me, I am going to make some art.  
+*And now, if you will excuse me, I am going to make some art.  
+*
 
 
-
-**Bilder:** Barking Dogs United: FX I, FX II, FX III, 2008, [BDU: "Bender Flip Size"], [BDU: "Brain Equalizer"],[BDU: "Creative Reverb"],[BDU: "Influence Modifier"], [BDU: "Lust Station"], [BDU: "Mental Core"], [BDU: "Range-r"],["BDU: "Reliability"],[BDU: "Thinking Booster"]
-
-{
-  "title-short" : "\"BDU: "Bender Flip Size"\"",
-  "title" : "Barking Dogs United: FX I, II, III - "Bender Flip Size", Digital Collage, 2008\"",
-  "filename" : "bdu_bender_flip_size_matterz_acc_2008.png",
-  "media-type" : "Grafik",
-  "copyright" : "Barking Dogs United" ,
-  "source" : "BDU",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-
-{
-  "title-short" : "\"BDU: "Brain Equalizer"\"",
-  "title" : "Barking Dogs United: FX I, II, III - "Brain Equalizer", Digital Collage, 2008\"",
-  "filename" : "bdu_brain_equalizer_size_matterz_acc_2008.png",
-  "media-type" : "Grafik",
-  "copyright" : "Barking Dogs United" ,
-  "source" : "BDU",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-{
-  "title-short" : "\"BDU: "Creative Reverb"\"",
-  "title" : "Barking Dogs United: FX I, II, III - Creative Reverb, Digital Collage, 2008\"",
-  "filename" : "bdu_creative_reverb_size_matterz_acc_2008.png",
-  "media-type" : "Grafik",
-  "copyright" : "Barking Dogs United" ,
-  "source" : "BDU",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-
-{
-  "title-short" : "\"BDU: "Influence Modifier"\"",
-  "title" : "Barking Dogs United: FX I, II, III - "Influence Modifier", Digital Collage, 2008\"",
-  "filename" : "bdu_influence_modifier_size_matterz_acc_2008.png",
-  "media-type" : "Grafik",
-  "copyright" : "Barking Dogs United" ,
-  "source" : "BDU",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-
-{
-  "title-short" : "\"BDU: "Lust Station"\"",
-  "title" : "Barking Dogs United: FX I, II, III - "Lust Station", 2008\"",
-  "filename" : "bdu_lust_station_size_matterz_acc_2008.png",
-  "media-type" : "Grafik",
-  "copyright" : "Barking Dogs United" ,
-  "source" : "BDU",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-
-{
-  "title-short" : "\"BDU: "Mental Core"\"",
-  "title" : "Barking Dogs United: FX I, II, III - "Mental Core", Digital Collage, 2008\"",
-  "filename" : "bdu_mental_core_size_matterz_acc_2008.png",
-  "media-type" : "Grafik",
-  "copyright" : "Barking Dogs United" ,
-  "source" : "BDU",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-{
-  "title-short" : "\"BDU: "Range-r"\"",
-  "title" : "Barking Dogs United: FX I, II, III - ""Range-r"", Digital Collage, 2008\"",
-  "filename" : "bdu_range-r_size_matterz_acc_2008.png",
-  "media-type" : "Grafik",
-  "copyright" : "Barking Dogs United" ,
-  "source" : "BDU",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-{
-  "title-short" : "\"BDU: "Reliability"\"",
-  "title" : "Barking Dogs United: FX I, II, III - ""Reliability"", Digital Collage, 2008\"",
-  "filename" : "bdu_reliability_size_matterz_acc_2008.png",
-  "media-type" : "Grafik",
-  "copyright" : "Barking Dogs United" ,
-  "source" : "BDU",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-{
-  "title-short" : "\"BDU: "Thinking Booster"\"",
-  "title" : "Barking Dogs United: FX I, II, III - "Thinking Booster", Digital Collage, 2008\"",
-  "filename" : "bdu_thinking_booster_size_matterz_acc_2008.png",
-  "media-type" : "Grafik",
-  "copyright" : "Barking Dogs United" ,
-  "source" : "BDU",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-
-
-
-
-
- 
-
+**Bilder:** Barking Dogs United: FX I, FX II, FX III, 2008: [BDU: Bender Flip Size], [BDU: Brain Equalizer],[BDU: Creative Reverb],[BDU: Influence Modifier], [BDU: Lust Station], [BDU: Mental Core], [BDU: Range-r],[BDU: Reliability],[BDU: Thinking Booster]
 

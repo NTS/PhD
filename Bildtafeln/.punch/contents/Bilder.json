@@ -152,7 +152,7 @@
     },
     {
       "snap" : true,
-      "title-short" : "\"The Electrician\"",
+      "title-short" : "The Electrician",
       "title" : "\"The Electrician\" erklärt seine Überlebensstrategie als Künstler",
       "filename" : "willem_dafoe_basquiat.png",
       "media-type" : "eigener Still ",
@@ -228,7 +228,7 @@
     },
     {
       "snap" : true,
-      "title" : "Bauhaus-Essentials I",
+      "title" : "Bauhaus Essentials I",
       "filename" : "bauhaus_essentials_1_einladung_marke_6.jpg",
       "media-type" : "Einladungs-Postkarte",
       "copyright" : "Max F. Albrecht, 2010",
@@ -267,7 +267,7 @@
     {
       "snap" : true,
       "source" : "Internet",
-      "title-short" : "\"Sunday Afternoon nach Edouard Manet\"",
+      "title-short" : "Sunday Afternoon nach Edouard Manet",
       "title" : "Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)\"",
       "filename" : "sundayafternoon.jpeg",
       "media-type" : "Foto",
@@ -276,7 +276,7 @@
     },
     {
       "snap" : true,
-      "title-short" : "John Pike in \"Christina’s World\"",
+      "title-short" : "John Pike in Christina’s World",
       "title" : "John Pike makes a stop in \"Christina's World\"",
       "filename" : "pepper-spray-cop9.jpeg",
       "media-type" : "Foto",
@@ -313,7 +313,7 @@
     },
     {
       "snap" : true,
-      "title-short" : "Jeremy Dellers Zitat",
+      "title-short" : "Jeremy Deller Zitat",
       "filename" : "jeremy_deller_on_my_iphone.png",
       "media-type" : "Text als Grafik als Bildschirmfoto",
       "copyright" : "Unbekannt",
@@ -321,8 +321,8 @@
     },
     {
       "snap" : true,
-      "title-short" : "Zettel von Billy Bragg an Pussy Riot",
-      "title" : "Zettel von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung",
+      "title-short" : "Brief von Billy Bragg an Pussy Riot",
+      "title" : "Brief von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung",
       "filename" : "pussy_riot_billy_bragg.jpg",
       "media-type" : "Foto",
       "copyright" : "Billy Bragg",
@@ -330,7 +330,7 @@
     },
     {
       "snap" : true,
-      "title-short" : "\"Occupy\" Zelte dOCUMENTA (13)",
+      "title-short" : "Occupy dOCUMENTA (13)",
       "title" : "Meldung über die Occupy Zelte auf der dOCUMENTA (13)",
       "filename" : "occupy_documenta1.png",
       "media-type" : "Bildschirmfoto",
@@ -358,9 +358,9 @@
     {
       "snap" : true,
       "title" : "FUCK THE CURATOR",
-      "filename" : "bijl_never_mind_the_politics.jpg",
+      "filename" : "fuck_the_curator_kunstzeitung.png",
       "media-type" : "Foto in der \"Kunstzeitung\", Ausgabe 157, September 2009",
-      "copyright" : "Marc Bijl, 2005",
+      "copyright" : "Unbekannt",
       "source" : "via Aram's Blog",
       "source-url" : "http://datenform.de/blog/oh-its-a-curator"
     },
@@ -372,6 +372,22 @@
       "copyright" : "keines",
       "source" : "e-flux",
       "source-url" : "http://www.e-flux.com"
+    },
+    {
+      "title" : "BDU Manifest",
+      "filename" : "BDU_MANIFESTO.pdf",
+      "media-type" : "Manifest der Künstlergruppe",
+      "copyright" : "Barking Dogs United, 2008",
+      "source" : "BDU"
+    },
+    {
+      "title-short" : "Justin Hansch: Best friends painting",
+      "title" : "Justin Hansch: „Best friends painting“",
+      "filename" : "justin_hansch_best_friends_painting.jpg",
+      "media-type" : "Oil on Canvas, 40x50 cm",
+      "copyright" : "Justin Hansch, 2010",
+      "source" : "courtesy of Ryan Weber, Schalter Gallery, Berlin",
+      "source-url" : "http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png"
     },
     {
       "snap" : true,
@@ -386,7 +402,7 @@
     {
       "snap" : true,
       "title-short" : "BDU: Brain Equalizer",
-      "title" : "Barking Dogs United: FX I, II, III - \"Brain Equalizer\", Digital Collage, 2008\"",
+      "title" : "Barking Dogs United: FX I, II, III - \"Brain Equalizer\"",
       "filename" : "bdu_brain_equalizer_size_matterz_acc_2008.png",
       "copyright" : "Barking Dogs United, 2008",
       "media-type" : "Digital Collage",
@@ -396,7 +412,7 @@
     {
       "snap" : true,
       "title-short" : "BDU: Creative Reverb",
-      "title" : "Barking Dogs United: FX I, II, III - \"Creative Reverb\", Digital Collage, 2008\"",
+      "title" : "Barking Dogs United: FX I, II, III - \"Creative Reverb\"",
       "filename" : "bdu_creative_reverb_size_matterz_acc_2008.png",
       "copyright" : "Barking Dogs United, 2008",
       "media-type" : "Digital Collage",
@@ -406,7 +422,7 @@
     {
       "snap" : true,
       "title-short" : "BDU: Influence Modifier",
-      "title" : "Barking Dogs United: FX I, II, III - \"Influence Modifier\", Digital Collage, 2008\"",
+      "title" : "Barking Dogs United: FX I, II, III - \"Influence Modifier\"",
       "filename" : "bdu_influence_modifier_size_matterz_acc_2008.png",
       "copyright" : "Barking Dogs United, 2008",
       "media-type" : "Digital Collage",
@@ -416,7 +432,7 @@
     {
       "snap" : true,
       "title-short" : "BDU: Lust Station",
-      "title" : "Barking Dogs United: FX I, II, III - \"Lust Station\", 2008\"",
+      "title" : "Barking Dogs United: FX I, II, III - \"Lust Station\"",
       "filename" : "bdu_lust_station_size_matterz_acc_2008.png",
       "copyright" : "Barking Dogs United, 2008",
       "media-type" : "Digital Collage",
@@ -426,7 +442,7 @@
     {
       "snap" : true,
       "title-short" : "BDU: Mental Core",
-      "title" : "Barking Dogs United: FX I, II, III - \"Mental Core\", Digital Collage, 2008\"",
+      "title" : "Barking Dogs United: FX I, II, III - \"Mental Core\"",
       "filename" : "bdu_mental_core_size_matterz_acc_2008.png",
       "copyright" : "Barking Dogs United, 2008",
       "media-type" : "Digital Collage",
@@ -436,7 +452,7 @@
     {
       "snap" : true,
       "title-short" : "BDU: Range-r",
-      "title" : "Barking Dogs United: FX I, II, III - \"Range-r\", Digital Collage, 2008\"",
+      "title" : "Barking Dogs United: FX I, II, III - \"Range-r\"",
       "filename" : "bdu_range-r_size_matterz_acc_2008.png",
       "copyright" : "Barking Dogs United, 2008",
       "media-type" : "Digital Collage",
@@ -446,7 +462,7 @@
     {
       "snap" : true,
       "title-short" : "BDU: Reliability",
-      "title" : "Barking Dogs United: FX I, II, III - \"Reliability\", Digital Collage, 2008\"",
+      "title" : "Barking Dogs United: FX I, II, III - \"Reliability\"",
       "filename" : "bdu_reliability_size_matterz_acc_2008.png",
       "copyright" : "Barking Dogs United, 2008",
       "media-type" : "Digital Collage",
@@ -455,7 +471,7 @@
     },
     {
       "snap" : true,
-      "title" : "Barking Dogs United: FX I, II, III - \"thinking booster\", Digital Collage, 2008\"",
+      "title" : "Barking Dogs United: FX I, II, III - \"thinking booster\"",
       "title-short" : "BDU: thinking booster",
       "filename" : "bdu_thinking_booster_size_matterz_acc_2008.png",
       "copyright" : "Barking Dogs United, 2008",
