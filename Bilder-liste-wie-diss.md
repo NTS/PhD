@@ -346,12 +346,50 @@ Bibex!
 }
 
 
+{
+  "title-short" : "\"BDU: "Mental Core"\"",
+  "title" : "Barking Dogs United: FX I, II, III - "Mental Core", Digital Collage, 2008\"",
+  "filename" : "bdu_mental_core_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+{
+  "title-short" : "\"BDU: "Range-r"\"",
+  "title" : "Barking Dogs United: FX I, II, III - ""Range-r"", Digital Collage, 2008\"",
+  "filename" : "bdu_range-r_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+{
+  "title-short" : "\"BDU: "Reliability"\"",
+  "title" : "Barking Dogs United: FX I, II, III - ""Reliability"", Digital Collage, 2008\"",
+  "filename" : "bdu_reliability_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+{
+  "title-short" : "\"BDU: "thinking_booster"\"",
+  "title" : "Barking Dogs United: FX I, II, III - "thinking_booster", Digital Collage, 2008\"",
+  "filename" : "bdu_thinking_booster_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
 
 
-bdu_mental_core_size_matterz_acc_2008.png
-bdu_ranger-r_size_matterz_acc_2008.png
-bdu_reliability_size_matterz_acc_2008.png
-bdu_thinking_booster_size_matterz_acc_2008.png
+
+
+
 
 
 
