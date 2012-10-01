@@ -141,7 +141,6 @@ und vice versa. Ein Logo mutiert Buchstaben zu einem Bild. Mit bestehendem Desig
 Schon ein einziger Buchstabentausch kann manchmal die Bedeutung ändern, doch der Erkennungsgrad bleibt durch seinen kommunikativen Vermittlungsweg, 
 d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geringer Qualität noch sofort erkannt wird. 
 
-**Bild:** [„Viva La Resolution“]
 
 Mindestens seit den 1970er Jahren tragen wir Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit uns herum. Als ich 12 Jahre alt war, hieß es entweder *Adidas*, 
 *Levis* und *Lee* als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation 
@@ -150,6 +149,29 @@ Durch die wiederholte Erscheinung dieser mutierten Bilder, werden Meinungen im �
 das auch für 1000 Worte stehen kann. Dies ist eine sehr bekannte Strategie der Street- und Graffiti Art, aber auch der T-Shirt-Kultur. Es ist erstaunlich, 
 was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, oft mit kulturell-, sozial, aber auch politischer Aussage in die Öffentlichkeit getragen wird. 
 
+**Bild:**  [„Viva La Resolution“]
+
+{
+  "title-short" : "\"„Viva La Resolution“\"",
+  "title" : "Viva La Resolution“, Grafik\"",
+  "filename" : "viva_la_resolution2.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
+
+**Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom] 
+
+{
+  "title-short" : "\"Adam Romberg & Oliver Chanarin: „Art & Freedom“, Cairo, 2010\"",
+  "title" : "Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010\"",
+  "filename" : "art_and_freedom.jpeg",
+  "media-type" : "Grafik",
+  "copyright" : "Adam Romberg & Oliver Chanarin" ,
+  "source" : "Bidoun Magazin",
+  "source-url" : "http://www."
+}
 
 
 ### Kunst als Prophezeihung
@@ -225,9 +247,6 @@ einer der Drei „Zentralen“ ARD/ZDF, PRO7/SAT1 und RTL bestimmt wird. Thomas 
 der Glaube an die Kunst als ein besseres, umfassenderes Erkenntnismittel gegenüber der Wissenschaft.“ [@Raab:Avantgarde pp. ???]
 Kunst hat sich als Rohr zur Freisprache
 etabliert. Die Menschen versuchen sie als Strategien, Künstler, wie auch andere, nutzen sie als eine demokratische Plattform. 
-
-**Bild:** [Richard Hamilton: „Just what is it that makes today's homes so different, so appealing?“, 1956]
-
 
 *Dieses Kapitel entstand im Rahmen des Wissenschaftsmoduls „Medien – Theorie – Geschichte“ bei Prof. Dr. Hartmann im Rahmen des PhD Programms 2011*
 
@@ -317,7 +336,18 @@ Es wird alles besser.
 > -- Jeremy Deller
 >  (Künstler, Turner Price Gewinner 2006)]
 
-[^pic-deller]: **Bild:** [jeremy_deller_on_my_iphone]
+[^pic-deller]: **Bild:** [Jeremy Dellers Zitat] 
+
+
+{
+  "title-short" : "\"Jeremy Dellers Zitat„“\"",
+  "title" : "Jeremy Dellers Zitat als Screenshot\"",
+  "filename" : "viva_la_resolution2.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
 
 
 **Der Fall Pussy Riot**
@@ -340,7 +370,18 @@ Haaretz Zeitung am 20.08.2012. Aus dem Heb. übersetzt von NTS. \ <http://www.ha
 
 Auf Facebook ist nach dem Urteil folgender Zettel auf mehreren Webseiten geteilt worden:
 
-**Bild:** [Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung]
+**Bild:** [Zettel von Billy Bragg an Pussy Riot]
+
+{
+  "title-short" : "\"Zettel von Billy Bragg an Pussy Riot“\"",
+  "title" : "Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung\"",
+  "filename" : "pussy_riot_billy_bragg.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
+
 
 Der Theoretiker und Publizist [Slavoj Žižek schrieb über Pussy Riot](http://dangerousminds.net/comments/the_true_blasphemy_slavoj_zhizhek_on_pussy_riot):
 
@@ -361,18 +402,35 @@ Die Drosselung und Begrenzung der Meinungsfreiheit durch Kontrolle wird bekämpf
 
 
 Die *dOCUMENTA(13)* unter der künstlerischen Leitung von Carolyn Christov-Bakargiev unterstützte die Occupy Bewegung und duldete Zelte auf der Wiese des Friedrichsplatzes. Just zur Preview stand das erste Zelt direkt vor 
-dem Eingang zum Fridericianum, an der Schwelle zu den Kaffeeständern draußen.[^documenta] 
+dem Eingang zum Fridericianum, an der Schwelle zu den Kaffeeständern draußen.[^documenta] **Bilder:** [Meldung über die Occupy Zelte], [Facebook Meldung von Johanna Warm]
 
 [^documenta]: Ein Echo dieses Zeitgeistes ist noch in der Pressemitteilung nach der Schließung zu spüren: „dOCUMENTA(13)
 war für die Besucher keine Tagesveranstaltung. Die Ausstellung hat für die Besucher viel mehr eine Form von lebender Kultur repräsentiert, die zum Leben der Menschen gehört und in wiederholten Besuchen 
 erkundet wird, um dabei das Empfinden von Zeitdruck zu brechen, die Zeit und das Empfinden von Kunst befreien zu lassen.“ http://d13.documenta.de/de/#de/welcome/]
 
+ 
+{
+  "title-short" : "\"Occupy" Zelte auf dOCUMENTA (13)\"",
+  "title" : "Meldung über die Occupy Zelte auf dOCUMENTA (13)\"",
+  "filename" : "occupy_documenta1.png",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "Bildschirmfoto",
+  "source-url" : "http://www."
+}
 
-**Bild:** vom ersten Zelt NTS!
 
-**Bild:** [Meldung über die Occupy Zelte] 
 
-**Bild:** [Facebook Meldung von Johanna Warm in Bezug auf Schlafplatz in Kassel zum Documenta Besuch]
+
+{
+  "title-short" : "\"Facebook Meldung von Johanna Warm“\"",
+  "title" : "Facebook Meldung von Johanna Warm im Bezug auf Schlafplatz in Kassel zum documenta Besuch\"",
+  "filename" : "occupy_documenta_2_johanna_warm.png",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "www.facebook.com-johanna.warm. 2012-09-15 um 18.35.59 "
+}
 
    
 Auch bei der Rolle des Künstlers, der auf diese sozialen Phänomene verweist, vermischen sich Kreativität mit der Neigung zur Selbst-Ausbeutung. Wobei diese Neigung eher Künstlern als anderen zugeschrieben werden 

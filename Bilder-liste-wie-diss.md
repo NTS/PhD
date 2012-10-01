@@ -266,7 +266,7 @@ Bibex!
   "source-url" : "http://www."
 }
 
-36. **Bild:** []
+36. **Bild:** [Facebook Meldung von Johanna Warm]
 
 
 {
@@ -279,13 +279,119 @@ Bibex!
   "source-url" : "www.facebook.com-johanna.warm. 2012-09-15 um 18.35.59 "
 }
 
+37. **Bild:** [Justin Hansch: „Best friends painting]  
+{
+  "title-short" : "\"Justin Hansch: „Best friends painting“„“\"",
+  "title" : "Justin Hansch: „Best friends painting“, Oil on Canvas, 40x50 cm, 2010 Schalter Galerie, Berlin\"",
+  "filename" : "justin_hansch_best_friends_painting.jpg",
+  "media-type" : "Foto",
+  "copyright" : "cc nts, courtesy of Ryan Weber, Schalter Gallery, Berlin, " ,
+  "source" : "",
+  "source-url" : "http://www."
+}
+
+38.-47.**Bilder:** [Barking Dogs United: FX I, FX II, FX III, 2008]
+
+{
+  "title-short" : "\"BDU: "Bender Flip Size"\"",
+  "title" : "Barking Dogs United: FX I, II, III - "Bender Flip Size", Digital Collage, 2008\"",
+  "filename" : "bdu_bender_flip_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+
+{
+  "title-short" : "\"BDU: "Brain Equalizer"\"",
+  "title" : "Barking Dogs United: FX I, II, III - "Brain Equalizer", Digital Collage, 2008\"",
+  "filename" : "bdu_brain_equalizer_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+{
+  "title-short" : "\"BDU: "Creative Reverb"\"",
+  "title" : "Barking Dogs United: FX I, II, III - Creative Reverb, Digital Collage, 2008\"",
+  "filename" : "bdu_creative_reverb_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+
+{
+  "title-short" : "\"BDU: "Influence Modifier"\"",
+  "title" : "Barking Dogs United: FX I, II, III - "Influence Modifier", Digital Collage, 2008\"",
+  "filename" : "bdu_influence_modifier_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+
+{
+  "title-short" : "\"BDU: "Lust Station"\"",
+  "title" : "Barking Dogs United: FX I, II, III - "Lust Station", 2008\"",
+  "filename" : "bdu_lust_station_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+
+{
+  "title-short" : "\"BDU: "Mental Core"\"",
+  "title" : "Barking Dogs United: FX I, II, III - "Mental Core", Digital Collage, 2008\"",
+  "filename" : "bdu_mental_core_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+{
+  "title-short" : "\"BDU: "Range-r"\"",
+  "title" : "Barking Dogs United: FX I, II, III - ""Range-r"", Digital Collage, 2008\"",
+  "filename" : "bdu_range-r_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+{
+  "title-short" : "\"BDU: "Reliability"\"",
+  "title" : "Barking Dogs United: FX I, II, III - ""Reliability"", Digital Collage, 2008\"",
+  "filename" : "bdu_reliability_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
+
+{
+  "title-short" : "\"BDU: "thinking_booster"\"",
+  "title" : "Barking Dogs United: FX I, II, III - "thinking_booster", Digital Collage, 2008\"",
+  "filename" : "bdu_thinking_booster_size_matterz_acc_2008.png",
+  "media-type" : "Grafik",
+  "copyright" : "Barking Dogs United" ,
+  "source" : "BDU",
+  "source-url" : "http://www.barkingdogsunited.com/sm.html"
+}
 
 
 
 
 
-**Bild:** [Justin_Hansch_Happy_Artists.jpg]  (images/bild.jpg) [Justin Hansch: „Best friends painting“, 2010]
 
-**Bild:** [Barking Dogs United, FX I 2008]
-**Bild:** [Barking Dogs United, FX II 2008]
-**Bild:** [Barking Dogs United, FX III 2008]
+
+
+
+bijl_never_mind_the_politics.jpg
