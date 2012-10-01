@@ -513,8 +513,7 @@ Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform f
 [^exilemainstreet]: "Exile On Main Street": Album Titel, *The Rolling Stones*, 1972.
 
 
-    TODO: QUELLEN!
-	* Dieser Text ist als Essay für den KoCAinn Katalog von Daniela Brazil entstanden 
+_Dieser Text ist als Essay für den KoCAinn Katalog von Daniela Brazil entstanden 
 
 **Über die Schönheit einer zufälligen Straßengemeinschaft und Kunstnomaden im Internet**
 
@@ -592,7 +591,6 @@ Was hat eine solche aktive Teilnahme ermöglicht? War es die Einfachheit? Konnte
 Input? In meinen Augen war es der Künstler in einer *favela*-Situation, der den Unterschied ausmachte. Künstlerische Freiheit und der Wunsch, in der Öffentlichkeit privat zu 
 handeln, waren die Ziele und die *favela* wurde zum Werkzeug mit dem dies ermöglicht wurde. 
 
-    TODO: KoCAInn FOTO
 
 KOP: Für das sogenannten *Sommerloch* (um es in der Galeristensprache zu formulieren), haben wir eine andere Strategie benutzt. Wir schlossen als Galerie, 
 haben eine Pressemitteilung, die dies ankündigt verschickt und ließen den Kiosk von Hackern als Geisel nehmen. Der Kiosk diente als Demonstrationsobjekt. 
@@ -612,5 +610,5 @@ per Jury aus alle Fachkurs Mitglieder demokratisch gewählt worden. Die Firma *B
 *For A Better Life* zu diskutieren. In Anwesenheit des Künstlers und der Projektzuständigen sowie anderen Fachkursteilnehmern konnten wir den künstlerischen Einsatz verteidigen und 'durften' 
 die Installation bis zum ursprünglich geplanten Abbau und die Übergabe des Kiosks an die Nachfolger zum Ende des Semesters sowie als Abschluss der Ausstellungsreihe behalten. 
 
-     TODO: DNS FOTO
+  
 
