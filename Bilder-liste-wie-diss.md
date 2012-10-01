@@ -31,10 +31,7 @@
 
 13. **Bild:** [Mundspray, Dana Wyse, Verstehen Sie Moderne Kunst auf Anhieb, Objekt, 2004]
 
-
-
 14. **Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme]
-
 
 15. **Bild:** [What Artists Do, Pie Chart auf Mylife 600]
 
@@ -45,16 +42,78 @@
   "media-type" : "Grafik",
   "copyright" : "",
   "source" : "My Life 600 Website",
-  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
+  "source-url" : "http://"
 }
-**Bild:** [HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*]
-**Bild:** [*The Electrician* erklärt seiner Überlebensstrategie als Künstler] 
-**Bild:** [Benedikt Braun Arbeit, Arbeit, los!] (TODO)
-**Bild:** [Jeff Koons mit seinen Mitarbeitern]
-**Bild:** [Das Bauhaus Curriculum, 1922[^source-bauhaus_curriculum_1922]] TODO: bauhaus_curriculum_1922
-**Bild:** [Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual]
-**Bild:** [Thomas Hirschhorn: Seite mit Text]
+
+16. **Bild:** [HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*]
+
+17. **Bild:** [*The Electrician* erklärt seiner Überlebensstrategie als Künstler] 
+
+18. **Bild:** [Jeff Koons mit seinen Mitarbeitern]
+
+19. **Bild:** [Das Bauhaus Curriculum, 1922[^source-bauhaus_curriculum_1922]] TODO: bauhaus_curriculum_1922
+{
+  "title-short" : "\"Bauhaus Curriculum\"",
+  "title" : "Das Bauhaus Curriculum, 1922 \"",
+  "filename" : "bauhaus_curriculum_1922.gif",
+  "media-type" : "Grafik",
+  "copyright" : "Johannes Itten",
+  "source" : "My Life 600 Website",
+  "source-url" : "http://"
+}
+
+
+20. **Bild:** [Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual]
+
+
+
+{
+  "title-short" : "\"Hirschhorn Buchumschlag\"",
+  "title" : "Buchumschlag mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
+  "filename" : "thomas_hirschhorn_booksleeve.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "",
+  "source" : "bibtext!!!",
+  "source-url" : "http://"
+}
+
+
+**Bild:** [Hirschhorn: Seite aus dem Buch mit Text]
+
+
+{
+  "title-short" : "\"Seite mit Text\"",
+  "title" : "Seite aus dem Buch mit Text von Thomas Hirschhorn, The artist as public Intellectual \"",
+  "filename" : "thomas_hirschhorn_booksleeve.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "",
+  "source" : "bibtext!!!",
+  "source-url" : "http://"
+}
+
+
+
 **Bild:** [Thomas Hirschhorn: Mindmap]
+
+{
+  "title-short" : "\"Bauhaus Curriculum\"",
+  "title" : "Das Bauhaus Curriculum, 1922 \"",
+  "filename" : "thomas_hirschhorn_mindmap.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "Johannes Itten",
+  "source" : "My Life 600 Website",
+  "source-url" : "http://"
+}
+
+
+
+
+
+
+
+
+
+
 **Bild:** [Einladung BE-I]
 **Bild:** [Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim] TODO: http://www.galerie-eigenheim.de/?page_id=295)
 **Bild:** [Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010] TODO valenta_biz.jpg
