@@ -137,11 +137,19 @@
 }
 
 
+26. **Bild:** [Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010] 
+
+{
+  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
+  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
+  "filename" : "valenta_biz.jpg",
+  "media-type" : "Foto",
+  "copyright" : "cc nts" ,
+  "source" : "nts",
+  "source-url" : "http://www."
+}
 
 
-
-
-**Bild:** [Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010] TODO valenta_biz.jpg
 **Bild:** [Die Kunststipendiatin Minna XY aus XY, Kunstbetrieb Istanbuls als Mindmap] TODO: minnas_map_2006.jpg
 **Bild:** [Justin Hansch: „Best friends painting“, 2010]
 **Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis]
