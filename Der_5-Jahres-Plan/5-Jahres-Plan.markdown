@@ -20,7 +20,7 @@ Parameter des künstlerischen Felds kennenlernen.
 
 # Das Format Fachkurs
 
-Parallel zu den Projekten werden im Studiengang Freie Kunst auch Seminare, Workshops und Fachkurse angeboten. Den künstlerischen Mitarbeitern der Fakultät Gestaltung steht eine große Freiheit zugestanden, nach Absprache mit den jeweiligen Professoren pro Semester einen Fachkurs oder einen Workshop mit Inhalten 
+Parallel zu den Projekten werden im Studiengang Freie Kunst auch Seminare, Workshops und Fachkurse angeboten. Den künstlerischen Mitarbeitern der Fakultät Gestaltung wird eine große Freiheit zugestanden, nach Absprache mit den jeweiligen Professoren pro Semester einen Fachkurs oder einen Workshop mit Inhalten 
 ihrer Wahl anzubieten. In der Regel werden Fertigkeiten im Bereich Computerprogramme, Video und digitale Bildbearbeitung, oder Buchbinderei, um nur ein paar Beispiele zu nennen, angeboten. 
 Es war meine Aufgabe, das, was ich vermitteln möchte, an diese Formate anzupassen. 2007, beginnend mit meiner Stellenbesetzung, habe ich folgende 
 Fachkurse abgehalten, die alle um das Studium Freie Kunst und das professionelle künstlerische Umfeld kreisen. Zu jedem Vorlesungsverzeichniseintrag 
@@ -33,16 +33,16 @@ WS 2007/08
 
 In diesem Fachkurs wurden alle Facetten und Schritte einer Ausstellung, von der Idee bis zur Eröffnung bearbeitet worden. 
 Thematisiert und praktiziert sind: Kontakt zur Galerie; Finanzierung; Terminplan; Pressearbeit; Künstler-Assistenz; 
-Objektbau und Werkstatt; Ausstellungsaufbau und Eröffnung. All dies wurde durch die Begleitung einer kommenden Ausstellung 
+Objektbau und Werkstatt; Ausstellungsaufbau und Eröffnung. All' dies wurde durch die Begleitung einer kommenden Ausstellung 
 in der *ACC Galerie* Weimar, mit dem Galeristen Frank Motz, sowie dem Künstler Nikos Arvanitis realisiert.
 
 **Notizen**
 
 Von der Idee über den Plan und die Materialanschaffung, Kunstwerke zu erzeugen. Die Pressearbeit spielte eine Rolle. Der Ablauf der 
-Ausstellung und die Künstlerassistenz sind wichtig. Damit kann man 'üben' und lernen, eine Konfrontation mit Aufbau-Problematiken und sich diesen stellen.
-Praktisches Beispiel hierfür war das Künstler- Duo *Barking Dogs United* das eine große Solo Ausstellung in der *ACC Galerie* in Weimar zu 
+Ausstellung und die Künstlerassistenz sind wichtig. Damit kann man 'üben' und lernen, eine Konfrontation mit Aufbau-Problematiken erfahren und sich diesen stellen.
+Praktisches Beispiel hierfür war das Künstler Duo *Barking Dogs United* das eine große Solo Ausstellung in der *ACC Galerie* in Weimar zu 
 verwirklichen hatte. Darauf aufbauend, boten wir einen Fachkurs an. Sechs Studenten nahmen daran teil. Sie arbeiteten zu allen 
-Tätigkeitsfeldern und konnten auf Grund dieser Erfahrung probieren, ob eine künstlerische Assistenz ein geeigneter Künstlerberuf wäre. 
+Tätigkeitsfeldern und konnten auf Grund dieser Erfahrung probieren, ob eine künstlerische Assistenz ein für sie geeigneter Künstlerberuf wäre. 
 
 
 ## ‚Hebräisch für Anfänger‘ (Künstlerische Forschung I)
@@ -50,17 +50,16 @@ Tätigkeitsfeldern und konnten auf Grund dieser Erfahrung probieren, ob eine kü
 SS 2008
 
 In diesem Fachkurs wurden alle Methoden einer künstlerischen Forschung, hinsichtlich des Reisens, von der ersten Entscheidung 
-über das Thema bis zur Vorstellung von Resultaten, untersucht werden. Thematisiert werden: Vorurteile, Kunsttourismus, 
+über das Thema bis zur Vorstellung von Resultaten, untersucht. Thematisiert werden: Vorurteile, Kunsttourismus, 
 Exotik und Dilettantismus, Reiseberichte aus der Literatur und Einflüsse aus der Philosophie und der Wissenschaft. 
 Dies geschieht als Vorbereitung zur Israel-Exkursion.
 
 **Notizen**
 
 In diesem Fachkurs ging es im Rahmen des Projektes um eine Reise nach Israel und in dem Zusammenhang um künstlerische Recherche.
-Zunächst ging es um die Erkennung was eine Materialsammlung bedeutet, was als künstlerische Recherche gelten kann und welche Methoden 
-es zu Materialsortierung gibt. Was ist ein Notizbuch, wie einen Überblick mittels der Herstellung von *Mind maps* schaffen 
-und die gelingt die Übersetzung des gesammelten Materials zur Präsentation, bzw. die Wandlung dessen zu einem Kunstwerk im Stil von *Realtional Art* 
-
+Zunächst ging es darum zu erkennen was eine Materialsammlung bedeutet, was als künstlerische Recherche gelten kann und welche Methoden 
+es zu Materialsortierung gibt. Was ist ein Notizbuch, wie kann mann sich einen Überblick mittels der Herstellung von *Mind maps* schaffen 
+und wie gelingt die Übersetzung des gesammelten Materials zur Präsentation, bzw. die Wandlung dessen zu einem Kunstwerk.
 
 ## ‚K3 - wenn Künstler Kunst kuratieren‘ (1-3)[^fachkurse-vlv]
 
@@ -81,7 +80,7 @@ und Übergabe.
 **Notizen**
 
 Als Leitmotiv für die anstehende Ausstellungsserie wurde von der Gruppe KISOK09 das Thema Aneignung gewählt. Mit diesem Thema als Ausgangspunkt – Künstler 
-interagieren mit anderen Künstlern – bestand das Anliegen der Ausstellungsserie drin, sich mit dem gegenwärtigen Phänomen der *mutual reference*, der Wiederverwendung und Anpassung 
+interagieren mit anderen Künstlern – bestand das Anliegen der Ausstellungsserie da, sich mit dem gegenwärtigen Phänomen der *mutual reference*, der Wiederverwendung und Anpassung 
 von Kunst zu beschäftigen. In unserem digitalen Zeitalter sind wir mit einer quantitativen und qualitativen Fülle sowie der schnellen Entstehung und Verbreitung von 
 Aneignungs-Kunstprojekten konfrontiert. Besonders prägend ist das Phänomen, dass Künstler an das geistige Eigentum anderer Künstler und lokaler Kunstinstitutionen 
 anknüpfen. Zum Beispiel: Weimarer Nationaltheater mit Benedikt Brauns *Deutscher National Kiosk*, Galerie Eigenheim mit Anke Hannemanns *Eigenkiosk*, an die Stadtwerke Weimar 
@@ -89,9 +88,9 @@ mit Anna Giersters *StadtwerksKiosk* und an internationale Institutionen wie dem
 Logos der Institutionen, der Einladungskarten und Websites. Dieses Konzept bedeutete eine große Herausforderung für uns, für den Kiosk und für seine Besucher. 
 Der Kiosk am Sophienstiftsplatz hat sich in Weimar bereits einen Namen gemacht und ist seit 2001 Bezugspunkt für Künstler wie für die Universität.  
 
-Weimars "Kunstmeile", die Heinrich Heine Straße, besteht nun aus dem Neuen Museum, den Galerien marke.6 und Eigenheim, der Fotothek, der Kunsthalle Harry Graf Kessler und dem Kiosk. 
+Weimars "Kunstmeile", die Heinrich-Heine-Straße, besteht nun aus dem Neuen Museum, den Galerien marke.6 und Eigenheim, der Fotothek, der Kunsthalle Harry Graf Kessler und dem Kiosk. 
 Seit April 2009 wurde der Kiosk, der zuvor den Namen KoCA (Kiosk of Contemporary Art) trug, unter diesem Konzept geführt. So verlangte jede Ausstellung nach einem neuen Schild, 
-einer neuen Website und einer neuen *Corporate Identity*, die sich an den Ideen der ausstellenden Künstler orientierte. Die Jury des KIOSK09 bestand aus den Teilnehmer 
+einer neuen Website und einer neuen *Corporate Identity*, die sich an den Ideen der ausstellenden Künstler orientierte. Die Jury des KIOSK09 bestand aus den Teilnehmern 
 des Fachkurses. Die Ausschreibung wurde an ausgewählte Alumni geschickt, von denen schließlich das 
 KIOSK09 Kuratorium eine Auswahl für die Ausstellungen traf. 
 
@@ -114,14 +113,14 @@ Ich habe das Thema Kuratieren gewählt, weil es vielfältig ist. Es beinhaltet e
 und verlangt Kooperation. Es ging um viele verschiedene Facetten von der Arbeit an einem bestimmte und eigenen Ort, nicht nur um das Kuratieren.
 Ich habe die Anzahl der teilnehmenden Studenten auf 15 beschränkt, damit einerseits nicht alles zu sehr ausufert und die Verantwortungsfelder 
 sowie Aufgaben ernst genommen werden. Manche von den Teilnehmern haben alle drei Fachkurse in den Folgesemestern belegt, was für sie eine sehr 
-lange und harte, dafür aber umfassende Erfahrung versprach. Ziel war es, nicht nur für sich zu klären, ob diese Sorte Beschäftigung zu Einem passt, sondern auch um die 
-Vermittlung des Gefühls, wie es ist, wenn man die Verantwortung trägt und es keine Semesterferien i eigentlichen Sinne gibt. Für diesen Zeitraum ‚Vorlesungsfreie Zeit‘ 
-genannt, mussten die mitwirkenden Studenten-Kuratoren zuversichten, dass sie auch in dieser Zeit zur Verfügung stehen würden. Grundregel Nr.1 war: Alle Entscheidungen 
+lange und harte, dafür aber umfassende Erfahrung versprach. Ziel war es, nicht nur für sich zu klären, ob diese Sorte Beschäftigung zu einem passt, sondern auch um die 
+Vermittlung des Gefühls, wie es ist, wenn man die Verantwortung trägt und es keine Semesterferien im eigentlichen Sinne gibt. Für diesen Zeitraum ‚Vorlesungsfreie Zeit‘ 
+genannt, mussten die mitwirkenden Studenten-Kuratoren sichern, dass sie auch in dieser Zeit zur Verfügung stehen würden. Grundregel Nr.1 war: alle Entscheidungen 
 werden demokratisch und per Abstimmung festgelegt. Es betraf auch mich und das war manchmal schwierig, denn ich musste lernen, mich auf Entscheidungen anderer 
 und ihre Ausführungen zu verlassen. 
 
-Um den Überblick nicht zu verlieren, haben wir über das Treffen ein mal die Woche auch eine Internet Plattform, genannt *Base camp* [Link](http://basecamp.com/) als öffentlichen Treffpunkt benutzt. 
-Alle Leute erhielten auf diese Weise ihre Aufgaben und waren immer aktuell informiert. Wir entschieden uns des weiteren, im Rahmen 
+Um den Überblick nicht zu verlieren, haben wir über das Treffen einmal die Woche auch eine Internet Plattform, genannt *Base camp* [Link](http://basecamp.com/) als öffentlichen Treffpunkt benutzt. 
+Alle Teilnehmer erhielten auf diese Weise ihre Aufgaben und waren immer aktuell informiert. Wir entschieden uns des weiteren, im Rahmen 
 des ‚90 Jahre - Bauhaus‘ Jubiläums, Alumni der Bauhaus-Universität zum Thema Aneignung in acht aufeinander folgenden Ausstellungen zu präsentieren. 
 Wir machten uns sofort an die PR-Arbeit. Das ist ein wichtiger Fakt, denn es ging um eine Reihe von acht Ausstellungen, welche regelmäßig 
 fast alle sechs Wochen wechselten. Die Studenten mussten sich jetzt mit Eröffnung, Aufbau, Abbau sowie der Künstlerbetreuung beschäftigen. 
@@ -132,21 +131,21 @@ Wir mussten ebenfalls in kürzester Zeit die Aufmerksamkeit in der Stadt Weimar 
 
 Es handelte sich insgesamt um drei Semester und zwei vorlesungsfreie Zeiten, also, semesterübergreifende Arbeit. Auf freiwilliger Basis konnte jeder 
 Teilnehmer auch Projektleiter für eine der Ausstellungen werden. Ich stand ständig im Hintergrund in Bereitschaft, um dringende Probleme, die 
-die dann auch natürlich auch auftraten, zu lösen. Der jeweilige Projektleiter trug die volle Verantwortung. Es gab den Anreiz, sowohl meinerseits als auch 
+die dann natürlich auch auftraten, zu lösen. Der jeweilige Projektleiter trug die volle Verantwortung. Es gab den Anreiz, sowohl meinerseits als auch 
 in der Gruppe, das Niveau hoch zu halten. Es muss professionelle Kunst gemacht werden und nicht nur nach Kunst aussehen. 
 Das Wort Nachhaltigkeit wurde ganz groß geschrieben. Jeder konnte auswählen, im welchem Bereich er arbeiten will und dies wurde auch von Semester zu Semester 
 gewechselt. Da wir das Thema Aneignung bearbeiteten, wurde die Neubenennung des Ortes pro Ausstellung ein Teil des Konzepts, was bedeutete, 
 für jede Ausstellung einen neuen Namen und ein neues Schild zu entwerfen und es zu installieren. In unserer ersten Ausstellung haben wir uns auf das Deutsche 
-Nationaltheater Weimar bezogen und auch das Logo übernommen. Jedes Mal, wenn man auf die Website des Kiosks klickte, kam ein Interface vom originalen Ort, mit unsere Inhalte.
-Wir machten Kunst im öffentlichen Raum und praktische Erfahrungen in Sachen Sponsoring und Genehmigungen bei der Stadt und den Behörden konnten auch gesammelt werden. 
-Für jede Ausstellung wurde eine Pressemitteilung von einem Student verfasst. Wir sind ins System re hinein geschlüpft. 
+Nationaltheater Weimar bezogen und auch das Logo übernommen. Jedes Mal, wenn man auf die Website des Kiosks klickte, kam ein Interface vom originalen Ort, mit unseren Inhalten.
+Wir machten Kunst im öffentlichen Raum und praktische Erfahrungen in Sachen Sponsoring. Genehmigungen bei der Stadt und den Behörden konnten auch gesammelt werden. 
+Für jede Ausstellung wurde eine Pressemitteilung von einem Student verfasst. Wir sind ins System hinein geschlüpft. 
 Zum Abschluss stand der Finanzbericht. Diesen bearbeitete ich zusammen mit zwei Studenten, welche das Verfahren jetzt gut beherrschen. 
 
-Wichtig noch zu erwähnen ist die Tatsache, das die eingeladenen Künstler sich mit unserem Konzept erst einmal anfreunden mussten. In dem Sinne, dass sie die 
+Wichtig zu erwähnen ist noch die Tatsache, dass die eingeladenen Künstler sich mit unserem Konzept erst einmal anfreunden mussten. In dem Sinne, dass sie die 
 Wahl hatten, aus dem *Kioskkonferenz* Bogen sich eine Institution zur Aneignung, die vom Konzept her zum Inhalt ihre Ausstellung passen würde, herauszusuchen. 
 Manche haben sich der Liste bedient, aber manche sind mit eigenen Vorschläge zu uns gekommen. In der vierten Ausstellung mit der Künstlerin Anna Gierster, kam es zu einigen 
 Missverständnissen, die schlussendlich in einer offiziellen Pressekonferenz geklärt werden mussten: Gierster hatte den Kiosk zu einer Außenstelle bzw. Filiale der Weimar 
-Stadtwerke (Energieversorgung) umfunktioniert. Eine Woche später kam ein Anruf, wir sollen alles abbauen, den es würden sich Kunden melden und bemängeln, dass es keine Öffnungszeiten gibt 
+Stadtwerke (Energieversorgung) umfunktioniert. Eine Woche später kam ein Anruf, wir sollen alles abbauen, denn es würden sich Kunden melden und bemängeln, dass es keine Öffnungszeiten gebe 
 für die KioskWerke. Nach Kontaktaufnahme des Projektleiters Lucian Patermann, haben wir dann einen Termin mit den Zuständigen festgelegt. 
 Da die Einladung wie ein Pamphlet der *StadtWerke* aussah, war dieses Missverständnis nachvollziehbar. Als Resultat wurde eine Pressekonferenz 
 zur Aufklärung der Verwechselung einberufen. Mitten auf der Straße wurden Tische, Stühle, Mikrofone, Kameras, und offizielle Namensschilder 
@@ -155,9 +154,9 @@ die auch von verschiedenen Medienvertretern aufgenommen wurde. Als Kompromiss si
 keine Stelle der StadtWerke benennt. Wir haben uns für Timm Ulrichs Aufkleber ‚Vorsicht Kunst!‘ entschieden und es wurde akzeptiert.
 
 Als nächstes bauten wir das *KoCAInn*, ein umfangreiches Ereignis, von dem der Kiosk ein Teil war und was für das Kiosk-Team eine zusätzliche Herausforderung bedeutete, 
-nämlich die der Kooperation von zwei Künstlergruppen. Besonders Positiv hervorheben möchte ich in diesem Fall die Stadt Weimar, die in den Genehmigungsvorgängen immer 
+nämlich die der Kooperation von zwei Künstlergruppen. Besonders positiv hervorheben möchte ich in diesem Fall die Stadt Weimar, die in den Genehmigungsvorgängen immer 
 freundlich und großzügig mit uns umgegangen ist. Das 14-tägige Ereignis war so überwältigend in seinen Erfahrungen, dass ich darüber einen separaten Text geschrieben habe, 
-der auch einer der Grundsteine diese Dissertation für mich bedeutet*.
+der auch einen der Grundsteine dieser Dissertation für mich bedeutet*.
 
 
 **Bild:** [KoCAinn Entwurf auf Tisch]
@@ -173,15 +172,14 @@ der auch einer der Grundsteine diese Dissertation für mich bedeutet*.
 }
 
 
-## ‚The Game‘ * (Die Kunstmarkt Aktuere )
+## ‚The Game‘ * (Die Kunstmarkt Akteure )
 
-* Original vollständigem Fachkurs Titel: ‚The names may change, but the game stays the same‘
-SS 2010
+Der vollständigerFachkurs Titel lautet: ‚The names may change, but the game stays the same‘ SS 2010
 
 "Seit Mitte der Neunziger erlebt die zeitgenössische Kunst einen beispiellosen Boom. Von allem gibt es mehr: mehr Künstler, 
 mehr Sammler, mehr Galerien, mehr Kunstmessen, mehr Museen, mehr Biennalen, mehr Interessierte, mehr Pop, mehr Hype. 
 Wie kann man da noch die Übersicht behalten? Wie kann man gute von schlechter Kunst unterscheiden? Welche Künstler und welche 
-Werke sind entscheidend zu Beginn des 21. Jahrhunderts und warum?"‚(Jörg Heiser,*Plötzlich diese Übersicht*, Klappentext).
+Werke sind entscheidend zu Beginn des 21. Jahrhunderts und warum?"‚(Jörg Heiser, *Plötzlich diese Übersicht*, Klappentext).
 Über dieses Thema werden Dokumentationen gedreht, wird in Feuilletons und Blogs geschrieben und eifrig diskutiert. 
 Künstler äußern sich im Dialog in der Metaebene und dies wird in den Kunstwerken reflektiert. In der Werkzeugkiste des 
 Künstlers darf es an Argumenten / Gegenargumenten nicht fehlen. Im Fachkurs werden in einer Materialschlacht aktuelle Positionen 
@@ -190,7 +188,7 @@ im Kunstmarkt sowie Kunstkritik im Netz, Kunstmagazine und Dokumentar-Filme unte
 **Notizen**
   
 Ich war auf den Geschmack gekommen. Es gab großes Interesse an dem Thema und die Teilnehmerzahl (25 Eingeschriebene) war erheblich gestiegen. 
-Kurz hieß es *The Game*, und es ging intensiv um alle Kunstmarktaktuere, wie Sammler, Käufer, Galeristen, Kritiker. Um Institutionen: Museen,
+Kurz hieß es *The Game*, und die Veranstaltung ging intensiv um alle Kunstmarktaktuere, wie Sammler, Käufer, Galeristen, Kritiker. Um Institutionen: Museen,
 Galerien, den öffentlichen Raum, aber auch Kunstvereine und Plattformen wie Messen, Biennalen, Auktionshäuser. Wir haben viele Publikationen und Filme 
 über die Kunstwelt gesehen. Jeder musste sich dazu positionieren und ein eigenes Statement verfassen. Zusätzlich wurde viel über die Beziehungen 
 zwischen Akademie und Kunstmarkt diskutiert. 
@@ -216,12 +214,12 @@ Blog: www.kochenmitwasser.tk
 
 **Notizen**
 
-Ich bin der Meinung, die anderen auch nur mit Wasser in der eigenen Präsentation kochen. Es ging nicht um das Was, sondern um das Wie, 
+Ich bin der Meinung, dass die anderen auch nur mit Wasser in der eigenen Präsentation kochen. Es ging nicht um das Was, sondern um das Wie, 
 um Mappe, Website, eigene PR und Rhetorik. Man musste sich selbst vorstellen und es ging um Marketing, Internetpräsenz, Bewerbungen usw. 
 Alles wurde innerhalb des Fachkurses bearbeitet. Dazu beschäftigten wir uns auch noch mit dem Bild des Künstlers in den Medien, in Fernsehserien 
 und Filmen. Wir saßen da und sahen uns Filme und Serien an, z.B. *Six Feet Under*, in welchem Claire Fisher eine Kunststudentin spielt. Alle diese 
-Positionen, auch aus den Medien, haben wir nochmals in Bezug auf uns reflektiert und diskutiert, wie wir dazu stehen. Hier waren es fast 50 
-Studenten im Fachkurs, was für die Rundgänge etwas längere Zeit bedeutete und etwas weniger persönlichen Kontakt, im Verhältnis zu anderen Fachkursen.
+Positionen, auch aus den Medien, haben wir nochmals in Bezug auf uns reflektiert und diskutiert, wie wir dazu stehen. Bei diesem Fachkurs nahmen fast 50 
+Studenten teil, was für die Rundgänge etwas längere Zeit bedeutete und etwas weniger persönlichen Kontakt, im Verhältnis zu anderen Fachkursen.
 
 
 ## ‚Miller's Crossing‘ (Kooperation)
@@ -235,9 +233,9 @@ Video- oder Audioschnipsel, per *Skype*, *Facebook*, *iVersity*, *basecamp* oder
 den kulturellen oder ästhetischen Unterschieden und wie können diese überschritten oder übergangen werden.
 
 Dieser Fachkurs ist ebenso ein kollaborativer Versuch, ein Experiment zwischen Studierenden der University of Florida, USA (zusammen mit dem 
-Performance / Medienkünstler und Hochschulmitarbeiter Sean Miller) und der Bauhaus-Universität Weimar. Die Studierende können sich an einer 
+Performance / Medienkünstler und Hochschulmitarbeiter Sean Miller) und der Bauhaus-Universität Weimar. Die Studierenden können sich an einer 
 kollaborativen Arbeit versuchen, ihre eigenen möglichen Formen kollaborativer Strategien erforschen und einen Einblick in Projekte gewinnen,
-die gleichzeitig und zusammen an unterschiedlichen Universitäten, in verschiedenen Städten,r ealisiert werden. Eingeladene Gäste werden über 
+die gleichzeitig und zusammen an unterschiedlichen Universitäten, in verschiedenen Städten,realisiert werden. Eingeladene Gäste werden über 
 ihre eigenen aufgebauten Netzwerke, erfolgreich geführte kollaborativen Projekte und Formen der Kommunikation und des Austausches via Internet, referieren. 
 
 **Notizen**
@@ -246,7 +244,7 @@ Im diesem Fachkurs ging es um das Kooperieren allgemein und um Kollaboration in 
 *Kunst im öffentlichen Raum und neue künstlerische Strategien* nahmen über 30 Studenten an dem Fachkurs teil. Es ging darum, welche Beispiele, 
 Regeln und Wege man für die Zusammenarbeit nutzt, einschließlich des Internets. Wir hörten Vorträge von Fachleuten 
 zu den Themen Egokontrolle, Produzentengalerien, internationale Plattformen, das Internet als Kollaborativer Plattform etc. Texte wurden analysiert,
-mit abschließendem Reader. 
+und ein abschließendems Reader wurde erstellt. 
 
    
 
@@ -255,7 +253,7 @@ mit abschließendem Reader.
 WS 2012/13 (Mit Dipl.-Künstl. Anke Hannemann)
 
 Was ist Kunstkritik? Wer schreibt sie? Kann ich es auch?
-Im Fachkurs werden die Werkzeuge und das Vokabular sowie Geschichte zur Kunstkritik untersucht und erprobt. Eine Verschärfung 
+Im Fachkurs werden die Werkzeuge und das Vokabular sowie die Geschichte der Kunstkritik untersucht und erprobt. Eine Verschärfung 
 des kritischen Blicks auf die Kunst anderer soll geübt, der Dialog und die rhetorische Auseinandersetzung mit Niedergeschriebenen 
 diskutiert werden. Die Kultur von Ausstellungseröffnungen wird dabei auch untersucht: Wie bewegt man sich innerhalb dieses 
 Kunst-Biotops? Wie entstehen Kontakte während Eröffnungen, wie gehe ich mit *Small Talk* um, oder wie lasse ich mich auf ihn ein? 
@@ -266,7 +264,7 @@ Meinungsbildung bis zur eloquenten Kunstmagazin-Kritik werden wir uns mit den n�
 **Notizen**
   
 Gezeigt wird der Künstler, wie er sich in der Kunstwelt bewegt. Es geht um den Umgang mit der Ausstellungseröffnung als Ereignis und Umgang mit Kritik.
-Man fragt sich: ‚Muss man da hin? Warum? Wie benimmt man sich? Wie schreibt man Kritiken? Wie reflektiere und beurteile ich künstlerische Aussagen andere? 
+Man fragt sich: ‚Muss man da hin? Warum? Wie benimmt man sich? Wie schreibt man Kritiken? Wie reflektiere und beurteile ich künstlerische Aussagen anderer? 
 Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von außen zu betrachten. 
 
 
@@ -287,19 +285,20 @@ Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von au�
    
 
 + **Teil I: Übernahme (WS 08-09)**
-    - Geschichte des Kiosks wird bearbeitet reflektiert und präsentiert  
+    - DieGeschichte des Kiosks wird bearbeitet reflektiert und präsentiert  
     - Mit folgenden Gästen:
         * Ronald Hirte zur DDR Geschichte des Kiosk
         * Katharina Tietze und Katharina Hohmann (Initiatoren)
         * Leonie Weber und Felix Ruffert (jetzige Kuratoren)
         * Ryan Weber (Schalter Galerie Berlin)
-    - Konzept, Ortsname, Call for entries, Jury
+    - Konzept, Ortsname, Call for Entries, Jury
 	
 
 + **Teil II: Instandhaltung (SoSe 09 und Eröffnung des Bauhaus 09 Jahr)**
     - Künstlerbetreuung
-    - Ausstellungen auf- und Abbau in 4-6 Wochen Takt
+    - Ausstellungen Auf- und Abbau in 4-6 Wochen Takt
     - PR Arbeit und Hausmeisterei
+	
 
 + **Teil III: Weiterpflege (WS 09-10)**
     - Dritte Ausstellungsphase: Umbau bei laufendem Betrieb
@@ -311,16 +310,16 @@ Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von au�
 
 # Der KIOSK09 Fragebogen
 
-Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben ich das Model Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt zu
-administrative Information zu bekommen, und daneben Neigungen und Interessen für das Projekt und seine Inhalte zu spüren. Im gemischter Form (Amerikanisch und 
-"Warum? Fragen mit Platz für Antwort"), fragen wir, manchmal auf humoristische Weise, nach Fakten, die so stringent in einem Gespräch nicht zu sammeln wären.
+Seit Anfang meiner Arbeit bei Prof. Norbert Hinterberger, haben ich einen Modell Fragebogen für die *Projektbörse* Woche eingeführt. Das Format lässt es zu
+administrative Informationen zu bekommen, und daneben Neigungen und Interessen für das Projekt und seine Inhalte zu spüren. Im gemischter Form (Amerikanisch und 
+"Warum Fragen mit Platz für Antwort"), fragen wir, manchmal auf humoristische Weise, nach Fakten, die so stringent in einem Gespräch nicht zu sammeln wären.
 
-Dies habe ich auch zum Abschluss alle Kiosk bezogene Fachkurse eingeführt.
+Dies habe ich auch zum Abschluss allen Kiosk bezogenen Fachkurse eingeführt.
 
-Die Bewertung der Fragebögen lässt sich aus der Tabelle sehr gut lesen und kann manches über den Zusammenhang von Studium und Beruf, 
+Die Bewertung der Fragebögen lässt sich aus der Tabelle sehr gut einlesen und kann manches über den Zusammenhang von Studium und Beruf, 
 für die junge Generation aus ihrer Sicht erläutern. Jeder versucht für sich zu entscheiden, welche Motivation ihn zum Arbeiten treibt. 
 Im Mittelpunkt aller drei Fachkurse steht das Wissen um den Kunstbetrieb. Jeder Teilnehmende 
-stellt sich die Frage nach der Teilnahme, ob er das Wissen braucht, ob er Information benötigt, um im Kunstbetrieb zu funktionieren.
+stellt sich die Frage nach an den Teilnahme, ob er das Wissen braucht, ob er Information benötigt, um im Kunstbetrieb zu funktionieren.
 
 
 
