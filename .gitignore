@@ -1,5 +1,5 @@
 .DS_Store
-*.generated.*
+*generated.*
 *.pdf
 *.epub
 *.log
