@@ -124,16 +124,16 @@
 24. **Bild:** [Einladung BE-I]
 
 
-25. **Bild:** [Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim] TODO: http://www.galerie-eigenheim.de/?page_id=295)
+25. **Bild:** [Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim]  
 
 {
   "title-short" : "\"Bene Braun Super Arm\"",
   "title" : "Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim \"",
   "filename" : "benedikt_braun_super_arm.png",
   "media-type" : "Grafik",
-  "copyright" : "Sebastian Helm",
+  "copyright" : "Benedikt Braun, Galerie Eigenheim" ,
   "source" : "Eigenheim Galerie Website",
-  "source-url" : "http://www.es-lebe-die-galerie.de 2012-09-19 um 17.42.45"
+  "source-url" : "http://www.galerie-eigenheim.de/?page_id=295) 2012-09-19 um 17.42.45"
 }
 
 
