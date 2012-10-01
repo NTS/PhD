@@ -59,7 +59,7 @@ Was für die Künstler gilt, gilt auch für die Institutionen. Es gibt immer meh
 bijl_never_mind_the_politics.jpg
 
 {
-  "title-short" : "\"Marc Bijl, Neve Mind The Politics, \"",
+  "title-short" : "\"Marc Bijl, Neve Mind The Politics\"",
   "title" : "Marc Bijl (NL), "Never Mind the Politics"", Poster2005, \"",
   "filename" : "bijl_never_mind_the_politics.jpg",
   "media-type" : "Grafik",
@@ -70,13 +70,13 @@ bijl_never_mind_the_politics.jpg
 }
 
 
-fuck_the_curator_kunstzeitung.png
-http://datenform.de/blog/oh-its-a-curator/
+
+
 
 {
   "title-short" : "\"Betreten der Ausstellung Verboten\"",
   "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
-  "filename" : "ulrichs_betreten_verboten.jpg",
+  "filename" : "http://datenform.de/blog/oh-its-a-curator/",
   "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
   "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
   "source" : "Sprengel Museum Hannover",
