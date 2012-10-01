@@ -1,5 +1,46 @@
 # Quellen
 
+## Weiterführende Literatur
+
+
+Nicht zitierte, aber relevante Medien:
+
+- @Broeckling:Gegenwart
+- @Fergusion:Discourses
+- @Gehlen:Mashup
+- @Henckmann:Lexikon
+- @Johnson:Good
+- @Lanier:Gadget
+- @Luhan:Understanding
+- @Sennett:Verfall
+- @Tomasello:Urspruenge
+- @Hartmann:Ideologie
+- @Hirschhorn
+- @Carey:What
+- @bachmann:Turns
+- @Battcock:NewArt
+- @bachmann:Cultural
+- @Derrida:Cosmopolitanism
+- @Dresdner:Kunstkritik
+- @Flusser:Freiheit
+- @Freeland:Art
+- @Hannula:Artistic
+- @Hannula:Politics
+- @Hannula:Rock
+- @Heiser:Ploetzlich
+- @Hoffmann:Kultur
+- @Hohmann:Pleasant
+- @Maetamm:Became
+- @Maetamm:Loser
+- @Maar:IconicTurn
+- @raphael:arbeiter
+- @Erhardt:Social
+- @Schroer:Resume
+- @Ullrich:Tiefer
+- @Ventura:Politisch
+- @Weintraub:Making
+- @Zizek:Liebe
+
 ## Links 
 
 - <http://www.text-raum.de/kultur_museen_wissenschaft_openmuseum/kunst-ist-kommunikation-museen-und-web-20>
@@ -42,11 +83,6 @@
   - <http://lpdt2.wordpress.com/lpdt1/>
   - <http://www.netzaesthetik.de/LIER_Web/material.swf>
   - <http://www.asomatic.net/classes/readings/IsThereLoveTelematic_Ascott.pdf>
-
-
-## Bildnachweis / Image Credits
-
-- TODO
   
   
 ## Bibliographie
