@@ -52,5 +52,6 @@ Diese Dissertation enthält Kapitel und Texte die während der Recherche in ande
 - BIBTEX Bibliographiemanagement
 - Bibliographie nach `DIN 1505-2`
 - [punch](https://github.com/laktek/punch), [JSON](http://json.org), [handlebars](http://handlebarsjs.com)
+- [papermill](https://github.com/eins78/papermill), [git-o-mat](https://github.com/eins78/git-o-mat)
 - client-side hardware and operating system from [Apple](http://apple.com)
 - [TextMate2](http://macromates.com)
