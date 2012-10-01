@@ -87,6 +87,7 @@
       "source-url" : "http://www.ephemera-inc.com/Shop-By-Product-Type/Pinback-Buttons/Other-/-Random-Pinback-Buttons/Your-15-minutes-are-up.-Warhol-Pinback-Button-0584b.html"
     },
     {
+      "title-short" : "\"The Electrician\"",
       "title" : "\"The Electrician\" erklärt seine Überlebensstrategie als Künstler",
       "filename" : "willem_dafoe_basquiat.png",
       "media-type" : "eigener Still ",
@@ -127,8 +128,8 @@
       "source-url" : null
     },
     {
-      "title" : "Barking Dogs United: \"Bender Flip Size\"",
       "title-short" : "BDU: \"Bender Flip Size\"",
+      "title" : "Barking Dogs United: \"Bender Flip Size\"",
       "filename" : "bdu_bender_flip_size_matterz_acc_2008.png",
       "media-type" : " aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008\n",
@@ -136,8 +137,8 @@
       "source-url" : null
     },
     {
-      "title" : "Barking Dogs United: \"Brain Equalizer\"",
       "title-short" : "BDU: \"Brain Equalizer\"",
+      "title" : "Barking Dogs United: \"Brain Equalizer\"",
       "filename" : "bdu_brain_equalizer_size_matterz_acc_2008.png",
       "media-type" : " aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
@@ -145,8 +146,8 @@
       "source-url" : null
     },
     {
-      "title" : "Barking Dogs United: \"Creative Reverb\" ",
       "title-short" : "BDU: \"Creative Reverb\" ",
+      "title" : "Barking Dogs United: \"Creative Reverb\" ",
       "filename" : "bdu_creative_reverb_size_matterz_acc_2008.png",
       "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
@@ -208,8 +209,8 @@
       "source-url" : null
     },
     {
-      "title" : "Vuk Vidor: \"Art history (part one - version C)\"",
       "title-short" : "Vuk Vidor: \"Art history\"",
+      "title" : "Vuk Vidor: \"Art history (part one - version C)\"",
       "filename" : "vuk_vidor_art_history.jpg",
       "media-type" : "Silkscreen",
       "copyright" : "Vuk Vidor, 2004-2009",
@@ -219,9 +220,9 @@
     {
       "title" : "\"Contemporary Artist\"",
       "filename" : "garnet_hertz_contemporary_artist_fb_meme.jpg",
-      "media-type" : " 2012 Face Book Meme",
-      "copyright" : "Garnet Hertz",
-      "source" : "facebook: Garnet Hertz Fotos",
+      "media-type" : "Grafik, Internet-Meme",
+      "copyright" : "Garnet Hertz, 2012",
+      "source" : "facebook: \"Garnet Hertz Fotos\"",
       "source-url" : "https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater"
     },
     {
