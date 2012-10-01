@@ -101,19 +101,58 @@ die sich schnell über das Internet verbreitet.
 Das Verhalten des Polizisten John Pike während eines Protests an der UC Davis in Kalifornien wurde zwar ursprünglich von Journalisten ausreichend bebildert, 
 die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension, nachdem Remixe aus dem Netz ihn einmal quer durch die Kunstgeschichte *mashten*. 
 
-TODO:
+<<<<<<< Local Changes
 
-**Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis]
+**Bilder John (The_Pepperspray_cop) Pike Meme:** [Police lieutenant John Pike pepper sprays students at UC Davis]
+27. **Bild:** [John Pike pepper sprays students]
+{
+  "title-short" : "\"John Pike pepper sprays students\"",
+  "title" : "Police lieutenant John Pike pepper sprays students at UC Davis 2012 \"",
+  "filename" : "police-officer-pepper-spr-007.jpeg",
+  "media-type" : "Foto",
+  "copyright" : "" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
 
-**Bild:** [Sunday Afternoon]
+28. **Bild:** [Sunday Afternoon nach Edouard Manet] 
 
-**Bild:** [Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)]
+{
+  "title-short" : "\"Sunday Afternoon nach Edouard Manet\"",
+  "title" : "Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)\"",
+  "filename" : "sundayafternoon.jpeg",
+  "media-type" : "Foto",
+  "copyright" : "cc nts" ,
+  "source" : "nts 2010",
+  "source-url" : "http://www."
+}
 
-**Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth]
+29. **Bild:** [John Pike in “Christina’s World] 
+
+{
+  "title-short" : "\"John Pike in “Christina’s World\"",
+  "title" : "John Pike makes a stop in “Christina’s World,“ by Andrew Wyeth \"",
+  "filename" : "pepper-spray-cop9.jpeg",
+  "media-type" : "Foto",
+  "copyright" : "cc nts" ,
+  "source" : "nts 2010",
+  "source-url" : "http://www."
+}
+
 
 Den Konflikt zwischen dem Machtkampf und menschlichen Bedürfnissen hat wiederum Marcel Walldorf in seiner lebensechten Plastik *„Pinkelnde Petra“* (2010) auf dem Punkt gebracht, in dem er eine 1:1 Skulptur nach einer Polizistin in eine unangenehmen Position nachbildete.
 
-**Bild:** [„Pinkelnde Petra“]
+**Bild:** [Marcel Walldorf: „Pinkelnde Petra“]
+
+{
+  "title-short" : "\"Marcel Walldorf: „Pinkelnde Petra\"",
+  "title" : "Marcel Walldorf: „Pinkelnde Petra“, 2010\"",
+  "filename" : "pinkelnde-petra.jpeg",
+  "media-type" : "",
+  "copyright" : "c" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
 
 Wie werden solche Einzelbilder zum Meme? Sie werden zuerst im Netz und digital produziert und zirkuliert, ihr Ursprung aber kommt meist aus dem nichtvirtuellen 
 Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert, selektiert, reproduziert und re-reprojiziert und reisen so durch die Kanäle, 

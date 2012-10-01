@@ -137,7 +137,7 @@
 }
 
 
-26. **Bild:** [Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010] 
+26. **Bild:** [Philipp Valenta mit Geldbeutel] 
 
 {
   "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
@@ -152,7 +152,7 @@
 
 
 
-27. **Bild:** [Police lieutenant John Pike pepper sprays students at UC Davis 2012]
+27. **Bild:** [John Pike pepper sprays students]
 {
   "title-short" : "\"John Pike pepper sprays students\"",
   "title" : "Police lieutenant John Pike pepper sprays students at UC Davis 2012 \"",
@@ -163,40 +163,120 @@
   "source-url" : "http://www."
 }
 
-28. **Bild:** [Sunday Afternoon]sundayafternoon.jpeg [Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)]
+28. **Bild:** [Sunday Afternoon nach Edouard Manet] 
 
 {
-  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
-  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
-  "filename" : "valenta_biz.jpg",
+  "title-short" : "\"Sunday Afternoon nach Edouard Manet\"",
+  "title" : "Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)\"",
+  "filename" : "sundayafternoon.jpeg",
   "media-type" : "Foto",
   "copyright" : "cc nts" ,
   "source" : "nts 2010",
   "source-url" : "http://www."
 }
 
-30. **Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth] pepper-spray-cop9.jpeg
+29. **Bild:** [John Pike in “Christina’s World] 
 
 {
-  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
-  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
-  "filename" : "valenta_biz.jpg",
+  "title-short" : "\"John Pike in “Christina’s World\"",
+  "title" : "John Pike makes a stop in “Christina’s World,“ by Andrew Wyeth \"",
+  "filename" : "pepper-spray-cop9.jpeg",
   "media-type" : "Foto",
   "copyright" : "cc nts" ,
   "source" : "nts 2010",
   "source-url" : "http://www."
 }
 
-31. **Bild:** [ Marcel Walldorf: „Pinkelnde Petra“, 2010]pinkelnde-petra.jpeg
+30. **Bild:** [Marcel Walldorf: „Pinkelnde Petra“]
 
 {
-  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
-  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
-  "filename" : "valenta_biz.jpg",
-  "media-type" : "Foto",
-  "copyright" : "cc nts" ,
-  "source" : "nts 2010",
+  "title-short" : "\"Marcel Walldorf: „Pinkelnde Petra\"",
+  "title" : "Marcel Walldorf: „Pinkelnde Petra“, 2010\"",
+  "filename" : "pinkelnde-petra.jpeg",
+  "media-type" : "",
+  "copyright" : "c" ,
+  "source" : "",
   "source-url" : "http://www."
+}
+
+
+
+31. **Bild:** [„Viva La Resolution“]
+
+{
+  "title-short" : "\"„Viva La Resolution“\"",
+  "title" : "Viva La Resolution“, Grafik\"",
+  "filename" : "viva_la_resolution2.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
+
+
+32. **Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom] 
+
+{
+  "title-short" : "\"Adam Romberg & Oliver Chanarin: „Art & Freedom“, Cairo, 2010\"",
+  "title" : "Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010\"",
+  "filename" : "art_and_freedom.jpeg",
+  "media-type" : "Grafik",
+  "copyright" : "Adam Romberg & Oliver Chanarin" ,
+  "source" : "Bidoun Magazin",
+  "source-url" : "http://www."
+}
+
+Bibex!
+
+33. **Bild:** [Jeremy Dellers Zitat] jeremy_deller_on_my_iphone.png
+
+{
+  "title-short" : "\"Jeremy Dellers Zitat„“\"",
+  "title" : "Jeremy Dellers Zitat als Screenshot\"",
+  "filename" : "viva_la_resolution2.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
+
+
+
+34. **Bild:** [Zettel von Billy Bragg an Pussy Riot]
+
+{
+  "title-short" : "\"Zettel von Billy Bragg an Pussy Riot“\"",
+  "title" : "Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung\"",
+  "filename" : "pussy_riot_billy_bragg.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
+
+
+35. **Bild:** ["Occupy" Zelte auf dOCUMENTA (13)] 
+{
+  "title-short" : "\"Occupy" Zelte auf dOCUMENTA (13)\"",
+  "title" : "Meldung über die Occupy Zelte auf dOCUMENTA (13)\"",
+  "filename" : "occupy_documenta1.png",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "Bildschirmfoto",
+  "source-url" : "http://www."
+}
+
+36. **Bild:** []
+
+
+{
+  "title-short" : "\"Facebook Meldung von Johanna Warm“\"",
+  "title" : "Facebook Meldung von Johanna Warm im Bezug auf Schlafplatz in Kassel zum documenta Besuch\"",
+  "filename" : "occupy_documenta_2_johanna_warm.png",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "www.facebook.com-johanna.warm. 2012-09-15 um 18.35.59 "
 }
 
 
@@ -204,17 +284,6 @@
 
 
 
-
-**Bild:** [„Viva La Resolution“]
-**Bild:** [Giancio: „Logo T-Shirt“]
-**Bild:** [Viktor Hertz: „Honest Logos“]
-**Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom“. Townhouse Gallery, April 2010] 
-**Bild:** [Richard Hamilton: „Just what is it that makes today's homes so different, so appealing?“, 1956]
-**Bild:** [jeremy_deller_on_my_iphone]
-**Bild:** [Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung]
-**Bild:** vom ersten Zelt NTS!
-**Bild:** [Meldung über die Occupy Zelte] 
-**Bild:** [Facebook Meldung von Johanna Warm im Bezug auf Schlafplatz in Kassel zum Documenta Besuch]
 **Bild:** [Justin_Hansch_Happy_Artists.jpg]  (images/bild.jpg) [Justin Hansch: „Best friends painting“, 2010]
 
 **Bild:** [Barking Dogs United, FX I 2008]
