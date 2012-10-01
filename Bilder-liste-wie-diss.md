@@ -214,7 +214,7 @@
 }
 
 
-**Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom] 
+32. **Bild:** [Adam Romberg & Oliver Chanarin: „Art & Freedom] 
 
 {
   "title-short" : "\"Adam Romberg & Oliver Chanarin: „Art & Freedom“, Cairo, 2010\"",
@@ -228,9 +228,32 @@
 
 Bibex!
 
-**Bild:** [Richard Hamilton: „Just what is it that makes today's homes so different, so appealing?“, 1956]
-**Bild:** [jeremy_deller_on_my_iphone]
-**Bild:** [Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung]
+33. **Bild:** [Jeremy Dellers Zitat] jeremy_deller_on_my_iphone.png
+
+{
+  "title-short" : "\"Jeremy Dellers Zitat„“\"",
+  "title" : "Jeremy Dellers Zitat als Screenshot\"",
+  "filename" : "viva_la_resolution2.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
+
+
+
+**Bild:** [Zettel von Billy Bragg an Pussy Riot]
+
+{
+  "title-short" : "\"Zettel von Billy Bragg an Pussy Riot“\"",
+  "title" : "Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung\"",
+  "filename" : "pussy_riot_billy_bragg.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "internetz" ,
+  "source" : "",
+  "source-url" : "http://www."
+}
+
 **Bild:** vom ersten Zelt NTS!
 **Bild:** [Meldung über die Occupy Zelte] 
 **Bild:** [Facebook Meldung von Johanna Warm im Bezug auf Schlafplatz in Kassel zum Documenta Besuch]
