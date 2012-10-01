@@ -513,7 +513,7 @@ Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform f
 [^exilemainstreet]: "Exile On Main Street": Album Titel, *The Rolling Stones*, 1972.
 
 
-_Dieser Text ist als Essay für den KoCAinn Katalog von Daniela Brazil entstanden 
+_Dieser Text ist als Essay für den KoCAinn Katalog [@UrbanDAE:KoCA]von URBANDÆ entstanden_ 
 
 **Über die Schönheit einer zufälligen Straßengemeinschaft und Kunstnomaden im Internet**
 
