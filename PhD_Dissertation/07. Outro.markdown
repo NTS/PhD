@@ -253,7 +253,6 @@ und permanent auf dieser Ebene geblieben.
 
 
 
-<space>
 	
 	
 
@@ -262,8 +261,6 @@ And now, if you will excuse me, I am going to make some art.
 
     TODO: es wiederholt sich! lieber hier!
     
-**Bild:** [Justin_Hansch_Happy_Artists.jpg]  (images/bild.jpg)
-
-[LINK](http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)
+**Bild:** [Justin_Hansch_Happy_Artists.jpg]  (images/bild.jpg) [LINK](http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png)
 
 
