@@ -1,7 +1,7 @@
 % Bildtafeln
 % Naomi Tereza Salmon
 
-\hypersetup{linkcolor=black}
+
 
 
 

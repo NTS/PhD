@@ -10,7 +10,7 @@ BASE_DIR="$(pwd)"
 # DEV: Version and Date in Title
 echo "" > "Version.markdown"
 echo "> Version: \`\`$(git log -1 --pretty=format:"%H")\`\`  " >> "Version.markdown"
-echo "> Datum: \`\`$(date)\`\`  " >> "Version.markdown"
+#echo "> Datum: \`\`$(date)\`\`  " >> "Version.markdown"
 echo "" >> "Version.markdown"
 
 
