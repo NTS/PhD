@@ -5,7 +5,7 @@
 
 
 
-## Betreten der Ausstellung Verboten 
+## [Betreten der Ausstellung Verboten] 
 \vfill
 ![Bild](pix/ulrichs_betreten_verboten.jpg) \
 \vfill
@@ -23,7 +23,7 @@ Quelle: Sprengel Museum Hannover
 
 
 
-## Everything Has Been Done (Videostill) 
+## [Everything Has Been Done (Videostill)] 
 \vfill
 ![Bild](pix/azorro_everything_has_been_done_2.JPG) \
 \vfill
@@ -39,7 +39,7 @@ Quelle: privat
 
 
 
-## Everything Has Been Done (Transkription) 
+## [Everything Has Been Done (Transkription)] 
 \vfill
 ![Bild](pix/azorro_everything_has_been_done_1.JPG) \
 \vfill
@@ -57,7 +57,7 @@ Quelle: privat
 
 
 
-## Künstlerbegriff nach Pons 
+## [Künstlerbegriff nach Pons] 
 \vfill
 ![Bild](pix/kuenstler_nach_pons.png) \
 \vfill
@@ -73,7 +73,7 @@ Quelle: Pons Wörtbuch TODO
 
 
 
-## Französische Künstlermütze 
+## [Französische Künstlermütze] 
 \vfill
 ![Bild](pix/french_artist_golf_cap_by_ebay.png) \
 \vfill
@@ -89,30 +89,30 @@ Quelle: Google-Bildsuche
 
 
 
-## Naomi Campbell im Künstlerlook 
+## [Naomi Campbell im Künstlerlook] 
 \vfill
 ![Bild](pix/naomi_campbell_for_vivian_westwood.jpg) \
 \vfill
 Model Naomi Campbell im Künstlerlook für Vivian Westwood
 
 Foto --
-Quelle: TODO
+Quelle: Unbekannt
 
 
 
-© Artist
+© Unbekannt
 \vfill
 
 
 
-## Jörg Immendorf 
+## [Jörg Immendorf] 
 \vfill
 ![Bild](pix/joerg-immendorf-by-andrea-strappert-2001.jpg) \
 \vfill
 
 
 Foto --
-Quelle: TODO
+Quelle: privat
 
 
 
@@ -121,7 +121,7 @@ Quelle: TODO
 
 
 
-## Warhol-Stickers 
+## [Warhol-Stickers] 
 \vfill
 ![Bild](pix/warhol_stickers.png) \
 \vfill
@@ -137,7 +137,7 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 
 
 
-## In the future everyone will be famous for fifteen minutes 
+## [In the future everyone will be famous for fifteen minutes] 
 \vfill
 ![Bild](pix/warhol_etoui.jpg) \
 \vfill
@@ -153,13 +153,13 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 
 
 
-## Your 15 minutes are up! 
+## [Your 15 minutes are up!] 
 \vfill
 ![Bild](pix/warhol_your_15_minutes_are_up.jpg) \
 \vfill
 Ha-Ha Funny Buttons: "Your 15 minutes are up (Warhol)"
 
-eigener Scann --
+eigener Scan --
 Quelle: privat
 
 
@@ -169,7 +169,7 @@ Quelle: privat
 
 
 
-## Kunstmarkt-Brettspiel-Flyer 
+## [Kunstmarkt-Brettspiel-Flyer] 
 \vfill
 ![Bild](pix/kunstmarkt_prestel_flyer.jpg) \
 \vfill
@@ -185,7 +185,7 @@ Quelle: Prestel Verlag, 2007
 
 
 
-## Kunstmarkt-Brettspiel 
+## [Kunstmarkt-Brettspiel] 
 \vfill
 ![Bild](pix/kunstmarkt_prestel_2karten.jpg) \
 \vfill
@@ -201,7 +201,7 @@ Quelle: Prestel Verlag, 2007
 
 
 
-## Verstehen Sie Moderne Kunst auf Anhieb 
+## [Verstehen Sie Moderne Kunst auf Anhieb] 
 \vfill
 ![Bild](pix/understand_modern_art_object.jpg) \
 \vfill
@@ -217,14 +217,14 @@ Quelle: aus dem Museumshop, MoMA Berlin
 
 
 
-## Contemporary Artist 
+## [Contemporary Artist] 
 \vfill
 ![Bild](pix/garnet_hertz_contemporary_artist_fb_meme.jpg) \
 \vfill
 
 
 Grafik, Internet-Meme --
-Quelle: facebook: "Garnet Hertz Fotos"
+Quelle: *facebook*: "Garnet Hertz Fotos"
 
 <https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater>
 
@@ -233,7 +233,7 @@ Quelle: facebook: "Garnet Hertz Fotos"
 
 
 
-## What Artists Do 
+## [What Artists Do] 
 \vfill
 ![Bild](pix/what_artists_do_mylife-600.jpg) \
 \vfill
@@ -242,14 +242,14 @@ Quelle: facebook: "Garnet Hertz Fotos"
 Pie Chart --
 Quelle: My Life 600 Website
 
-<http://>
+<http://hyperallergic.com/44470>
 
 © *Mylife 600*
 \vfill
 
 
 
-## HBO's TV Serie Figur Claire Fisher (Six Feet Under) 
+## [HBO's TV Serie Figur Claire Fisher (Six Feet Under)] 
 \vfill
 ![Bild](pix/claire_fisher-milestogo1440.jpg) \
 \vfill
@@ -265,7 +265,7 @@ Quelle: Fan Art Website
 
 
 
-## "The Electrician" 
+## ["The Electrician"] 
 \vfill
 ![Bild](pix/willem_dafoe_basquiat.png) \
 \vfill
@@ -281,14 +281,14 @@ Quelle: aus dem Film *Basquiat*, 1996
 
 
 
-## Jeff Koons mit seinen Mitarbeitern 
+## [Jeff Koons mit seinen Mitarbeitern] 
 \vfill
 ![Bild](pix/jeff_koons_und_mitarbeiter.jpg) \
 \vfill
 
 
 Foto --
-Quelle: für das *Monopol* Magazin
+Quelle: *Monopol* Magazin
 
 
 
@@ -297,7 +297,7 @@ Quelle: für das *Monopol* Magazin
 
 
 
-## Bauhaus Curriculum 
+## [Bauhaus Curriculum] 
 \vfill
 ![Bild](pix/bauhaus_curriculum_1922.jpg) \
 \vfill
@@ -313,7 +313,7 @@ Quelle: Itten, Johannes : Mein Vorkurs am Bauhaus. Otto Maier Verlag, 1963
 
 
 
-## Thomas Hirschhorn: Buchumschlag 
+## [Thomas Hirschhorn: Buchumschlag] 
 \vfill
 ![Bild](pix/thomas_hirschhorn_booksleeve.jpg) \
 \vfill
@@ -329,7 +329,7 @@ Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Sc
 
 
 
-## Thomas Hirschhorn: Seite mit Text 
+## [Thomas Hirschhorn: Seite mit Text] 
 \vfill
 ![Bild](pix/thomas_hirschhorn_Buch_seite.jpg) \
 \vfill
@@ -345,7 +345,7 @@ Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Sc
 
 
 
-## "Hirschhorn: Mindmap" 
+## [Hirschhorn: Mindmap] 
 \vfill
 ![Bild](pix/thomas_hirschhorn_mindmap.jpg) \
 \vfill
@@ -361,23 +361,23 @@ Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Sc
 
 
 
-## Die Gallerie ist Tot 
+## [Die Gallerie ist Tot] 
 \vfill
 ![Bild](pix/die_galerie_ist_tot.jpg) \
 \vfill
-Aktion zur Vorgründung der marke.6, 2006u
+Aktion zur Vorgründung der marke.6
 
 Button --
-Quelle: Giveaway vor Ort
+Quelle: privat
 
-<http://www.es-lebe-die-galerie.de>
 
-© Sebastian Helm
+
+© Sebastian Helm, 2006
 \vfill
 
 
 
-## Bauhaus-Essentials I 
+## [Bauhaus-Essentials I] 
 \vfill
 ![Bild](pix/bauhaus_essentials_1_einladung_marke_6.jpg) \
 \vfill
@@ -393,7 +393,7 @@ Quelle: Studentische Galerie marke.6
 
 
 
-## Benedikt Braun: Super Arm 
+## [Benedikt Braun: Super Arm] 
 \vfill
 ![Bild](pix/benedikt_braun_super_arm.png) \
 \vfill
@@ -409,23 +409,23 @@ Quelle: Eigenheim Galerie Website
 
 
 
-## "Philipp Valenta mit Geldbeutel" 
+## [Philipp Valenta mit Geldbeutel] 
 \vfill
 ![Bild](pix/valenta_biz.jpg) \
 \vfill
-Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 "
+Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game*
 
 Foto --
-Quelle: nts 2010
+Quelle: privat
 
-<http://www.>
 
-© cc nts
+
+© nts, 2010
 \vfill
 
 
 
-## John Pike pepper sprays students 
+## [John Pike pepper sprays students] 
 \vfill
 ![Bild](pix/police-officer-pepper-spr-007.jpeg) \
 \vfill
@@ -438,12 +438,10 @@ Quelle: Internet
 
 © Associated Press
 \vfill
-   
-\pagebreak[4]
 
 
 
-## "Sunday Afternoon nach Edouard Manet" 
+## ["Sunday Afternoon nach Edouard Manet"] 
 \vfill
 ![Bild](pix/sundayafternoon.jpeg) \
 \vfill
@@ -456,16 +454,14 @@ Quelle: Internet
 
 © Unbekannt
 \vfill
-   
-\pagebreak[4]
 
 
 
-## John Pike in "Christina’s World" 
+## [John Pike in "Christina’s World"] 
 \vfill
 ![Bild](pix/pepper-spray-cop9.jpeg) \
 \vfill
-John Pike makes a stop in “Christina’s World,“ by  "
+John Pike makes a stop in "Christina's World"
 
 Foto --
 Quelle: Internet
@@ -475,12 +471,10 @@ Quelle: Internet
 © Andrew Wyeth, 2010
 
 \vfill
-   
-\pagebreak[4]
 
 
 
-## Marcel Walldorf: Pinkelnde Petra 
+## [Marcel Walldorf: Pinkelnde Petra] 
 \vfill
 ![Bild](pix/pinkelnde-petra.jpeg) \
 \vfill
@@ -493,12 +487,10 @@ Quelle: rebel:art
 
 © Marcel Walldorf, 2010
 \vfill
-   
-\pagebreak[4]
 
 
 
-## Viva La Resolution 
+## [Viva La Resolution] 
 \vfill
 ![Bild](pix/viva_la_resolution2.jpg) \
 \vfill
@@ -511,323 +503,286 @@ Quelle: Internet
 
 © Unbekannt
 \vfill
-   
-\pagebreak[4]
 
 
 
-## Art & Freedom 
+## [Art & Freedom] 
 \vfill
 ![Bild](pix/art_and_freedom.jpeg) \
 \vfill
-"Art & Freedom" - Townhouse Gallery
+"Art & Freedom", Townhouse Gallery
 
-Grafik --
+Anzeige --
 Quelle: Bidoun Magazin
 
-<http://www.>
 
-© Adam Romberg & Oliver Chanarin, April 2010"
+
+© Adam Romberg & Oliver Chanarin, April 2010
 \vfill
-   
-\pagebreak[4]
 
 
 
-## Jeremy Dellers Zitat 
+## [Jeremy Dellers Zitat] 
 \vfill
 ![Bild](pix/jeremy_deller_on_my_iphone.png) \
 \vfill
 
 
 Text als Grafik als Bildschirmfoto --
-Quelle: Unbekannt
+Quelle: *facebook*
 
 
 
-© internetz
+© Unbekannt
 \vfill
-   
-\pagebreak[4]
 
 
 
-## Zettel von Billy Bragg an Pussy Riot 
+## [Zettel von Billy Bragg an Pussy Riot] 
 \vfill
 ![Bild](pix/pussy_riot_billy_bragg.jpg) \
 \vfill
-: Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung"
+Zettel von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung
 
 Foto --
 Quelle: *facebook*
 
 
 
-© Unbekannt
+© Billy Bragg
 \vfill
-   
-\pagebreak[4]
 
 
 
-## "Occupy" Zelte dOCUMENTA (13) 
+## ["Occupy" Zelte dOCUMENTA (13)] 
 \vfill
 ![Bild](pix/occupy_documenta1.png) \
 \vfill
-Meldung über die Occupy Zelte auf dOCUMENTA (13)
+Meldung über die Occupy Zelte auf der dOCUMENTA (13)
 
-Grafik --
-Quelle: Bildschirmfoto
+Bildschirmfoto --
+Quelle: E-Mail-Newsletter
 
-<http://www.>
 
-© internetz
+
+© keines
 \vfill
-   
-\pagebreak[4]
 
 
 
-## Facebook-Meldung von Johanna Warm 
+## [Facebook-Meldung von Johanna Warm] 
 \vfill
 ![Bild](pix/occupy_documenta_2_johanna_warm.png) \
 \vfill
-im Bezug auf Schlafplatz in Kassel zum documenta Besuch
+in Bezug auf Schlafplatz in Kassel zum documenta-Besuch
 
 Bildschirmfoto --
 Quelle: *facebook*
 
 
 
-© Unbekannt
+© keines
 \vfill
-   
-\pagebreak[4]
 
 
 
-## Facebook-Meldung von Johanna Warm 
+## [next documenta should be curated by an artist] 
 \vfill
 ![Bild](pix/next_documenta_should_be_curated_by_an_artist.png) \
 \vfill
-im Bezug auf Schlafplatz in Kassel zum documenta Besuch
+
 
 Bildschirmfoto --
-Quelle: *facebook*
+Quelle: e-flux
 
+<http://www.e-flux.com>
 
-
-© Unbekannt
+© keines
 \vfill
-   
-\pagebreak[4]
 
 
 
-## BDU: "Bender Flip Size" 
+## [BDU: Bender Flip Size] 
 \vfill
 ![Bild](pix/bdu_bender_flip_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: "Bender Flip Size"
+Barking Dogs United: FX I, II, III - "Bender Flip Size"
 
- aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
-Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
+Digital Collage --
+Quelle: BDU
 
-
+<http://www.barkingdogsunited.com/sm.html>
 
 © Barking Dogs United, 2008
-
 \vfill
-   
-\pagebreak[4]
 
 
 
-## BDU: "Brain Equalizer" 
+## [BDU: Brain Equalizer] 
 \vfill
 ![Bild](pix/bdu_brain_equalizer_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: "Brain Equalizer"
+Barking Dogs United: FX I, II, III - "Brain Equalizer", Digital Collage, 2008"
 
-aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
-Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
+Digital Collage --
+Quelle: BDU
 
-
+<http://www.barkingdogsunited.com/sm.html>
 
 © Barking Dogs United, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
-## BDU: "Creative Reverb"  
+## [BDU: Creative Reverb] 
 \vfill
 ![Bild](pix/bdu_creative_reverb_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: "Creative Reverb" 
+Barking Dogs United: FX I, II, III - "Creative Reverb", Digital Collage, 2008"
 
-aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
-Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
+Digital Collage --
+Quelle: BDU
 
-
+<http://www.barkingdogsunited.com/sm.html>
 
 © Barking Dogs United, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
-## BDU: "Influence Modifier" 
+## [BDU: Influence Modifier] 
 \vfill
 ![Bild](pix/bdu_influence_modifier_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: "Influence Modifier"
+Barking Dogs United: FX I, II, III - "Influence Modifier", Digital Collage, 2008"
 
-aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
-Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
+Digital Collage --
+Quelle: BDU
 
-
+<http://www.barkingdogsunited.com/sm.html>
 
 © Barking Dogs United, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
-## BDU: "Lust Station" 
+## [BDU: Lust Station] 
 \vfill
 ![Bild](pix/bdu_lust_station_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: "Lust Station"
+Barking Dogs United: FX I, II, III - "Lust Station", 2008"
 
-aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
-Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
+Digital Collage --
+Quelle: BDU
 
-
+<http://www.barkingdogsunited.com/sm.html>
 
 © Barking Dogs United, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
-## BDU: "Mental Core" 
+## [BDU: Mental Core] 
 \vfill
 ![Bild](pix/bdu_mental_core_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: "Mental Core"
+Barking Dogs United: FX I, II, III - "Mental Core", Digital Collage, 2008"
 
-aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
-Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
+Digital Collage --
+Quelle: BDU
 
-
+<http://www.barkingdogsunited.com/sm.html>
 
 © Barking Dogs United, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
-## BDU: "Range-r" 
+## [BDU: Range-r] 
 \vfill
 ![Bild](pix/bdu_range-r_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: "Range-r"
+Barking Dogs United: FX I, II, III - "Range-r", Digital Collage, 2008"
 
-aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
-Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
+Digital Collage --
+Quelle: BDU
 
-
+<http://www.barkingdogsunited.com/sm.html>
 
 © Barking Dogs United, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
-## BDU: "Reliability" 
+## [BDU: Reliability] 
 \vfill
 ![Bild](pix/bdu_reliability_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: "Reliability"
+Barking Dogs United: FX I, II, III - "Reliability", Digital Collage, 2008"
 
-aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
-Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
+Digital Collage --
+Quelle: BDU
 
-
+<http://www.barkingdogsunited.com/sm.html>
 
 © Barking Dogs United, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
-## BDU: "Thinking Booster" 
+## [BDU: thinking booster] 
 \vfill
 ![Bild](pix/bdu_thinking_booster_size_matterz_acc_2008.png) \
 \vfill
-Barking Dogs United: "Thinking Booster"
+Barking Dogs United: FX I, II, III - "thinking booster", Digital Collage, 2008"
 
-aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
-Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
+Digital Collage --
+Quelle: BDU
 
-
+<http://www.barkingdogsunited.com/sm.html>
 
 © Barking Dogs United, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
-## Vuk Vidor: "Art history" 
+## [Vuk Vidor: Art history] 
 \vfill
 ![Bild](pix/vuk_vidor_art_history.jpg) \
 \vfill
 Vuk Vidor: "Art history (part one - version C)"
 
 Silkscreen --
-Quelle: TODO
+Quelle: privat
 
 
 
 © Vuk Vidor, 2004-2009
 \vfill
-   
-\pagebreak[4]
 
 
 
-## KoCA inn Schild (Entwurf) 
+## [KoCA inn Schild (Entwurf)] 
 \vfill
 ![Bild](pix/kocainn_entwurf_auf_tisch.jpg) \
 \vfill
 
 
 Studentischer Entwurf vom Fachkurs auf Universitätstisch --
-Quelle: privat
+Quelle: privat, 2009
 
 
 
 © KIOSK09
 \vfill
-   
-\pagebreak[4]
 
 
 
-## KIOSK09-Fachkurs Teilnehmer bei der Arbeit 
+## [KIOSK09-Fachkurs Teilnehmer bei der Arbeit] 
 \vfill
 ![Bild](pix/fachkurs_teilnehmer_bei_der_arbeit.jpg) \
 \vfill
-
+KIOSK09-Fachkurs Teilnehmer bei der Arbeit, 2009
 
 Foto --
 Quelle: privat
@@ -836,6 +791,4 @@ Quelle: privat
 
 © NTS
 \vfill
-   
-\pagebreak[4]
 

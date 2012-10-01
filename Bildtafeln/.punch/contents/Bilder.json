@@ -50,8 +50,8 @@
       "title" : "Model Naomi Campbell im Künstlerlook für Vivian Westwood",
       "filename" : "naomi_campbell_for_vivian_westwood.jpg",
       "media-type" : "Foto",
-      "copyright" : "Artist",
-      "source" : "TODO",
+      "copyright" : "Unbekannt",
+      "source" : "Unbekannt",
       "source-url" : null,
       "snap" : true
     },
@@ -61,7 +61,7 @@
       "filename" : "joerg-immendorf-by-andrea-strappert-2001.jpg",
       "media-type" : "Foto",
       "copyright" : "Andrea Strappert, 2001",
-      "source" : "TODO",
+      "source" : "privat",
       "source-url" : null
     },
     {
@@ -89,7 +89,7 @@
       "title-short" : "Your 15 minutes are up!",
       "title" : "Ha-Ha Funny Buttons: \"Your 15 minutes are up (Warhol)\"",
       "filename" : "warhol_your_15_minutes_are_up.jpg",
-      "media-type" : "eigener Scann",
+      "media-type" : "eigener Scan",
       "copyright" : "Ha-Ha Funny Buttons",
       "source" : "privat",
       "source-url" : null
@@ -128,7 +128,7 @@
       "filename" : "garnet_hertz_contemporary_artist_fb_meme.jpg",
       "media-type" : "Grafik, Internet-Meme",
       "copyright" : "Garnet Hertz, 2012",
-      "source" : "facebook: \"Garnet Hertz Fotos\"",
+      "source" : "*facebook*: \"Garnet Hertz Fotos\"",
       "source-url" : "https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater"
     },
     {
@@ -138,7 +138,7 @@
       "media-type" : "Pie Chart",
       "copyright" : "*Mylife 600*",
       "source" : "My Life 600 Website",
-      "source-url" : "http://"
+      "source-url" : "http://hyperallergic.com/44470"
     },
     {
       "snap" : true,
@@ -166,7 +166,7 @@
       "filename" : "jeff_koons_und_mitarbeiter.jpg",
       "media-type" : "Foto",
       "copyright" : "Jason Schmidt",
-      "source" : "für das *Monopol* Magazin",
+      "source" : "*Monopol* Magazin",
       "source-url" : null
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "snap" : true,
-      "title" : "\"Hirschhorn: Mindmap\"",
+      "title" : "Hirschhorn: Mindmap",
       "filename" : "thomas_hirschhorn_mindmap.jpg",
       "media-type" : "Mindmap als Einladungsmotiv",
       "copyright" : "Thomas Hirschhorn",
@@ -209,12 +209,12 @@
     {
       "snap" : true,
       "title-short" : "Die Gallerie ist Tot",
-      "title" : "Aktion zur Vorgründung der marke.6, 2006u",
+      "title" : "Aktion zur Vorgründung der marke.6",
       "filename" : "die_galerie_ist_tot.jpg",
       "media-type" : "Button",
-      "copyright" : "Sebastian Helm",
-      "source" : "Giveaway vor Ort",
-      "source-url" : "http://www.es-lebe-die-galerie.de"
+      "copyright" : "Sebastian Helm, 2006",
+      "source" : "privat",
+      "source-url" : ""
     },
     {
       "snap" : true,
@@ -237,15 +237,15 @@
     },
     {
       "snap" : true,
-      "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
-      "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
+      "title-short" : "Philipp Valenta mit Geldbeutel",
+      "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game*",
       "filename" : "valenta_biz.jpg",
       "media-type" : "Foto",
-      "copyright" : "cc nts",
-      "source" : "nts 2010",
-      "source-url" : "http://www."
+      "copyright" : "nts, 2010",
+      "source" : "privat"
     },
     {
+      "snap" : true,
       "source" : "Internet",
       "title-short" : "John Pike pepper sprays students",
       "title" : "Police lieutenant John Pike pepper sprays students at UC Davis 2012",
@@ -255,6 +255,7 @@
       "source-url" : "http://www.occupythegame.com/lieutenant_john_pike/"
     },
     {
+      "snap" : true,
       "source" : "Internet",
       "title-short" : "\"Sunday Afternoon nach Edouard Manet\"",
       "title" : "Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)\"",
@@ -264,8 +265,9 @@
       "source-url" : "http://www.occupythegame.com/lieutenant_john_pike/"
     },
     {
+      "snap" : true,
       "title-short" : "John Pike in \"Christina’s World\"",
-      "title" : "John Pike makes a stop in “Christina’s World,“ by  \"",
+      "title" : "John Pike makes a stop in \"Christina's World\"",
       "filename" : "pepper-spray-cop9.jpeg",
       "media-type" : "Foto",
       "copyright" : "Andrew Wyeth, 2010\n",
@@ -273,6 +275,7 @@
       "source-url" : "http://www.occupythegame.com/lieutenant_john_pike/"
     },
     {
+      "snap" : true,
       "title-short" : "Marcel Walldorf: Pinkelnde Petra",
       "title" : "„Pinkelnde Petra“",
       "filename" : "pinkelnde-petra.jpeg",
@@ -282,6 +285,7 @@
       "source-url" : "http://rebelart.net/marcel-walldorf-pinkelnde-petra"
     },
     {
+      "snap" : true,
       "title-short" : "Viva La Resolution",
       "filename" : "viva_la_resolution2.jpg",
       "media-type" : "Grafik",
@@ -289,154 +293,171 @@
       "source" : "Internet"
     },
     {
+      "snap" : true,
       "title-short" : "Art & Freedom",
-      "title" : "\"Art & Freedom\" - Townhouse Gallery",
+      "title" : "\"Art & Freedom\", Townhouse Gallery",
       "filename" : "art_and_freedom.jpeg",
-      "media-type" : "Grafik",
-      "copyright" : "Adam Romberg & Oliver Chanarin, April 2010\"",
-      "source" : "Bidoun Magazin",
-      "source-url" : "http://www."
+      "media-type" : "Anzeige",
+      "copyright" : "Adam Romberg & Oliver Chanarin, April 2010",
+      "source" : "Bidoun Magazin"
     },
     {
+      "snap" : true,
       "title-short" : "Jeremy Dellers Zitat",
       "filename" : "jeremy_deller_on_my_iphone.png",
       "media-type" : "Text als Grafik als Bildschirmfoto",
-      "copyright" : "internetz",
-      "source" : "Unbekannt"
+      "copyright" : "Unbekannt",
+      "source" : "*facebook*"
     },
     {
+      "snap" : true,
       "title-short" : "Zettel von Billy Bragg an Pussy Riot",
-      "title" : ": Zettel von Billy Bragg an Pussy Riot am Tag ihre Verurteilung\"",
+      "title" : "Zettel von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung",
       "filename" : "pussy_riot_billy_bragg.jpg",
       "media-type" : "Foto",
-      "copyright" : "Unbekannt",
+      "copyright" : "Billy Bragg",
       "source" : "*facebook*"
     },
     {
+      "snap" : true,
       "title-short" : "\"Occupy\" Zelte dOCUMENTA (13)",
-      "title" : "Meldung über die Occupy Zelte auf dOCUMENTA (13)",
+      "title" : "Meldung über die Occupy Zelte auf der dOCUMENTA (13)",
       "filename" : "occupy_documenta1.png",
-      "media-type" : "Grafik",
-      "copyright" : "internetz",
-      "source" : "Bildschirmfoto",
-      "source-url" : "http://www."
+      "media-type" : "Bildschirmfoto",
+      "copyright" : "keines",
+      "source" : "E-Mail-Newsletter"
     },
     {
+      "snap" : true,
       "title-short" : "Facebook-Meldung von Johanna Warm",
-      "title" : "im Bezug auf Schlafplatz in Kassel zum documenta Besuch",
+      "title" : "in Bezug auf Schlafplatz in Kassel zum documenta-Besuch",
       "filename" : "occupy_documenta_2_johanna_warm.png",
       "media-type" : "Bildschirmfoto",
-      "copyright" : "Unbekannt",
+      "copyright" : "keines",
       "source" : "*facebook*"
     },
     {
-      "title-short" : "[next documenta should be curated by an artist]",
+      "snap" : true,
+      "title-short" : "next documenta should be curated by an artist",
       "filename" : "next_documenta_should_be_curated_by_an_artist.png",
       "media-type" : "Bildschirmfoto",
-      "copyright" : "Unbekannt",
+      "copyright" : "keines",
       "source" : "e-flux",
       "source-url" : "http://www.e-flux.com"
     },
     {
-      "title-short" : "BDU: \"Bender Flip Size\"",
-      "title" : "Barking Dogs United: \"Bender Flip Size\"",
+      "snap" : true,
+      "title-short" : "BDU: Bender Flip Size",
+      "title" : "Barking Dogs United: FX I, II, III - \"Bender Flip Size\"",
       "filename" : "bdu_bender_flip_size_matterz_acc_2008.png",
-      "media-type" : " aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
-      "copyright" : "Barking Dogs United, 2008\n",
-      "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
-      "source-url" : null
+      "media-type" : "Digital Collage",
+      "copyright" : "Barking Dogs United, 2008",
+      "source" : "BDU",
+      "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
-      "title-short" : "BDU: \"Brain Equalizer\"",
-      "title" : "Barking Dogs United: \"Brain Equalizer\"",
+      "snap" : true,
+      "title-short" : "BDU: Brain Equalizer",
+      "title" : "Barking Dogs United: FX I, II, III - \"Brain Equalizer\", Digital Collage, 2008\"",
       "filename" : "bdu_brain_equalizer_size_matterz_acc_2008.png",
-      "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
-      "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
-      "source-url" : null
+      "media-type" : "Digital Collage",
+      "source" : "BDU",
+      "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
-      "title-short" : "BDU: \"Creative Reverb\" ",
-      "title" : "Barking Dogs United: \"Creative Reverb\" ",
+      "snap" : true,
+      "title-short" : "BDU: Creative Reverb",
+      "title" : "Barking Dogs United: FX I, II, III - \"Creative Reverb\", Digital Collage, 2008\"",
       "filename" : "bdu_creative_reverb_size_matterz_acc_2008.png",
-      "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
-      "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
-      "source-url" : null
+      "media-type" : "Digital Collage",
+      "source" : "BDU",
+      "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
-      "title" : "Barking Dogs United: \"Influence Modifier\"",
-      "title-short" : "BDU: \"Influence Modifier\"",
+      "snap" : true,
+      "title-short" : "BDU: Influence Modifier",
+      "title" : "Barking Dogs United: FX I, II, III - \"Influence Modifier\", Digital Collage, 2008\"",
       "filename" : "bdu_influence_modifier_size_matterz_acc_2008.png",
-      "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
-      "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
-      "source-url" : null
+      "media-type" : "Digital Collage",
+      "source" : "BDU",
+      "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
-      "title" : "Barking Dogs United: \"Lust Station\"",
-      "title-short" : "BDU: \"Lust Station\"",
+      "snap" : true,
+      "title-short" : "BDU: Lust Station",
+      "title" : "Barking Dogs United: FX I, II, III - \"Lust Station\", 2008\"",
       "filename" : "bdu_lust_station_size_matterz_acc_2008.png",
-      "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
-      "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
-      "source-url" : null
+      "media-type" : "Digital Collage",
+      "source" : "BDU",
+      "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
-      "title" : "Barking Dogs United: \"Mental Core\"",
-      "title-short" : "BDU: \"Mental Core\"",
+      "snap" : true,
+      "title-short" : "BDU: Mental Core",
+      "title" : "Barking Dogs United: FX I, II, III - \"Mental Core\", Digital Collage, 2008\"",
       "filename" : "bdu_mental_core_size_matterz_acc_2008.png",
-      "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
-      "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
-      "source-url" : null
+      "media-type" : "Digital Collage",
+      "source" : "BDU",
+      "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
-      "title" : "Barking Dogs United: \"Range-r\"",
-      "title-short" : "BDU: \"Range-r\"",
+      "snap" : true,
+      "title-short" : "BDU: Range-r",
+      "title" : "Barking Dogs United: FX I, II, III - \"Range-r\", Digital Collage, 2008\"",
       "filename" : "bdu_range-r_size_matterz_acc_2008.png",
-      "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
-      "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
-      "source-url" : null
+      "media-type" : "Digital Collage",
+      "source" : "BDU",
+      "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
-      "title" : "Barking Dogs United: \"Reliability\"",
-      "title-short" : "BDU: \"Reliability\"",
+      "snap" : true,
+      "title-short" : "BDU: Reliability",
+      "title" : "Barking Dogs United: FX I, II, III - \"Reliability\", Digital Collage, 2008\"",
       "filename" : "bdu_reliability_size_matterz_acc_2008.png",
-      "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
-      "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
-      "source-url" : null
+      "media-type" : "Digital Collage",
+      "source" : "BDU",
+      "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
-      "title" : "Barking Dogs United: \"Thinking Booster\"",
-      "title-short" : "BDU: \"Thinking Booster\"",
+      "snap" : true,
+      "title" : "Barking Dogs United: FX I, II, III - \"thinking booster\", Digital Collage, 2008\"",
+      "title-short" : "BDU: thinking booster",
       "filename" : "bdu_thinking_booster_size_matterz_acc_2008.png",
-      "media-type" : "aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck",
       "copyright" : "Barking Dogs United, 2008",
-      "source" : "Aus der Ausstellung \"Size Matters\", ACC-Galerie Weimar",
-      "source-url" : null
+      "media-type" : "Digital Collage",
+      "source" : "BDU",
+      "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
-      "title-short" : "Vuk Vidor: \"Art history\"",
+      "snap" : true,
+      "title-short" : "Vuk Vidor: Art history",
       "title" : "Vuk Vidor: \"Art history (part one - version C)\"",
       "filename" : "vuk_vidor_art_history.jpg",
       "media-type" : "Silkscreen",
       "copyright" : "Vuk Vidor, 2004-2009",
-      "source" : "TODO",
-      "source-url" : null
-    },
-    {
-      "title" : "KoCA inn Schild (Entwurf)",
-      "filename" : "kocainn_entwurf_auf_tisch.jpg",
-      "media-type" : "Studentischer Entwurf vom Fachkurs auf Universitätstisch",
-      "copyright" : "KIOSK09",
       "source" : "privat",
       "source-url" : null
     },
     {
-      "title" : "KIOSK09-Fachkurs Teilnehmer bei der Arbeit",
+      "snap" : true,
+      "title" : "KoCA inn Schild (Entwurf)",
+      "filename" : "kocainn_entwurf_auf_tisch.jpg",
+      "media-type" : "Studentischer Entwurf vom Fachkurs auf Universitätstisch",
+      "copyright" : "KIOSK09",
+      "source" : "privat, 2009",
+      "source-url" : null
+    },
+    {
+      "snap" : true,
+      "title" : "KIOSK09-Fachkurs Teilnehmer bei der Arbeit, 2009",
+      "title-short" : "KIOSK09-Fachkurs Teilnehmer bei der Arbeit",
       "filename" : "fachkurs_teilnehmer_bei_der_arbeit.jpg",
       "media-type" : "Foto",
       "copyright" : "NTS",

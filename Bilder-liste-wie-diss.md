@@ -300,9 +300,7 @@ Bibex!
   "copyright" : "Barking Dogs United" ,
   "source" : "BDU",
   "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-
+},
 {
   "title-short" : "\"BDU: "Brain Equalizer"\"",
   "title" : "Barking Dogs United: FX I, II, III - "Brain Equalizer", Digital Collage, 2008\"",
@@ -311,8 +309,7 @@ Bibex!
   "copyright" : "Barking Dogs United" ,
   "source" : "BDU",
   "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
+},
 {
   "title-short" : "\"BDU: "Creative Reverb"\"",
   "title" : "Barking Dogs United: FX I, II, III - Creative Reverb, Digital Collage, 2008\"",
@@ -321,9 +318,7 @@ Bibex!
   "copyright" : "Barking Dogs United" ,
   "source" : "BDU",
   "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-
+},
 {
   "title-short" : "\"BDU: "Influence Modifier"\"",
   "title" : "Barking Dogs United: FX I, II, III - "Influence Modifier", Digital Collage, 2008\"",
@@ -332,9 +327,7 @@ Bibex!
   "copyright" : "Barking Dogs United" ,
   "source" : "BDU",
   "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-
+},
 {
   "title-short" : "\"BDU: "Lust Station"\"",
   "title" : "Barking Dogs United: FX I, II, III - "Lust Station", 2008\"",
@@ -343,9 +336,7 @@ Bibex!
   "copyright" : "Barking Dogs United" ,
   "source" : "BDU",
   "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
-
+},
 {
   "title-short" : "\"BDU: "Mental Core"\"",
   "title" : "Barking Dogs United: FX I, II, III - "Mental Core", Digital Collage, 2008\"",
@@ -354,8 +345,7 @@ Bibex!
   "copyright" : "Barking Dogs United" ,
   "source" : "BDU",
   "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
+},
 {
   "title-short" : "\"BDU: "Range-r"\"",
   "title" : "Barking Dogs United: FX I, II, III - ""Range-r"", Digital Collage, 2008\"",
@@ -364,8 +354,7 @@ Bibex!
   "copyright" : "Barking Dogs United" ,
   "source" : "BDU",
   "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
+},
 {
   "title-short" : "\"BDU: "Reliability"\"",
   "title" : "Barking Dogs United: FX I, II, III - ""Reliability"", Digital Collage, 2008\"",
@@ -374,8 +363,7 @@ Bibex!
   "copyright" : "Barking Dogs United" ,
   "source" : "BDU",
   "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
-
+},
 {
   "title-short" : "\"BDU: "thinking_booster"\"",
   "title" : "Barking Dogs United: FX I, II, III - "thinking_booster", Digital Collage, 2008\"",
@@ -384,7 +372,7 @@ Bibex!
   "copyright" : "Barking Dogs United" ,
   "source" : "BDU",
   "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
+},
 
 
 
@@ -397,8 +385,7 @@ Bibex!
   "media-type" : "Foto",
   "copyright" : nts ,
   "source" : nts,
-  
-}
+},
 
 **Bild:** [KoCAinn Entwurf auf Tisch]
 
