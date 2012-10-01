@@ -1,7 +1,20 @@
-**Bild:** [Timm Ulrichs: Betreten der Ausstellung Verboten]
-**Bild:** [Azorro Collective: Everything Has Been Done 2003 (Audio Transkription)]
-**Bild:** [Azorro Collective: Everything Has Been Done 2003 Stillbild vom Video]
-**Bild:** [Der Künstler Begriff nach Pons] 
+1. **Bild:** [Timm Ulrichs: Betreten der Ausstellung Verboten]
+{
+  "title-short" : "\"Betreten der Ausstellung Verboten\"",
+  "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
+  "filename" : "ulrichs_betreten_verboten.jpg",
+  "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
+  "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
+  "source" : "Sprengel Museum Hannover",
+  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
+}
+
+2. **Bild:** [Azorro Collective: Everything Has Been Done 2003 Stillbild vom Video]
+
+3. **Bild:** [Azorro Collective: Everything Has Been Done 2003 (Audio Transkription)]
+
+4. **Bild:** ["Künstler" nach Pons]  
+
 **Bild:** ["Französische Künstlermütze", zu ersteigen bei E-bay[^source-french_artist_golf_cap_by_ebay]
 **Bild:** [Model Naomi Campbell im Künstlerlook für Vivian Westwood]
 **Bild:** [Jörg Immendorf]
