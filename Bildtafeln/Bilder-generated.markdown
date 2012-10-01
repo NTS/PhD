@@ -297,6 +297,22 @@ Quelle: *Monopol* Magazin
 
 
 
+## [Künstler im Einsatz] 
+\vfill
+![Bild](pix/kuenstler_im_einsatz_david_tartakover.jpg) \
+\vfill
+Künstler im Einsatz: David Tartakover, "I am There" (IL) 2006"
+
+Foto --
+Quelle: uuufi
+
+<http://saloona.co.il/osobayo/?p=157>
+
+© David Tartakover
+\vfill
+
+
+
 ## [Bauhaus Curriculum] 
 \vfill
 ![Bild](pix/bauhaus_curriculum_1922.jpg) \
@@ -582,6 +598,38 @@ Quelle: *facebook*
 
 
 © keines
+\vfill
+
+
+
+## [Marc Bijl: Never Mind The Politics] 
+\vfill
+![Bild](pix/bijl_never_mind_the_politics.jpg) \
+\vfill
+Marc Bijl (NL): "Never Mind the Politics"
+
+Poster --
+Quelle: Courtesy Upstream gallery, Amsterdam/The breeder, Athens
+
+
+
+© Marc Bijl, 2005
+\vfill
+
+
+
+## [FUCK THE CURATOR] 
+\vfill
+![Bild](pix/bijl_never_mind_the_politics.jpg) \
+\vfill
+
+
+Foto in der "Kunstzeitung", Ausgabe 157, September 2009 --
+Quelle: via Aram's Blog
+
+<http://datenform.de/blog/oh-its-a-curator>
+
+© Marc Bijl, 2005
 \vfill
 
 
