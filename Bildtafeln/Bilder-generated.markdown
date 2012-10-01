@@ -39,13 +39,13 @@ Quelle:
 
 
 
-# Timm Ulrichs: "Betreten der Ausstellung Verboten", 1968/69 
+# "Betreten der Ausstellung Verboten"
 
 ![Bild](pix/ulrichs_betreten_verboten.jpg) \
 
-Timm Ulrichs: "Betreten der Ausstellung Verboten", 1968/69
+Timm Ulrichs: "Betreten der Ausstellung Verboten"
 
-zweifarbiger Siebdruck auf Aluminium --
+zweifarbiger Siebdruck auf Aluminium, 1968/69 --
 Quelle: Sprengel Museum Hannover
 
 <http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg>
@@ -56,11 +56,11 @@ Quelle: Sprengel Museum Hannover
 
 
 
-# Der Begriff "Künstler" nach Pons 
+# "Künstler" nach Pons
 
 ![Bild](pix/kuenstler_nach_pons.png) \
 
-Der Begriff "Künstler" nach Pons
+
 
 eigener Scan --
 Quelle: Pons Wörtbuch TODO
@@ -73,7 +73,7 @@ Quelle: Pons Wörtbuch TODO
 
 
 
-# Französische Künstlermütze, zu ersteigen bei ebay 
+# Französische Künstlermütze
 
 ![Bild](pix/french_artist_golf_cap_by_ebay.png) \
 
@@ -175,7 +175,7 @@ Quelle: privat
 
 
 
-# "The Electrician" erklärt seine Überlebensstrategie als Künstler 
+# "The Electrician"
 
 ![Bild](pix/willem_dafoe_basquiat.png) \
 
@@ -437,12 +437,12 @@ Quelle: TODO
 
 
 
- 2012 Face Book Meme --
-Quelle: facebook: Garnet Hertz Fotos
+Grafik, Internet-Meme --
+Quelle: facebook: "Garnet Hertz Fotos"
 
 <https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater>
 
-© Garnet Hertz
+© Garnet Hertz, 2012
    
 \pagebreak[4]
 

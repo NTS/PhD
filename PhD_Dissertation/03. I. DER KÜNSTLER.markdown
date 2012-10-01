@@ -9,16 +9,16 @@
 
 Was, oder wer ist ein Künstler?
 
-> "Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt -- aus irgendeinem Grund -- jedoch an, 
-> es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen. \
+> „Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt -- aus irgendeinem Grund -- jedoch an,
+> es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen.“ \
 > -- *Andy Warhol*[^andy-sinnlos]
 
 [^andy-sinnlos]: [@Warhol:vonAbisZ, pp. 130]
 
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was oder wer ist heute ein Künstler? Künstler stellten sich 
 selbst seit jeher als Beobachter von sich und der Welt dar. Aber was sind ihre 'Aufgaben', wenn sie denn solche haben? Wie werden sie von der Gesellschaft wahrgenommen? 
-Seit der Jahrtausendwende existieren verschiedene "Künstlertypen". Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft etwas 
-geändert. Joseph Beuys' Aussage wurde auf den einen Satz: "Jeder Mensch ist ein Künstler" relativiert. Das Originalzitat lautet: „... Ich sage, 
+Seit der Jahrtausendwende existieren verschiedene „Künstlertypen“. Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft etwas
+geändert. Joseph Beuys' Aussage wurde auf den einen Satz „Jeder Mensch ist ein Künstler“ relativiert. Das Originalzitat lautet: „... Ich sage,
 es muss ein anderer Kunstbegriff geprägt werden, der sich auf jedermann bezieht und nicht nur Sache der Künstler ist, sondern sich anthropologisch nur deklarieren lässt. D.h. jeder Mensch 
 ist ein Künstler in dem Sinne, dass er etwas gestalten kann. Alle Fragen der Menschen können nur Fragen der Gestaltung sein (Soziales Gestalten, Rechtsgestaltung, Natur – 
 und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“[^source-beuysprager]
@@ -28,7 +28,7 @@ und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns
 Gilt die Aussage „Das kann mein Kind auch“ in diesem Sinne? Nicht nur Kinder können das, auch Affen (Arnulf Rainer), oder Elefanten (Komar und Melamid), 
 und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb formaler Ähnlichkeiten. Kann wirklich jeder lernen, ein Künstler zu werden?
 Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von „const“ was soviel wie Können, 
-Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch „Kunst kommt vom Können"[@lexi:KlugeEtym] -- 
+Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch „Kunst kommt vom Können“ [@lexi:KlugeEtym] --
 dieser Aphorismus hat sogar einen eigenen [Artikel bei der deutschsprachigen *Wikipedia*](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
 Hierzu ein Auszug aus dem ehemaligen [Meyers Online-Lexikon](http://web.archive.org/web/20090105132257/http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie):
 
@@ -54,7 +54,7 @@ Hierzu ein Auszug aus dem ehemaligen [Meyers Online-Lexikon](http://web.archive.
 [^LadyGaga]: LadyGaga, "Looking at me" <http://www.youtube.com/watch?v=2Hjm4D4LAGg>
 
 
-Der Künstler wird gern von anderen gesehen und beschrieben, aber stimmt dies mit dem wie Künstler sich selber beschreiben, überein? In jedem Kunststudium wird über "Mimesis" 
+Der Künstler wird gern von anderen gesehen und beschrieben, aber stimmt dies mit dem wie Künstler sich selber beschreiben, überein? In jedem Kunststudium wird über *Mimesis*
 (Nachahmung) sowie Platons Geniebegriff diskutiert. Ich würde gern folgendes Zitat aus Wolfgang Ullrichs Buch *Was war Kunst? Biografien eines Begriffs* [-@Ullrich:WasWarKunst] als 
 Ausgangspunkt wählen. In seinem Versuch das *je ne sais quoi* (das gewisse Etwas, das Unbeschreibliche) zu erläutern, schreibt er: „Nach Kants Kritik 
 der Urteilskraft: 'Genie ist, nicht Geschicklichkeitsanlage zu dem, was nach irgendeiner Regel gelernt werden kann… selbst nicht beschreiben oder wissenschaftlich 
@@ -164,7 +164,7 @@ Galerie und Galerist aufgelöst, der Künstler versteht sich als autark genug, u
 Er gestaltet seine Einladungen am eigenen Rechner, schreibt Texte, und wird sogar aufgefordert selbst die Aussagen über seine Arbeit und deren Aufklärung zu schreiben. 
 Er verschickt eigenständig Ausstellungseinladungen, E-Mails, publiziert sein Werk auf Internet-Plattformen wie Facebook und versteigert seine eigene Arbeit bei 
 Sotheby’s (Siehe den Fall Damien Hirst). Zum Mainstreaming gehören auch andere Verkaufsgelegenheiten, den der "Markt" bleibt nicht gleichgültig, das Thema ist interessant genug und im Jahr 2010 hat die 
-"Kunst Reproduktionsfirma" *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht:
+Kunstreproduktionsfirma *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht:
 
 **Bild:** [Kunstmarkt Brettspiel, Flyer] 
 
@@ -198,8 +198,26 @@ Die erste Version des Memes wurde im Februar 2012 auf *facebook* publiziert, und
 aus unterschiedlichen Perspektiven.
 
 **Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme]
+{
+  "title-short" : "\"Betreten der Ausstellung Verboten\"",
+  "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
+  "filename" : "ulrichs_betreten_verboten.jpg",
+  "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
+  "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
+  "source" : "Sprengel Museum Hannover",
+  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
+}
 
 **Bild:** [What Artists Do, Pie Chart auf Mylife 600]
+{
+  "title-short" : "\"Betreten der Ausstellung Verboten\"",
+  "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
+  "filename" : "ulrichs_betreten_verboten.jpg",
+  "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
+  "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
+  "source" : "Sprengel Museum Hannover",
+  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
+}
 
 
 ### Lisa Simpson & Claire Fisher
@@ -212,31 +230,27 @@ Claire Fisher, wächst in einem Familien-Bestattungsunternehmen auf, fotografier
 sich für die Kunsthochschule. In der gesamten vierten Staffel begleitet der Zuschauer ihre ersten Schritte in und bei der Konfrontationen mit der
 Kunstwelt. Alles wird sehr überlegt und kritisch dargestellt, Claire findet ihren Weg und erreicht ihre Ziele. In der Abschluss Episode 
 wird die Zukunft jeder Hauptrolle bis zum Tod im Schnellmodus dargestellt und Claire wird eine berühmte Fotografin, nach dem Model von Annie
-Leibowitz. Trotz all dem wird sie im Promo Plakat von Fan Art mit Pinsel und an der Staffelei abgebildet. 
+Leibowitz. Trotz all dem wird sie im Promo Plakat von Fan Art mit Pinsel und an der Staffelei abgebildet: **Bild:** [Claire Fisher (Six Feet Under)].
 
-
-**Bild:** [HBO's TV Serie Figur Claire Fisher (Six Feet Under) auf Fan Art Website *Dearly Devoted*]
-
-
-Diskrepanzen in der Wahrnehmung des Zuschauers? In die Comic Serie *American dad* macht der
+Diskrepanzen in der Wahrnehmung des Zuschauers? In der Cartoon-Serie [*American Dad!*](http://www.fox.com/americandad/) macht der
 Sohn, Chris, seinem Vater ein Bild als Geburtstagsgeschenk. Durch die ganze Episode werden alle
-Klischees zum Verhältnis Künstler & Kunstmarkt behandelt. Hier nur ein Beispiel, um zu zeigen, wie viele es davon gibt: (Siehe Volle Transkription im Anhang)
+Klischees zum Verhältnis Künstler & Kunstmarkt behandelt. Hier nur ein Beispiel, um zu zeigen, wie viele es davon gibt (siehe volle Transkription im Anhang).
 
 > HUND: „Dein Sohn nutzt seine Begabung, um sich seinen Traum zu erfüllen.“
-
+>
 > VATER: „Ich habe keinen Sohn mehr. Wenn Chris mich nicht braucht, 
 > dann brauch ich ihn auch 
 > nicht. Es wird dir gefallen, berühmt 
 > zu sein, Maggie, und nur in New York schafft man das.“
-
+>
 > TOCHTER: „Ach weiß nicht Dad, was soll ich denn machen?
-
+>
 > VATER: „Jeder kann irgendwas sehr gut, man muss nur sein verborgenes Supertalent rausfinden, 
 > aber versprich mir sobald du Erfolg 
 > hast, lass mich die Vorteile nutzen von alle dem….“
-
+>
 > TOCHTER: „Ich glaube, ich habe zu gar nichts eine Begabung.“
-
+>
 > VATER: „Bitte denke scharf nach, es muss doch etwas geben, was du kannst?!“
 
 Mittlerweile gibt es mehrere TV Programme, die in einem Reality Format, wie *Deutschland sucht den Superstar* auch die Kunstwelt zur Schau stellen. 
@@ -249,7 +263,7 @@ dem üblichen Fernsehniveau an und zwar nicht das der Kreationen, sondern jenes 
 
 Das *Artist's Statement* von Charlotte Young, das sich auch über das Internet verbreitet hat, zeigt eine schnelle Vergeltungskraft im Dialog über die Arbeitsverhältnisse: 
 
-"Hey, my Name is Charlotte Young..." so fängt der Werbefilm der Künstlerin an, die auf Englisch über sich als Künstlerin erzählt, während die "Wahrheit" bzw. eine 
+"Hey, my Name is Charlotte Young..." so fängt der Werbefilm der Künstlerin an, die auf Englisch über sich als Künstlerin erzählt, während die ‚Wahrheit‘ bzw. eine
 sozial-wirtschaftliche Interpretation über sie als eine Art Übersetzung im Untertitel läuft. Viele Künstler würden dieser Diskrepanz zustimmen: Eine kreative 
 Anzeige und gleichzeitig ein bissiges Geständnis zur Diskrepanz zwischen Eigenbewertung (wahrgenommener Realität) und wie sie in Sprache als Selbstbewusstsein übersetzt wird.
 

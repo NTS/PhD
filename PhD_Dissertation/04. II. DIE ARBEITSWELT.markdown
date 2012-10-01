@@ -34,9 +34,9 @@ Ist Künstler aber ein Beruf? Zuerst wird der Begriff Autor untersucht, auf sein
 
 > „Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf 
 > das Talent oder auf die Arbeit der betreffenden Person ganz genau zugeschnitten sind.“ \
-> -- *Andy Warhol*[^andy-talentwage]
+> -- *Andy Warhol*[^andy-paypertalent]
 
-[^andy-talentwage]: [@Warhol:vonAbisZ, pp.99]
+[^andy-paypertalent]: [@Warhol:vonAbisZ, pp.99]
 
 Zu Goethes Zeit wurde per Hand geschrieben. Um ihn herum gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
 zu lektorieren, Bilder und Rechte zu besorgen, zu layouten, zu gestalten, verlegen, vermarkten und eventuell zu übersetzen. Heute liegt die Regie größtenteils beim Autor selbst und seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum, 
@@ -94,12 +94,12 @@ in der er malte, und das mag für ihn durchaus gegolten haben, ich weiß aber, d
 bezahlt zu werden, in der ich etwas tue. Während ich im Krankenhaus lag, arbeitete der 'Stab' weiter, und mir wurde klar, dass ich mit meinem Unternehmen sozusagen 
 ein Kinetisches Business besaß – es lief auch ohne mich weiter. Mir war das sehr lieb, denn für mich stand schon zu diesem Zeitpunkt fest, dass die größte Kunst 
 das Geschäft mit ihr ist, also 'das Business' an sich. (…) nachdem ich also 'Kunst' gemacht hatte (wenn man es so nennen will), 
-stieg ich in die Business-Kunst ein.“ [@Warhol:vonAbisZ, pp.86–87]
+stieg ich in die Business-Kunst ein.“ [@Warhol:vonAbisZ, pp. 86–87]
 
 Die Tatsache, dass der Arbeitsplatz längst nicht mehr die Entscheidung über den Wohnort bestimmt, was sich gerade durch die 
 Globalisierung verstärkt hat, haben vor allem Künstler seit längerem für sich festgestellt und sich dementsprechend angepasst. 
 
-In *Die Legende vom Künstler* [@Kris:Legende] schreiben Ernst Kris und Otto Kurz, wie der Künstler zu allen Zeiten unterschiedlich sein und agieren muss, 
+In *Die Legende vom Künstler* [-@Kris:Legende] schreiben Ernst Kris und Otto Kurz, wie der Künstler zu allen Zeiten unterschiedlich sein und agieren muss,
 da die Gesellschaft nur bestimmte Sachen honoriert. Erneut ist also die Rede von Anpassung. Ein zweites Argument von Benjamin: Ist man nicht nur Opfer 
 sondern auch Täter? Die vorgefundene Welt kann auch manipuliert werden.  Einerseits kann man sich in ihr einrichten und akzeptieren: „So existiert die Welt“. 
 Andererseits gibt es die Haltung: „Ich bin funktionsgestört und ändere sie“. 
@@ -143,9 +143,12 @@ Gesellschaft nach „durchgeknallten Künstlertypen“ wider, die das unangepass
 
 ## "Would you like to be modified?"[^modified]
 
-[^modified]: Aus einem Dialog zwischen Roy und Tyrell, aus dem Film *Blade Runner* (1982 Regie: Ridly Scott)en.wikiquote.org/wiki/Blade_Runner Roy: "It's not an easy thing to meet your maker. 
-Tyrell: What can he do for you? Roy: Can the maker repair what he makes? Tyrell: Would you like to be modified?
-
+[^modified]: Aus einem Dialog zwischen *Roy* und *Tyrell*, aus dem Film *Blade Runner* (1982, Regie: Ridly Scott): \
+*Roy:* "It's not an easy thing to meet your maker. \
+*Tyrell:* "What can he do for you?" \
+*Roy:* "Can the maker repair what he makes?" \
+*Tyrell:* "Would you like to be modified?" \
+<http://en.wikiquote.org/wiki/Blade_Runner>
 
 Zunächst möchte ich meinen eigenen künstlerischen Werdegang kurz vorstellen. Ich finde dies wichtig, denn ich selbst bin auch ein 
 exemplarisches „Produkt“ unserer Zeit. In erster Linie habe ich Fotografie in Jerusalem studiert. Dies war eher aus einer Überlegung heraus 
@@ -178,7 +181,7 @@ jedoch an ein System anpassen, welches (anders) reguliert ist und zeitbegrenzte 
 
 
 
-## Where Is My Money?[^wheremymoney]   
+## *Where's My Money?*[^wheremymoney]
 
 [^wheremymoney]: *TC* - Where's My Money (Caspa Remix)
 
@@ -224,8 +227,8 @@ Bekannt ist die Einstellung wohlmeinender Älterer, man soll was Gescheites stud
 
 Allerdings war/ist der „Akademische Künstler“ eher negativ konnotiert.
 
-In seinem Buch *Kunst die hängen bleibt* schreibt Karl Schawelka: "Die Vorteile, die man als Künstler hat, wenn man zu den *Top Ten* gehört, sind denn auch beträchtlich. 
-Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse. Künstler erhalten sie nicht allein von ihren Sammlern." [@Schawelka:Kunsthngenbleibt, pp. 228]
+In seinem Buch *Kunst, die hängen bleibt* schreibt Karl Schawelka: „Die Vorteile, die man als Künstler hat, wenn man zu den *Top Ten* gehört, sind denn auch beträchtlich.
+Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse. Künstler erhalten sie nicht allein von ihren Sammlern.“ [@Schawelka:Kunsthngenbleibt, pp. 228]
 
 
 

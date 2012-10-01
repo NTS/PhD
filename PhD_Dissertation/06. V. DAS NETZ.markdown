@@ -74,7 +74,7 @@ kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.
 
 ### Protest: Digital & Global
 
-Der []*digital native*](https://de.wikipedia.org/wiki/Digital_Native) wird zu einer politischen und globalen Persönlichkeit. 
+Der [*digital native*](https://de.wikipedia.org/wiki/Digital_Native) wird zu einer politischen und globalen Persönlichkeit.
 
 *Digital natives* bekommen ihre Information längst aus anderen Quellen als den offiziellen Nachrichtenkanälen in Funk & Fernsehen und haben gelernt, sie auf ihre Echtheit zu prüfen. 
 Man kann feststellen, dass in vielen Fällen wie bei der Entwicklung der „Occupy“-Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien diese durch Twitter 
@@ -90,10 +90,10 @@ Missachtung und geringe Berichterstattung die Kommunikation zu drosseln, also be
 
 **Meme**
 
-Wenn man die Schilder der „Occupy“-Bewegung und anderer Protestbewegungen als Beispiel nimmt, 
+Wenn man die Schilder der [*Occupy*](http://occupywallst.org)-Bewegung und anderer Protestbewegungen als Beispiel nimmt,
 stellt man fest, dass sich Statusmeldungen auf Facebook und lustige Protestschilder auf Demonstrationen sehr ähnlich sind. In beiden Fällen handelt es sich um eine spontane Position, 
 die eine weitere Ebene erreicht hat. Diese Spontanität (man denkt natürlich auch an die Spontis und ihre Protestgraffiti in den 1970er Jahren in Deutschland) wird durch 
-die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebenen: die der Straße mit dem Computer „zuhause“; sie werden zu einer Realität. 
+die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebenen: die der Straße mit dem Computer ‚zuhause‘; sie werden zu einer Realität.
 Das Internet ist und kann nur die Verlängerung der physischen Realität sein, da wir selbst die Inhalte dieses Kanals erstellen und einspeisen.
 
 Einige dieser Inhalte sind als Internet-Phänomen zu Memes geworden. Als [„Meme“](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen) -- abgeleitet vom allgemeineren [„Mem“](http://de.wikipedia.org/wiki/Mem) -- wird ein Konzept in Form eines Links oder einer Bild-, Ton- und Videodatei bezeichnet, 
@@ -111,9 +111,9 @@ TODO:
 
 **Bild:** [Pike makes a stop in “Christina’s World,“ by Andrew Wyeth]
 
-Den Konflikt zwischen dem Machtkampf und menschlichen Bedürfnissen hat wiederum Marcel Walldorf in seiner lebensechten Plastik "Pinkelnde Petra" (2010) auf dem Punkt gebracht, in dem er eine 1:1 Skulptur nach einer Polizistin in eine unangenehmen Position nachbildete.
+Den Konflikt zwischen dem Machtkampf und menschlichen Bedürfnissen hat wiederum Marcel Walldorf in seiner lebensechten Plastik *„Pinkelnde Petra“* (2010) auf dem Punkt gebracht, in dem er eine 1:1 Skulptur nach einer Polizistin in eine unangenehmen Position nachbildete.
 
-**Bild:** [ Marcel Walldorf: „Pinkelnde Petra“, 2010]
+**Bild:** [„Pinkelnde Petra“]
 
 Wie werden solche Einzelbilder zum Meme? Sie werden zuerst im Netz und digital produziert und zirkuliert, ihr Ursprung aber kommt meist aus dem nichtvirtuellen 
 Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert, selektiert, reproduziert und re-reprojiziert und reisen so durch die Kanäle, 
@@ -198,7 +198,7 @@ Künstler sind zunehmend ortsunabhängig, die Migrationsraten steigen und das Le
 Übernimmt der Digitalisierungsprozess in unserer Gesellschaft die Oberhand? Elektronische Einsamkeit bringt ein Kybernetisches 
 Ödland hervor, das aber auf den vorherigen Paradigmen beruht. Dazu gehört eine Aristokratie, die einen tiefen Hass auf die Online-Massen hegt, 
 doch in der Wirklichkeit ist zunehmend von den „Netz-Kindern“ zu hören (wobei diese sich im Gegensatz zu vorherigen „Generationen“ 
-nicht über eine Altersgruppe definieren lassen, wie der polnische Dichter Piotr Czerski in seinem Text ["Wir, die Netz-Kinder"](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt). 
+nicht über eine Altersgruppe definieren lassen, wie der polnische Dichter Piotr Czerski in seinem Text [„Wir, die Netz-Kinder“](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt).
 
 Die sog. “Millenials” sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein-und-die-selbe Realität. Muttersprache und Fremdsprache werden 
 durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung ersetzt. „Der virtuelle Intellektuelle ist vor allem ausgestattet mit technischen Kompetenzen 
@@ -229,7 +229,8 @@ Kino eine „clevere Werbung“ entgegen kommt und ein intellektuelles Rätsel, 
 Wir wollen immer bessere Qualität, eine prompte Lieferung, zu einer selbstbestimmten Zeit, zu unserem Tagesablauf passend, der nicht von 
 einer der Drei „Zentralen“ ARD/ZDF, PRO7/SAT1 und RTL bestimmt wird. Thomas Raab schreibt im Vorwort zu seinem Buch „Avantgarde-Routine“: 
 „Einstweilen ist der Kunstdiskurs, d.h. die Rhetorik zur Fertigung der Aura des Kunstwerks, gekommen, um zu bleiben. Gemeinsam ist allen Avantgardekünstlern 
-der Glaube an die Kunst als ein besseres, umfassenderes Erkenntnismittel gegenüber der Wissenschaft".[@Raab:Avantgarde pp.???]Kunst hat sich als Rohr zur Freisprache 
+der Glaube an die Kunst als ein besseres, umfassenderes Erkenntnismittel gegenüber der Wissenschaft.“ [@Raab:Avantgarde pp. ???]
+Kunst hat sich als Rohr zur Freisprache
 etabliert. Die Menschen versuchen sie als Strategien, Künstler, wie auch andere, nutzen sie als eine demokratische Plattform. 
 
 **Bild:** [Richard Hamilton: „Just what is it that makes today's homes so different, so appealing?“, 1956]
@@ -255,7 +256,7 @@ Du musst die Emails checken.
 Du musst die Emails checken.
 Du darfst dich nicht verstecken.
 Du musst die Emails checken.
-Kommunikation um 's Verrecken, 
+Kommunikation um's Verrecken,
 darum musst du Emails checken.
 
 Geh mit der Zeit, oder geh zu Grunde.
@@ -319,10 +320,11 @@ Es wird alles besser.
 ## Next Project.
 
 
-> "I went from being an artist that makes things to being an artist that makes things happen" - Jeremy Deller
->  Künstler, Turner Price Gewinner 2006 
+> „I went from being an artist that makes things to being an artist that makes things happen“[^pic-deller]
+> -- Jeremy Deller
+>  (Künstler, Turner Price Gewinner 2006)]
 
-**Bild:** [jeremy_deller_on_my_iphone]
+[^pic-deller]: **Bild:** [jeremy_deller_on_my_iphone]
 
 
 **Der Fall Pussy Riot**
@@ -337,13 +339,13 @@ Hass und Hooliganismus zu einer zweijährigen Haftstrafe. Die Songs von *Pussy R
 Frauen im Land aufmerksam. Die Aufführungen finden an ungewöhnlichen Orten, wie Busse oder auf Gebäudedächern statt, und die Performer tragen immer Strumpfmasken 
 und bunte Kleider. Die Band arbeitet als ein Aktivisten Kollektiv: es sind 10 Musiker, und weitere 15 Menschen auf der technischen Seite, die die entstandenen Videoclips auf 
 das Internet hochladen. Die weiblichen Mitglieder nennen sich übersetzt *Fischsuppe*, *Katze*, *Hut* und *Schuhmacher.* Seit der Verhaftung, und noch 
-stärker nach dem Urteil, genießt *Pussy Riot* breite Unterstützung von vielen westlichen Musikern, darunter die Band "Faith No More", 
-Madonna, "Red Hot Chili Peppers", Björk und Paul McCartney.[^fn-urizeraviv] 
+stärker nach dem Urteil, genießt *Pussy Riot* breite Unterstützung von vielen westlichen Musikern, darunter die Band *Faith No More*,
+Madonna, die *Red Hot Chili Peppers*, Björk und Paul McCartney.[^fn-urizeraviv]
 
-[^fn-urizeraviv]: Kurze Fassung der Nachrichten Meldung *Kollektiv in Bewegung* von Uri Zer Aviv für die
-Haaretz Zeitung am 20.08.2012 [Link] http://www.haaretz.co.il/gallery/music/1.1805128 15.09.2012 13:40 Aus dem Heb. übersetzt von nts)
+[^fn-urizeraviv]: Kurze Fassung der Nachrichten-Meldung „Kollektiv in Bewegung“ von Uri Zer Aviv für die
+Haaretz Zeitung am 20.08.2012. Aus dem Heb. übersetzt von NTS. \ <http://www.haaretz.co.il/gallery/music/1.1805128> 15.09.2012 13:40)
 
-Auf Facebook ist nach dem Urteil folgender "Zettel" auf mehrere Blog Seiten hochgeladen und geteilt worden:
+Auf Facebook ist nach dem Urteil folgender Zettel auf mehreren Webseiten geteilt worden:
 
 **Bild:** [Aus Facebook: Zettel von Billy Bragg an Pussy Riot am Tag ihrer Verurteilung]
 
@@ -355,10 +357,10 @@ Der Theoretiker und Publizist [Slavoj Žižek schrieb über Pussy Riot](http://d
 >eine solche Bedrohung darstellen: Es ist leicht Personen zu inhaftieren, aber versuche, eine Idee zu inhaftieren“ 
 > -- *Slavoj Žižek*
 
-Neulich in einer Diskussion mit Norbert Hinterberger meinte dieser: "*Pussy Riot* sind ein gutes Beispiel für gesellschaftspolitisch erfolgreichen Dilettantismus unter dem Motto 'Der Zweck heiligt die Mittel'. 
-Mir ist das aber noch allemal lieber als PC-weichgespülte Mitleidsattitüden und viele Formen der 'Sozialkunst'!" Die Grenzen zwischen politischer Kunst, welche sich mit den negativen Auswirkungen 
+Neulich in einer Diskussion mit Norbert Hinterberger meinte dieser: „*Pussy Riot* sind ein gutes Beispiel für gesellschaftspolitisch erfolgreichen Dilettantismus unter dem Motto ‚Der Zweck heiligt die Mittel‘.
+Mir ist das aber noch allemal lieber als PC-weichgespülte Mitleidsattitüden und viele Formen der ‚Sozialkunst‘!“ Die Grenzen zwischen politischer Kunst, welche sich mit den negativen Auswirkungen
 der sozio-ökonomischen Ära des Spätkapitalismus auseinandersetzt, und reiner sozialer Arbeit verwischen langsam, wie zum Beispiel die Arbeit der Künstlergruppen *Wochenklausur* oder *Reinigungsgesellschaft*, die sich als 
-"künstlerisches Unternehmen an der Schnittstelle zwischen Kunst und Gesellschaft" verstehen, und fast reine Sozialarbeit, nämlich welche, die eigentlich von der Staat zu erwarten wären, treiben. 
+„künstlerisches Unternehmen an der Schnittstelle zwischen Kunst und Gesellschaft“ [@Erhardt:Social] verstehen, und fast reine Sozialarbeit, nämlich welche, die eigentlich von der Staat zu erwarten wären, treiben.
 
 Im Züge der *Occupy Bewegung* in verschiedenen Ländern, gab es auch diverse Auseinandersetzungen von Künstlern mit der Institution Museum. In Tel Aviv z.B. haben im Sommer 2011 mehrere Künstler eine Demonstration
 vor und im Museum durchgeführt und öffentlich mehr Dialog mit ihnen seitens des Instituts gefordert. In kleinen lokalen Aufständen in diversen Städten entstehen neue Kunststrukturen 
@@ -368,9 +370,9 @@ Die Drosselung und Begrenzung der Meinungsfreiheit durch Kontrolle wird bekämpf
 Die *dOCUMENTA(13)* unter der künstlerischen Leitung von Carolyn Christov-Bakargiev unterstützte die Occupy Bewegung und duldete Zelte auf der Wiese des Friedrichsplatzes. Just zur Preview stand das erste Zelt direkt vor 
 dem Eingang zum Fridericianum, an der Schwelle zu den Kaffeeständern draußen.[^documenta] 
 
-[^documenta]: Ein Echo dieses Zeitgeistes ist noch in der Pressemitteilung nach der Schließung zu spüren: "dOCUMENTA(13)
+[^documenta]: Ein Echo dieses Zeitgeistes ist noch in der Pressemitteilung nach der Schließung zu spüren: „dOCUMENTA(13)
 war für die Besucher keine Tagesveranstaltung. Die Ausstellung hat für die Besucher viel mehr eine Form von lebender Kultur repräsentiert, die zum Leben der Menschen gehört und in wiederholten Besuchen 
-erkundet wird, um dabei das Empfinden von Zeitdruck zu brechen, die Zeit und das Empfinden von Kunst befreien zu lassen." http://d13.documenta.de/de/#de/welcome/] 
+erkundet wird, um dabei das Empfinden von Zeitdruck zu brechen, die Zeit und das Empfinden von Kunst befreien zu lassen.“ http://d13.documenta.de/de/#de/welcome/]
 
 
 **Bild:** vom ersten Zelt NTS!
