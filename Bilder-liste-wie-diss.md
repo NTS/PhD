@@ -121,10 +121,26 @@
 }
 
 
+24. **Bild:** [Einladung BE-I]
 
 
-**Bild:** [Einladung BE-I]
-**Bild:** [Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim] TODO: http://www.galerie-eigenheim.de/?page_id=295)
+25. **Bild:** [Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim] TODO: http://www.galerie-eigenheim.de/?page_id=295)
+
+{
+  "title-short" : "\"Bene Braun Super Arm\"",
+  "title" : "Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim \"",
+  "filename" : "benedikt_braun_super_arm.png",
+  "media-type" : "Grafik",
+  "copyright" : "Sebastian Helm",
+  "source" : "Eigenheim Galerie Website",
+  "source-url" : "http://www.es-lebe-die-galerie.de 2012-09-19 um 17.42.45"
+}
+
+
+
+
+
+
 **Bild:** [Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010] TODO valenta_biz.jpg
 **Bild:** [Die Kunststipendiatin Minna XY aus XY, Kunstbetrieb Istanbuls als Mindmap] TODO: minnas_map_2006.jpg
 **Bild:** [Justin Hansch: „Best friends painting“, 2010]
