@@ -266,7 +266,7 @@ Bibex!
   "source-url" : "http://www."
 }
 
-36. **Bild:** []
+36. **Bild:** [Facebook Meldung von Johanna Warm]
 
 
 {
