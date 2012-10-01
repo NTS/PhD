@@ -290,7 +290,7 @@ Bibex!
   "source-url" : "http://www."
 }
 
-38. **Bilder:** [Barking Dogs United: FX I, FX II, FX III, 2008]
+38.-47.**Bilder:** [Barking Dogs United: FX I, FX II, FX III, 2008]
 
 {
   "title-short" : "\"BDU: "Bender Flip Size"\"",
