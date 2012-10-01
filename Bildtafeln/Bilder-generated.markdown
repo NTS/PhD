@@ -5,10 +5,10 @@
 
 
 
-# "Everything Has Been Done" (Audio Transkription) 
-
+## "Everything Has Been Done" (Audio Transkription) 
+\vfill
 ![Bild](pix/azorro_everything_has_been_done_1.JPG) \
-
+\vfill
 
 
 eigener Scan --
@@ -17,15 +17,14 @@ Quelle: Magazin TODO
 
 
 © Azorro Collective, 2003
-   
-\pagebreak[4]
+\vfill
 
 
 
-# "Everything Has Been Done" (Videostill) 
-
+## "Everything Has Been Done" (Videostill) 
+\vfill
 ![Bild](pix/azorro_everything_has_been_done_2.JPG) \
-
+\vfill
 
 
 eigenes Bildschirmfoto vom Video --
@@ -34,15 +33,16 @@ Quelle:
 
 
 © Azorro Collective, 2003
+\vfill
    
 \pagebreak[4]
 
 
 
-# "Betreten der Ausstellung Verboten" 
-
+## "Betreten der Ausstellung Verboten" 
+\vfill
 ![Bild](pix/ulrichs_betreten_verboten.jpg) \
-
+\vfill
 Timm Ulrichs: "Betreten der Ausstellung Verboten"
 
 zweifarbiger Siebdruck auf Aluminium, 1968/69 --
@@ -51,15 +51,16 @@ Quelle: Sprengel Museum Hannover
 <http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg>
 
 © VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose
+\vfill
    
 \pagebreak[4]
 
 
 
-# "Künstler" nach Pons 
-
+## "Künstler" nach Pons 
+\vfill
 ![Bild](pix/kuenstler_nach_pons.png) \
-
+\vfill
 
 
 eigener Scan --
@@ -68,15 +69,16 @@ Quelle: Pons Wörtbuch TODO
 
 
 © PONS GmbH
+\vfill
    
 \pagebreak[4]
 
 
 
-# Französische Künstlermütze 
-
+## Französische Künstlermütze 
+\vfill
 ![Bild](pix/french_artist_golf_cap_by_ebay.png) \
-
+\vfill
 Französische Künstlermütze, zu ersteigen bei ebay
 
 eigener Screenshot --
@@ -85,15 +87,16 @@ Quelle: Google-Bildsuche
 <https://www.google.de/search?biw=1299&bih=666&tbm=isch&sa=1&q=french+artist+cap>
 
 © Internet
+\vfill
    
 \pagebreak[4]
 
 
 
-# Naomi Campbell im Künstlerlook 
-
+## Naomi Campbell im Künstlerlook 
+\vfill
 ![Bild](pix/naomi_campbell_for_vivian_westwood.jpg) \
-
+\vfill
 Model Naomi Campbell im Künstlerlook für Vivian Westwood
 
 Foto --
@@ -102,15 +105,16 @@ Quelle: TODO
 
 
 © Artist
+\vfill
    
 \pagebreak[4]
 
 
 
-# "Jörg Immendorf" 
-
+## "Jörg Immendorf" 
+\vfill
 ![Bild](pix/joerg-immendorf-by-andrea-strappert-2001.jpg) \
-
+\vfill
 
 
 Foto --
@@ -119,15 +123,16 @@ Quelle: TODO
 
 
 © Andrea Strappert, 2001
+\vfill
    
 \pagebreak[4]
 
 
 
-# Warhol-Stickers 
-
+## Warhol-Stickers 
+\vfill
 ![Bild](pix/warhol_stickers.png) \
-
+\vfill
 Aufkleber mit Zitaten von Andy Warhol
 
 eigener Scan --
@@ -136,15 +141,16 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 
 
 © Staatliche Museen zu Berlin - Preußischer Kulturbesitz
+\vfill
    
 \pagebreak[4]
 
 
 
-# "In the future everyone will be famous for fifteen minutes" 
-
+## "In the future everyone will be famous for fifteen minutes" 
+\vfill
 ![Bild](pix/warhol_etoui.jpg) \
-
+\vfill
 Aufkleber mit Zitat von Andy Warhol: "In the future everyone will be famous for fifteen minutes"
 
 eigener Scan --
@@ -153,15 +159,16 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 
 
 © Staatliche Museen zu Berlin - Preußischer Kulturbesitz
+\vfill
    
 \pagebreak[4]
 
 
 
-# "Your 15 minutes are up" 
-
+## "Your 15 minutes are up" 
+\vfill
 ![Bild](pix/warhol_your_15_minutes_are_up.jpg) \
-
+\vfill
 Ha-Ha Funny Buttons: "Your 15 minutes are up (Warhol)"
 
 eigener Scann --
@@ -170,15 +177,16 @@ Quelle: privat
 <http://www.ephemera-inc.com/Shop-By-Product-Type/Pinback-Buttons/Other-/-Random-Pinback-Buttons/Your-15-minutes-are-up.-Warhol-Pinback-Button-0584b.html>
 
 © Ha-Ha Funny Buttons
+\vfill
    
 \pagebreak[4]
 
 
 
-# "The Electrician" 
-
+## "The Electrician" 
+\vfill
 ![Bild](pix/willem_dafoe_basquiat.png) \
-
+\vfill
 "The Electrician" erklärt seine Überlebensstrategie als Künstler
 
 eigener Still  --
@@ -187,15 +195,16 @@ Quelle: aus dem Film *Basquiat*, 1996
 <http://www.imdb.com/title/tt0115632/>
 
 © Eleventh Street Production
+\vfill
    
 \pagebreak[4]
 
 
 
-# Jeff Koons mit seinen Mitarbeitern 
-
+## Jeff Koons mit seinen Mitarbeitern 
+\vfill
 ![Bild](pix/jeff_koons_und_mitarbeiter.jpg) \
-
+\vfill
 
 
 Foto --
@@ -204,15 +213,16 @@ Quelle: für das *Monopol* Magazin
 
 
 © Jason Schmidt
+\vfill
    
 \pagebreak[4]
 
 
 
-# Kunstmarkt-Brettspiel-Flyer 
-
+## Kunstmarkt-Brettspiel-Flyer 
+\vfill
 ![Bild](pix/kunstmarkt_prestel_flyer.jpg) \
-
+\vfill
 
 
 Flyer --
@@ -221,15 +231,16 @@ Quelle: Prestel Verlag, 2007
 
 
 © Franz-Benno Delonge
+\vfill
    
 \pagebreak[4]
 
 
 
-# Kunstmarkt-Brettspiel 
-
+## Kunstmarkt-Brettspiel 
+\vfill
 ![Bild](pix/kunstmarkt_prestel_2karten.jpg) \
-
+\vfill
 
 
 Detail: 2 Spielkarten --
@@ -238,15 +249,16 @@ Quelle: Prestel Verlag, 2007
 
 
 © Franz-Benno Delonge
+\vfill
    
 \pagebreak[4]
 
 
 
-# Verstehen Sie Moderne Kunst auf Anhieb 
-
+## Verstehen Sie Moderne Kunst auf Anhieb 
+\vfill
 ![Bild](pix/understand_modern_art_object.jpg) \
-
+\vfill
 
 
 Objekt --
@@ -255,15 +267,16 @@ Quelle: aus dem Museumshop
 
 
 © MoMA Berlin
+\vfill
    
 \pagebreak[4]
 
 
 
-# BDU: "Bender Flip Size" 
-
+## BDU: "Bender Flip Size" 
+\vfill
 ![Bild](pix/bdu_bender_flip_size_matterz_acc_2008.png) \
-
+\vfill
 Barking Dogs United: "Bender Flip Size"
 
  aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
@@ -273,15 +286,16 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 © Barking Dogs United, 2008
 
+\vfill
    
 \pagebreak[4]
 
 
 
-# BDU: "Brain Equalizer" 
-
+## BDU: "Brain Equalizer" 
+\vfill
 ![Bild](pix/bdu_brain_equalizer_size_matterz_acc_2008.png) \
-
+\vfill
 Barking Dogs United: "Brain Equalizer"
 
 aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
@@ -290,15 +304,16 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 
 © Barking Dogs United, 2008
+\vfill
    
 \pagebreak[4]
 
 
 
-# BDU: "Creative Reverb"  
-
+## BDU: "Creative Reverb"  
+\vfill
 ![Bild](pix/bdu_creative_reverb_size_matterz_acc_2008.png) \
-
+\vfill
 Barking Dogs United: "Creative Reverb" 
 
 aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
@@ -307,15 +322,16 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 
 © Barking Dogs United, 2008
+\vfill
    
 \pagebreak[4]
 
 
 
-# BDU: "Influence Modifier" 
-
+## BDU: "Influence Modifier" 
+\vfill
 ![Bild](pix/bdu_influence_modifier_size_matterz_acc_2008.png) \
-
+\vfill
 Barking Dogs United: "Influence Modifier"
 
 aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
@@ -324,15 +340,16 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 
 © Barking Dogs United, 2008
+\vfill
    
 \pagebreak[4]
 
 
 
-# BDU: "Lust Station" 
-
+## BDU: "Lust Station" 
+\vfill
 ![Bild](pix/bdu_lust_station_size_matterz_acc_2008.png) \
-
+\vfill
 Barking Dogs United: "Lust Station"
 
 aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
@@ -341,15 +358,16 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 
 © Barking Dogs United, 2008
+\vfill
    
 \pagebreak[4]
 
 
 
-# BDU: "Mental Core" 
-
+## BDU: "Mental Core" 
+\vfill
 ![Bild](pix/bdu_mental_core_size_matterz_acc_2008.png) \
-
+\vfill
 Barking Dogs United: "Mental Core"
 
 aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
@@ -358,15 +376,16 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 
 © Barking Dogs United, 2008
+\vfill
    
 \pagebreak[4]
 
 
 
-# BDU: "Range-r" 
-
+## BDU: "Range-r" 
+\vfill
 ![Bild](pix/bdu_ranger-r_size_matterz_acc_2008.png) \
-
+\vfill
 Barking Dogs United: "Range-r"
 
 aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
@@ -375,15 +394,16 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 
 © Barking Dogs United, 2008
+\vfill
    
 \pagebreak[4]
 
 
 
-# BDU: "Reliability" 
-
+## BDU: "Reliability" 
+\vfill
 ![Bild](pix/bdu_reliability_size_matterz_acc_2008.png) \
-
+\vfill
 Barking Dogs United: "Reliability"
 
 aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
@@ -392,15 +412,16 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 
 © Barking Dogs United, 2008
+\vfill
    
 \pagebreak[4]
 
 
 
-# BDU: "Thinking Booster" 
-
+## BDU: "Thinking Booster" 
+\vfill
 ![Bild](pix/bdu_thinking_booster_size_matterz_acc_2008.png) \
-
+\vfill
 Barking Dogs United: "Thinking Booster"
 
 aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
@@ -409,15 +430,16 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 
 © Barking Dogs United, 2008
+\vfill
    
 \pagebreak[4]
 
 
 
-# Vuk Vidor: "Art history" 
-
+## Vuk Vidor: "Art history" 
+\vfill
 ![Bild](pix/vuk_vidor_art_history.jpg) \
-
+\vfill
 Vuk Vidor: "Art history (part one - version C)"
 
 Silkscreen --
@@ -426,15 +448,16 @@ Quelle: TODO
 
 
 © Vuk Vidor, 2004-2009
+\vfill
    
 \pagebreak[4]
 
 
 
-# "Contemporary Artist" 
-
+## "Contemporary Artist" 
+\vfill
 ![Bild](pix/garnet_hertz_contemporary_artist_fb_meme.jpg) \
-
+\vfill
 
 
 Grafik, Internet-Meme --
@@ -443,15 +466,16 @@ Quelle: facebook: "Garnet Hertz Fotos"
 <https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater>
 
 © Garnet Hertz, 2012
+\vfill
    
 \pagebreak[4]
 
 
 
-# HBO's TV Serie Figur Claire Fisher (Six Feet Under) 
-
+## HBO's TV Serie Figur Claire Fisher (Six Feet Under) 
+\vfill
 ![Bild](pix/claire_fisher-milestogo1440.jpg) \
-
+\vfill
 Claire Fisher (Six Feet Under)
 
 HBO's TV series promotion material --
@@ -460,15 +484,16 @@ Quelle: Fan Art Website
 
 
 © *Dearly Devoted*, HBO
+\vfill
    
 \pagebreak[4]
 
 
 
-# KoCA inn Schild (Entwurf) 
-
+## KoCA inn Schild (Entwurf) 
+\vfill
 ![Bild](pix/kocainn_entwurf_auf_tisch.jpg) \
-
+\vfill
 
 
 Studentischer Entwurf vom Fachkurs auf Universitätstisch --
@@ -477,15 +502,16 @@ Quelle: privat
 
 
 © KIOSK09
+\vfill
    
 \pagebreak[4]
 
 
 
-# KIOSK09-Fachkurs Teilnehmer bei der Arbeit 
-
+## KIOSK09-Fachkurs Teilnehmer bei der Arbeit 
+\vfill
 ![Bild](pix/fachkurs_teilnehmer_bei_der_arbeit.jpg) \
-
+\vfill
 
 
 Foto --
@@ -494,15 +520,16 @@ Quelle: privat
 
 
 © NTS
+\vfill
    
 \pagebreak[4]
 
 
 
-# Bauhaus-Essentials I  
-
+## Bauhaus-Essentials I  
+\vfill
 ![Bild](pix/bauhaus_essentials_1_einladung_marke_6.jpg) \
-
+\vfill
 
 
 Einladung der BUW Studentische Galerie marke.6 --
@@ -511,6 +538,7 @@ Quelle: privat
 
 
 © Max F. Albrecht, 2010
+\vfill
    
 \pagebreak[4]
 

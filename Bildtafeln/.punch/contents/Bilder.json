@@ -6,7 +6,8 @@
       "media-type" : "eigener Scan",
       "copyright" : "Azorro Collective, 2003",
       "source" : "Magazin TODO",
-      "source-url" : null
+      "source-url" : null,
+      "snap" : true
     },
     {
       "title" : "\"Everything Has Been Done\" (Videostill)",

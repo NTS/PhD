@@ -5,10 +5,10 @@
 
 {{#Bilder}}
 {{#unless disabled}}
-{{#if title-short}}# {{{title-short}}} {{else}}# {{{title}}} {{/if}}
-
+{{#if title-short}}## {{{title-short}}} {{else}}## {{{title}}} {{/if}}
+\vfill
 ![Bild](pix/{{{filename}}}) \
-
+\vfill
 {{#if title-short}}{{{title}}}{{/if}}
 
 {{{media-type}}} --
@@ -17,7 +17,8 @@ Quelle: {{{source}}}
 {{#if source-url}}<{{{source-url}}}>{{/if}}
 
 © {{{copyright}}}
-   
+\vfill
+{{#unless snap}}   
 \pagebreak[4]
-{{/unless}}
+{{/unless}}{{/unless}}
 {{/Bilder}}
