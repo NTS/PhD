@@ -70,8 +70,6 @@ Quelle: Pons Wörtbuch TODO
 
 © PONS GmbH
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -88,8 +86,6 @@ Quelle: Google-Bildsuche
 
 © Internet
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -106,8 +102,6 @@ Quelle: TODO
 
 © Artist
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -124,8 +118,6 @@ Quelle: TODO
 
 © Andrea Strappert, 2001
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -142,8 +134,6 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 
 © Staatliche Museen zu Berlin - Preußischer Kulturbesitz
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -160,8 +150,6 @@ Quelle: Museumshop am Hamburger Bahnhof, Berlin 2009
 
 © Staatliche Museen zu Berlin - Preußischer Kulturbesitz
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -178,8 +166,6 @@ Quelle: privat
 
 © Ha-Ha Funny Buttons
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -196,8 +182,6 @@ Quelle: Prestel Verlag, 2007
 
 © Franz-Benno Delonge
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -214,8 +198,6 @@ Quelle: Prestel Verlag, 2007
 
 © Franz-Benno Delonge
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -232,8 +214,6 @@ Quelle: aus dem Museumshop, MoMA Berlin
 
 © Dana Wyse, 2004
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -250,8 +230,6 @@ Quelle: facebook: "Garnet Hertz Fotos"
 
 © Garnet Hertz, 2012
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -268,8 +246,6 @@ Quelle: My Life 600 Website
 
 © *Mylife 600*
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -286,8 +262,6 @@ Quelle: Fan Art Website
 
 © *Dearly Devoted*, HBO
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -304,8 +278,6 @@ Quelle: aus dem Film *Basquiat*, 1996
 
 © Eleventh Street Production
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -322,8 +294,6 @@ Quelle: für das *Monopol* Magazin
 
 © Jason Schmidt
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -331,7 +301,7 @@ Quelle: für das *Monopol* Magazin
 \vfill
 ![Bild](pix/bauhaus_curriculum_1922.jpg) \
 \vfill
-Das Bauhaus Curriculum, 1922
+
 
 Grafik --
 Quelle: Itten, Johannes : Mein Vorkurs am Bauhaus. Otto Maier Verlag, 1963
@@ -340,8 +310,6 @@ Quelle: Itten, Johannes : Mein Vorkurs am Bauhaus. Otto Maier Verlag, 1963
 
 © Johannes Itten, 1922
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -349,17 +317,15 @@ Quelle: Itten, Johannes : Mein Vorkurs am Bauhaus. Otto Maier Verlag, 1963
 \vfill
 ![Bild](pix/thomas_hirschhorn_booksleeve.jpg) \
 \vfill
-Buchumschlag "The artist as public Intellectual" mit Text von Thomas Hirschhorn 
+"The artist as public Intellectual" mit Text von Thomas Hirschhorn 
 
-Grafik --
-Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008
+Buchumschlag --
+Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Schlebrügge.Editor, Wien, 2008
 
 
 
 © Thomas Hirschhorn, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -370,14 +336,12 @@ Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Vo
 
 
 Seite aus dem Buch "The artist as public Intellectual" mit Text von Thomas Hirschhorn --
-Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008
+Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Schlebrügge.Editor, Wien, 2008
 
 
 
 © Thomas Hirschhorn, 2008
 \vfill
-   
-\pagebreak[4]
 
 
 
@@ -388,11 +352,128 @@ Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Vo
 
 
 Mindmap als Einladungsmotiv --
-Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008
+Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Schlebrügge.Editor, Wien, 2008
 
 
 
 © Thomas Hirschhorn
+\vfill
+
+
+
+## Die Gallerie ist Tot 
+\vfill
+![Bild](pix/die_galerie_ist_tot.jpg) \
+\vfill
+Aktion zur Vorgründung der marke.6, 2006u
+
+Button --
+Quelle: Giveaway vor Ort
+
+<http://www.es-lebe-die-galerie.de>
+
+© Sebastian Helm
+\vfill
+
+
+
+## Bauhaus-Essentials I 
+\vfill
+![Bild](pix/bauhaus_essentials_1_einladung_marke_6.jpg) \
+\vfill
+
+
+Einladungs-Postkarte --
+Quelle: Studentische Galerie marke.6
+
+
+
+© Max F. Albrecht, 2010
+\vfill
+
+
+
+## Benedikt Braun: Super Arm 
+\vfill
+![Bild](pix/benedikt_braun_super_arm.png) \
+\vfill
+Benedikt Braun Super Arm Solo Exhibition
+
+Blogpost (eigener Screenshot) --
+Quelle: Eigenheim Galerie Website
+
+<http://www.galerie-eigenheim.de/?page_id=295) 2012-09-19 um 17.42.45>
+
+© Benedikt Braun, Galerie Eigenheim
+\vfill
+
+
+
+## "Philipp Valenta mit Geldbeutel" 
+\vfill
+![Bild](pix/valenta_biz.jpg) \
+\vfill
+Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 "
+
+Foto --
+Quelle: nts 2010
+
+<http://www.>
+
+© cc nts
+\vfill
+
+
+
+## John Pike pepper sprays students 
+\vfill
+![Bild](pix/police-officer-pepper-spr-007.jpeg) \
+\vfill
+Police lieutenant John Pike pepper sprays students at UC Davis 2012
+
+Foto --
+Quelle: Internet
+
+<http://www.occupythegame.com/lieutenant_john_pike/>
+
+© Associated Press
+\vfill
+   
+\pagebreak[4]
+
+
+
+## "Sunday Afternoon nach Edouard Manet" 
+\vfill
+![Bild](pix/sundayafternoon.jpeg) \
+\vfill
+Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)"
+
+Foto --
+Quelle: Internet
+
+<http://www.occupythegame.com/lieutenant_john_pike/>
+
+© unknown
+\vfill
+   
+\pagebreak[4]
+
+
+
+## John Pike in "Christina’s World" 
+\vfill
+![Bild](pix/pepper-spray-cop9.jpeg) \
+\vfill
+John Pike makes a stop in “Christina’s World,“ by  "
+
+Foto --
+Quelle: Internet
+
+<http://www.occupythegame.com/lieutenant_john_pike/>
+
+© Andrew Wyeth, 2010
+
 \vfill
    
 \pagebreak[4]
@@ -610,24 +691,6 @@ Quelle: privat
 
 
 © NTS
-\vfill
-   
-\pagebreak[4]
-
-
-
-## Bauhaus-Essentials I  
-\vfill
-![Bild](pix/bauhaus_essentials_1_einladung_marke_6.jpg) \
-\vfill
-
-
-Einladung der BUW Studentische Galerie marke.6 --
-Quelle: privat
-
-
-
-© Max F. Albrecht, 2010
 \vfill
    
 \pagebreak[4]

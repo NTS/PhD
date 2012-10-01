@@ -101,58 +101,14 @@ die sich schnell über das Internet verbreitet.
 Das Verhalten des Polizisten John Pike während eines Protests an der UC Davis in Kalifornien wurde zwar ursprünglich von Journalisten ausreichend bebildert, 
 die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension, nachdem Remixe aus dem Netz ihn einmal quer durch die Kunstgeschichte *mashten*. 
 
-<<<<<<< Local Changes
+**Bilder John (The_Pepperspray_cop) Pike Meme:** 
 
-**Bilder John (The_Pepperspray_cop) Pike Meme:** [Police lieutenant John Pike pepper sprays students at UC Davis]
-27. **Bild:** [John Pike pepper sprays students]
-{
-  "title-short" : "\"John Pike pepper sprays students\"",
-  "title" : "Police lieutenant John Pike pepper sprays students at UC Davis 2012 \"",
-  "filename" : "police-officer-pepper-spr-007.jpeg",
-  "media-type" : "Foto",
-  "copyright" : "" ,
-  "source" : "",
-  "source-url" : "http://www."
-}
-
-28. **Bild:** [Sunday Afternoon nach Edouard Manet] 
-
-{
-  "title-short" : "\"Sunday Afternoon nach Edouard Manet\"",
-  "title" : "Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)\"",
-  "filename" : "sundayafternoon.jpeg",
-  "media-type" : "Foto",
-  "copyright" : "cc nts" ,
-  "source" : "nts 2010",
-  "source-url" : "http://www."
-}
-
-29. **Bild:** [John Pike in “Christina’s World] 
-
-{
-  "title-short" : "\"John Pike in “Christina’s World\"",
-  "title" : "John Pike makes a stop in “Christina’s World,“ by Andrew Wyeth \"",
-  "filename" : "pepper-spray-cop9.jpeg",
-  "media-type" : "Foto",
-  "copyright" : "cc nts" ,
-  "source" : "nts 2010",
-  "source-url" : "http://www."
-}
+[John Pike pepper sprays students], [Sunday Afternoon nach Edouard Manet], [John Pike in “Christina’s World] 
 
 
 Den Konflikt zwischen dem Machtkampf und menschlichen Bedürfnissen hat wiederum Marcel Walldorf in seiner lebensechten Plastik *„Pinkelnde Petra“* (2010) auf dem Punkt gebracht, in dem er eine 1:1 Skulptur nach einer Polizistin in eine unangenehmen Position nachbildete.
 
-**Bild:** [Marcel Walldorf: „Pinkelnde Petra“]
-
-{
-  "title-short" : "\"Marcel Walldorf: „Pinkelnde Petra\"",
-  "title" : "Marcel Walldorf: „Pinkelnde Petra“, 2010\"",
-  "filename" : "pinkelnde-petra.jpeg",
-  "media-type" : "",
-  "copyright" : "c" ,
-  "source" : "",
-  "source-url" : "http://www."
-}
+**Bild:** [Marcel Walldorf: Pinkelnde Petra]
 
 Wie werden solche Einzelbilder zum Meme? Sie werden zuerst im Netz und digital produziert und zirkuliert, ihr Ursprung aber kommt meist aus dem nichtvirtuellen 
 Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert, selektiert, reproduziert und re-reprojiziert und reisen so durch die Kanäle, 
@@ -187,8 +143,6 @@ d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geri
 
 **Bild:** [„Viva La Resolution“]
 
-**Bild:** [Giancio: „Logo T-Shirt“]
-
 Mindestens seit den 1970er Jahren tragen wir Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit uns herum. Als ich 12 Jahre alt war, hieß es entweder *Adidas*, 
 *Levis* und *Lee* als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation 
 der Mode oder Anti-Mode (*„Hipsterie“*), ist als kulturelles Merkmal nicht weg zu denken. Individualität und Wohlstand werden durch Gestaltung und Design transportiert.
@@ -200,7 +154,6 @@ was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, 
 
 ### Kunst als Prophezeihung
 
-**Bild:** [Viktor Hertz: „Honest Logos“]
 
 Wie Flusser ausführt: „Man kann sagen, dass viele Bilder nicht versuchen, «konkrete» Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen 
 wie die Welt ist, sondern, wie sie sein kann oder sein soll.“ [-@Flusser:Kommuni, pp. 111] Obwohl er Bild im allgemein meint, macht speziell die Kunst genau das: Oft im voraus und nicht immer mit vollem Bewusstsein. Basiert die Kraft der Künstler  als Vorhersehende auf ihrem Beobachtungsvermögen, 

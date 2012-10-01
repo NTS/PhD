@@ -27,6 +27,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title-short" : "Künstlerbegriff nach Pons",
       "filename" : "kuenstler_nach_pons.png",
       "media-type" : "eigener Scan",
@@ -35,6 +36,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title-short" : "Französische Künstlermütze",
       "title" : "Französische Künstlermütze, zu ersteigen bei ebay",
       "filename" : "french_artist_golf_cap_by_ebay.png",
@@ -50,9 +52,11 @@
       "media-type" : "Foto",
       "copyright" : "Artist",
       "source" : "TODO",
-      "source-url" : null
+      "source-url" : null,
+      "snap" : true
     },
     {
+      "snap" : true,
       "title" : "Jörg Immendorf",
       "filename" : "joerg-immendorf-by-andrea-strappert-2001.jpg",
       "media-type" : "Foto",
@@ -61,6 +65,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title-short" : "Warhol-Stickers",
       "title" : "Aufkleber mit Zitaten von Andy Warhol",
       "filename" : "warhol_stickers.png",
@@ -70,6 +75,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title-short" : "In the future everyone will be famous for fifteen minutes",
       "title" : "Aufkleber mit Zitat von Andy Warhol: \"In the future everyone will be famous for fifteen minutes\"",
       "filename" : "warhol_etoui.jpg",
@@ -79,6 +85,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title-short" : "Your 15 minutes are up!",
       "title" : "Ha-Ha Funny Buttons: \"Your 15 minutes are up (Warhol)\"",
       "filename" : "warhol_your_15_minutes_are_up.jpg",
@@ -88,6 +95,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title" : "Kunstmarkt-Brettspiel-Flyer",
       "filename" : "kunstmarkt_prestel_flyer.jpg",
       "media-type" : "Flyer",
@@ -96,6 +104,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title" : "Kunstmarkt-Brettspiel",
       "filename" : "kunstmarkt_prestel_2karten.jpg",
       "media-type" : "Detail: 2 Spielkarten",
@@ -104,6 +113,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title" : "Mundspray: „Verstehen Sie Moderne Kunst auf Anhieb“",
       "title-short" : "Verstehen Sie Moderne Kunst auf Anhieb",
       "filename" : "understand_modern_art_object.jpg",
@@ -113,6 +123,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title" : "Contemporary Artist",
       "filename" : "garnet_hertz_contemporary_artist_fb_meme.jpg",
       "media-type" : "Grafik, Internet-Meme",
@@ -121,6 +132,7 @@
       "source-url" : "https://www.facebook.com/photo.php?fbid=10100822616387021&set=a.789185074681.2423901.6003191&type=1&theater"
     },
     {
+      "snap" : true,
       "title" : "What Artists Do",
       "filename" : "what_artists_do_mylife-600.jpg",
       "media-type" : "Pie Chart",
@@ -129,6 +141,7 @@
       "source-url" : "http://"
     },
     {
+      "snap" : true,
       "title" : "Claire Fisher (Six Feet Under)",
       "title-short" : "HBO's TV Serie Figur Claire Fisher (Six Feet Under)",
       "filename" : "claire_fisher-milestogo1440.jpg",
@@ -138,6 +151,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title-short" : "\"The Electrician\"",
       "title" : "\"The Electrician\" erklärt seine Überlebensstrategie als Künstler",
       "filename" : "willem_dafoe_basquiat.png",
@@ -147,6 +161,7 @@
       "source-url" : "http://www.imdb.com/title/tt0115632/"
     },
     {
+      "snap" : true,
       "title" : "Jeff Koons mit seinen Mitarbeitern",
       "filename" : "jeff_koons_und_mitarbeiter.jpg",
       "media-type" : "Foto",
@@ -155,6 +170,7 @@
       "source-url" : null
     },
     {
+      "snap" : true,
       "title" : "Bauhaus Curriculum",
       "filename" : "bauhaus_curriculum_1922.jpg",
       "media-type" : "Grafik",
@@ -164,28 +180,113 @@
     },
     {
       "title-short" : "Thomas Hirschhorn: Buchumschlag",
-      "title" : "Buchumschlag \"The artist as public Intellectual\" mit Text von Thomas Hirschhorn ",
+      "title" : "\"The artist as public Intellectual\" mit Text von Thomas Hirschhorn ",
       "filename" : "thomas_hirschhorn_booksleeve.jpg",
-      "media-type" : "Grafik",
+      "media-type" : "Buchumschlag",
       "copyright" : "Thomas Hirschhorn, 2008",
-      "source" : "Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008",
-      "source-url" : null
+      "source" : "Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Schlebrügge.Editor, Wien, 2008",
+      "source-url" : null,
+      "snap" : true
     },
     {
+      "snap" : true,
       "title" : "Thomas Hirschhorn: Seite mit Text",
       "filename" : "thomas_hirschhorn_Buch_seite.jpg",
       "media-type" : "Seite aus dem Buch \"The artist as public Intellectual\" mit Text von Thomas Hirschhorn",
       "copyright" : "Thomas Hirschhorn, 2008",
-      "source" : "Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008",
+      "source" : "Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Schlebrügge.Editor, Wien, 2008",
       "source-url" : null
     },
     {
+      "snap" : true,
       "title" : "\"Hirschhorn: Mindmap\"",
       "filename" : "thomas_hirschhorn_mindmap.jpg",
       "media-type" : "Mindmap als Einladungsmotiv",
       "copyright" : "Thomas Hirschhorn",
-      "source" : "Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Volume 1, Publications of the Academy of Fine Arts Vienna. Schlebrügge.Editor, Wien, 2008",
+      "source" : "Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public Intellectual. Schlebrügge.Editor, Wien, 2008",
       "source-url" : null
+    },
+    {
+      "snap" : true,
+      "title-short" : "Die Gallerie ist Tot",
+      "title" : "Aktion zur Vorgründung der marke.6, 2006u",
+      "filename" : "die_galerie_ist_tot.jpg",
+      "media-type" : "Button",
+      "copyright" : "Sebastian Helm",
+      "source" : "Giveaway vor Ort",
+      "source-url" : "http://www.es-lebe-die-galerie.de"
+    },
+    {
+      "snap" : true,
+      "title" : "Bauhaus-Essentials I",
+      "filename" : "bauhaus_essentials_1_einladung_marke_6.jpg",
+      "media-type" : "Einladungs-Postkarte",
+      "copyright" : "Max F. Albrecht, 2010",
+      "source" : "Studentische Galerie marke.6",
+      "source-url" : null
+    },
+    {
+      "snap" : true,
+      "title-short" : "Benedikt Braun: Super Arm",
+      "title" : "Benedikt Braun Super Arm Solo Exhibition",
+      "filename" : "benedikt_braun_super_arm.png",
+      "media-type" : "Blogpost (eigener Screenshot)",
+      "copyright" : "Benedikt Braun, Galerie Eigenheim",
+      "source" : "Eigenheim Galerie Website",
+      "source-url" : "http://www.galerie-eigenheim.de/?page_id=295) 2012-09-19 um 17.42.45"
+    },
+    {
+      "snap" : true,
+      "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
+      "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
+      "filename" : "valenta_biz.jpg",
+      "media-type" : "Foto",
+      "copyright" : "cc nts",
+      "source" : "nts 2010",
+      "source-url" : "http://www."
+    },
+    {
+      "source" : "Internet",
+      "title-short" : "John Pike pepper sprays students",
+      "title" : "Police lieutenant John Pike pepper sprays students at UC Davis 2012",
+      "filename" : "police-officer-pepper-spr-007.jpeg",
+      "media-type" : "Foto",
+      "copyright" : "Associated Press",
+      "source-url" : "http://www.occupythegame.com/lieutenant_john_pike/"
+    },
+    {
+      "source" : "Internet",
+      "title-short" : "\"Sunday Afternoon nach Edouard Manet\"",
+      "title" : "Sunday Afternoon nach Edouard Manet's “Le Dejeuner sur l’Herbe“ (The Luncheon on the Grass)\"",
+      "filename" : "sundayafternoon.jpeg",
+      "media-type" : "Foto",
+      "copyright" : "Unbekannt",
+      "source-url" : "http://www.occupythegame.com/lieutenant_john_pike/"
+    },
+    {
+      "title-short" : "John Pike in \"Christina’s World\"",
+      "title" : "John Pike makes a stop in “Christina’s World,“ by  \"",
+      "filename" : "pepper-spray-cop9.jpeg",
+      "media-type" : "Foto",
+      "copyright" : "Andrew Wyeth, 2010\n",
+      "source" : "Internet",
+      "source-url" : "http://www.occupythegame.com/lieutenant_john_pike/"
+    },
+    {
+      "title-short" : "Marcel Walldorf: Pinkelnde Petra",
+      "title" : "„Pinkelnde Petra“",
+      "filename" : "pinkelnde-petra.jpeg",
+      "media-type" : "lebensgroße Plastik",
+      "copyright" : "Marcel Walldorf, 2010",
+      "source" : "rebel:art",
+      "source-url" : "http://rebelart.net/marcel-walldorf-pinkelnde-petra"
+    },
+    {
+      "title-short" : "Viva La Resolution",
+      "filename" : "viva_la_resolution2.jpg",
+      "media-type" : "Grafik",
+      "copyright" : "Unbekannt",
+      "source" : "Internet"
     },
     {
       "title-short" : "BDU: \"Bender Flip Size\"",
@@ -290,14 +391,6 @@
       "filename" : "fachkurs_teilnehmer_bei_der_arbeit.jpg",
       "media-type" : "Foto",
       "copyright" : "NTS",
-      "source" : "privat",
-      "source-url" : null
-    },
-    {
-      "title" : "Bauhaus-Essentials I ",
-      "filename" : "bauhaus_essentials_1_einladung_marke_6.jpg",
-      "media-type" : "Einladung der BUW Studentische Galerie marke.6",
-      "copyright" : "Max F. Albrecht, 2010",
       "source" : "privat",
       "source-url" : null
     }

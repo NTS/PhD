@@ -339,24 +339,24 @@ Der Bedarf an offiziellen Ausstellungsräumen in Kunstakademien, der bereits im 
 Im Falle der Bauhaus Universität Weimar haben über die Jahre die verschiedenen Rektore eine unterschiedliches Verständnis von der Wichtigkeit eines Ausstellungsortes für die Studenten gezeigt.
 Als erstes gab es eine unabhängige Eigeninitiative namens *Neu-Deli* die sich Räume über der Post am Goetheplatz in Weimar gemietet hat. Die Räume waren schön und sehr passend für Kunstausstellungen, mit hohen Decken und Stahlsäulen sowie viel Licht. Die Beziehungen zwischen der ACC Galerie und der BUW sind, wie man heute auf Facebook sagen würde "It's complicated": Manche Professoren und Mitarbeiter (darunter auch ich), sind Künstler der Galerie oder waren eingeladen dort auszustellen. Nur in seltenen Fällen werden Studenten oder Alumni dort ausgestellt, abgesehen von seltenen Zusagen zu Master/Diplomarbeit Vorstellungen und Präsentationen. Direkt nach der Neubegründung der Universität fing eine Reihe der Studenten, bzw. der Fachschaft in der Galerie eine Vortragsreihe namens *Herzblut* an wo mehrere Professoren aus allen Fakultäten Vorträge hielten. 2001 wanderte die Galerie unter dem Namen Bauhaus Universitätsgalerie als Untermieter in die expandierte ACC Galerie. Über ein Jahr lang liefen Ausstellungen der verschiedenen Fakultäten unter der Koordination von David Mannstein, auch er BUW-Absolvent. Leider war das Engagement seitens der Uni-Leitung hinsichtlich einer Uni-Galerie eher zurückhaltend angelegt, da eine neu eingestellte Kulturmanagerin gemeinsam mit dem damaligen Rektor Bauer-Wabnegg die bestens funktionierende Kooperation leichtfertig abgesagt hat. Nach der Rückkehr des ehemaligen Rektors Gerd Zimmermann eröffnete im April 2008 die Bauhaus-Universität auf Initiative der Studenten Sebastian Helm, Laura Straßer und Maximilian Sauerbier vom StudierendenKonvent (StuKo) und in Zusammenarbeit mit der Klassik Stiftung den Ausstellungsraum »marke.6« im Neuen Museum: eine Ausstellungsfläche für studentische Arbeiten und Hochschulkooperationen. (Text zur Entstehung der Marke.6 wie sie auf der Seite (http://www.uni-weimar.de/cms/fileadmin/uni/files/aktuelles/bogen/2008_3/41.pdf) dokumentiert ist.) Ab diesem Moment stand die marke.6 als studentisch geführte Universitätsgalerie mit einer Koordinationsstelle. Die Universitätsgalerie fing als unabhängige Institution an, war weiter in Kooperation mit einem gemeinnützigen Kunstverein getreten und ist nun von dort aus zum Gast der Stiftung Weimar Klassik im Keller des Neues Museums unter einer anderen Infrastruktur geworden.
 
-**Bild** Die Gallerie ist Tot
+**Bild:** [Die Gallerie ist Tot]
 
 
 {
-  "title-short" : "\"Die Gallerie ist Tot\"",
-  "title" : "Die Gallerie ist Tot, Aktion zur Vorgrundung der marke.6, 2006 \"",
+  "title-short" : "Die Gallerie ist Tot",
+  "title" : "Aktion zur Vorgrundung der marke.6, 2006",
   "filename" : "die_galerie_ist_tot.jpg",
   "media-type" : "Button",
   "copyright" : "Sebastian Helm",
-  "source" : "Giveaway vor Ort",
+  "source" : "privat",
   "source-url" : "http://www.es-lebe-die-galerie.de"
-}
+},
 
 ## Das Konstrukt Bauhaus Essentials
 
 2009 wurde ich im Rahmen meiner Aufgaben als Künstlerische Assistentin im Umfeld der Fakultätsgremien angefragt, im Beirat der marke.6 den Mittelbau der Fak. Gestaltung für zwei Jahre als Beiratsmitglied zu vertreten. Zusammen mit der damaligen Koordinationsstelle - besetzt durch Dörte Dennemann - entwickelten wir ein Konzept namens *Bauhaus Essential*. Unser Ziel war es, die besten Kunstwerke von der Summaery (Jahresausstellung von Studierenden der Bauhaus-Universität Weimar, früher auch *Rundgang* genannt) in einer Ausstellung zusammenzufassen und im Herbst zu zeigen, also das „best of“ nach der Sommerpause zu präsentieren und vor dem Jahresende noch einmal hervorzuheben. Im Jahre 2010 waren Beirat und Initiative der Meinung, dass die besten Arbeiten der Summaery  prämiert werden sollen. Für den Rundgang wurde eine Jury, bestehend aus kompetenten und kunstnahen Persönlichkeiten zusammen gestellt, (alle nicht aus der Uni) welche insgesamt 19 herausragende Positionen auswählten. Das Vorhaben wurde großzügig durch die in Thüringen ansässige Firma Grafe unterstützt, die auch Namensgeber für den Preis wurde. Die drei Erstplatzierten erhielten daraufhin den Grafe Kreativpreis, und die Möglichkeit auf der Preview Berlin vertreten zu werden. Die 3 besten Arbeiten wanderten von der Hauptausstellung nach Berlin und zurück in die marke.6 Galerie im Neuen Museum. Ein Reader wurde erstellt und das entsprechende Echo seitens der Presse war angemessen, zumal einige unserer Teilnehmer sogar ihr Werk verkaufen konnten. 
 
-**Bild:** [Einladung BE-I]
+**Bild:** [Bauhaus-Essentials I]
 
 
 ## Sind Kunstmarkt und Kunststudium kompatibel?
@@ -528,9 +528,6 @@ und der Netzkünstler, und andere noch mehr. Sie haben alle unterschiedliche Bed
 
 *Resultate*
 
-
-**Bild** [Eintrag im ACC Besucher Buch zur Eröffnung der Ausstellung von *Barking Dogs United* *Size Matterz* im Winter 2008](der_kunstbewusste_mensch_investiert_heute_schon_in_benedikt_braun)
-
 Als Künstler habe ich sehr viele Erfahrungen und Kenntnisse sowie know-how überwiegend selbstständig gesammelt, und dies versuche ich an die Studierenden weiterzugeben.
 Noch ist es etwas früh um festzustellen, wie die Wirkung auf den Werdegang der Studierenden sein wird. Die ersten ‚Resultate‘, das heißt, die erste Spuren der neuen künstlerischen
 Strategien, getragen von Studenten und Absolventen der Bauhaus Universität, fangen jedoch an sichtbar zu werden. 
@@ -563,36 +560,11 @@ gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben
 - Simone Weikelt -- TKM (Thüringer Kultusministerium) Stipendiatin, mehrere Ausstellungen und aktiv im Kunstbetrieb in Erfurt.
 
 - Rosmarie Weinlich 
-    - leitet das *‚MOGA Salon Rejected‘* einen in einen *white cube* umfunktionierten Caravan, mit dem sie sich wie ein Parasit (nach Absprache und in Zusammenarbeit mit 
-  diversen Institutionen, versteht sich) an Galerien andockt, um in ihrer Wohnwagen-Galerie diejenigen Künstler auszustellen, die von der jeweiligen Galerie abgelehnt wurden.  
-  Ihre Diplomarbeit über den Erfolg der Künstler und die ihnen vorliegenden Marktstrukturen, konnte sie ans ACC andocken.
+    - leitet das *‚MOGA Salon Rejected‘* einen in einen *white cube* umfunktionierten Caravan, mit dem sie sich wie ein Parasit (nach Absprache und in Zusammenarbeit mit diversen Institutionen, versteht sich) an Galerien andockt, um in ihrer Wohnwagen-Galerie diejenigen Künstler auszustellen, die von der jeweiligen Galerie abgelehnt wurden. 
+    - Ihre Diplomarbeit, über den Erfolg der Künstler und die ihnen vorliegenden Marktstrukturen, konnte sie ans ACC andocken.
 
 
-**Bilder:** [Benedikt Braun: Super Arm], [Philipp Valenta mit Geldbeutel]  
-
-
-{
-  "title-short" : "\"Benedikt Braun: Super Arm\"",
-  "title" : "Benedikt Braun Super Arm Solo Exhibition, Anzeige auf Webseite der Galerie Eigenheim \"",
-  "filename" : "benedikt_braun_super_arm.png",
-  "media-type" : "Grafik",
-  "copyright" : "Benedikt Braun, Galerie Eigenheim" ,
-  "source" : "Eigenheim Galerie Website",
-  "source-url" : "http://www.galerie-eigenheim.de/?page_id=295) 2012-09-19 um 17.42.45"
-}
-
- 
-
-{
-  "title-short" : "\"Philipp Valenta mit Geldbeutel\"",
-  "title" : "Freie Kunst Student Philipp Valenta mit Geldbeutel, Fachkurs *The Game* 2010 \"",
-  "filename" : "valenta_biz.jpg",
-  "media-type" : "Foto",
-  "copyright" : "cc nts" ,
-  "source" : "nts 2010",
-  "source-url" : "http://www."
-}
-
+**Bilder:** [Benedikt Braun: Super Arm], [Philipp Valenta mit Geldbeutel]
 
 
 \pagebreak
