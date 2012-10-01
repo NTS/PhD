@@ -175,8 +175,20 @@ das gleiche gedacht, entworfen, produziert und kommuniziert wird sehr gut. Das i
 durch Verkäufe, Aufträge, Bewerbungen, Preise, Stipendien, etc. aber auch durch Jobben (Praktikum in Galerien z.B.) Ausstellungsaufbau usw. Produkte, Multiples, 
 Publikationshonorare, Vorträge und Residenzen. Vor dem Finanzamt stehen sie oft als Selbstständig da. Auch wenn sie den wirtschaftlichen Betrieb 
 liebend gern ignorieren würden, müssen sie zusehen, wie sie die Miete für Wohnen und Atelier sowie Lagerräume, 
-Neben- und Materialkosten bezahlen, wie sie überleben, ohne ein reguläres Einkommen (oder im Falle eines Stipendiums, kurzfristig und vorübergehend). Sie müssen sich
-jedoch an ein System anpassen, welches (anders) reguliert ist und zeitbegrenzte Anzahlungsmodalitäten fordert.
+Neben- und Materialkosten bezahlen, wie sie überleben, ohne ein reguläres Einkommen (oder im Falle eines Stipendiums, kurzfristig und vorübergehend). Sie müssen sich jedoch an ein System anpassen, welches (anders) reguliert ist und zeitbegrenzte Anzahlungsmodalitäten fordert.
+
+TODO: **Bild:** [Künstler im Einsatz]
+
+{
+  "title-short" : "\"Künstler im Einsatz\"",
+  "title" : Künstler im Einsatz: David Tartakover, "I am There" (IL) 2006\"",
+  "filename" : "kuenstler_im_einsatz_david_tartakover.jpg",
+  "media-type" : "Foto",
+  "copyright" : "David Tartakover",
+  "source" : "uuufi",
+  "source-url" : "http://saloona.co.il/osobayo/?p=157
+
+}
 
 
 

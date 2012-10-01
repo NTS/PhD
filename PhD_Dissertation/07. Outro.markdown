@@ -1,3 +1,4 @@
+curator
 # Where do we go from here?[^gofromhere] *(Outro)*
 
 [^gofromhere]: (Song by Yoko Ono aus dem Album)
@@ -39,7 +40,7 @@ werden zu wollen und erst danach zu sterben.
 **Bemerkungen zum Kunstbetrieb-Künstler**
 
 Der Künstler als Kurator und Galerist ist eine Tatsache geworden. Dies bedeutet eine neue Macht- und Einfluss- Position, neben einer besseren, wenn nicht zusätzlichen Einkommensquelle. Für die frisch zu Freischaffenden ernannten Kollegen aus den
-neu eeingerichteten Kuratorenschulen (hier sind Nichtkünstler gemeint) bedeutet dies sogar noch weniger Arbeitsgelegenheiten. Zwei Künstlerinnen die sich als Kuratorinnen einer Ausstellung präsentierten 
+neu eingerichteten Kuratorenschulen (hier sind Nichtkünstler gemeint) bedeutet dies sogar noch weniger Arbeitsgelegenheiten. Zwei Künstlerinnen die sich als Kuratorinnen einer Ausstellung präsentierten 
 meinten zu ihrer Entscheidung in einem [Interview](http://www.haaretz.co.il/gallery/art/1.1791742): "Wir haben übernommen, um die Machtposition eines externen Kurator und die Möglichkeit einer Kastration, die sonst unterhalb Galerie, Kurator und Künstler und deren Beziehungen 
 vorkommen mag, zu unterbinden. Erstens haben wir eine Kommunale Galerie ausgesucht, und zweitens lassen wir Raum auch für die Platzierung von Eigenmächtigkeit und überraschende Positionen, von denen wir noch nicht alle 
 Information erhalten haben." 
@@ -54,6 +55,36 @@ wie alles, von Künstlern auch gestaltet. Diese Tatsache steht bereits fest, man
 
 
 Was für die Künstler gilt, gilt auch für die Institutionen. Es gibt immer mehr Biennalen, Kunstmessen und Ausstellungsmöglichkeiten. 
+**Bilder:**[] []
+bijl_never_mind_the_politics.jpg
+
+{
+  "title-short" : "\"Marc Bijl, Neve Mind The Politics, \"",
+  "title" : "Marc Bijl (NL), "Never Mind the Politics"", Poster2005, \"",
+  "filename" : "bijl_never_mind_the_politics.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "Courtesy Upstream gallery, Amsterdam/The breeder, Athens",
+  "source" : "",
+  "source-url" : "http://artpulsemagazine.com/the-curated-art-fair-and-the-art-fair-curator"
+  
+}
+
+
+fuck_the_curator_kunstzeitung.png
+http://datenform.de/blog/oh-its-a-curator/
+
+{
+  "title-short" : "\"Betreten der Ausstellung Verboten\"",
+  "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
+  "filename" : "ulrichs_betreten_verboten.jpg",
+  "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
+  "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
+  "source" : "Sprengel Museum Hannover",
+  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
+}
+
+
+
 
 
 
