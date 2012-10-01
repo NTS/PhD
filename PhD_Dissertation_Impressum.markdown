@@ -44,3 +44,15 @@ Diese Dissertation ist eine Kombination aus kapitel und Texte die während der R
 - Koca inn 
 - Beruf kunstler 
 - Terminal Kunstmagazin Israel
+
+## Technische Werkzeuge und Hilfsmittel
+
+- [GNU](http://www.gnu.org)/[Linux](http://www.linuxfoundation.org)
+- [GIT Source Control Management](http://git-scm.com)
+- [Markdown Formatting Syntax](http://daringfireball.net/projects/markdown/)
+- [pandoc](http://johnmacfarlane.net/pandoc/) markup format conversion and Markdown extensions
+- [\XeLaTeX](http://scripts.sil.org/xetex) document preparation and typesetting system
+- BIBTEX Bibliographiemanagement
+- Bibliographie nach `DIN 1505-2`
+- client-side hardware and operating system from [Apple](http://apple.com)
+- [TextMate2](http://macromates.com)
