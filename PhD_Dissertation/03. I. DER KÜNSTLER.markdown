@@ -195,26 +195,20 @@ Die erste Version des Memes wurde im Februar 2012 auf *facebook* publiziert, und
 aus unterschiedlichen Perspektiven.
 
 **Bild:** [Garnet Hertz Contemporary Artist 2012 Face Book Meme]
-{
-  "title-short" : "\"Betreten der Ausstellung Verboten\"",
-  "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
-  "filename" : "ulrichs_betreten_verboten.jpg",
-  "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
-  "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
-  "source" : "Sprengel Museum Hannover",
-  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
-}
+
+TODO:
 
 **Bild:** [What Artists Do, Pie Chart auf Mylife 600]
 {
-  "title-short" : "\"Betreten der Ausstellung Verboten\"",
-  "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
-  "filename" : "ulrichs_betreten_verboten.jpg",
-  "media-type" : "zweifarbiger Siebdruck auf Aluminium, 1968/69",
-  "copyright" : "VG Bild-Kunst Bonn, 2010, Foto: Michael Herling / Aline Gwose",
-  "source" : "Sprengel Museum Hannover",
-  "source-url" : "http://polpix.sueddeutsche.com/polopoly_fs/1.1038255.1292848207!/image/image.jpg_gen/derivatives/900x600/image.jpg"
+  "title-short" : "\"What Artists Do, Pie Chart\"",
+  "title" : "What Artists Do, \"Pie Chart auf *Mylife 600*\"",
+  "filename" : "what_artists_do_mylife-600.jpg",
+  "media-type" : "Grafik",
+  "copyright" : "",
+  "source" : "My Life 600 Website",
+  "source-url" : "http://"
 }
+
 
 
 ### Lisa Simpson & Claire Fisher
