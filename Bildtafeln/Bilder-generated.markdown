@@ -39,7 +39,7 @@ Quelle:
 
 
 
-# "Betreten der Ausstellung Verboten"
+# "Betreten der Ausstellung Verboten" 
 
 ![Bild](pix/ulrichs_betreten_verboten.jpg) \
 
@@ -56,7 +56,7 @@ Quelle: Sprengel Museum Hannover
 
 
 
-# "Künstler" nach Pons
+# "Künstler" nach Pons 
 
 ![Bild](pix/kuenstler_nach_pons.png) \
 
@@ -73,7 +73,7 @@ Quelle: Pons Wörtbuch TODO
 
 
 
-# Französische Künstlermütze
+# Französische Künstlermütze 
 
 ![Bild](pix/french_artist_golf_cap_by_ebay.png) \
 
@@ -175,7 +175,7 @@ Quelle: privat
 
 
 
-# "The Electrician"
+# "The Electrician" 
 
 ![Bild](pix/willem_dafoe_basquiat.png) \
 
@@ -284,7 +284,7 @@ Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 Barking Dogs United: "Brain Equalizer"
 
- aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
+aus: FX (Teile 1, 2, und 3) Schemata, Leuchtkasten, Digitaldruck --
 Quelle: Aus der Ausstellung "Size Matters", ACC-Galerie Weimar
 
 
