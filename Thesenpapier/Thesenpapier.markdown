@@ -82,7 +82,7 @@ schon jetzt ihre Auswirkung in der Kunstwelt und ebnet den Weg zu mehr Kooperati
 Künstler können sich heute auch gut auf dem Kunst- und Arbeitsmarkt behaupten, ohne auf die gängigen Vermittlungs- und -verkaufssysteme des Kunstbetriebs 
 zurückgreifen zu müssen. Sie haben die Chance, sich von bloßen Markteilnehmern zu einer Marktkraft zu entwickeln, was jedoch unweigerlich Kraft und Zeit von ihrer künstlerischen Arbeit subtrahiert. 
 Dabei muss nicht nur unbedingt der 'Künstler als selbständiger 
-kapitalistischer Unternehmer' entstehen. Künstler arbeiten jetzt schon durchaus viel mehr als Gruppen oder in Form von Kooperativen anstatt als Einzelkünstler. Dies soll auch in der Ausbildung stattfinden und vor allem sollen die *skills* 
+kapitalistischer Unternehmer' entstehen. Künstler arbeiten jetzt schon durchaus viel mehr innerhalb von Gruppen oder in Form von Kooperativen anstatt als Einzelkünstler. Dies soll auch in der Ausbildung eingeübt und vor allem sollen die *skills* 
 dazu vermittelt werden. Vielleicht sollten noch mehr soziale Aufgaben an sie abgegeben werden. 
 
 
@@ -94,8 +94,8 @@ bietenden Chancen im Sinne einer zu befürwortenden Zukunft genutzt werden.
  
 **4. These: *zum Netz*** \
 Neben dem *digital native* und der 'Digitalen Bohème' entwickelt sich der Typus 'Digitaler Künstler'. Durch die Übernahme von Kulturtechniken und Kooperationen mit medienbasierten 
-Künstlern können sie, um sich durch das Angebot im Netzwerk besser zu behaupten: Erstens eigene Distributionen und PR betreiben (auf Webseiten, in Blogs, und in sozial Netzwerken) 
-und Zweitens durch eigene Online-Präsenz eine Raumerweiterung schaffen, in denen auch Kontakte geknüpft werden. Diese gelten meist nicht nur in der virtuellen Welt, sondern führen 
+Künstlern können sie, um sich durch das Angebot im Netzwerk besser zu behaupten: erstens eigene Distributionen und PR betreiben (auf Webseiten, in Blogs, und in sozial Netzwerken) 
+und zweitens durch eigene Online-Präsenz eine Raumerweiterung schaffen, in denen auch Kontakte geknüpft werden. Diese gelten meist nicht nur in der virtuellen Welt, sondern führen 
 zu realen Aktivitäten im nicht-virtuellen Raum, wie z.B. Verkauf und Beschäftigungsmöglichkeiten. Und auch gesamtgesellschaftlich betrachtet sind die sozialen Eigenschaften des 
 Internets in der Lage, auch im realem Leben neue Verhältnisse herzustellen. Hier kann die Kunst eine verstärkte Vermittlerrolle einnehmen.
 
