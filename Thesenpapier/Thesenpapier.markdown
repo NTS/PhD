@@ -19,16 +19,18 @@ welchen Rollenvorstellungen der Künstler bisher entsprach, und wie sein Bild in
 mit oder ohne Barett hockend, zum Anzugstragender, Freischaffender, von anderen verwalteter Superstar entwickelt hat. Das gängige Künstlerbild, wie es von der (vorwiegend kleinbürgerlichen) 
 Gesellschaft erwartet und immer häufiger durch die Medien dargestellt wird, weist eine Tendenz zur Bildung einer Starfigur auf, die oft ganz anders strukturiert ist als manche Künstler 
 sich heutzutage selbst sehen und verstehen mögen. Dass sein Eigenbild verstärkt kommuniziert wird und dass das veraltete und ihm unangemessene Rollenklischee zurückgewiesen und verändert 
-wird muss, ist eine Tatsache, an der er sich längst angewöhnt und wahrgenommen worden. 
+werden muss, ist eine Tatsache, die er längst wahrgenommen hat und daraus die Konsequenzen zieht.
+
+an der er sich längst angewöhnt und  worden. 
 
 Zu erkennen sind verschiedene Rollen und unterschiedliche 'Künstlertypen' oder Sorten, oder Strömungen. Zusätzlich zu den schon existierenden Rollenbildern sind zur Zeit aber 
-auch einige neue Formen am entstehen. Man kann etwa den am Kunstmarkt orientiertem Künstlertypus neben den an sozialen Aufgaben oder an Theoriediskursen orientierten Künstler 
+auch einige neue Formen am Entstehen. Man kann etwa den am Kunstmarkt orientiertem Künstlertypus neben den an sozialen Aufgaben oder an Theoriediskursen orientierten Künstler 
 nennen. Sie alle sollten von einander unterschieden und entsprechend anders ausgebildet werden. Dies erfordert andere Inhalte und Methoden und beispielsweise die Berücksichtigung 
 von Quellen, die bisher in der Kunstlehre üblicherweise nicht herangezogen wurden es aber sollten.   
 
 
 **Die Arbeitswelt** ändert sich ebenso. Durch diesen Prozess -- verursacht durch die globale politische und wirtschaftliche Situation -- wird es mehr Platz und Möglichkeiten für 
-Künstler im Spätkapitalismus geben, um sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Das sich das Bild des Künstlers so geändert hat, liegt auch an 
+Künstler im Spätkapitalismus geben, um sich eine eigene Nische unabhängig vom existierenden Kunstbetrieb zu bauen. Dass sich das Bild des Künstlers so geändert hat, liegt auch an 
 den schon mutierten und noch weiter mutierenden Arbeitsverhältnissen. Der Künstler wandelt sich vom reinen Produzenten hin zum Unternehmer. Er kann sogar Inhaber eines Unternehmens 
 werden und durch eigenes Kapital möglicherweise an Freiheit gewinnen und damit auch mehr Macht im gesellschaftlichen Geschehen ausüben. Künstler können ihre Flexibilität und 
 Anpassungsfähigkeit besser ausnutzen als andere. Jobs, die früher nur von Nichtkünstlern ausgeübt wurden, werden häufiger von Künstlern besetzt. Sie können sich etwa als Angestellte 
@@ -36,9 +38,10 @@ in den Bereichen Produktion oder Sozialarbeit betätigen oder eine der verschied
 dient nicht zuletzt diesem Zweck).  
 
 Auf der anderen Seite können und müssen viele Jobs, die früher von anderen für den Künstler erledigt wurden, inzwischen von den Künstlern selber übernommen werden, wie z.B. Gestaltung 
-und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. Sie müssen sich selber um ihre Vermarktung kümmern. Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb 
+und PR-Arbeit, Galeriebetrieb und Management und vor allem das Kuratieren. Sie müssen sich selber um ihre Vermarktung kümmern.
+Verschiedene ausdifferenzierte Berufsfelder im Kunstbetrieb 
 werden zusammengezogen und sollen von einer Person allein bewältigt werden. Dies bringt veritable Paradigmenwechsel mit sich, wenigstens in den Aspekten Vermittlung und Ausstellung, vor 
-allem aber auch für den Verkauf der Kunstwerke.Durch diese Interventionen wirkt der Künstler so auf neue Weise direkt auch auf seine ureigene Umgebung -- nämlich das Biotop des 
+allem aber auch für den Verkauf der Kunstwerke. Durch diese Interventionen wirkt der Künstler so auf neue Weise direkt auch auf seine ureigene Umgebung -- nämlich das Biotop des 
 Kunstbetriebs -- ein und erweitert sie.
 
 Dabei 'erfinden' sie auch Aufgaben für sich selbst  -- durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar nicht alle Ziele und Methoden genannt sind. So wie der 
