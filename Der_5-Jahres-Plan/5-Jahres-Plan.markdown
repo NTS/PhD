@@ -153,18 +153,18 @@ vorbereitet, für die Repräsentanten der StadtWerke richtige und für uns falsc
 die auch von verschiedenen Medienvertretern aufgenommen wurde. Als Kompromiss sind wir aufgefordert worden, ein Schild aufzustellen, das den Kiosk explizit als 
 keine Stelle der StadtWerke benennt. Wir haben uns für Timm Ulrichs Aufkleber ‚Vorsicht Kunst!‘ entschieden und es wurde akzeptiert.
 
-Als nächstes bauten wir das *KoCAInn*, ein umfangreiches Ereignis, von dem der Kiosk ein Teil war und was für das Kiosk-Team eine zusätzliche Herausforderung bedeutete, 
+Als nächstes bauten wir das *KoCA Inn*, ein umfangreiches Ereignis, von dem der Kiosk ein Teil war und was für das Kiosk-Team eine zusätzliche Herausforderung bedeutete, 
 nämlich die der Kooperation von zwei Künstlergruppen. Besonders positiv hervorheben möchte ich in diesem Fall die Stadt Weimar, die in den Genehmigungsvorgängen immer 
 freundlich und großzügig mit uns umgegangen ist. Das 14-tägige Ereignis war so überwältigend in seinen Erfahrungen, dass ich darüber einen separaten Text geschrieben habe, 
 der auch einen der Grundsteine dieser Dissertation für mich bedeutet*.
 
 
-**Bild:** [KoCAinn Entwurf auf Tisch]
+**Bild:** [KoCA Inn Entwurf auf Tisch]
 
 {
-  "title-short" : "\"kocainn Entwurf auf Tisch"\"",
-  "title" : "Kiosk KoCAinn Entwurf auf Tisch im Fackkurs Zimmer geritzt, 2009\"",
-  "filename" : "kocainn_entwurf_auf_tisch.jpg",
+  "title-short" : "\"KoCA Inn Entwurf auf Tisch"\"",
+  "title" : "Kiosk KoCA Inn Entwurf auf Tisch im Fackkurs Zimmer geritzt, 2009\"",
+  "filename" : "KoCA Inn_entwurf_auf_tisch.jpg",
   "media-type" : "Foto",
   "copyright" : "nts" ,
   "source" : "nts",
@@ -362,7 +362,7 @@ stellt sich die Frage nach an den Teilnahme, ob er das Wissen braucht, ob er Inf
   Wenn Künstler Kunst Kuratieren  WS 09/10
 
 
-5. Which exhibition did you like the best? please mark: Nationalkiosk  /  Eigenkiosk  /  KioskWerke  /  KoCAInn  /   KOP   /   KoMA   /   KSA   /   DNA - Why?	
+5. Which exhibition did you like the best? please mark: Nationalkiosk  /  Eigenkiosk  /  KioskWerke  /  KoCA Inn  /   KOP   /   KoMA   /   KSA   /   DNA - Why?	
 6. Be honest: If the project went on for another year, would you take part in it? Yes / No - Why? 
 7. Would you consider running such a space yourself after this experience? Yes / No - Why? 	
 8. Would you continue if you didn’t need credits? / (Schein)  Yes / No
@@ -512,13 +512,13 @@ Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform f
 [^exilemainstreet]: "Exile On Main Street": Album Titel, *The Rolling Stones*, 1972.
 
 
-_Dieser Text ist als Essay für den KoCAinn Katalog [@UrbanDAE:KoCA]von URBANDÆ entstanden_ 
+_Dieser Text ist als Essay für den KoCA Inn Katalog [@UrbanDAE:KoCA]von URBANDÆ entstanden_ 
 
 **Über die Schönheit einer zufälligen Straßengemeinschaft und Kunstnomaden im Internet**
 
-Der Name *KoCAInn* wurde gleich am Anfang von der deutsch-brasilianischen Gruppe *URBANDÆ* und der Künstlerin und Projektkoordinatorin Daniela Brasil vorgeschlagen. 
+Der Name *KoCA Inn* wurde gleich am Anfang von der deutsch-brasilianischen Gruppe *URBANDÆ* und der Künstlerin und Projektkoordinatorin Daniela Brasil vorgeschlagen. 
 Der Name machte deutlich, dass dort, ebenso wie im anderen Projektteil *Hotel Miranda* in der Marienstraße 10, Menschen übernachten würden; und so begann die Aneignung 
-der Institution *Kiosk of Contemporary Art*. Der Kiosk der vielen Namen, wurde schließlich zum *KoCAInn*. Als sich die Kooperation mit der Gruppe *URBANDÆ* weiter 
+der Institution *Kiosk of Contemporary Art*. Der Kiosk der vielen Namen, wurde schließlich zum *KoCA Inn*. Als sich die Kooperation mit der Gruppe *URBANDÆ* weiter 
 entwickelte und sich mit ihr das Konzept zu einer *favela* wandelte, traten mehrere Fragen auf: Ist dieser Kiosk einer von vielen *social-community human 
 plastics*, wie etwa die Aktionen von *WochenKlausur*, oder stellt er ein neues Experiment einer interdisziplinären Vereinigung von Architektur, 
 Urbanistik, Labor und Kunstdar? Was würde der Effekt einer solchen künstlich kreierten, temporären *favela* sein? Ist es ein Spektakel der Unterschicht oder für die Armen? 
@@ -534,10 +534,10 @@ wir mit den Nachbarn des Kiosks, die uns alle gut gestimmt schienen.
 „… The rights to express, talk, gather, convey ideas, demonstrate, etc. are not a frame of the democratic game, but provide the circumstances that allow the existence of this game”. TODO: [@Author:book, pp. xx]
 
 Wenn ich meine Erfahrungen hier mit der internationalen Situation vergleiche, muss ich feststellen, dass die deutsche Regierung sowie öffentliche Finanzierung solchen 
-öffentlichen Projekten sehr großzügig und ermutigend gegenüber stehen. Der *KoCAInn* wurde vom Fonds *Soziokultur* finanziert, was die Umsetzung einer utopischen Idee für 
+öffentlichen Projekten sehr großzügig und ermutigend gegenüber stehen. Der *KoCA Inn* wurde vom Fonds *Soziokultur* finanziert, was die Umsetzung einer utopischen Idee für 
 einen kurzen Zeitraum erlaubte. Dank dieser Unterstützung war die Finanzierung dieses Projekts kein großes Problem. Die Unterstützung wurde genutzt, um eine schöne, sichere und 
 baumfreundliche *favela* zu bauen. Die Hauptstruktur wurde um den Kiosk herum gebaut, sie wurde um eine Küche, Toiletten und um alle weiteren notwendigen Vorrichtungen ergänzt. 
-Die grundlegende Struktur war installiert und erlaubte, dass die Inhalte dieses Raumes wachsen konnten. Über die Projektdauer hinweg weitete der *KoCAInn* seine 
+Die grundlegende Struktur war installiert und erlaubte, dass die Inhalte dieses Raumes wachsen konnten. Über die Projektdauer hinweg weitete der *KoCA Inn* seine 
 Grenzen an Freizügigkeit aus und erlaubte so das Durchbrechen der Grenzen von innen. Nach dem Ende der Planung war es an der Zeit zu beobachten, welches Ergebnis 
 sich durch die Einflüsse des *street factor* und des öffentlichen Raums ergeben und wie die Bürger es annehmen würden. 
 
@@ -563,12 +563,12 @@ lens since it is made out of countless points of view, imposing on it boundaries
 spot in another point of view.” TODO: [@Author:book, pp. xx]
 	
 Es war nicht schwer, das Ereignis selbst zu dokumentieren. Dies lag teilweise in der Natur der Veranstaltung, die sehr dokumentationsfreundlich war. Teilweise lag es daran, 
-dass wir in der Kunstszene mittlerweile sehr vertraut im Umgang mit Dokumentationsprozessen sind. Und so wurde die Dokumentation ein Teil der Aktivitäten am *KoCAInn*, jedoch nicht zum Hauptziel. 
+dass wir in der Kunstszene mittlerweile sehr vertraut im Umgang mit Dokumentationsprozessen sind. Und so wurde die Dokumentation ein Teil der Aktivitäten am *KoCA Inn*, jedoch nicht zum Hauptziel. 
 Vielleicht war es das Fehlen der Notwendigkeit, das Ereignis während seiner Existenz zu beschreiben, was die totale Teilnahme und den Austausch von *Input* und *Output*, der während 
-der Aktion stattfand, ermöglichte. Dinge wurden persönlich weitergegeben und der *KoCAInn* wurde so, wie sein Name vorschlägt, zur Sucht. Es war zu besonders, um auf Facebook "getaggt" zu werden. 
+der Aktion stattfand, ermöglichte. Dinge wurden persönlich weitergegeben und der *KoCA Inn* wurde so, wie sein Name vorschlägt, zur Sucht. Es war zu besonders, um auf Facebook "getaggt" zu werden. 
 
 “Favelisiere dich selbst und der Rest wird folgen”, schien zum Motto des Projekts zu werden. Es war kalt und dennoch entwickelte sich eine Hängemattenkultur. Mitglieder beider Teams schliefen 
-und übernachteten während der zwei Wochen am *KoCAInn*. Auswärtige Reisende hörten von dem Projekt und blieben ebenfalls als Übernachtungsgäste. Die Interaktionen involvierten alle Themen wie 
+und übernachteten während der zwei Wochen am *KoCA Inn*. Auswärtige Reisende hörten von dem Projekt und blieben ebenfalls als Übernachtungsgäste. Die Interaktionen involvierten alle Themen wie 
 Toleranz, Kommunikation, Raum geben, schaffen und nehmen. Es schien, als hätte jeder seine Rolle gefunden und dabei dennoch seine Individualität behalten. Wir gewannen an Erfahrung und an 
 Verantwortungsgefühl für einander. Diese Kreuzung bot einen Raum für alle, die nach einem solchen suchten: Ständig war eine Mischung aus Künstlern, Kunstliebhabern, Wohnungslosen, 
 sozialen Aussteigern, Geeks, Nerds und alternativ lebenden Menschen am Kiosk anzutreffen. So hat es *URBANDÆ* geschafft unsere Herzen zu "brasilianisieren". Dieses Happening fand im 
@@ -576,7 +576,7 @@ und um den Kiosk herum statt, auf dem Bürgersteig, unter dem Baum, vor und übe
 
 Es war nicht schwer, die Zeichen einer bedeutenden Deregulierung zu sehen, nicht nur an der Struktur des *favela*-Kiosk, sondern auch im Leben der umliegenden Bevölkerung. 
 Der Kiosk wurde zu einem Ort, der für alle offen war, einladend, tolerant und nicht-einschüchternd. Ein Dazugehörigkeitsgefühl stellte sich schnell ein und auch wenn man nicht aktiv 
-teilnehmen wollte, so wurde man doch wenigstens zu einem aktiven Beobachter. Wenn das Internet einen freien Zugang für alle ermöglicht, dann wurde der *KoCAInn* in diesem Sinne zu 
+teilnehmen wollte, so wurde man doch wenigstens zu einem aktiven Beobachter. Wenn das Internet einen freien Zugang für alle ermöglicht, dann wurde der *KoCA Inn* in diesem Sinne zu 
 einer gut vernetzten offline *community*, die sich im Grunde wie eine online *community* verhielt. Azoulay spricht von einem Tor aus der Privatsphäre heraus, das die Grenze zur öffentlichen 
 Sphäre markiert. In dieser Hinsicht sind wir aus der einen Box heraus getreten, um uns in einer neuen Box wieder zu finden. Wir unterbrachen unser altes Verhalten nicht: 
 wir quatschten, kochten, führten Veranstaltungen und dokumentieren weiter. So als wären wir noch im privaten Bereich unserer Häuser, nur waren wir im öffentlichen Raum. Eine digitale Nachbarschaft wurde lebendig:  
