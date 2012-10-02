@@ -57,12 +57,12 @@ erforscht und zum Thema der Ausbildung gemacht. Im Allgemeinen gilt: Wenn werden
 Vorbild, und die Diskrepanz zwischen diesem, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. Als Lehrende arbeite ich daran, diese Diskrepanz durch Informationserwerb,
 Vermittlungs- und Kooperationsarbeit weiter zu verringern. Dadurch hoffe ich verstärkt dazu beizutragen, dass die Kunststudenten an der Fakultät Gestaltung der Bauhaus-Universität Weimar besser 
 trainiert werden und höhere Fähigkeiten entwickeln, sich zu vermarkten und ihre Arbeit zu verkaufen, und sie findiger im Ermitteln von Ausstellungsgelegenheiten werden. Denn größeren Erfolg bei der 
-Stipendienbeantragung und Preisgewinn, Ausstellungsangelegenheiten und Verkauf -- und das direkt nach dem Studium, wenn nicht schon innerhalb dessen, beweisen manche jetzt schon.
+Stipendienbeantragung und Preisgewinn, Ausstellungsangelegenheiten und Verkauf -- und das direkt nach dem Studium, wenn nicht schon innerhalb dessen, können manche jetzt schon vorweisen.
 
 
 **Das Netz und die Vernetzung** sind durch die neuen technischen Möglichkeiten ein neues Feld für Künstler geworden. Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb 
 des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint im Netz zum Teil zu gelingen. Künstler und Experten der digitalen Medien entdecken eine gemeinsame Sprache und kooperieren. 
-Die Nutzung der Möglichkeiten digitaler Formate muss die Welt der Kommunikation aus künstlerischer Sicht erweitern. Gleichzeitig wirkt das Netz im Hintergrund als Katalysator der bereits 
+Die Welt der Kommunikation muss durch die Nutzung der Möglichkeiten digitaler Formate aus künstlerischer Sicht erweitern. Gleichzeitig wirkt das Netz im Hintergrund als Katalysator der bereits 
 genannten Verschiebungen in der Arbeits- und Ausbildungswelt des Künstlers. 
 
 
