@@ -73,18 +73,18 @@ Quelle: Pons Wörtbuch TODO
 
 
 
-## [Französische Künstlermütze] 
+## [Rembrandt: Der Künstler in seinem Atelier] 
 \vfill
-![Bild](pix/french_artist_golf_cap_by_ebay.png) \
+![Bild](pix/Rembrandt_The_Artist_in_his_studio.jpg) \
 
-Französische Künstlermütze, zu ersteigen bei ebay
+Rembrandt van Rijn: "Der Künstler in seinem Atelier"
 
-eigener Screenshot --
-Quelle: Google-Bildsuche
+Malerei, 1626-28 --
+Quelle: Wikimedia Commons
 
-<https://www.google.de/search?biw=1299&bih=666&tbm=isch&sa=1&q=french+artist+cap>
+<http://commons.wikimedia.org/wiki/File:Rembrandt_The_Artist_in_his_studio.jpg>
 
-© Internet
+
 \vfill
 
 
@@ -93,14 +93,14 @@ Quelle: Google-Bildsuche
 \vfill
 ![Bild](pix/naomi_campbell_for_vivian_westwood.jpg) \
 
-Model Naomi Campbell im Künstlerlook für Vivian Westwood
+
 
 Foto --
-Quelle: Unbekannt
+Quelle: privat
 
 
 
-© Unbekannt
+© Vivian Westwood
 \vfill
 
 
@@ -164,7 +164,7 @@ Quelle: privat
 
 
 
-© Ha-Ha Funny Buttons
+© Ephemera, Inc.
 \vfill
 
 
@@ -404,7 +404,7 @@ Quelle: Studentische Galerie marke.6
 
 
 
-© Max F. Albrecht, 2010
+© Max F. Albrecht, 2010 (Lizenz: Creative Commons BY-NC-SA 3.0)
 \vfill
 
 
@@ -581,7 +581,7 @@ Quelle: E-Mail-Newsletter
 
 
 
-© keines
+
 \vfill
 
 
@@ -597,7 +597,7 @@ Quelle: *facebook*
 
 
 
-© keines
+
 \vfill
 
 
@@ -645,7 +645,7 @@ Quelle: e-flux
 
 <http://www.e-flux.com>
 
-© keines
+
 \vfill
 
 

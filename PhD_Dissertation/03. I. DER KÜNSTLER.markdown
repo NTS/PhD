@@ -45,8 +45,6 @@ Hierzu ein Auszug aus dem ehemaligen [Meyers Online-Lexikon](http://web.archive.
 
 **Bild:** [Künstlerbegriff nach Pons] 
 
-[^source-kuenstler_nach_pons]: Scan nts
-
 
 ## Looking at you (looking at me)[^LadyGaga]
 
@@ -78,17 +76,16 @@ Die Frage, die ich gern stellen möchte, ist: Wer wirft den Blick auf die Künst
 
 Früher war es „einfacher“, wenn Künstler ihr Selbstportrait malten (siehe dazu die beiden folgenden Bilder).
 
-**Bild:** [Französische Künstlermütze]
+**Bild:** [Rembrandt: Der Künstler in seinem Atelier]
 
 **Bild:** [Naomi Campbell im Künstlerlook]
-
 	
 Dieser *look* entspricht eher dem Typ „Armer Künstler“, oder dem daraus entstandenen Klischee. In seinem Buch *Why Are Artists Poor?* [-@Abbing:poor] beschreibt Hans 
 Abbing die verstrickten Verhältnisse zwischen Künstler und der Gesellschaft. Abbing vertritt unter anderem die These, dass die Kunst 
 für den Künstler zu heilig wäre, um in Worten wie Profit und Kommerz beschrieben zu werden. Der Künstler erhält Stipendien und wird weiterhin als arm und als 
 Outsider wahrgenommen. Oftmals wird er auch als autistische Person, die sich im Atelier vergräbt, bis sie entdeckt wird, wahrgenommen. Da der Künstler so sensibel 
 sei und geschützt werden müsse, benötige er einen Vermittler, auch weil er seine eigene Arbeit nicht schätzen kann. Er produziert, weil er produzieren muss, 
-egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, einem US-amerikanischem Spielfilm aus dem Jahr 1996 - Regie Julian Schnabel -- selbst Künstler -- 
+egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, einem US-amerikanischem Spielfilm aus dem Jahr 1996 -- Regie Julian Schnabel, selbst Künstler -- 
 wird ein Text des Kunstkritikers Renè Ricard aus seinem Schreiben [*The Radiant Child*](http://www.smartwentcrazy.com/basquiat/text/jmb_radiantchild.htm) 
 über Jean-Michel Basquiat aus dem *Artforum* Magazin, Dezember 1981, zitiert: 
 

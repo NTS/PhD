@@ -37,21 +37,19 @@
     },
     {
       "snap" : true,
-      "title-short" : "Französische Künstlermütze",
-      "title" : "Französische Künstlermütze, zu ersteigen bei ebay",
-      "filename" : "french_artist_golf_cap_by_ebay.png",
-      "media-type" : "eigener Screenshot",
-      "copyright" : "Internet",
-      "source" : "Google-Bildsuche",
-      "source-url" : "https://www.google.de/search?biw=1299&bih=666&tbm=isch&sa=1&q=french+artist+cap"
+      "title-short" : "Rembrandt: Der Künstler in seinem Atelier",
+      "title" : "Rembrandt van Rijn: \"Der Künstler in seinem Atelier\"",
+      "filename" : "Rembrandt_The_Artist_in_his_studio.jpg",
+      "media-type" : "Malerei, 1626-28",
+      "source" : "Wikimedia Commons",
+      "source-url" : "http://commons.wikimedia.org/wiki/File:Rembrandt_The_Artist_in_his_studio.jpg"
     },
     {
-      "title-short" : "Naomi Campbell im Künstlerlook",
-      "title" : "Model Naomi Campbell im Künstlerlook für Vivian Westwood",
+      "title" : "Naomi Campbell im Künstlerlook",
       "filename" : "naomi_campbell_for_vivian_westwood.jpg",
       "media-type" : "Foto",
-      "copyright" : "Unbekannt",
-      "source" : "Unbekannt",
+      "copyright" : "Vivian Westwood",
+      "source" : "privat",
       "source-url" : null,
       "snap" : true
     },
@@ -90,7 +88,7 @@
       "title" : "Ha-Ha Funny Buttons: \"Your 15 minutes are up (Warhol)\"",
       "filename" : "warhol_your_15_minutes_are_up.jpg",
       "media-type" : "eigener Scan",
-      "copyright" : "Ha-Ha Funny Buttons",
+      "copyright" : "Ephemera, Inc.",
       "source" : "privat",
       "source-url" : null
     },
@@ -231,7 +229,7 @@
       "title" : "Bauhaus Essentials I",
       "filename" : "bauhaus_essentials_1_einladung_marke_6.jpg",
       "media-type" : "Einladungs-Postkarte",
-      "copyright" : "Max F. Albrecht, 2010",
+      "copyright" : "Max F. Albrecht, 2010 (Lizenz: Creative Commons BY-NC-SA 3.0)",
       "source" : "Studentische Galerie marke.6",
       "source-url" : null
     },
@@ -334,7 +332,6 @@
       "title" : "Meldung über die Occupy Zelte auf der dOCUMENTA (13)",
       "filename" : "occupy_documenta1.png",
       "media-type" : "Bildschirmfoto",
-      "copyright" : "keines",
       "source" : "E-Mail-Newsletter"
     },
     {
@@ -343,7 +340,6 @@
       "title" : "in Bezug auf Schlafplatz in Kassel zum documenta-Besuch",
       "filename" : "occupy_documenta_2_johanna_warm.png",
       "media-type" : "Bildschirmfoto",
-      "copyright" : "keines",
       "source" : "*facebook*"
     },
     {
@@ -369,7 +365,6 @@
       "title-short" : "next documenta should be curated by an artist",
       "filename" : "next_documenta_should_be_curated_by_an_artist.png",
       "media-type" : "Bildschirmfoto",
-      "copyright" : "keines",
       "source" : "e-flux",
       "source-url" : "http://www.e-flux.com"
     },
