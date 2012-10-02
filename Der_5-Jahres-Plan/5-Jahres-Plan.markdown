@@ -583,7 +583,7 @@ wir quatschten, kochten, führten Veranstaltungen und dokumentieren weiter. So a
 
 > “The beginning of the public sphere is characterized by the appearance of places in which these 
 > rights are implemented in a public manner in both senses of the concept – public as opposed 
-> to private, and public as in the open – something everyone can observe.”  TODO: [@Author:book, pp. xx]
+> to private, and public as in the open – something everyone can observe.” [@Author:book, pp. 80]
 
 Mir scheint, als sei es möglich, eine Beziehung zwischen Internet und realem Leben herzustellen, bei der die Kunst eine Vermittlungsrolle einnehmen kann. Es bleibt die Frage: 
 Was hat eine solche aktive Teilnahme ermöglicht? War es die Einfachheit? Konnte die 'angenommene Armut' befreien und verbinden? War es die *favela* selbst oder der künstlerische 
