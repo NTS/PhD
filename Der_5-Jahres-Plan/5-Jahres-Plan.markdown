@@ -560,7 +560,7 @@ oder ein Blog Kommentar veröffentlicht, so zum Beispiel Lucian Patermann:
 
 Azoulay schreibt: „The public domain cannot be captured in the camera lens, neither can it be summoned to a point of view. The public domain will exceed the camera 
 lens since it is made out of countless points of view, imposing on it boundaries and signs, each creating a new point of view at the same time, which is then a blind 
-spot in another point of view.”  [@Azoulay:Training, pp. 77]
+spot in another point of view.” [@Azoulay:Training, pp. 77]
 	
 Es war nicht schwer, das Ereignis selbst zu dokumentieren. Dies lag teilweise in der Natur der Veranstaltung, die sehr dokumentationsfreundlich war. Teilweise lag es daran, 
 dass wir in der Kunstszene mittlerweile sehr vertraut im Umgang mit Dokumentationsprozessen sind. Und so wurde die Dokumentation ein Teil der Aktivitäten am *KoCA Inn*, jedoch nicht zum Hauptziel. 
