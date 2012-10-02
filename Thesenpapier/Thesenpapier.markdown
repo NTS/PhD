@@ -45,7 +45,7 @@ allem aber auch für den Verkauf der Kunstwerke. Durch diese Interventionen wirk
 Kunstbetriebs -- ein und erweitert sie.
 
 Dabei 'erfinden' sie auch Aufgaben für sich selbst  -- durch Aneignung, als künstlerische Aussage, als neue Strategie, womit gar nicht alle Ziele und Methoden genannt sind. So wie der 
-Betrieb selbst das Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden. Denn diese Aneignung betrifft nicht mehr 
+Betrieb selbst zum Material künstlerischer Gestaltung wurde, ist auch längst die Arbeit in ihm zu einer künstlerischen Ausdrucksform geworden. Denn diese Aneignung betrifft nicht mehr 
 nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müssen Initiative ergreifen, und damit Macht und Verantwortung übernehmen. Längst setzen Politiker etwa in Berlin 
 oder Detroit auf die künstlerische *Kreativwirtschaft*, um einen realwirtschaftlichen Aufschwung herbeizuführen.  
   
@@ -53,10 +53,10 @@ oder Detroit auf die künstlerische *Kreativwirtschaft*, um einen realwirtschaft
 **Die Ausbildung** der werdenden Künstler wird in Europa seit dem Beginn des [*Bologna-Prozesses*](www.ond.vlaanderen.be/hogeronderwijs/bologna/documents/MDC/BOLOGNA_DECLARATION1.pdf) im Jahr 1999 stark umstrukturiert. In der vorliegenden Arbeit habe ich 
 die Auswirkungen auf das Studium und die Studierenden untersucht. Unter anderem habe ich die Kompatibilität des jetzigen Standes der Ausbildung mit dem, was die Studierenden nach 
 dem Studium erwartet; die Struktur des Studiums; die Beziehungen zwischen Kunstmarkt und der Kunsthochschule am Beispiel der eigenen Universität mit künstlerischen Methoden 
-erforscht und zum Thema der Ausbildung durchgeführt. (gemacht). Im Allgemein gilt: Wenn werdende Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches 
-Vorbild, und die Diskrepanz zwischen Diesem, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. Als Lehrende arbeite ich daran, diese Diskrepanz durch Informationserwerb,
+erforscht und zum Thema der Ausbildung gemacht. Im Allgemeinen gilt: Wenn werdende Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches 
+Vorbild, und die Diskrepanz zwischen diesem, und dem was sie vorfinden, wenn sie die Akademie verlassen, ist sehr groß. Als Lehrende arbeite ich daran, diese Diskrepanz durch Informationserwerb,
 Vermittlungs- und Kooperationsarbeit weiter zu verringern. Dadurch hoffe ich verstärkt dazu beizutragen, dass die Kunststudenten an der Fakultät Gestaltung der Bauhaus-Universität Weimar besser 
-trainiert und höhere Fähigkeiten entwickeln, sich zu vermarkten und ihre Arbeit zu verkaufen, sie findiger im Ermitteln von Ausstellungsgelegenheiten zu machen. Denn Größeren Erfolg bei der 
+trainiert werden und höhere Fähigkeiten entwickeln, sich zu vermarkten und ihre Arbeit zu verkaufen, und sie findiger im Ermitteln von Ausstellungsgelegenheiten werden. Denn größeren Erfolg bei der 
 Stipendienbeantragung und Preisgewinn, Ausstellungsangelegenheiten und Verkauf -- und das direkt nach dem Studium, wenn nicht schon innerhalb dessen, beweisen manche jetzt schon.
 
 
