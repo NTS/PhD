@@ -531,7 +531,7 @@ dem Staat verhandeln, um ihre eigenen Ziele mit dem Stand der Dinge im öffentli
 Unerlaubtes ausgerichtet, doch dann entschieden wir uns für den nachgiebigen Weg der Kooperation mit der Stadt (Stadtrat, Grünflächenamt, usw.). Außerdem kommunizierten 
 wir mit den Nachbarn des Kiosks, die uns alle gut gestimmt schienen. 
 
-„… The rights to express, talk, gather, convey ideas, demonstrate, etc. are not a frame of the democratic game, but provide the circumstances that allow the existence of this game”. TODO: [@Author:book, pp. xx]
+„… The rights to express, talk, gather, convey ideas, demonstrate, etc. are not a frame of the democratic game, but provide the circumstances that allow the existence of this game”. TODO: [@Azoulay:Training, pp. 71]
 
 Wenn ich meine Erfahrungen hier mit der internationalen Situation vergleiche, muss ich feststellen, dass die deutsche Regierung sowie öffentliche Finanzierung solchen 
 öffentlichen Projekten sehr großzügig und ermutigend gegenüber stehen. Der *KoCA Inn* wurde vom Fonds *Soziokultur* finanziert, was die Umsetzung einer utopischen Idee für 
@@ -560,7 +560,7 @@ oder ein Blog Kommentar veröffentlicht, so zum Beispiel Lucian Patermann:
 
 Azoulay schreibt: „The public domain cannot be captured in the camera lens, neither can it be summoned to a point of view. The public domain will exceed the camera 
 lens since it is made out of countless points of view, imposing on it boundaries and signs, each creating a new point of view at the same time, which is then a blind 
-spot in another point of view.” TODO: [@Author:book, pp. xx]
+spot in another point of view.” TODO: [@Azoulay:Training, pp. 77]
 	
 Es war nicht schwer, das Ereignis selbst zu dokumentieren. Dies lag teilweise in der Natur der Veranstaltung, die sehr dokumentationsfreundlich war. Teilweise lag es daran, 
 dass wir in der Kunstszene mittlerweile sehr vertraut im Umgang mit Dokumentationsprozessen sind. Und so wurde die Dokumentation ein Teil der Aktivitäten am *KoCA Inn*, jedoch nicht zum Hauptziel. 
@@ -583,7 +583,7 @@ wir quatschten, kochten, führten Veranstaltungen und dokumentieren weiter. So a
 
 > “The beginning of the public sphere is characterized by the appearance of places in which these 
 > rights are implemented in a public manner in both senses of the concept – public as opposed 
-> to private, and public as in the open – something everyone can observe.” [@Author:book, pp. 80]
+> to private, and public as in the open – something everyone can observe.” [@Azoulay:Training, pp. 80]
 
 Mir scheint, als sei es möglich, eine Beziehung zwischen Internet und realem Leben herzustellen, bei der die Kunst eine Vermittlungsrolle einnehmen kann. Es bleibt die Frage: 
 Was hat eine solche aktive Teilnahme ermöglicht? War es die Einfachheit? Konnte die 'angenommene Armut' befreien und verbinden? War es die *favela* selbst oder der künstlerische 
