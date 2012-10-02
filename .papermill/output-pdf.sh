@@ -80,6 +80,8 @@ do
 		--template="./.papermill/nts.latex" \
         --no-tex-ligatures \
 		--variable=lang:ngerman \
+        --variable=urlcolor:black \
+        --variable=linkcolor:black \
 		\
 		--include-before-body="_After-Title.generated.latex" \
 		--include-before-body="Version.generated.latex" \
