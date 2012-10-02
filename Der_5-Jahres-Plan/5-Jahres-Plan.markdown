@@ -336,8 +336,8 @@ stellt sich die Frage nach an den Teilnahme, ob er das Wissen braucht, ob er Inf
 5. Warum haben Sie diesen Fachkurs gewählt? 
 6. Was wollen Sie eher werden: a. Künstler  b. Galerist   c. Kurator d. Sonstiges (was?)
 7. Wollen Sie lieber: Reich oder Berühmt werden? (Bitte markieren)
-8. Ist ihre Meinung nach das Wissen darüber wie der Kunstbetrieb Funktioniert im Fachkurs ausreichend erläutert worden? (Bitte markieren) Ja / Nein
-9. Planen Sie die folgenden K3 Fachkurse teilzunehmen? (Bitte markieren) Teil 2 Teil 3 beide Keine
+8. Ist ihrer Meinung nach das Wissen darüber wie der Kunstbetrieb funktioniert im Fachkurs ausreichend erläutert worden? (Bitte markieren) Ja / Nein
+9. Planen Sie an den folgenden K3 Fachkurse teilzunehmen? (Bitte markieren) Teil 2 Teil 3 beide keine
 10. Bemerkungen und Kritik:  
 11. Glauben Sie es ist gut wenn „ Vögel zu Ornithologen“ werden? Ja / Nein (Bitte markieren) Warum? 
 
@@ -352,7 +352,7 @@ stellt sich die Frage nach an den Teilnahme, ob er das Wissen braucht, ob er Inf
 6. (Wie vorige Fragebogen)
 7. Wollen Sie in Zukunft lieber im Kreativen- oder im Managementbereich tätig werden?
 8. Warum?
-9. Glauben Sie es ist gut, wenn Künstler alles über dem Kunstbetrieb wissen und können, oder ist Ihre Meinung nach, das Fachwissen darüber, wie eine Ausstellungsreihe funktioniert im Fachkurs ausreichend erläutert worden? Ja / Nein (Bitte Markieren)
+9. Glauben Sie es ist gut, wenn Künstler alles über dem Kunstbetrieb wissen und können, oder ist Ihrer Meinung nach, das Fachwissen darüber, wie eine Ausstellungsreihe funktioniert im Fachkurs ausreichend erläutert worden? Ja / Nein (Bitte markieren)
 
 
 
@@ -372,7 +372,7 @@ stellt sich die Frage nach an den Teilnahme, ob er das Wissen braucht, ob er Inf
 12. Anything you wish to have tried and didn't dare?	
 13. Do you believe such a project can run profitably?  Yes / No
 14. Is the knowledge about how such an art institution might work has been adequately mediated?	Yes / No	If no, why?	
-15. how do you assess the work with base camp (you can mark more than one): good  /  bad  /  easy  /  complicated  /  insuficiant  /  intimidating  /   nerving  /  practical
+15. how do you assess the work with base camp (you can mark more than one): good  /  bad  /  easy  /  complicated  /  insufficient  /  intimidating  /   nerving  /  practical
 16. Did you usually log in or just read the mails? 	
 17. Will you consider using an online internet platform for your own project? Yes   /  No   /   I use it   /   similar prog. already.
 18. Any other comments or critique	
@@ -397,7 +397,7 @@ Medien				          2
 Produktdesign		          1
 ----   -----
 
-Table: Einteilung der angeschriebene Studenten nach Fakultät bzw. Studiengang
+Table: Einteilung der eingeschriebenen Studenten nach Fakultät bzw. Studiengang
 
 
 
@@ -516,25 +516,25 @@ _Dieser Text ist als Essay für den KoCAinn Katalog [@UrbanDAE:KoCA]von URBANDÆ
 
 **Über die Schönheit einer zufälligen Straßengemeinschaft und Kunstnomaden im Internet**
 
-Der Name *KoCAInn* wurde gleich am Anfang von der deutsch-brasilianischen Gruppe ***URBANDÆ*** und der Künstlerin und Projektkoordinatorin Daniela Brasil vorgeschlagen. 
+Der Name *KoCAInn* wurde gleich am Anfang von der deutsch-brasilianischen Gruppe *URBANDÆ* und der Künstlerin und Projektkoordinatorin Daniela Brasil vorgeschlagen. 
 Der Name machte deutlich, dass dort, ebenso wie im anderen Projektteil *Hotel Miranda* in der Marienstraße 10, Menschen übernachten würden; und so begann die Aneignung 
-der Institution *Kiosk of Contemporary Art*. Der Kiosk der vielen Namen, wurde schließlich zum *KoCAInn*. Als sich die Kooperation mit der Gruppe ***URBANDÆ*** weiter 
+der Institution *Kiosk of Contemporary Art*. Der Kiosk der vielen Namen, wurde schließlich zum *KoCAInn*. Als sich die Kooperation mit der Gruppe *URBANDÆ* weiter 
 entwickelte und sich mit ihr das Konzept zu einer *favela* wandelte, traten mehrere Fragen auf: Ist dieser Kiosk einer von vielen *social-community human 
 plastics*, wie etwa die Aktionen von *WochenKlausur*, oder stellt er ein neues Experiment einer interdisziplinären Vereinigung von Architektur, 
-Urbanistik, Labor und Kunst? Was würde der Effekt einer solch künstlich kreierten, temporären *favela* sein? Ist es ein Spektakel der Unterschicht oder für die Armen? 
+Urbanistik, Labor und Kunstdar? Was würde der Effekt einer solchen künstlich kreierten, temporären *favela* sein? Ist es ein Spektakel der Unterschicht oder für die Armen? 
 Könnte der Kiosk ein falsches Bild von Armut reflektieren? 
 
 Ariella Azoulay schreibt in ihrem Buch *Training for ART*, dass, auch wenn der öffentliche Raum von öffentlichen und privaten Stellen verwaltet wird, beispielsweise der 
 Regierung, der Stadt, der Polizei oder des Kommerzes, das Monopol doch immer in der Hand der Regierung bleibt. Verschiedene Gruppen, wie städtische Institutionen, 
 *NGO*s oder Unternehmen, die unterschiedliche Interessen, zum Beispiel wirtschaftliche, ökologische, kulturelle und politische vertreten, müssen untereinander und mit 
 dem Staat verhandeln, um ihre eigenen Ziele mit dem Stand der Dinge im öffentlichen Raum abzugleichen. Ursprünglich war die Struktur des Kiosks auf Illegalität und 
-Unerlaubtem ausgerichtet, doch dann entschieden wir uns für den nachgiebigen Weg der Kooperation mit der Stadt (Stadtrat, Grünflächenamt, usw.). Außerdem kommunizierten 
+Unerlaubtes ausgerichtet, doch dann entschieden wir uns für den nachgiebigen Weg der Kooperation mit der Stadt (Stadtrat, Grünflächenamt, usw.). Außerdem kommunizierten 
 wir mit den Nachbarn des Kiosks, die uns alle gut gestimmt schienen. 
 
 „… The rights to express, talk, gather, convey ideas, demonstrate, etc. are not a frame of the democratic game, but provide the circumstances that allow the existence of this game”. TODO: [@Author:book, pp. xx]
 
 Wenn ich meine Erfahrungen hier mit der internationalen Situation vergleiche, muss ich feststellen, dass die deutsche Regierung sowie öffentliche Finanzierung solchen 
-öffentlichen Projekten sehr großzügig und ermutigend gegenüber stehen. Der *KoCAInn*wurde vom Fonds *Soziokultur* finanziert, was die Umsetzung einer utopischen Idee für 
+öffentlichen Projekten sehr großzügig und ermutigend gegenüber stehen. Der *KoCAInn* wurde vom Fonds *Soziokultur* finanziert, was die Umsetzung einer utopischen Idee für 
 einen kurzen Zeitraum erlaubte. Dank dieser Unterstützung war die Finanzierung dieses Projekts kein großes Problem. Die Unterstützung wurde genutzt, um eine schöne, sichere und 
 baumfreundliche *favela* zu bauen. Die Hauptstruktur wurde um den Kiosk herum gebaut, sie wurde um eine Küche, Toiletten und um alle weiteren notwendigen Vorrichtungen ergänzt. 
 Die grundlegende Struktur war installiert und erlaubte, dass die Inhalte dieses Raumes wachsen konnten. Über die Projektdauer hinweg weitete der *KoCAInn* seine 
@@ -551,15 +551,15 @@ Leitung von Bernd Naumann und Max Albrecht durchgeführt wurde. Dort konnten Mus
 Eine Gruppe Interessierter brachte ihre Computer, Kabel und Speichermedien mit und saß in einem *open air private Salon* zusammen. Anders als in einem Internetcafe, 
 in dem die Menschen fast ausschließlich allein an einem Tisch sitzen, gab es am Kiosk aktive Kommunikation; hier wurden intensiv Eindrücke und Meinungen ausgetauscht. 
 Diese Aktion am Kiosk zeigte, dass ein bestimmtes Verlangen besteht, Boxen zu verlassen und sich zu verbinden. Das veränderte die natürliche Tendenz der Mitglieder dieser *digital 
-community* allerdings nicht, sie dokumentierten und uploadeten weiterhin permanent Eindrücke ins Internet. Einige haben iPhone Bilder versendet und Twitts 
-oder ein Blog Kommentar veröffentlicht, so zum Beispiel Lucian Patttermann:
+community* allerdings nicht, sie dokumentierten und uploadeten weiterhin permanent Eindrücke ins Internet. Einige haben iPhone Bilder versendet und Tweets 
+oder ein Blog Kommentar veröffentlicht, so zum Beispiel Lucian Patermann:
 
 > „ …also wir halten uns momentan ja am liebsten am Kiosk auf. Immer wieder ein bisschen anders, immer wieder schön. Mal aufregend und mal einfach nur entspannt. Und vor allem 
 > für viele so ‘rundum- die-uhr’ das keiner dazu kommt es mal online zu bringen. Deshalb an dieser Stelle einige wenige Eindrücke, zusammengetragen aus den letzten Tagen. 
 > Es lebe der Schnappschuss”.
 
 Azoulay schreibt: „The public domain cannot be captured in the camera lens, neither can it be summoned to a point of view. The public domain will exceed the camera 
-lens since it is made out of countless points view, imposing on it boundaries and signs, each creating a new point of view at the same time, which is then a blind 
+lens since it is made out of countless points of view, imposing on it boundaries and signs, each creating a new point of view at the same time, which is then a blind 
 spot in another point of view.” TODO: [@Author:book, pp. xx]
 	
 Es war nicht schwer, das Ereignis selbst zu dokumentieren. Dies lag teilweise in der Natur der Veranstaltung, die sehr dokumentationsfreundlich war. Teilweise lag es daran, 
@@ -567,7 +567,7 @@ dass wir in der Kunstszene mittlerweile sehr vertraut im Umgang mit Dokumentatio
 Vielleicht war es das Fehlen der Notwendigkeit, das Ereignis während seiner Existenz zu beschreiben, was die totale Teilnahme und den Austausch von *Input* und *Output*, der während 
 der Aktion stattfand, ermöglichte. Dinge wurden persönlich weitergegeben und der *KoCAInn* wurde so, wie sein Name vorschlägt, zur Sucht. Es war zu besonders, um auf Facebook "getaggt" zu werden. 
 
-“Faveliziere dich selbst und der Rest wird folgen”, schien zum Motto des Projekts zu werden. Es war kalt und dennoch entwickelte sich eine Hängemattenkultur. Mitglieder beider Teams schliefen 
+“Favelisiere dich selbst und der Rest wird folgen”, schien zum Motto des Projekts zu werden. Es war kalt und dennoch entwickelte sich eine Hängemattenkultur. Mitglieder beider Teams schliefen 
 und übernachteten während der zwei Wochen am *KoCAInn*. Auswärtige Reisende hörten von dem Projekt und blieben ebenfalls als Übernachtungsgäste. Die Interaktionen involvierten alle Themen wie 
 Toleranz, Kommunikation, Raum geben, schaffen und nehmen. Es schien, als hätte jeder seine Rolle gefunden und dabei dennoch seine Individualität behalten. Wir gewannen an Erfahrung und an 
 Verantwortungsgefühl für einander. Diese Kreuzung bot einen Raum für alle, die nach einem solchen suchten: Ständig war eine Mischung aus Künstlern, Kunstliebhabern, Wohnungslosen, 
@@ -594,18 +594,18 @@ handeln, waren die Ziele und die *favela* wurde zum Werkzeug mit dem dies ermög
 KOP: Für das sogenannten *Sommerloch* (um es in der Galeristensprache zu formulieren), haben wir eine andere Strategie benutzt. Wir schlossen als Galerie, 
 haben eine Pressemitteilung, die dies ankündigt verschickt und ließen den Kiosk von Hackern als Geisel nehmen. Der Kiosk diente als Demonstrationsobjekt. 
 Die Wellen schlugen hoch, wir wurden ziemlich berühmt, auch international. Es stand überall in Zeitungen und Blogs. Es war interessant zu beobachten, wie viel 
-Aufmerksamkeit wir auf internationale Ebene bekamen und das wir die meisten Klicks aus Amerika erhielten. Das Sommerloch wurde so zur berühmtesten Arbeit. Dann kamen der Herbstputz und die letzten drei Ausstellungen. 
+Aufmerksamkeit wir auf internationaler Ebene bekamen und dass wir die meisten Klicks aus Amerika erhielten. Das Sommerloch wurde so zur berühmtesten Arbeit. Dann kamen der Herbstputz und die letzten drei Ausstellungen. 
 
 
-Im Herbst und gleich nach Semesteranfang folgten die drei letzte Ausstellungen. Die K3 Fachkurs Gruppe umfasste fünf Mitglieder aus den vorangegangenen Kursen und zehn neu Eingeschriebene,
-darunter manche Gaststudenten aus Spanien- Alle gingen mit Begeisterung an die Arbeit an. Die *KoMA - Kiosk of Modern Art* Ausstellung war von Felix Ruffert (einer der Kioskgruppen-Inhaber)
-konzipiert und in ihre Aneignung an die *MoMA* in New York angelehnt. Wie in einer Wunderkammer, die aber nach aussen gedreht wurde, konnte man durch die an den Fenstern installierten Diaboxen, 
+Im Herbst und gleich nach Semesteranfang folgten die drei letzten Ausstellungen. Die K3 Fachkurs Gruppe umfasste fünf Mitglieder aus den vorangegangenen Kursen und zehn neu Eingeschriebene,
+darunter manche Gaststudenten aus Spanien- Alle gingen mit Begeisterung an die Arbeit heran. Die *KoMA - Kiosk of Modern Art* Ausstellung war von Felix Ruffert (einer der Kioskgruppen-Inhaber)
+konzipiert und in ihre Aneignung an der *MoMA* in New York angelehnt. Wie in einer Wunderkammer, die aber nach außen gedreht wurde, konnte man durch die an den Fenstern installierten Diaboxen, 
 einen Blick auf den Kiosk mit Kunst des 20 Jhds. erhaschen. Im November folgte Karo Kollowitz mit ihrer komplexen Installation *Mondkopie*, das Institut hieß natürlich *KSA - 
 Kiosk Space Agency*. In dieser Zeit platzte die letzte vorgeplante Ausstellung und wir mussten sehr schnell eine Bewerbung organisieren. Diese wurde
-auf allen Universitäts-Online-Plattformen veröffentlicht, um erneut Kandidaten zu finden. Wegen der kurzfristigen Absage, konnten wir uns keine Last Minute Alumni Beschränkung erlauben
-und haben den Wettbewerb für alle Studenten geöffnet. Dazu kam auch dass die Vorbereitungszeit auf den Jahreswechsel fiel und damit waren viele Dienste geschlossen waren. Der Erstsemester- Student 
-Jewgeni Lossik hat mit seinem *Kyosk - DNA For A Better Life*, ein für die Öffentlichkeit offenes Labor zum Verkauf und Austausch von DNA für Rechtliche Zwecke, 
-per Jury aus alle Fachkurs Mitglieder demokratisch gewählt worden. Die Firma *Beyer*, die ihre Rechte verletzt sah, schickte uns dann einen Mitarbeiter, um die Nutzung des Logos und deren Moto 
+auf allen Universitäts-Online-Plattformen veröffentlicht, um erneut Kandidaten zu finden. Wegen der kurzfristigen Absage konnten wir uns keine Last Minute Alumni Beschränkung erlauben
+und haben den Wettbewerb für alle Studenten geöffnet. Dazu kam auch dass die Vorbereitungszeit auf den Jahreswechsel fiel und damit viele Dienste geschlossen waren. Der Erstsemester- Student 
+Jewgeni Lossik wurde mit seinem *Kyosk - DNA For A Better Life*, ein für die Öffentlichkeit offenes Labor zum Verkauf und Austausch von DNA für Rechtliche Zwecke, 
+per Jury aus allen Fachkurs-Mitgliedern demokratisch gewählt. Die Firma *Beyer*, die ihre Rechte verletzt sah, schickte uns dann einen Mitarbeiter, um die Nutzung des Logos und deren Motto 
 *For A Better Life* zu diskutieren. In Anwesenheit des Künstlers und der Projektzuständigen sowie anderen Fachkursteilnehmern konnten wir den künstlerischen Einsatz verteidigen und 'durften' 
 die Installation bis zum ursprünglich geplanten Abbau und die Übergabe des Kiosks an die Nachfolger zum Ende des Semesters sowie als Abschluss der Ausstellungsreihe behalten. 
 
