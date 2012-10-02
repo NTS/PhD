@@ -8,8 +8,9 @@ source ~/.profile
 BASE_DIR="$(pwd)"
 
 # DEV: Version and Date in Title
+GITHASH="$(git log -1 --pretty=format:"%H")"
 echo "" > "Version.markdown"
-echo "> Version: \`\`$(git log -1 --pretty=format:"%H")\`\`  " >> "Version.markdown"
+echo "> Version: \`\`$GITHASH\`\`  " >> "Version.markdown"
 #echo "> Datum: \`\`$(date)\`\`  " >> "Version.markdown"
 echo "" >> "Version.markdown"
 
@@ -93,8 +94,9 @@ do
 
 	} && {
 	    echo "SUCCESS"
-		cp "$PAPER".pdf ~/"Dropbox/MFA+NTS/PHD.NTS-output"
-		open "$PAPER.pdf"
+        mv ""$PAPER".pdf" ""$PAPER"_"$GITHASH".pdf"
+		cp ""$PAPER"_"$GITHASH".pdf" ~/"Dropbox/MFA+NTS/PHD.NTS-output"
+		open ""$PAPER"_"$GITHASH".pdf"
 	}
 	
     [[ -e ""$PAPER"_Impressum.generated.latex" ]] && rm ""$PAPER"_Impressum.generated.latex"
