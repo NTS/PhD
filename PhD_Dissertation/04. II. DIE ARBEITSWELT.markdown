@@ -1,9 +1,9 @@
 # DIE ARBEITSWELT
 
 
-## Money for Nothing[^DireStraits]
+## *Money for Nothing* [^title-DireStraits]
 
-[^DireStraits]: Lied von Dire Straits, aus dem Album Brothers in Arms, 1985.
+[^title-DireStraits]: Lied von Dire Straits, aus dem Album Brothers in Arms, 1985.
 
 **Das Bild von Kunst als *Business***
 
@@ -147,9 +147,9 @@ Gesellschaft nach „durchgeknallten Künstlertypen“ wider, die das unangepass
 
  
 
-## "Would you like to be modified?"[^modified]
+## *Would you like to be modified?* [^title-modified]
 
-[^modified]: Aus einem Dialog zwischen *Roy* und *Tyrell*, aus dem Film *Blade Runner* (1982, Regie: Ridly Scott): \
+[^title-modified]: Aus einem Dialog zwischen *Roy* und *Tyrell*, aus dem Film *Blade Runner* (1982, Regie: Ridly Scott): \
 *Roy:* "It's not an easy thing to meet your maker. \
 *Tyrell:* "What can he do for you?" \
 *Roy:* "Can the maker repair what he makes?" \
@@ -188,9 +188,9 @@ Neben- und Materialkosten bezahlen, wie sie überleben, ohne ein reguläres Eink
 **Bild:** [Künstler im Einsatz]
 
 
-## *Where's My Money?*[^wheremymoney]
+## *Where's My Money?*[^title-wheresmymoney]
 
-[^wheremymoney]: *TC* - Where's My Money (Caspa Remix)
+[^title-wheresmymoney]: *TC* - Where's My Money (Caspa Remix) <http://www.youtube.com/watch?v=ZJ04B5iO1tc>
 
 
 > „Was ich an meinem Beruf am meisten mag? Ich liebe es am meisten, eine Pressemitteilung per Mail von den Kuratoren, 
@@ -240,7 +240,7 @@ Bekannt ist die Einstellung wohlmeinender Älterer, man soll was Gescheites stud
 
 \pagebreak
 
-## Künstler sind nicht überflüssig
+## *Künstler sind nicht überflüssig*
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
 Künstler sind nicht überflüssig
@@ -283,8 +283,7 @@ Ich finde, dass sie prima
 In unsere Gesellschaft passen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
-- Text: **Fanny van Dannen** - *Künstler sind nicht überflüssig*
+- [Text:](http://lyrics.wikia.com/Funny_Van_Dannen:Künstler_Sind_Nicht_überfüssig) **Fanny van Dannen** - *Künstler sind nicht überflüssig*
 - aus dem Album: *Basics* (1996)
-- Lyrics: <http://lyrics.wikia.com/Funny_Van_Dannen:Künstler_Sind_Nicht_überfüssig>
 
 

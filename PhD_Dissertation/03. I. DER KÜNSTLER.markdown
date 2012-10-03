@@ -1,9 +1,9 @@
 # DER KÜNSTLER
 
 
-## Where is my Mind?[^whereismymind]  
+## *Where is my Mind?* [^title-whereismymind]  
 
-[^whereismymind]: Song der *The Pixies*, aus dem Album *Surfer Rosa* (1988)
+[^title-whereismymind]: Song der *The Pixies*, aus dem Album *Surfer Rosa* (1988)
 
 
 
@@ -46,10 +46,10 @@ Hierzu ein Auszug aus dem ehemaligen [*Meyers Online-Lexikon*](http://web.archiv
 **Bild:** [Künstlerbegriff nach Pons] 
 
 
-## Looking at you (looking at me)[^LadyGaga]
+## *Looking at me* [^title-LadyGaga]
 
 
-[^LadyGaga]: LadyGaga, "Looking at me" <http://www.youtube.com/watch?v=2Hjm4D4LAGg>
+[^title-LadyGaga]: LadyGaga, "Looking at me" <http://www.youtube.com/watch?v=2Hjm4D4LAGg>
 
 
 Der Künstler wird gern von anderen gesehen und beschrieben, aber stimmt dies mit dem wie Künstler sich selber beschreiben, überein? In jedem Kunststudium wird über *Mimesis*
@@ -130,10 +130,10 @@ Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metae
 
 
 
-## "Me, myself & I"[^Armatrading]
+## *Me, myself & I* [^title-Armatrading]
 
 
-[^Armatrading]: Joan Armatrading, Album titel von 1980
+[^title-Armatrading]: Joan Armatrading, Album titel von 1980
 
 
 
@@ -179,10 +179,9 @@ Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblö
 ## Vom Künstlerbild in den Medien
 
 
-### Dorian_Gray.jpg [^Gray]
+### *Dorian_Gray.jpg* [^title-Gray]
 
-
-[^Gray]: Nach dem Buchtitel *Das Bildnis des Dorian Gray* von Oscar Wilde.
+[^title-Gray]: Nach dem Buchtitel *Das Bildnis des Dorian Gray* von Oscar Wilde.
 
 Manches hat sich im Bild des Künstlers in der Gesellschaft geändert und manches ist ein Klischee geblieben. In der Literatur gibt es klassische Beschreibungen 
 vom Werdegang und inneren Gedanken eines Künstlers wie *Der Fänger im Roggen* von J. D. Sallinger, oder *Das Bildnis des Dorian Gray* von 
@@ -194,9 +193,9 @@ aus unterschiedlichen Perspektiven. **Bilder:** [Contemporary Artist], [What Art
 
 
 
-### Previously on...[^Previously]
+### *Previously on...* [^title-Previously]
 
-[^Previously]: Ankündigung der Zusammenfassung am Episodenanfang bestimmter TV-Serien
+[^title-Previously]: Ankündigung der Zusammenfassung am Episodenanfang bestimmter TV-Serien
 
 In Film und Fernsehen werden die Eigenschaften und Gedankenwege von Künstlern oft kritisch wiedergegeben. Der schon vorhin erwähnte Film *Basquiat* 
 beschäftigt sich mit dem inneren Konflikt zwischen dem psychologischen Drang nach Ruhm
@@ -235,7 +234,7 @@ wie z.B. [*School of Saatchi*](http://www.bbc.co.uk/programmes/b00p71qkzum) pass
 dem üblichen Fernsehniveau an.
 
 
-### Hi, My Name is Charlotte Young 
+### *Hi, My Name is Charlotte Young* 
 
 "Hey, my Name is ..." so beginnt das [*Artist's Statement*](http://youtube.com/watch?v=3v8DbLWAXvU) der jungen Künstlerin Charlotte Young an, das sich über das Internet verbreitet hat. Während sie auf Englisch über sich als Künstlerin erzählt, läuft die ‚Wahrheit‘ bzw. eine
 sozial-wirtschaftliche Interpretation über sie als eine Art Übersetzung im Untertitel. Dieses Werk zeigt eine schnelle Vergeltungskraft im Dialog über die Arbeitsverhältnisse, denn viele Künstler würden dieser Diskrepanz zustimmen: Eine kreative 

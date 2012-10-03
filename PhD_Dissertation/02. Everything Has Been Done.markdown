@@ -1,11 +1,11 @@
-# "Everything Has Been Done"[^everydone]
+# *Everything Has Been Done* [^everydone]
 
 
 [^everydone]: Titel eines Kunstwerks der Kunstgruppe *Azzoro*, 2003
 
 
 > "I am bored with that line. I never use it anymore. My new line is: in 15 minutes everybody will be famous." \
-> --- Andy Warhol[^andy-bored]
+> --- Andy Warhol [^andy-bored]
 
 [^andy-bored]: [@Warhol:vonAbisZ, pp. 130]
 
