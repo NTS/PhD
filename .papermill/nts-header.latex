@@ -1,3 +1,5 @@
+% A4
+%\usepackage[a4paper]{geometry}
 %
 % redefines the \section command to include the \newpage when using the \section
 \let\stdsection\section  
