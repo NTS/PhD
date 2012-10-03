@@ -135,7 +135,7 @@ Durch Frauen mit Diplom
 
 
 
-## Grounded Practical Theory [^practicaltheorie]
+## *Grounded Practical Theory* [^practicaltheorie]
 
 [^practicaltheorie]: Grounded Practical Theory, ein Buch von Robert T. Craig <https://en.wikipedia.org/wiki/Robert_T._Craig_(scholar)>
 
@@ -175,7 +175,7 @@ Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden ko
 
 
 
-## What's the Difference?[^whatsthediff]
+## *What's the Difference?* [^whatsthediff]
 
 
 [^whatsthediff]: Dr. Dre "What's The Difference" (feat. Eminem, Phish, Xzibit) <http://azlyrics.com/lyrics/drdre/whatsthedifference.html> 
@@ -278,7 +278,7 @@ Als solches braucht jeder Diplomand, der sein Studium beendet hat Strategien um 
 
 \pagebreak
 
-### Leerer, Inhaltsloser Ausdruck
+## *Leerer, Inhaltsloser Ausdruck*
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
@@ -362,7 +362,7 @@ Erste Impulse in Richtung der Gründung einer Uni-Galerie gab es im Jahr 1999, a
 **Bild:** [Bauhaus Essentials I]
 
 
-## Opposites Attract [^PaulaAbdul]
+## *Opposites Attract* [^PaulaAbdul]
 
 [^PaulaAbdul]: Lied bei Paula Abdul, aus der Album *Forever Your Girl* 1989
 
@@ -509,7 +509,7 @@ Kunsthochschule Kiel* und die *Akademie der Bildenden Künste Nürnberg* vertret
 die *HfG Offenbach* sowie die *Weißensee Kunsthochschule Berlin* hinzu.
 
 
-## Das Dilemma[^dilemma]
+## Das Dilemma [^dilemma]
 
 [^]: TODO or Lösch :)
 
@@ -530,7 +530,7 @@ mit einer Ausstellung in einer anerkannten Institution samt ihrem Apparat? Es st
 oder indirekt vermittelt? 
 
 
-## Wo ist eigentlich...?[^Rubrik]
+## *Wo ist eigentlich...?* [^Rubrik]
 
 [^Rubrik]: Beliebte Rubrik in verschiedenen deutschen Zeitschriften
 
@@ -574,7 +574,7 @@ gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben
 
 \pagebreak
  
-### Artbitch
+## *Artbitch*
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
