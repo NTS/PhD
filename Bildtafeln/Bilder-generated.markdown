@@ -101,15 +101,15 @@ Foto -- Quelle: privat
 
 ## [Jörg Immendorf] 
 \vfill
-![Bild](pix/joerg-immendorf-by-andrea-strappert-2001.jpg) \
+![Bild](pix/immendorf-sofa.jpg) \
 \vfill
+Jörg Immendorf im Atelier
+
+Foto -- Quelle: http://www.rp-online.de/1.1120505
 
 
-Foto -- Quelle: privat
 
-
-
-© Andrea Strappert, 2001
+© RP ONLINE, 2001
 \vfill
 
 

@@ -55,11 +55,12 @@
     },
     {
       "snap" : true,
-      "title" : "Jörg Immendorf",
-      "filename" : "joerg-immendorf-by-andrea-strappert-2001.jpg",
+      "title-short" : "Jörg Immendorf",
+      "title" : "Jörg Immendorf im Atelier",
+      "filename" : "immendorf-sofa.jpg",
       "media-type" : "Foto",
-      "copyright" : "Andrea Strappert, 2001",
-      "source" : "privat",
+      "copyright" : "RP ONLINE, 2001",
+      "source" : "http://www.rp-online.de/1.1120505",
       "source-url" : null
     },
     {
