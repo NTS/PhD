@@ -18,19 +18,19 @@ Was, oder wer ist ein Künstler?
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was oder wer ist heute ein Künstler? Künstler stellten sich 
 selbst seit jeher als Beobachter von sich und der Welt dar. Aber was sind ihre 'Aufgaben', wenn sie denn solche haben? Wie werden sie von der Gesellschaft wahrgenommen? 
 Seit der Jahrtausendwende existieren verschiedene „Künstlertypen“. Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft etwas
-geändert. Joseph Beuys' Aussage wurde auf den einen Satz „Jeder Mensch ist ein Künstler“ relativiert. Das Originalzitat lautet: „... Ich sage,
+geändert. Joseph Beuys' Aussage wurde auf den einen Satz „Jeder Mensch ist ein Künstler“ relativiert. Das Originalzitat lautet jedoch: „... Ich sage,
 es muss ein anderer Kunstbegriff geprägt werden, der sich auf jedermann bezieht und nicht nur Sache der Künstler ist, sondern sich anthropologisch nur deklarieren lässt. D.h. jeder Mensch 
 ist ein Künstler in dem Sinne, dass er etwas gestalten kann. Alle Fragen der Menschen können nur Fragen der Gestaltung sein (Soziales Gestalten, Rechtsgestaltung, Natur – 
-und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“[^source-beuysprager]
+und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“[@d6K:Beuys, pp. 156]
+
  
-[^source-beuysprager]: J. Beuys im Gespräch mit B. Blume u. H. G. Prager vom 15.11.1975, D 6-Kat.I/156 TODO
 
 Gilt die Aussage „Das kann mein Kind auch“ in diesem Sinne? Nicht nur Kinder können das, auch Affen (Arnulf Rainer), oder Elefanten (Komar und Melamid), 
 und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb formaler Ähnlichkeiten. Kann wirklich jeder lernen, ein Künstler zu werden?
-Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von „const“ was soviel wie Können, 
+Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von lat. *const* was soviel wie Können, 
 Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch „Kunst kommt vom Können“ [@lexi:KlugeEtym] --
 dieser Aphorismus hat sogar einen eigenen [Artikel bei der deutschsprachigen *Wikipedia*](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
-Hierzu ein Auszug aus dem ehemaligen [Meyers Online-Lexikon](http://web.archive.org/web/20090105132257/http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie):
+Hierzu ein Auszug aus dem ehemaligen [*Meyers Online-Lexikon*](http://web.archive.org/web/20090105132257/http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie):
 
 > „Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
 > Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler).
@@ -61,8 +61,8 @@ Kunst die Regel gibt“.[^src-WasWarKunst1] Seine Interpretation: „Nie Regeln 
 zu können, -- das ist Kants Umschreibung genial-schöpferischen Tuns“.[^src-WasWarKunst2] Der Künstler wird oft als: „Der Seher und der Störenfried, der Schamane und der Außenseiter, 
 der Clown und der Harlekin beschrieben -- diese Rollen ergaben sich daraus, dass der Künstler nicht weiß, was er macht“[^src-WasWarKunst3], soweit Ullrich, oder anders gesagt: 
 nicht weiß, wie er es in Worte fassen soll. Denn: „Er gilt als Medium höherer Kräfte, die über ihn verfügen (…) da er seine Werkprozesse nicht zu kontrollieren 
-oder mitzuteilen vermag“,[^src-WasWarKunst4] (was heute nicht mehr für alle Künstler so stimmt), kann er nur für sich allein tätig sein. Er ist unvorhersehbarer, 
-weil sich das, was er tut, kaum auf Wissen oder Know-How – auf erlernbare Faktoren – stützt. 
+oder mitzuteilen vermag“,[^src-WasWarKunst4](was heute so nicht mehr für alle Künstler stimmt), kann er nur für sich allein tätig sein. Er ist unvorhersehbarer, 
+weil sich das, was er tut, kaum auf Wissen oder *Know-How* – auf erlernbare Faktoren – stützt. 
 Der Schaffensprozess bleibt ein Geheimnis: „ist es die Hand, das Auge oder der Kopf, wo sich das Eigentliche abspielt?“[^src-WasWarKunst5]
 
 [^src-WasWarKunst1]: [@Ullrich:WasWarKunst, pp. 22]
@@ -71,21 +71,19 @@ Der Schaffensprozess bleibt ein Geheimnis: „ist es die Hand, das Auge oder der
 [^src-WasWarKunst4]: [@Ullrich:WasWarKunst, pp. 22]
 [^src-WasWarKunst5]: [@Ullrich:WasWarKunst, pp. 26]
 
-Über dieses Thema schreibt auch Verena Krieger in ihrem Buch: „Was ist ein Künstler? Genie. Heilsbringer. AntiKünstler“ [-@Krieger:WasIstKunstler, pp. 86]. 
+Über dieses Thema schreibt auch Verena Krieger in ihrem Buch *Was ist ein Künstler? Genie - Heilsbringer - AntiKünstler* [-@Krieger:WasIstKunstler, pp. 86]. 
 Die Frage, die ich gern stellen möchte, ist: Wer wirft den Blick auf die Künstler und wie verflochten sind dadurch die möglichen Interpretationen? 
 
-Früher war es „einfacher“, wenn Künstler ihr Selbstportrait malten (siehe dazu die beiden folgenden Bilder).
+Früher war es „einfacher“, wenn Künstler ihr Selbstportrait malten (siehe dazu die beiden **Bilder:** [Rembrandt: Der Künstler in seinem Atelier], [Naomi Campbell im Künstlerlook]).
 
-**Bild:** [Rembrandt: Der Künstler in seinem Atelier]
 
-**Bild:** [Naomi Campbell im Künstlerlook]
 	
 Dieser *look* entspricht eher dem Typ „Armer Künstler“, oder dem daraus entstandenen Klischee. In seinem Buch *Why Are Artists Poor?* [-@Abbing:poor] beschreibt Hans 
-Abbing die verstrickten Verhältnisse zwischen Künstler und der Gesellschaft. Abbing vertritt unter anderem die These, dass die Kunst 
+Abbing die komplexe Verhältnisse zwischen Künstler und der Gesellschaft. Abbing vertritt unter anderem die These, dass die Kunst 
 für den Künstler zu heilig wäre, um in Worten wie Profit und Kommerz beschrieben zu werden. Der Künstler erhält Stipendien und wird weiterhin als arm und als 
-Outsider wahrgenommen. Oftmals wird er auch als autistische Person, die sich im Atelier vergräbt, bis sie entdeckt wird, wahrgenommen. Da der Künstler so sensibel 
-sei und geschützt werden müsse, benötige er einen Vermittler, auch weil er seine eigene Arbeit nicht schätzen kann. Er produziert, weil er produzieren muss, 
-egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, einem US-amerikanischem Spielfilm aus dem Jahr 1996 -- Regie Julian Schnabel, selbst Künstler -- 
+Outsider wahrgenommen. Oftmals wird er auch als fast schon autistische Person, die sich im Atelier vergräbt bis sie entdeckt wird, wahrgenommen. Da der Künstler so sensibel 
+sei und geschützt werden müsse, benötige er einen Vermittler, auch weil er seine eigene Arbeit nicht taxieren kann. Er produziert, weil er produzieren muss, 
+egal ob er Geld dafür bekommen wird oder nicht. In dem Film *Basquiat*, einem US-amerikanischem Spielfilm aus dem Jahr 1996 -- Regie: Julian Schnabel, selbst Künstler -- 
 wird ein Text des Kunstkritikers Renè Ricard aus seinem Schreiben [*The Radiant Child*](http://www.smartwentcrazy.com/basquiat/text/jmb_radiantchild.htm) 
 über Jean-Michel Basquiat aus dem *Artforum* Magazin, Dezember 1981, zitiert: 
 
@@ -93,79 +91,86 @@ wird ein Text des Kunstkritikers Renè Ricard aus seinem Schreiben [*The Radiant
 > aus dem Slum herauskommen, indem sie sich selbst als Medium benutzen. Das verdiente Geld beweist den Wert des Künstlers.“ 
 
 Wenn es früher massenhaft Bilder von Künstlern im eigenen Atelier, neben ihrer Staffelei, vor der eigenen Arbeit gab, so hat sich parallel 
-zur Entwicklung der Fotografie als dokumentarisches Medium, eine langsame Auflösung des Künstler getrennt von seiner Arbeit vollzogen. 
-Er wird per se nicht mehr durch oder neben seinem Werk erkannt, sondern auf Grund seiner Berühmtheit unabhängig davon als Person.[^fn-picassoswfoto]
+zur Entwicklung der Fotografie als dokumentarisches Medium, eine langsame Trennung des Künstler getrennt von seiner Arbeit vollzogen. 
+Er wird nur nicht mehr durch oder neben seinem Werk erkannt, sondern auch auf Grund seiner Berühmtheit unabhängig davon, als Person.[^fn-picassoswfoto]
 
 [^fn-picassoswfoto]: Denken wir an Picasso oder Paul Klee in den Schwarzweiß-Fotografien von Henri Cartier-Bresson
 
-Mit dem Fotografieboom der 1980er Jahre des vorigen Jahrhunderts ist das Bewusstsein der Künstler hinsichtlich der Wirkung ihres Aussehens gestiegen. 
+Mit dem Fotografieboom der 1980er Jahren, ist das Bewusstsein der Künstler hinsichtlich der Wirkung ihres Aussehens gestiegen. 
 Künstler wie Josef Beuys und Andy Warhol wussten das für ihre Zwecke zu nutzen. Es entwickelte sich eine Tendenz zum wohlhabenden Künstlers der zu 
-Lebzeiten und nicht erst nach dem Tod als berühmt und reich zu erscheinen hatte. In der USA war der unbestrittene Meister in Sachen Selbstdarstellung Andy Warhol.
-Die beiden Zeitgenossen, Beuys und Warhol, können als stellvertretend für die Unterschiede in der Entwicklung der Künstlerfigur zwischen den USA und Europa gesehen werden.
-Der Vergleich bezieht sich auf die Sorte Künstler den sie verkörpern, die aber gleichzeitig mit ihrer Kunst auch verbunden ist. Beuys verkörpert den beinahe klassischen 
-Künstlertypus mit genialen Einfällen, formaler Leichtigkeit und Sicherheit, Ironie und Präsenz und trotzdem gesellschaftspolitisch innovativ und seriös, 
-(Beuys war Mitbegründer der [*Freien Universität*](http://en.wikipedia.org/wiki/Free_International_University) und der [Partei *Die Grünen*](http://www.medienkunstnetz.de/werke/wahlplakat-fur-die-grunen/)). Während Warhol zwar seine *Factory* hatte, was auf einen Teamgeist schließen ließe, und zum Teil 
-auch funktionierte, war er aber letzten Endes (mehr als Beuys) ein Einzelkämpfer, der das Glück hatte, als guter oder anerkannter Werbegraphiker auf den Kunstpfad
-zu gelangen, damit berühmt zu werden und weitermachen zu können. Letzten Endes hat er „nur“ die Strategien des Kapitals, des Marktes, der PR perpetuiert und nicht 
-in Frage gestellt. Dies könnte auch als eine Polarität zwischen Schamane und Kaufmann verstanden werden. Jedoch befinden sie sich beide unter den ersten 5 auf der 
+Lebzeiten und nicht erst nach dem Tod als berühmt und reich zu erscheinen hatte. In den USA war der unbestrittene Meister der Selbstdarstellung Andy Warhol.
+Die beiden Zeitgenossen, Beuys und Warhol, können als Stellvertreter der Unterschiede in der Entwicklung der Künstlerfigur zwischen den USA und Europa werden.
+Der Vergleich bezieht sich auf die Sorte Künstler den sie verkörpern, die aber gleichzeitig auch mit ihrer Kunst verbunden ist. Beuys verkörpert den beinahe klassischen 
+Künstlertypus mit genialen Einfällen, formaler Leichtigkeit und Sicherheit, Ironie und Präsenz und trotzdem gesellschaftspolitisch innovativ und seriös herangezogen werden. 
+(Beuys war Mitbegründer der [*Freien Universität*](http://en.wikipedia.org/wiki/Free_International_University) und der [Partei *Die Grünen*](http://www.medienkunstnetz.de/werke/wahlplakat-fur-die-grunen/)). Während Warhol zwar seine *Factory* hatte, was auf einen Teamgeist schließen lässt und zum Teil 
+auch so funktionierte, war er aber letzten Endes (mehr als Beuys) ein Einzelkämpfer, der das Glück hatte, als guter oder anerkannter Werbegraphiker auf den Kunstpfad
+zu gelangen, damit berühmt zu werden und weitermachen zu können. Letzten Endes hat er die Strategien des Kapitals, des Marktes, der PR „nur“ perpetuiert und nicht 
+in Frage gestellt. Dies könnte auch als eine Polarität zwischen Schamane und Kaufmann verstanden werden. Trotzdem befinden sie sich beide unter den ersten 5 auf der 
 [Top 100 Künstler Weltrangliste von *Artfact.net*](http://www.artfacts.net/en/artists/top100.html) und haben sich in den letzten zwei Jahren nicht von dort weg bewegt.
 
-Wenn man die Bilder Warhols mit Arbeiten von Fotografen wie der US-amerikanischen Fotografin Annie Leibowitz vergleicht, die während der 1980er für das Musik Magazin *The Rolling Stone* 
-viele US-amerikanische Musiker und Künstler fotografiert hat, so liegt bei Warhol das Zentrum in der Technik, während bei Leibowitz der Schwerpunkt eher 
-auf einer kreativen Idee der Fotografin selbst beruht, die in Zusammenarbeit mit den Künstlern etwas Persönliches mitteilt. Wenn wir die Aufnahmendeutsche Künstler mit solchen Bildern 
-vergleichen, so scheint es, dass diese von einer solchen Interpretation nichts halten und eher ihre gediegene Seite zeigen: 
+Wenn man die Bilder Warhols mit Arbeiten von Fotografen wie der US-amerikanischen Fotografin Annie Leibowitz vergleicht, die während der 1980er für das Musik-Magazin *The Rolling Stone* 
+Musiker und Künstler fotografiert hat, so liegt bei Warhol dr Fokus auf der Technik, während bei Leibowitz der Schwerpunkt eher 
+auf einer kreativen Idee der Fotografin selbst beruht, die in Zusammenarbeit mit den Künstlern etwas Persönliches mitteilt. Wenn wir die Aufnahmen deutsche Künstler mit diesen Bildern 
+vergleichen, so scheint es, dass diese von einer solchen Interpretation nichts halten und eher ihre gediegene Seite zeigen. 
 
 Es gilt jedoch weiter die ungeschriebene Regel: Bei Ausstellungseröffnungen sollte der Künstler nicht wohlhabender aussehen als sein Galerist oder sein Sammler. 
-Andy Warhol machte sich Gedanken über sein Selbstbildnis. In *Die Philosofie des Andy Warhol von A bis B und zurück* sagt er: „Ich glaube, wenn ich in den 
+Andy Warhol machte sich Gedanken über sein Selbstbildnis. In *Die Philosophie des Andy Warhol von A bis B und zurück* schreibt er: „Ich glaube, wenn ich in den 
 Spiegel sehe, werde ich NICHTS sehen. Man nennt mich immer einen Spiegel, und wenn ein Spiegel in einen Spiegel sieht, was ist dann zu sehen? Wenn ich in den 
 Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen.“ [@Warhol:vonAbisZ, pp. 14] Und Anna Marie Freybourg schreibt: „Dass ihm 
 innerhalb und ebenso außerhalb der Kunstwelt der Status eines großen Stars, ja einer legendären Kultfigur zukommt, scheint ganz maßgeblich auch in der Inszenierung seiner Person und ihrer öffentlichen medialen Präsenz begründet zu sein.
 Das Bild fungiert nicht als Mittel der Selbsterkenntnis, sondern in erster Linie als Mittel der Selbstdefinition, denn es gibt Warhol die Möglichkeit, 
-sich so zu zeigen, wie er von anderen gesehen werden will.“[@Freybourg:DieInszen, pp. 12] Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat, siehe **Bild:** [Jörg Immendorf]. TODO: http://www.rp-online.de/region-duesseldorf/duesseldorf/nachrichten/eine-rote-couch-reist-durch-europa-1.1120505
+sich so zu zeigen, wie er von anderen gesehen werden will.“[@Freybourg:DieInszen, pp. 12] Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat, siehe **Bild:** [Jörg Immendorf]. TODO: neu pix http://www.rp-online.de/region-duesseldorf/duesseldorf/nachrichten/eine-rote-couch-reist-durch-europa-1.1120505
 
 „Warhols Anerkennung erfolgte nicht allein durch die Würdigung seiner Kunst, sondern auch und insbesondere durch die Selbstdarstellung in den Massenmedien“. @Freybourg:DieInszen, pp. 16] 
 
-Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metaebene gehoben, durch Selbstbeobachtung, kalkuliertem Zynismus und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden (siehe dazu Bilder X, Y und Z).
-
-
-**Bilder:** [Warhol-Stickers], [In the future everyone will be famous for fifteen minutes], [Your 15 minutes are up!] 
+Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metaebene gehoben, durch Selbstbeobachtung, kalkuliertem Zynismus und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden (siehe dazu die **Bilder:** [Warhol-Stickers], [In the future everyone will be famous for fifteen minutes], [Your 15 minutes are up!] ).
 
 
 
-## Me, myself & I
 
-**Im Bezug auf... Zur Selbstreferenzierung in der Kunst**
 
-Eine neue Strömung, die neben der Auseinandersetzung mit Begriffen wie Kopie, Original und Aneignungskunst agiert und es zu thematischen Widmung im Kunstheft *Texte zur Kunst* 
-(Heft 71 Herbst 2008) gebracht hat, ist das Phänomen des *Künstler-Künstlers*. In erster Linie ist dieser -- laut Vorwort zum Heft -- als Begriff zu verstehen für weitgehend unbekannte Künstler, die 
+
+## "Me, myself & I"[^Armatrading]
+
+
+[^Armatrading]: Joan Armatrading, Album titel von 1980
+
+
+
+**Im Bezug auf: Zur Selbstreferenzierung in der Kunst**
+
+Eine neue Strömung, in der neben der Auseinandersetzung mit Begriffen wie Kopie, Original und Aneignungskunst hantiert wird und es zur thematischen Widmung in *Texte zur Kunst* 
+(Heft 71 Herbst 2008) gebracht hat, ist das Phänomen des *artist's artist* (übersetzt: *Künstler für Künstler*). laut Vorwort zum Heft ist in erster Linie als Begriff für weitgehend unbekannte Künstler zu verstehen, die 
 an Galeristen und Kuratoren weitergegeben werden oder in Form von Zitaten und Verweisen in Werkentwürfen integriert werden. 
-Im Modell des *Künstler-Künstlers* steckt offenkundig beides – das Potenzial zu einer Abschottung gegenüber dem Marktgeschehen wie auch die 
-Voraussetzung für einen *hype*. Im Heft wird das Thema „Referenzierung“ angesprochen. Ich möchte gern dieses Phänomen auf einer anderen Ebene demonstrieren und zwar 
+In der Rolle des *Künstler für Künstlers* steckt offenkundig beides – das Potenzial zu einer Abschottung gegenüber dem Marktgeschehen wie auch die 
+Voraussetzung für einen *hype*. Im Heft wird weiter das Thema „Referenzierung“ angesprochen. 
+
+Ich möchte gern dieses Phänomen auf einer anderen Ebene demonstrieren und zwar 
 in Form eines Versuchs der Dekonstruktion des Künstlermythos, wie es in der umfangreichen Ausstellung “Kult des Künstlers” 2009 in den Staatlichen Museen zu Berlin 
 zu sehen war. Durch Bilder, Zitate und Wiedergabe von Arbeitsweisen wurden Künstler wie Joseph Beuys, Jeff Koons und Andy Warhol, Alberto Giacometti, Paul Klee und 
-Martin Kippenberger, etc. „bloßgestellt“. Es war die Idee, mit Hilfe einer Werbekampagne so plakativ wie möglich (Bild plus Zitat) dem Betrachter schnell eine Art 
+Martin Kippenberger, etc. „bloßgestellt“. Das Ziel war es, mit Hilfe einer Werbekampagne so plakativ wie möglich (Bild plus Zitat) eine Art 
 Selbstbildnis der Künstler zu zeigen. Das Resultat zeigte die (alle sehr berühmten) Künstler in einem Zwielicht als faul, unseriös, in manchen Fällen sogar 
-verrückt und bereit zu allem ihren Senf dazu zu geben.
-
-Zitate wie: „Ich bin der einzige Künstler, den die Natur kopiert“ (Salvador Dali), oder: „Die Kunst ist überflüssig“ (Ben Vautier), oder: „Kurzum, ich mache, was ich für 
-richtig halte“ (Claude Monet), oder: „Hört auf zu malen“ (Jörg Immendorf), sollten eine bestimmte „Wahrheit“ hervorbringen. Stattdessen galt wie Michael Meyer in seiner Kritik im 
+verrückt und bereit zu allem ihren Senf dazu zu geben. Zitate wie: „Ich bin der einzige Künstler, den die Natur kopiert“ (Salvador Dali), oder: „Die Kunst ist überflüssig“ (Ben Vautier), oder: „Kurzum, ich mache, was ich für 
+richtig halte“ (Claude Monet), oder: „Hört auf zu malen“ (Jörg Immendorf), sollten eine bestimmte „Wahrheit“ vermitteln. Stattdessen galt, wie Michael Mayer in seiner Kritik im 
 ArtNet online Magazin schrieb: „Zu den 'Künstlermythen der Deutschen' im Allgemeinen und überhaupt zur Rolle des Künstlers von der Stein- bis zur Jetztzeit – sollte der 
 'Kult des Künstlers' dargestellt, ausgestellt und erklärtermaßen auch hinterfragt werden. Und doch geriet diese Tour de Force vor allem zu einem Bravourstück in Sachen Kult 
 eines Museumsdirektors, der seinem allzu dankbaren Publikum auch zum Schluss eine jener Schauen aufdrängte, in denen vielen viel versprochen, doch nichts gesagt wurde“. [@Mayer:Honigpumpe]
 
-Die Entwicklung von einem freien Wesen, das nicht in einem festen Arbeitsverhältnis steht, sondern von Stipendien, kurzfristigen Projekten und unregelmässigen Aufträgen lebt, 
-kreativ vor sich hin arbeitet und auf eine gute Gelegenheit wartet, seine Arbeit zu verkaufen, hat sich derart verfestigt, dass sie mittlerweile zum Inbegriff der Künstlertätigkeit geworden ist. 
-In der Realität widmet sich der Künstler jedoch größtenteils der Selbstvermarktung, der Herstellung von Portfolios, PR-Arbeit, Web Design und  Updates, seiner Steuererklärung, dem Delegieren 
-von Arbeit und dem Umgestalten seines Arbeitsraumes in einen Show-room. Teilweise wird die Abhängigkeit von 
+Das Zerrbild von einem freien Wesen, das nicht in einem festen Arbeitsverhältnis steht, sondern von Stipendien, kurzfristigen Projekten und unregelmässigen Aufträgen lebt, 
+kreativ vor sich hin arbeitet und auf eine gute Gelegenheit wartet, seine Arbeit zu verkaufen, hat sich derart verfestigt, dass es mittlerweile zum Inbegriff der Künstlertätigkeit geworden ist. 
+In der Realität widmet sich der Künstler jedoch größtenteils der Selbstvermarktung, der Herstellung von Portfolios, PR-Arbeit, *web design* und  *updates*, seiner Steuererklärung, dem Delegieren 
+von Arbeit und dem Umgestalten seines Arbeitsraumes in einen *show room*. Teilweise wird die Abhängigkeit von 
 Galerie und Galerist aufgelöst, der Künstler versteht sich als autark genug, um die Kontrolle über seinen wirtschaftlichen Erfolg selbst in die Hand zu nehmen. 
-Er gestaltet seine Einladungen am eigenen Rechner, schreibt Texte, und wird sogar aufgefordert selbst die Aussagen über seine Arbeit und deren Aufklärung zu schreiben. 
-Er verschickt eigenständig Ausstellungseinladungen, E-Mails, publiziert sein Werk auf Internet-Plattformen wie Facebook und versteigert seine eigene Arbeit bei 
-Sotheby’s (Siehe den Fall Damien Hirst). Zum Mainstreaming gehören auch andere Verkaufsgelegenheiten, den der "Markt" bleibt nicht gleichgültig, das Thema ist interessant genug und im Jahr 2010 hat die 
+Er gestaltet seine Einladungen am eigenen Rechner, schreibt Texte, und wird sogar aufgefordert selbst die Aussagen über seine Arbeit und sie so zu erklärung zu schreiben. 
+Er verschickt eigenständig Ausstellungseinladungen, E-Mails, publiziert sein Werk auf Internet-Plattformen wie *facebook* und versteigert seine eigene Arbeit bei 
+[^*Sotheby’s*]. Zum Mainstreaming gehören auch andere Verkaufsgelegenheiten, den der "Markt" bleibt nicht gleichgültig, das Thema ist interessant genug und im Jahr 2010 hat die 
 Kunstreproduktionsfirma *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht  (siehe **Bilder:** [Kunstmarkt Brettspiel, Flyer], [Kunstmarkt Brettspiel]).
 
-Ein Blick von außen auf den Künstler bzw. die unausgesprochene Leichtigkeit des Künstlerseins wird auch durch Bücher geworfen wie: 
-*Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, der für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
-sondern eher eienn "Knigge für Vernissagen" darstellt und in dem alle Klischees über Künstler in einer sehr verdaulichen Form aufgezeigt sind. 
+[^*Sotheby’s*]:(siehe den Fall Damien Hirst, der seine eigene Arbeit ersteigert hat)
+
+Einen Blick von außen auf den Künstler bzw. die angenommene Klicshee des Künstlerseins bieten auch Bücher wie: 
+*Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, das für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
+sondern eher einen "Knigge für Vernissagen" darstellt und in dem alle Klischees über Künstler in einer leicht verdaulichen Form aufgezeigt sind. 
 Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblößt sich selbst weiter und zwar ganz. 
 
 **Bild:** [Verstehen Sie Moderne Kunst auf Anhieb]
@@ -174,40 +179,35 @@ Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblö
 ## Vom Künstlerbild in den Medien
 
 
-### Dorian Gray in CMKY
+### Dorian_Gray.jpg [^Gray]
 
-Manches hat sich im Bild des Künstlers in der Gesellschaft geändert und manches ist ein Klischee geblieben. In der Literatur gibt es schöne Beschreibungen 
-vom Werdegang und inneren Gedanken eines Künstlers, denkt man etwa an: *Der Fänger im Roggen* von J. D. Sallinger, oder *Das Bildnis des Dorian Gray* von 
+
+[^Gray]: Nach dem Buchtitel *Das Bildnis des Dorian Gray* von Oscar Wilde.
+
+Manches hat sich im Bild des Künstlers in der Gesellschaft geändert und manches ist ein Klischee geblieben. In der Literatur gibt es klassische Beschreibungen 
+vom Werdegang und inneren Gedanken eines Künstlers wie *Der Fänger im Roggen* von J. D. Sallinger, oder *Das Bildnis des Dorian Gray* von 
 Oscar Wilde. Heute wird in unzähligen Fernsehserien die Persönlichkeit des Künstlers analysiert und präsentiert. Die Menschen, die diese Serien herstellen, 
 sind (zum Teil) selbst Künstler. Es handelt sich also um ein Künstlerbild, das von Künstlern eigenhändig erstellt und vermittelt wird. Neben Film und TV wird 
-auch im Sozialnetz 2.0 vieles über "Was ist Kunst, was ist Kreativität" publiziert, und werden mehrere Ratschläge im Bezug auf Erfolg erteilt. Mich interessiert jedoch mehr, 
-wenn Künstler ein kritisches Selbstbildnis von sich entwerfen. Als Pendant zu Immendorfs *Ich wollte Künstler werden* vom 1972 ist das Meme [^fn-meme] *What People Think I Do / What I Really Do* zu verstehen. 
-
-TODO: [^fn-meme]:[Meme](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen)]
- 
-Die erste Version des Memes wurde im Februar 2012 auf *facebook* publiziert, und beschreibt die Rezeption des Schaffens eines Berufssegments 
-aus unterschiedlichen Perspektiven.
-
-**Bild:** [Contemporary Artist]
-
-TODO:
-
-**Bild:** [What Artists Do]
+auch im Netz vieles über "Was ist Kunst, was ist Kreativität" publiziert, und werden mehrere Ratschläge im Bezug auf Erfolg erteilt. Interessanter ist es jedoch, wenn als Pendant zu Immendorfs *Ich wollte Künstler werden* von 1972 das [^Meme] *What People Think I Do / What I Really Do* zu vergleichen.[^Meme]:(http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen)]Die erste Version des Memes wurde im Februar 2012 auf *facebook* publiziert und beschreibt die Rezeption des Schaffens eines Berufssegments 
+aus unterschiedlichen Perspektiven. **Bilder:** [Contemporary Artist], [What Artists Do]
 
 
 
 
-### Lisa Simpson & Claire Fisher
+### Where Do You Go To My Lovely [^PeterSarstedt]
 
-In Film, Fernsehen & Comics werden die Eigenschaften und Gedankenwege von Künstlern oft kritisch wiedergegeben. Der vorhin erwänten Film *Basquiat*, 
-beschäftigt sich mit dem inneren Konflikt zwischen dem psychologischen Drang nach Ruhm,
-und die fehlenden Kompetenz, das erreichte Ziel zu genießen, ja auszuhalten. Künstler zweifeln gern. Der US- amerikanische Fernseh-Kanal HBO hat in seiner Serie
+[^PeterSarstedt]: Peter Sarstedt, *Where Do You Go To My Lovely* 1968, [lyrics](http://www.lyricsmode.com/lyrics/p/peter_sarstedt/where_do_you_go_to_my_lovely.html)
+
+
+In Film und Fernsehen werden die Eigenschaften und Gedankenwege von Künstlern oft kritisch wiedergegeben. Der schon vorhin erwähnte Film *Basquiat* 
+beschäftigt sich mit dem inneren Konflikt zwischen dem psychologischen Drang nach Ruhm
+und der fehlenden Kompetenz das erreichte Ziel zu genießen, ja auszuhalten. Künstler zweifeln gern. Der US-amerikanische Fernseh-Kanal HBO hat in seiner Serie
  *Six Feet Under* die Künstler in mehr als einer Persönlichkeit wiedergegeben. Eine der Hauptrollen, die Tochter
 Claire Fisher, wächst in einem Familien-Bestattungsunternehmen auf, fotografiert gern, strebt nach Ausdruck ihrer kreativen Kräfte und entscheidet 
 sich für die Kunsthochschule. In der gesamten vierten Staffel begleitet der Zuschauer ihre ersten Schritte in und bei der Konfrontationen mit der
 Kunstwelt. Alles wird sehr überlegt und kritisch dargestellt, Claire findet ihren Weg und erreicht ihre Ziele. In der Abschluss Episode 
 wird die Zukunft jeder Hauptrolle bis zum Tod im Schnellmodus dargestellt und Claire wird eine berühmte Fotografin, nach dem Model von Annie
-Leibowitz. Trotz all dem wird sie im Promo Plakat von Fan Art mit Pinsel und an der Staffelei abgebildet: **Bild:** [Claire Fisher (Six Feet Under)].
+Leibowitz. Trotz all dem wird sie i offiziellen Promotions-Plakat von Fan Art Fotos mit Pinsel und an der Staffelei abgebildet: **Bild:** [Claire Fisher (Six Feet Under)].
 
 Diskrepanzen in der Wahrnehmung des Zuschauers? In der Cartoon-Serie [*American Dad!*](http://www.fox.com/americandad/) macht der
 Sohn, Chris, seinem Vater ein Bild als Geburtstagsgeschenk. Durch die ganze Episode werden alle
@@ -230,18 +230,16 @@ Klischees zum Verhältnis Künstler & Kunstmarkt behandelt. Hier nur ein Beispie
 >
 > VATER: „Bitte denke scharf nach, es muss doch etwas geben, was du kannst?!“
 
-Mittlerweile gibt es mehrere TV Programme, die in einem Reality Format, wie *Deutschland sucht den Superstar* auch die Kunstwelt zur Schau stellen. 
-*Gallery Girls* ist ein Beispiel für diese Welle, ein Format das das Leben mancher Frauen innerhalb und um die Kunstwelt zeigt. Mehrere solcher Serien, 
-wie auch zum Beispiel [*School of Saatchi*](http://www.bbc.co.uk/programmes/b00p71qkzum) passen sich mit absolutem Schwerpunkt auf das Unterhaltungsbedürfnis 
-dem üblichen Fernsehniveau an und zwar nicht das der Kreationen, sondern jenes des Schöpfers.
+Mittlerweile gibt es mehrere TV - Programme, die in einem Reality Format vergleichbar mit *Deutschland sucht den Superstar* auch die Kunstwelt zur Schau stellen. 
+*Gallery Girls* ist ein Beispiel für diese Welle, ein Format das das Leben mancher Frauen innerhalb und um die Kunstwelt zeigt. Die Produzenten solcher Serien, 
+wie z.B. [*School of Saatchi*](http://www.bbc.co.uk/programmes/b00p71qkzum) passen sich mit absolutem Schwerpunkt auf das Unterhaltungsbedürfnis 
+dem üblichen Fernsehniveau an.
 
 
-### Hi, My Name is Charlotte Young
+### Hi, My Name is Charlotte Young 
 
-Das *Artist's Statement* von Charlotte Young, das sich auch über das Internet verbreitet hat, zeigt eine schnelle Vergeltungskraft im Dialog über die Arbeitsverhältnisse: 
-
-"Hey, my Name is Charlotte Young..." so fängt der Werbefilm der Künstlerin an, die auf Englisch über sich als Künstlerin erzählt, während die ‚Wahrheit‘ bzw. eine
-sozial-wirtschaftliche Interpretation über sie als eine Art Übersetzung im Untertitel läuft. Viele Künstler würden dieser Diskrepanz zustimmen: Eine kreative 
+"Hey, my Name is ..." so beginnt das [*Artist's Statement*](http://youtube.com/watch?v=3v8DbLWAXvU) der jungen Künstlerin Charlotte Young an, das sich über das Internet verbreitet hat. Während sie auf Englisch über sich als Künstlerin erzählt, läuft die ‚Wahrheit‘ bzw. eine
+sozial-wirtschaftliche Interpretation über sie als eine Art Übersetzung im Untertitel. Dieses Werk zeigt eine schnelle Vergeltungskraft im Dialog über die Arbeitsverhältnisse, denn viele Künstler würden dieser Diskrepanz zustimmen: Eine kreative 
 Anzeige und gleichzeitig ein bissiges Geständnis zur Diskrepanz zwischen Eigenbewertung (wahrgenommener Realität) und wie sie in Sprache als Selbstbewusstsein übersetzt wird.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -262,13 +260,13 @@ Anzeige und gleichzeitig ein bissiges Geständnis zur Diskrepanz zwischen Eigenb
     und neben Werken von Künstlern von großen Renommees gezeigt.        Es gab ein Kunstwerk in ihr von diesem Kerl vom College,
                                                                         der im Programm der *School of Saatchi* war
              Im Wesentlichen ist meiner Arbeit narrativ bezogen,
-	             auf seine unterschiedlichen Formen und Ränder.        aber nicht gewonnen hat. 
+	             auf seine unterschiedlichen Formen und Ränder.         aber nicht gewonnen hat. 
 
                   Ich versuche, fiktive Erzählungen zu schaffen,        Ich mag Geschichten 
  
 	        und sie als verifizierte Wahrheiten zu präsentieren,        verschiedene Arten von Geschichten 
 
-      Ich frage nach der Natur von sowohl Fakt als auch Fiktion,        Ich erfinde Sachen und nennen es "Kunst" 
+      Ich frage nach der Natur von sowohl Fakt als auch Fiktion,        Ich erfinde Sachen und nenne es "Kunst" 
 
 	        Ziehe den Blick des Betrachters auf die Linie, an der        aber ich sage den Leuten nicht, dass es alles erfunden ist.
 	                                            sie sich treffen.        Das gibt mir das Gefühl, ich sei klug.

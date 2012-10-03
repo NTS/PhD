@@ -1,15 +1,20 @@
 # DIE AKADEMIE
 
 
-## Z.B. BUW
+
+## Form Folgt Funktion / [^]
+
+[^]
+
+**Kunststudium am Beispiel der Bauhaus-Universität Weimar**
 
 
-## Kunststudium am Beispiel der Bauhaus-Universität Weimar
+
 
 Die Bauhaus-Universität Weimar besteht aus vier Fakultäten: Architektur, Medien, Gestaltung und Bauingenieurwesen. Studierenden ist es hier möglich interdisziplinär zu 
-studieren und Projekte sowie Fachkurse auch in anderen Fakultäten zu besuchen. Neben Visueller Kommunikation, Produktdesign, Kunst für den Lehramt an Gymnasien und dem postgradualen Programm "Kunst im öffentlichen Raum und neue künstlerische Strategien" wird an der Fakultät Gestaltung Freie Kunst in erster Linie nach dem Montessori System gelehrt. 
+studieren und Projekte sowie Fachkurse auch in anderen Fakultäten zu besuchen. Neben Visueller Kommunikation, Produktdesign, Kunst für den Lehramt an Gymnasien und dem postgradualen Programm "Kunst im öffentlichen Raum und neue künstlerische Strategien" wird an der Fakultät Gestaltung Freie Kunst in erster Linie nach dem *Montessori* System gelehrt. 
 Das heißt, dass im ersten Semester alle neuen Studenten im zweiwöchigen Rhythmus, im Rahmen des Projektes „Wechselstrom“, alle Lehrenden der Fakultät Freie Kunst kennenlernen 
-und in einer Art „Speed Dating“ - in welchem man jeweils bei den Professoren und ihren Mitarbeitern eine Kostprobe bekommt, verschiedene Arbeitsweisen erproben. Vom 2.-8. 
+und in einer Art *speed dating* - in welchem man jeweils bei den Professoren und ihren Mitarbeitern eine Kostprobe bekommt, verschiedene Arbeitsweisen erproben. Vom 2.-8. 
 Semester arbeiten alle gemeinsam jeweils in Projekten ihrer Wahl, wobei stets Studienanfänger und ältere Semester in einem Projekt zusammen kommen.
 
 Bei der spezifischen Projektarbeit zusammen mit Prof. Norbert Hinterberger geht es zunächst darum, sich dem Thema durch Input des Professors anzunähern, welches in Form von Vorlesungen, 
@@ -34,7 +39,9 @@ In der Anlage *Der 5-Jahres-Plan* werden diese Kurse ausführlich und mit Beispi
 **Bild:** [Bauhaus Curriculum]
 
 
-## Be an Art Student, be a Master, be a Doctor!
+## Be an Art Student, be a Master, be a Doctor! [^]
+
+[^]
 
 In Folge der Reform der Hochschulabschlüsse in Europa (des sogenannten Bologna-Prozesses), und der damit verbundenen Anpassung an die aus den USA und Großbritannien bekannten
 Klassifizierungen, vermehrten sich die Angebote an akademischen Master- (=MfA) Programmen für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
@@ -127,7 +134,9 @@ Durch Frauen mit Diplom
 
 
 
-## Theorie für Praktiker 
+## Theorie für Praktiker [^]
+
+[^]
 
 So ein Schulungssystem wie in Weimar versucht einerseits, die Studenten umfangreich mit den verschiedenen Möglichkeiten vertraut zu machen, um sich ihnen auszusetzen, 
 sowie darum gemeinsamen Sprachcodes auf der Grundlage kollektiver historischer Basis zu schaffen, andererseits, die persönliche  
@@ -174,7 +183,7 @@ Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden ko
 
 
 
-_Theorie vs. Praxis: Zur Entstehung der Akademischen Künstler_
+**Theorie vs. Praxis: Zur Entstehung der Akademischen Künstler**
 
 Es entwickeln sich neue Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender PhD-Programme an Kunsthochschulen, und spürbarem Anstieg in der Anzahl
 von Kolloquien, Konferenzen und Diskussionen über Künstlerische Recherche (Artistic Research).
@@ -311,7 +320,9 @@ weil dieser Song hier uns gehört (3x)
 
 
 
-##  Akademie trifft Kunstmarkt
+##  Akademie trifft Kunstmarkt[^]
+
+[^]
 
 
 Als erster Schritt haben alle Kunstakademien innerhalb der Hochschulrektorenkonferenz der Deutschen Kunsthochschulen sich zusammen [gegen die Bologna Reform Festlegung eines B.A.verwahrt](http://www.sueddeutsche.de/bildung/1.1441136) und das fünfjährige Studiumsformat beibehalten, denn es wäre verwegen, einen Bachelor-Künstler (wie soll die Basis-Ausbildung aussehen?)
@@ -322,7 +333,11 @@ Abschluss.
 Das Ausstellen und der Ausstellungsbetrieb gehören unbedingt zum Ausbildungsprofil, sozusagen als Einübung in die Realität und Zukunft, aber auch als Finale eines Werkes. Der Bezug zum Raum und Ort, die Frage was verträgt sich mit den anderen Arbeiten in einer Gemeinschaftsausstellung, Arbeits- und Terminplanung, Presse, Führungen, und das Sprechen über die eigene Arbeit müssen erlernt werden. So was kann man gut in den dafür vorgesehenen eigenen oder für den Zweck umgewandelte Räume innerhalb der BUW üben. Aus Raummangel aber entwickelte sich die Geschichte der Präsentation an der Bauhaus Universität auf eine sehr eigenartiger Weise.
 
 
-## Der eigene *white cube* (Unigalerie) oder: "a room of your own"
+##  "a room of your own"[^]
+
+[^]
+
+Der eigene *white cube* (Unigalerie) 
 
 
 Die Kultur- und Kunstbetriebe sehen in Weimar folgendermaßen aus: Weimar gehört zum UNESCO-Welterbe, ist eine sehr kleine Stadt mit 60.000 Einwohnern und ca. 6.000 Studenten. Sie verfügt über ein übergroßes Kulturangebot und viele Institutionen des Kulturbetriebs. Außer der Stiftung Weimar Klassik, die mit Goethe-Nationalmuseum, dem Schiller Museum, dem Schlossmuseum, auch für das Bauhaus Museum und das Neues Museum zuständig ist und somit das größte Kultur-Konglomerat anbietet, gibt es unter anderem noch Archive,
@@ -348,16 +363,20 @@ Als erstes gab es eine unabhängige Eigeninitiative namens *Neu-Deli* die sich R
   "source-url" : "http://www.es-lebe-die-galerie.de"
 },
 
-## Das Konstrukt Bauhaus Essentials
+## Das Konstrukt Bauhaus Essentials[^]
+
+[^]:
 
 2009 wurde ich im Rahmen meiner Aufgaben als Künstlerische Assistentin im Umfeld der Fakultätsgremien angefragt, im Beirat der marke.6 den Mittelbau der Fak. Gestaltung für zwei Jahre als Beiratsmitglied zu vertreten. Zusammen mit der damaligen Koordinationsstelle - besetzt durch Dörte Dennemann - entwickelten wir ein Konzept namens *Bauhaus Essential*. Unser Ziel war es, die besten Kunstwerke von der Summaery (Jahresausstellung von Studierenden der Bauhaus-Universität Weimar, früher auch *Rundgang* genannt) in einer Ausstellung zusammenzufassen und im Herbst zu zeigen, also das „best of“ nach der Sommerpause zu präsentieren und vor dem Jahresende noch einmal hervorzuheben. Im Jahre 2010 waren Beirat und Initiative der Meinung, dass die besten Arbeiten der Summaery  prämiert werden sollen. Für den Rundgang wurde eine Jury, bestehend aus kompetenten und kunstnahen Persönlichkeiten zusammen gestellt, (alle nicht aus der Uni) welche insgesamt 19 herausragende Positionen auswählten. Das Vorhaben wurde großzügig durch die in Thüringen ansässige Firma Grafe unterstützt, die auch Namensgeber für den Preis wurde. Die drei Erstplatzierten erhielten daraufhin den Grafe Kreativpreis, und die Möglichkeit auf der Preview Berlin vertreten zu werden. Die 3 besten Arbeiten wanderten von der Hauptausstellung nach Berlin und zurück in die marke.6 Galerie im Neuen Museum. Ein Reader wurde erstellt und das entsprechende Echo seitens der Presse war angemessen, zumal einige unserer Teilnehmer sogar ihr Werk verkaufen konnten. 
 
 **Bild:** [Bauhaus Essentials I]
 
 
-## Sind Kunstmarkt und Kunststudium kompatibel?
+## Opposites Attract [^PaulaAbdul]
 
-**Eine Podiumsdiskussion** 
+[^PaulaAbdul]: Lied bei Paula Abdul, aus der Album *Forever Your Girl* 1989
+
+**Sind Kunstmarkt und Kunststudium kompatibel? - Eine Podiumsdiskussion** 
 
 Im Rahmen der ersten *Bauhaus Essentials* Ausstellung und anlässlich der Teilnahme der Grafe-Kreativ-Preisgewinner an der Preview im Berlin 
 lud die Universitätsgalerie marke.6 zur Präsentation des Ausstellungsreaders sowie zum Podiumsgespräch „Sind Kunstmarkt und Kunststudium kompatibel?“ ein.
@@ -500,7 +519,9 @@ Kunsthochschule Kiel* und die *Akademie der Bildenden Künste Nürnberg* vertret
 die *HfG Offenbach* sowie die *Weißensee Kunsthochschule Berlin* hinzu.
 
 
-## Das Dilemma
+## Das Dilemma[^]
+
+[^]:
 
 Was bedeutet es, so früh auszustellen? Während meines Studiums Ende der 80er Jahre war es noch verboten, solange man eingeschrieben, auszustellen. Heute machen die Erstsemestler schon eine 
 Präsentation ihrer Ergebnisse. Was passiert mit dem sicheren Labor, wo man auch ruhig einmal scheitern kann? Wird der Erfolg daran gemessen, wie gut einer Idee zum *deadline* präsentiert 
@@ -520,9 +541,11 @@ oder indirekt vermittelt. Klar ist, es entstehen unterschiedliche 'Sorten' von K
 und der Netzkünstler, und andere noch mehr. Sie haben alle unterschiedliche Bedürfnisse.
 
 
-## Wo ist eigentlich...?
+## Wo ist eigentlich...?[^Rubrik]
 
-*Resultate*
+[^Rubrik]: Beliebte Rubrik in verschiedenen deutschen Zeitschriften
+
+**Resultate**
 
 Als Künstler habe ich sehr viele Erfahrungen und Kenntnisse sowie know-how überwiegend selbstständig gesammelt, und dies versuche ich an die Studierenden weiterzugeben.
 Noch ist es etwas früh um festzustellen, wie die Wirkung auf den Werdegang der Studierenden sein wird. Die ersten ‚Resultate‘, das heißt, die erste Spuren der neuen künstlerischen

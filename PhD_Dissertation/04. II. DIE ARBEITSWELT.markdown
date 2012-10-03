@@ -1,7 +1,11 @@
 # DIE ARBEITSWELT
 
 
-## Das Bild von Kunst als *Business* 
+## Money for Nothing[^DireStraits]
+
+^DireStraits]: Lied von Dire Straits, aus dem Album Brothers in Arms, 1985.
+
+**Das Bild von Kunst als *Business***
 
 
 > „Es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während das bei der Business-Kunst der Fall ist.“ -- *Andy Warhol*[^andy-business]
@@ -9,28 +13,32 @@
 [^andy-business]: [@Warhol:vonAbisZ, pp. 130]
 
 Die Künstler spiegeln ein Bild vom „arroganten Arsch“ wider, wenn sie im Anzug ihre Galeristen oder Sammler nachahmen und damit die totale Anpassung 
-repräsentieren, oder lebend noch berühmt und reich werden wollen. Es scheint wichtig, wie der Künstler sich kleidet, die Frage ist nur, zu welcher Gelegenheit und ob die Ironie sichtbar ist oder nicht. 
-Ist das der herrschenden Künstlertypus und dient es als Vorbild für Erfolg? Wenn bei Studenten die Fertigkeit, die beste Präsentation zu machen über die Inhalte siegt, was bedeutet das? 
+repräsentieren, oder gar noch lebend berühmt und reich werden wollen. Es scheint wichtig, wie der Künstler sich kleidet, die Frage ist nur, zu welcher Gelegenheit und ob die Ironie sichtbar ist oder nicht. 
+Ist das der herrschende Künstlertypus und dient er als Vorbild für Erfolg? Wenn die Fertigkeit, die beste Präsentation zu machen über die Inhalte siegt, was bedeutet das? 
 Wenn ein Künstler reich ist, hat er überhaupt noch einen Grund, Kunst zu produzieren? Der Künstler Santiago Sierra verschaffte sich eine solide moralische Deckung, in dem er die Gelder, 
-die ihm zu seiner Ausstellungsverwirklichung zugeteilt wurden, weiterleitete an die benachteiligten Teilnehmer, die eine Hauptrolle in seinen Aktionen darstellen. 
-Der Künstler „kauft“ sie sozusagen und bezahlt sie aus dem Kunstetat der Institution, die ihn zum Ausstellen eingeladen hat.
+die ihm zu seiner Ausstellungsverwirklichung zugeteilt wurden, an die benachteiligten Teilnehmer weiterleitete, die eine Hauptrolle in seinen Aktionen darstellen. 
+Der Künstler „kauft“ sie so gesehen aber bezahlt sie aus dem Kunstetat der Institution, die ihn zum Ausstellen eingeladen hat.
 
-Zurück zum *Basquiat*-Film, der laut mancher Kritik viel mehr ein Film über Schnabel sein soll, als über Jean Michel Basquiat. So oder so liefert der Film dem Betrachter einen tieferen 
+Zurück zum *Basquiat*-Film, der laut mancher Kritik viel mehr ein Film über Schnabel sein soll, als über Jean Michel Basquiat: So oder so liefert der Film dem Betrachter einen tieferen 
 Einblick in die Kunstwelt, indem viele Wahrheiten über das Künstlersein vermittelt werden. So zum Beispiel die Haltung des nicht so erfolgreichen Künstlers (gespielt von Willem Daffoe), 
-der erzählt, dass er nebenbei auch als Elektriker arbeiten muss, um seine künstlerische Freiheit nicht kompromittieren zu müssen, oder Basquiat’s Freund, (gespielt von Benicio del Toro), 
-der ihn für das erste Zusammentreffen mit Andy Warhol (gespielt von David Bowie) berät und seine Unzufriedenheit darüber zeigt, wie der Ruhm Basquiat verändert.
-In einem anderem Film über *Andy Warhols Factory People* vom 2008  wird ein Fernsehinterview inszeniert, in welchem Andy Warhol gefragt wird, warum er nichts selber produziert, 
-sondern lediglich Kopien von Brillo Boxen herstellt. Warhol antwortet darauf: "Because it’s more easy". Der Künstler ist also verrückt genug um zuzugeben, 
-dass er nicht schwer arbeiten muss, um genial zu sein. Also entsteht eine Dichotomie, oder zumindest ein gestörtes Verhältnis zum Geld. Ein Business zu haben „ist schön, macht aber viel Arbeit“. Der Künstler, wie andere freischaffende Berufstätige, ist in der Lage sich einen Jahresplan zu machen. 
-Ist Künstler aber ein Beruf? Zuerst wird der Begriff Autor untersucht, auf seine Anwendbarkeit für Künstler.
+der erzählt, dass er nebenbei auch als Elektriker arbeitet, um seine künstlerische Freiheit nicht kompromittieren zu müssen (siehe **Bild:** [The Electrician]). Oder Basquiat’s Freund,(gespielt von Benicio del Toro), der ihn für das erste Zusammentreffen mit Andy Warhol (gespielt von David Bowie) berät, und seine Unzufriedenheit darüber zeigt, wie der Ruhm Basquiat verändert.
 
 
-**Bild:** [The Electrician] 
+In einem anderem Film über *Andy Warhols Factory People* von 2008  wird ein Fernsehinterview inszeniert, in welchem Andy Warhol gefragt wird, warum er nichts selber produziert, 
+sondern lediglich Kopien von Brillo - Boxen herstellt. Warhol antwortet darauf: "Because it’s more easy". Der Künstler ist also verrückt genug um zuzugeben, 
+dass er nicht schwer arbeiten muss, um genial zu wirken. 
+
+Also entsteht eine Dichotomie, oder zumindest ein gestörtes Verhältnis zum Geld. Auch ein Business zu führen „ist schön, macht aber viel Arbeit“.[^KarlValentin]
+
+[^KarlValentin]: frei nach Karl Valentin
+
+Der Künstler ist nun wie andere freischaffende Berufstätige, in der Lage, sich einen Jahresplan zu machen. Ist Künstler aber ein Beruf? Zuerst wird der Begriff Autor untersucht werden, auf seine Anwendbarkeit für Künstler.
+ 
 
 
-## Künstler = Autor + Produzent 
+## Künstler = Autor + Produzent TODO:
 
-**Der Kunstproduzent nach WB**
+**Der Kunstproduzent nach Walter Benjamin**
 
 > „Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf 
 > das Talent oder auf die Arbeit der betreffenden Person ganz genau zugeschnitten sind.“ \
@@ -39,49 +47,48 @@ Ist Künstler aber ein Beruf? Zuerst wird der Begriff Autor untersucht, auf sein
 [^andy-paypertalent]: [@Warhol:vonAbisZ, pp.99]
 
 Zu Goethes Zeit wurde per Hand geschrieben. Um ihn herum gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
-zu lektorieren, Bilder und Rechte zu besorgen, zu layouten, zu gestalten, verlegen, vermarkten und eventuell zu übersetzen. Heute liegt die Regie größtenteils beim Autor selbst und seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum, 
-Sammler, Kunstmesse etc. noch immer funktioniert. Jedoch betätigt sich der Künstler oft auch selbst als Kurator, als Layouter von Werbematerial und in 
-der Verbreitung durch das Web 2.0. Ist der Künstler gezwungen, alles selbst zu können? Muss er ein Kurator sein, hat er Texte zu schreiben und seine Bilder zu beschriften?
+zu lektorieren, zu layouten, zu gestalten, verlegen, vermarkten und eventuell zu übersetzen. Heute liegt die Regie größtenteils beim Autor selbst und seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum, 
+Sammler, Kunstmesse etc. noch immer funktioniert. Jedoch betätigt sich der Künstler oft auch selbst als Kurator, als Layouter von Werbematerial und seit dem *Web 2.0*
+auch immer häufiger um deren Verbreitung. Ist der Künstler gezwungen, alles selbst zu können? Muss er ein Kurator sein, hat er Texte zu schreiben und seine Bilder zu beschriften?
 Kreativität und Produktivität werden miteinander vermischt.
 
-Die Verhältnisse zwischen Kunst und Arbeit sind nicht neu und dennoch erscheinen zurzeit unzählige Bücher und Reader, die sich unter Titeln wie *Work, Work,
-Work. A Reader on Art and Labour* [@Work:Reader] oder *Are you working too much: Post-Fordism, Precarity and the Labor of Art* [Bifo:Workhard] mit den 
+Die Verhältnisse zwischen Kunst und Arbeit sind eigentlich nicht neu und dennoch erscheinen zurzeit unzählige Bücher und Reader, die sich unter Titeln wie *Work, Work,
+Work. A Reader on Art and Labour* [@Work:Reader] oder *Are you working too much: Post-Fordism, Precarity and the Labor of Art* [@Bifo:Workhard] mit den 
 Veränderungen in diesem Zusammenhang beschäftigen. Das ist an sich ein bemerkenswertes Phänomen. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
-Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* in Paris im Jahr 1934 für immer noch aktuell. In seiner Rede spricht er davon, dass der Autor 
-sich nicht in die Politik einmischen sollte, sondern in den Gebieten seine Kraft ausüben müsse, worin er kompetent sei. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
+Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* (@Benjamin:Autor) in Paris für immer noch aktuell. In seiner Rede spricht er davon, dass der Autor 
+sich nicht in die Politik einmischen sollte, sondern in den Gebieten seine Kraft ausüben müsse, in denen er kompetent sei. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
 man davon beigebracht bekommen, weitergeben oder lehren? 
 
-Im gesamten Text Benjamins könnte man durchaus das Wort *Autor* mit dem Wort *Künstler* austauschen. Die Aussage bliebe ähnlich, denn - 
-die Qualität des Kunstwerkes darf nicht wegen der politischen Intention nachlassen. Benjamin meint dass Künstler im Politischen, nicht unbedingt klüger als andere Intellektuelle sind. Man muss sich jedoch in der eigenen konkreten Welt auskennen. 
-Man muss darüber informiert sein, wo und wie man publiziert und wie man selbst publizieren oder auch zu einem kooperativen Mitglied werden kann. 
+Im gesamten Text Benjamins könnte man durchaus das Wort *Autor* mit dem Wort *Künstler* austauschen. Die Aussage bliebe ähnlich, denn: 
+Die Qualität des Kunstwerkes darf nicht wegen der politischen Intention nachlassen. Benjamin meint da, dass Künstler im Politischen nicht unbedingt klüger als andere Intellektuelle sind. Man muss sich jedoch in der eigenen konkreten Welt auskennen. 
+Man muss darüber informiert sein, wo und wie man (selbst) publizieren oder auch zu einem kooperativen Mitglied werden kann. 
  
-Wo läuft die Kreativität (oder Leistung) hin, und was passiert mit der individuellen Anerkennung, wenn Künstler in Kooperationen oder als Berater 
-und Denkfabrikanten (Think Tanks) bei Konzernen eingestellt werden? Dient er als „Haus(-und-Hof?)-Künstler(/Narr?)“ oder geht es hier womöglich
-um einer Stelle mit monatlicher Ratenanzahlung? Der Zustand des Künstlers heute ist dem des Autors und anderer kreativ orientierter Menschen ähnlich. 
-Der Nachteil heute wäre, selbst viel mehr Arbeit zu haben, aber dafür eine höhere Prozentzahl der Einnahmen kassieren zu können. 
+Wo fliesst die Kreativität (oder Leistung) hin, und was passiert mit der individuellen Anerkennung, wenn Künstler in Kooperationen oder als Berater 
+und Denkfabrikanten *think tanks*) bei Konzernen eingestellt werden? Dient er als „Haus(-und-Hof?)-Künstler(/Narr?)“ oder geht es hier womöglich
+um eine Stelle mit monatlicher Auszahlung eines Lohns? Der Zustand des Künstlers heute ist dem des Autors und anderer kreativ orientierter Menschen ähnlich. 
+Die Entscheidung heute wäre: selbst viel mehr Arbeit zu haben, dafür aber eine höheren Anteil der Einnahmen behalten zu können. 
 
 Die Arbeitsverhältnisse ändern sich, das ist eine Tatsache. Durch Automation und Computerisierung erübrigen sich ganze Sektoren.
-Der Zwang, aktiv zu sein und sich im spätkapitalistischen System zu vermarkten, verlangt vor allem eine Flexibilität, die in 
+Der Zwang, aktiv zu sein und sich im spätkapitalistischen System zu vermarkten, verlangt vor allem eine Flexibilität, wie in 
 Richard Sennett's Buch *Der Flexible Mensch* [-@Sennett:Mensch] überzeugend beschrieben wird. Sennett erklärt hier die neue 
-Strukturierung, vor allem die Zeit und die Wandlung des Arbeitsethos'. Der Arbeitsmarkt wird für alle eng. Genau aus diesem Grund 
-könnte die neu erwünschte Flexibilität den Markt für Künstler aufgrund ihrer eher flexibleren Arbeitsweise, öffnen. 
+Strukturierung, vor allem der Zeit und der Wandlung des Arbeitsethos'. Der Arbeitsmarkt wird für alle enger. Genau aus diesem Grund 
+könnte die neu erwünschte Flexibilität den Markt für Künstler aufgrund ihrer eher flexibleren Arbeitsweise, öffnen. Darüber hinaus stellt 
+Sennett fest, dass die erste Erwähnung des Worts *Kapitalismus* auf einen Dichter zurück zu führen ist[@Sennett:Mensch, pp. 9], das heisst, der Begriff 
+wurde aus einer künstlerischen Beobachtung hergeleitet. Die Entstehung von kleineren (billigeren) Objekten ist ein Muss für jeden Künstler. 
 
-Darüber hinaus stellt Sennett fest, dass die erste Erwähnung des Worts Kapitalist auf einen Dichter zurück zu führen ist, das heisst, der Begriff 
-wurde aus einer künstlerischen Beobachtung hergeleitet. Die Entstehung von kleinen (billigeren) Objekten ist ein Muss für jeden Künstler. Schon in den 1970er 
-Jahren wurde als positives Element des Künstler-Daseins die Tatsache einer „vorindustriellen“ Handwerkstätigkeit mit mehr oder minder qualitätsvollen 
-Produkten oder absichtlichem Dilettantismus diskutiert, quasi ein bastelndes Allround-Genie (der „Bricoleur“ war gerade in Mode gekommen) mit Abenteuerstatus. 
-Da hat sich nicht viel geändert – außer dass man mit den „modernen Medien“ noch fitter sein muss bzw. Hacker-Qualitäten entwickeln 
-müsste, um sie überhaupt hinterfragen zu können, geschweige denn genial einzusetzen. Hier musste sich der Künstler wieder der Industrie unterordnen und ihre 
-Richtlinien einhalten, um nur annähernd konkurrenzfähig zu bleiben.
+Schon in den 1970er Jahren wurde als positives Element des Künstler-Daseins deren „vorindustrielle“ Handwerkstätigkeit mit mehr oder minder qualitätsvollen 
+Produkten oder absichtlichem Dilettantismus diskutiert; quasi ein bastelndes Allround-Genie (der *Bricoleur* war gerade in Mode gekommen), mit Abenteuerstatus. 
+So gesehen hat sich nicht viel geändert – außer dass man mit den „modernen Medien“ noch fitter sein bzw. Hacker-Qualitäten entwickeln 
+müsste, um sie überhaupt hinterfragen zu können, geschweige denn genial einzusetzen.
 
 Die Verhältnisse heutzutage zeigen, dass man vielfältige Fähigkeiten für den Arbeitsmarkt bereit halten muss. Es bleibt einem nichts weiter übrig, man muss alles können oder anders formuliert: 
-man ist gezwungen alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an andere (Handwerker, Techniker, Grafiker, etc.), 
-die man womöglich dafür bezahlt. Irgendwann erkennt man, dass man wie ein Dirigent über sich und über alle anderen, die für einen produzieren, zu bestimmen hat.
+man ist gezwungen Alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an andere (Handwerker, Techniker, Grafiker, etc.), 
+die man womöglich selbst dafür bezahlt. Irgendwann erkennt man, dass man wie ein Dirigent über sich und über all die anderen, die für einen produzieren, zu bestimmen hat.
 
-Das Internet hat die Arbeitsverhältnisse weiter verändert. Jeder ist heute in der Lage, seine Geschäfte von zu Hause zu erledigen.  
+Das Internet hat die Arbeitsverhältnisse weiter verändert. Manche sind heute in der Lage, ihre Geschäfte von zu Hause zu erledigen.  
 Unbefristete Stellenangebote sind immer seltener zu finden. Man arbeitet entweder von einer befristeten Stelle zur nächsten oder von einem kurzfristigen 
 Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast als Fertigkeit angesehen werden kann und die Künstler schon längst
-beherrschen. An dieser Stelle ist auch der Begriff „Digitale Boheme“ zu erwähnen, der von der Künstlergruppe *Rosa* genutzt wurde 
+beherrschen. An dieser Stelle ist auch der Begriff *Digitale Boheme* zu erwähnen, der von der Künstlergruppe *Rosa* genutzt wurde 
 und nach Erscheinung des Buches *Wir nennen es Arbeit* [@Friebe:Arbeit] sich mindestens in der deutschen Sprache 
 etabliert hat, um flexible Arbeitsverhältnisse zu bezeichnen. Reguläre Arbeitnehmer arbeiten nach vornehmlich geregelten 
 Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. Künstler kennen keine 'Freizeit', 
@@ -100,7 +107,7 @@ Die Tatsache, dass der Arbeitsplatz längst nicht mehr die Entscheidung über de
 Globalisierung verstärkt hat, haben vor allem Künstler seit längerem für sich festgestellt und sich dementsprechend angepasst. 
 
 In *Die Legende vom Künstler* [-@Kris:Legende] schreiben Ernst Kris und Otto Kurz, wie der Künstler zu allen Zeiten unterschiedlich sein und agieren muss,
-da die Gesellschaft nur bestimmte Sachen honoriert. Erneut ist also die Rede von Anpassung. Ein zweites Argument von Benjamin: Ist man nicht nur Opfer 
+da die Gesellschaft nur bestimmte Ergebnisse honoriert. Erneut ist also die Rede von Anpassung. Ein zweites Argument von Benjamin: Ist man nicht nur Opfer 
 sondern auch Täter? Die vorgefundene Welt kann auch manipuliert werden.  Einerseits kann man sich in ihr einrichten und akzeptieren: „So existiert die Welt“. 
 Andererseits gibt es die Haltung: „Ich bin funktionsgestört und ändere sie“. 
 Als Künstler arbeitet man inzwischen auch im Kunstbetrieb. Warum sollten Künstler nur in bestimmten Bereichen arbeiten dürfen (z.B. Ausstellungsaufbau) 
