@@ -7,7 +7,7 @@
 
 **Deutsche Fassung - Transkription (volle Version)**
 
-
+\small
 
 > SOHN: „ Sei nicht deprimiert Dad, hier das ist ein Geschenk für dich.“
 
@@ -168,7 +168,9 @@
 	
 
 	
-**EN Version zum Vergleich: TODO: danach löschen** 
+## Charlotte Young: "Artist’s Statement" 
+
+**(english transcript)**
 
 **Voice:**
 
@@ -246,7 +248,7 @@
 	Thanks.
 
 
-	
+\normalsize
 	
 
 

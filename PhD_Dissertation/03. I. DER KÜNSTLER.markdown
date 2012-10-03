@@ -16,10 +16,12 @@
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was oder wer ist heute ein Künstler? Künstler stellten sich 
 selbst seit jeher als Beobachter von sich und der Welt dar. Aber was sind ihre 'Aufgaben', wenn sie denn solche haben? Wie werden sie von der Gesellschaft wahrgenommen? 
 Seit der Jahrtausendwende existieren verschiedene „Künstlertypen“. Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft etwas
-geändert. Joseph Beuys' Aussage wurde auf den einen Satz „Jeder Mensch ist ein Künstler“ relativiert. Das Originalzitat lautet jedoch: „... Ich sage,
-es muss ein anderer Kunstbegriff geprägt werden, der sich auf jedermann bezieht und nicht nur Sache der Künstler ist, sondern sich anthropologisch nur deklarieren lässt. D.h. jeder Mensch 
-ist ein Künstler in dem Sinne, dass er etwas gestalten kann. Alle Fragen der Menschen können nur Fragen der Gestaltung sein (Soziales Gestalten, Rechtsgestaltung, Natur – 
-und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“[@d6K:Beuys, pp. 156]
+geändert. Joseph Beuys' Aussage wurde auf den einen Satz „Jeder Mensch ist ein Künstler“ relativiert. Das Originalzitat lautet jedoch: 
+
+> „... Ich sage, es muss ein anderer Kunstbegriff geprägt werden, der sich auf jedermann bezieht und nicht nur Sache der Künstler ist, sondern sich anthropologisch nur deklarieren lässt. D.h. jeder Mensch 
+> ist ein Künstler in dem Sinne, dass er etwas gestalten kann. Alle Fragen der Menschen können nur Fragen der Gestaltung sein (Soziales Gestalten, Rechtsgestaltung, Natur – 
+> und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“ \
+> [zitiert nach: @d6K:Beuys, pp. 156]
 
  
 
@@ -28,18 +30,18 @@ und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb fo
 Zuerst aber soll der Begriff Künstler erläutert werden, um die Semiotik und ihre Entwicklung besser zu verstehen. Etymologisch kommt Kunst von lat. *const* was soviel wie Können, 
 Wissen, Kenntnis, bedeutet. Man sagt deswegen im Deutschen auch „Kunst kommt vom Können“ [@lexi:KlugeEtym] --
 dieser Aphorismus hat sogar einen eigenen [Artikel bei der deutschsprachigen *Wikipedia*](https://de.wikipedia.org/wiki/Kunst_kommt_von_K%C3%B6nnen) erhalten. 
-Hierzu ein Auszug aus dem ehemaligen [*Meyers Online-Lexikon*](http://web.archive.org/web/20090105132257/http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie):
 
-> „Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
-> Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler).
-> Im 6. Jahrhundert v. Chr. gibt es in Griechenland die ersten Künstlersignaturen. 
-> Während der Künstler des Mittelalters Handwerker ist, eine Werkstatt mit Gesellen unterhält 
-> und in die Zunftorganisation eingegliedert ist, löste sich der Künstler in der italienischen 
-> Renaissance erstmals aus dem Zunftzwang. 
-> Der Renaissancekünstler trieb mit wissenschaftlichem Anspruch Studien auf den Gebieten der Geometrie, 
-> Perspektive und Anatomie. Seit der Romantik bildete sich ein neues Selbstverständnis des Künstlers heraus. 
-> In dieser Epoche wurzelt der moderne Begriff des Künstlers. 
-> Die Originalität wird Mittelpunkt des Geniebegriffs.“
+Hierzu ein Auszug aus dem ehemaligen [*Meyers Online-Lexikon*](http://web.archive.org/web/20090105132257/http://lexikon.meyers.de/wissen/Kunst+(Sachartikel)+Philosophie):
+„Künstler, kreative Persönlichkeit v. a. auf dem Gebiet der bildenden oder darstellenden 
+Kunst, als Schöpfer oder Interpret. Oft werden auch Vertreter der anderen Künste als Künstler bezeichnet, z. B. Dichter (SprachKünstler).
+Im 6. Jahrhundert v. Chr. gibt es in Griechenland die ersten Künstlersignaturen. 
+Während der Künstler des Mittelalters Handwerker ist, eine Werkstatt mit Gesellen unterhält 
+und in die Zunftorganisation eingegliedert ist, löste sich der Künstler in der italienischen 
+Renaissance erstmals aus dem Zunftzwang. 
+Der Renaissancekünstler trieb mit wissenschaftlichem Anspruch Studien auf den Gebieten der Geometrie, 
+Perspektive und Anatomie. Seit der Romantik bildete sich ein neues Selbstverständnis des Künstlers heraus. 
+In dieser Epoche wurzelt der moderne Begriff des Künstlers. 
+Die Originalität wird Mittelpunkt des Geniebegriffs.“
 
 **Bild:** [Künstlerbegriff nach Pons] 
 
@@ -47,7 +49,7 @@ Hierzu ein Auszug aus dem ehemaligen [*Meyers Online-Lexikon*](http://web.archiv
 ## *Looking at me* [^title-LadyGaga]
 
 
-[^title-LadyGaga]: LadyGaga, "Looking at me" <http://www.youtube.com/watch?v=2Hjm4D4LAGg>
+[^title-LadyGaga]: Song von *Lady Gaga* <http://youtube.com/watch?v=2Hjm4D4LAGg>
 
 
 Der Künstler wird gern von anderen gesehen und beschrieben, aber stimmt dies mit dem wie Künstler sich selber beschreiben, überein? In jedem Kunststudium wird über *Mimesis*
@@ -60,14 +62,14 @@ zu können, -- das ist Kants Umschreibung genial-schöpferischen Tuns“.[^src-W
 der Clown und der Harlekin beschrieben -- diese Rollen ergaben sich daraus, dass der Künstler nicht weiß, was er macht“[^src-WasWarKunst3], soweit Ullrich, oder anders gesagt: 
 nicht weiß, wie er es in Worte fassen soll. Denn: „Er gilt als Medium höherer Kräfte, die über ihn verfügen (…) da er seine Werkprozesse nicht zu kontrollieren 
 oder mitzuteilen vermag“,[^src-WasWarKunst4](was heute so nicht mehr für alle Künstler stimmt), kann er nur für sich allein tätig sein. Er ist unvorhersehbarer, 
-weil sich das, was er tut, kaum auf Wissen oder *Know-How* – auf erlernbare Faktoren – stützt. 
+weil sich das, was er tut, kaum auf Wissen oder *know-how* -- auf erlernbare Faktoren -- stützt. 
 Der Schaffensprozess bleibt ein Geheimnis: „ist es die Hand, das Auge oder der Kopf, wo sich das Eigentliche abspielt?“[^src-WasWarKunst5]
 
 [^src-WasWarKunst1]: [@Ullrich:WasWarKunst, pp. 22]
-[^src-WasWarKunst2]: [@Ullrich:WasWarKunst, pp. 22]
-[^src-WasWarKunst3]: [@Ullrich:WasWarKunst, pp. 22]
-[^src-WasWarKunst4]: [@Ullrich:WasWarKunst, pp. 22]
-[^src-WasWarKunst5]: [@Ullrich:WasWarKunst, pp. 26]
+[^src-WasWarKunst2]: [ibid.-@Ullrich:WasWarKunst, pp. 22]
+[^src-WasWarKunst3]: [ibid.-@Ullrich:WasWarKunst, pp. 22]
+[^src-WasWarKunst4]: [ibid.-@Ullrich:WasWarKunst, pp. 22]
+[^src-WasWarKunst5]: [ibid.-@Ullrich:WasWarKunst, pp. 26]
 
 Über dieses Thema schreibt auch Verena Krieger in ihrem Buch *Was ist ein Künstler? Genie - Heilsbringer - AntiKünstler* [-@Krieger:WasIstKunstler, pp. 86]. 
 Die Frage, die ich gern stellen möchte, ist: Wer wirft den Blick auf die Künstler und wie verflochten sind dadurch die möglichen Interpretationen? 
@@ -114,14 +116,14 @@ vergleichen, so scheint es, dass diese von einer solchen Interpretation nichts h
 Es gilt jedoch weiter die ungeschriebene Regel: Bei Ausstellungseröffnungen sollte der Künstler nicht wohlhabender aussehen als sein Galerist oder sein Sammler. 
 Andy Warhol machte sich Gedanken über sein Selbstbildnis. In *Die Philosophie des Andy Warhol von A bis B und zurück* schreibt er: „Ich glaube, wenn ich in den 
 Spiegel sehe, werde ich NICHTS sehen. Man nennt mich immer einen Spiegel, und wenn ein Spiegel in einen Spiegel sieht, was ist dann zu sehen? Wenn ich in den 
-Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen.“ [@Warhol:vonAbisZ, pp. 14] Und Anna Marie Freybourg schreibt: „Dass ihm 
+Spiegel sehe, weiß ich nur, dass ich mich nicht so sehe, wie die andere Leute mich sehen.“ [@Warhol:vonAbisZ, pp. 14]. Und Anna Marie Freybourg schreibt: „Dass ihm 
 innerhalb und ebenso außerhalb der Kunstwelt der Status eines großen Stars, ja einer legendären Kultfigur zukommt, scheint ganz maßgeblich auch in der Inszenierung seiner Person und ihrer öffentlichen medialen Präsenz begründet zu sein.
 Das Bild fungiert nicht als Mittel der Selbsterkenntnis, sondern in erster Linie als Mittel der Selbstdefinition, denn es gibt Warhol die Möglichkeit, 
-sich so zu zeigen, wie er von anderen gesehen werden will.“[@Freybourg:DieInszen, pp. 12] Dies trifft auch auf das letzte Bild von Jörg Immendorf zu, vor seinem Eklat, siehe **Bild:** [Jörg Immendorf]. TODO: neu pix http://www.rp-online.de/region-duesseldorf/duesseldorf/nachrichten/eine-rote-couch-reist-durch-europa-1.1120505
+sich so zu zeigen, wie er von anderen gesehen werden will.“ [@Freybourg:DieInszen, pp. 12]. Dies trifft auch auf das Foto des jungen Jörg Immendorf zu, *vor* seinem Eklat, siehe **Bild:** [Jörg Immendorf].
 
-„Warhols Anerkennung erfolgte nicht allein durch die Würdigung seiner Kunst, sondern auch und insbesondere durch die Selbstdarstellung in den Massenmedien“. @Freybourg:DieInszen, pp. 16] 
+„Warhols Anerkennung erfolgte nicht allein durch die Würdigung seiner Kunst, sondern auch und insbesondere durch die Selbstdarstellung in den Massenmedien“  [@Freybourg:DieInszen, pp. 16]. 
 
-Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metaebene gehoben, durch Selbstbeobachtung, kalkuliertem Zynismus und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden (siehe dazu die **Bilder:** [Warhol-Stickers], [In the future everyone will be famous for fifteen minutes], [Your 15 minutes are up!] ).
+Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metaebene gehoben, durch Selbstbeobachtung, kalkuliertem Zynismus und Mitteilungsbedarf sind selbst seine Äußerungen berühmt geworden (siehe dazu die **Bilder:** [Warhol-Stickers], [In the future everyone will be famous for fifteen minutes], [Your 15 minutes are up!]).
 
 
 
@@ -131,7 +133,7 @@ Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metae
 ## *Me, myself & I* [^title-Armatrading]
 
 
-[^title-Armatrading]: Joan Armatrading, Album titel von 1980
+[^title-Armatrading]: Joan Armatrading, Albumtitel von 1980
 
 
 **Im Bezug auf: Zur Selbstreferenzierung in der Kunst**
@@ -151,7 +153,7 @@ verrückt und bereit zu allem ihren Senf dazu zu geben. Zitate wie: „Ich bin d
 richtig halte“ (Claude Monet), oder: „Hört auf zu malen“ (Jörg Immendorf), sollten eine bestimmte „Wahrheit“ vermitteln. Stattdessen galt, wie Michael Mayer in seiner Kritik im 
 ArtNet online Magazin schrieb: „Zu den 'Künstlermythen der Deutschen' im Allgemeinen und überhaupt zur Rolle des Künstlers von der Stein- bis zur Jetztzeit – sollte der 
 'Kult des Künstlers' dargestellt, ausgestellt und erklärtermaßen auch hinterfragt werden. Und doch geriet diese Tour de Force vor allem zu einem Bravourstück in Sachen Kult 
-eines Museumsdirektors, der seinem allzu dankbaren Publikum auch zum Schluss eine jener Schauen aufdrängte, in denen vielen viel versprochen, doch nichts gesagt wurde“. [@Mayer:Honigpumpe]
+eines Museumsdirektors, der seinem allzu dankbaren Publikum auch zum Schluss eine jener Schauen aufdrängte, in denen vielen viel versprochen, doch nichts gesagt wurde“  [@Mayer:Honigpumpe].
 
 Das Zerrbild von einem freien Wesen, das nicht in einem festen Arbeitsverhältnis steht, sondern von Stipendien, kurzfristigen Projekten und unregelmässigen Aufträgen lebt, 
 kreativ vor sich hin arbeitet und auf eine gute Gelegenheit wartet, seine Arbeit zu verkaufen, hat sich derart verfestigt, dass es mittlerweile zum Inbegriff der Künstlertätigkeit geworden ist. 
@@ -165,7 +167,7 @@ Kunstreproduktionsfirma *Prestel* die *Kunstmarktbox* als Brettspiel herausgebra
 
 [^*Sotheby’s*]:(siehe den Fall Damien Hirst, der seine eigene Arbeit ersteigert hat)
 
-Einen Blick von außen auf den Künstler bzw. die angenommene Klicshee des Künstlerseins bieten auch Bücher wie: 
+Einen Blick von außen auf den Künstler bzw. die angenommene Klischee des Künstlerseins bieten auch Bücher wie: 
 *Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, das für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
 sondern eher einen ‚Knigge für Vernissagen‘ darstellt und in dem alle Klischees über Künstler in einer leicht verdaulichen Form aufgezeigt sind. 
 Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblößt sich selbst weiter und zwar ganz. 
@@ -185,7 +187,7 @@ Manches hat sich im Bild des Künstlers in der Gesellschaft geändert und manche
 vom Werdegang und inneren Gedanken eines Künstlers wie *Der Fänger im Roggen* von J. D. Sallinger, oder *Das Bildnis des Dorian Gray* von 
 Oscar Wilde. Heute wird in unzähligen Fernsehserien die Persönlichkeit des Künstlers analysiert und präsentiert. Die Menschen, die diese Serien herstellen, 
 sind (zum Teil) selbst Künstler. Es handelt sich also um ein Künstlerbild, das von Künstlern eigenhändig erstellt und vermittelt wird. Neben Film und TV wird 
-auch im Netz vieles über ‚Was ist Kunst, was ist Kreativität‘ publiziert, und werden mehrere Ratschläge im Bezug auf Erfolg erteilt. Interessanter ist es jedoch, wenn als Pendant zu Immendorfs *Ich wollte Künstler werden* von 1972 das [^Meme] *What People Think I Do / What I Really Do* zu vergleichen.[^Meme]:(http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen)]Die erste Version des Memes wurde im Februar 2012 auf *facebook* publiziert und beschreibt die Rezeption des Schaffens eines Berufssegments 
+auch im Netz vieles über ‚Was ist Kunst, was ist Kreativität‘ publiziert, und werden mehrere Ratschläge im Bezug auf Erfolg erteilt. Interessanter ist es jedoch, wenn als Pendant zu Immendorfs *Ich wollte Künstler werden* von 1972 das [Meme](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen) *What People Think I Do / What I Really Do* zu vergleichen. Die erste Version des Memes wurde im Februar 2012 auf *facebook* publiziert und beschreibt die Rezeption des Schaffens eines Berufssegments 
 aus unterschiedlichen Perspektiven. **Bilder:** [Contemporary Artist], [What Artists Do]
 
 
@@ -204,30 +206,33 @@ Claire Fisher, wächst in einem Familien-Bestattungsunternehmen auf, fotografier
 sich für die Kunsthochschule. In der gesamten vierten Staffel begleitet der Zuschauer ihre ersten Schritte in und bei der Konfrontationen mit der
 Kunstwelt. Alles wird sehr überlegt und kritisch dargestellt, Claire findet ihren Weg und erreicht ihre Ziele. In der Abschluss Episode 
 wird die Zukunft jeder Hauptrolle bis zum Tod im Schnellmodus dargestellt und Claire wird eine berühmte Fotografin, nach dem Model von Annie
-Leibowitz. Trotz all dem wird sie i offiziellen Promotions-Plakat von Fan Art Fotos mit Pinsel und an der Staffelei abgebildet: **Bild:** [Claire Fisher (Six Feet Under)].
+Leibowitz. Trotz all dem wird sie im offiziellen Promotions-Plakat von Fan Art Fotos mit Pinsel und an der Staffelei abgebildet, **Bild:** [Claire Fisher (Six Feet Under)].
 
-Diskrepanzen in der Wahrnehmung des Zuschauers? In der Cartoon-Serie [*American Dad!*](http://www.fox.com/americandad/) macht der
+Diskrepanzen in der Wahrnehmung des Zuschauers? In der Cartoon-Serie [*American Dad!*](http://www.fox.com/americandad/) malt der
 Sohn, Chris, seinem Vater ein Bild als Geburtstagsgeschenk. Durch die ganze Episode werden alle
 Klischees zum Verhältnis Künstler & Kunstmarkt behandelt. Hier nur ein Beispiel, um zu zeigen, wie viele es davon gibt (siehe volle Transkription im Anhang).
 
-> HUND: „Dein Sohn nutzt seine Begabung, um sich seinen Traum zu erfüllen.“
+\pagebreak
+
+> *HUND:* „Dein Sohn nutzt seine Begabung, um sich seinen Traum zu erfüllen.“
 >
-> VATER: „Ich habe keinen Sohn mehr. Wenn Chris mich nicht braucht, 
+> *VATER:* „Ich habe keinen Sohn mehr. Wenn Chris mich nicht braucht, 
 > dann brauch ich ihn auch 
 > nicht. Es wird dir gefallen, berühmt 
 > zu sein, Maggie, und nur in New York schafft man das.“
 >
-> TOCHTER: „Ach weiß nicht Dad, was soll ich denn machen?
+> *TOCHTER:* „Ach weiß nicht Dad, was soll ich denn machen?
 >
-> VATER: „Jeder kann irgendwas sehr gut, man muss nur sein verborgenes Supertalent rausfinden, 
+> *VATER:* „Jeder kann irgendwas sehr gut, man muss nur sein verborgenes Supertalent rausfinden, 
 > aber versprich mir sobald du Erfolg 
 > hast, lass mich die Vorteile nutzen von alle dem….“
 >
-> TOCHTER: „Ich glaube, ich habe zu gar nichts eine Begabung.“
+> *TOCHTER:* „Ich glaube, ich habe zu gar nichts eine Begabung.“
 >
-> VATER: „Bitte denke scharf nach, es muss doch etwas geben, was du kannst?!“
+> *VATER:* „Bitte denke scharf nach, es muss doch etwas geben, was du kannst?!“
 
-Mittlerweile gibt es mehrere TV - Programme, die in einem Reality Format vergleichbar mit *Deutschland sucht den Superstar* auch die Kunstwelt zur Schau stellen. 
+
+Mittlerweile gibt es mehrere TV-Programme, die in einem *Reality*-Format vergleichbar mit *Deutschland sucht den Superstar* auch die Kunstwelt zur Schau stellen. 
 *Gallery Girls* ist ein Beispiel für diese Welle, ein Format das das Leben mancher Frauen innerhalb und um die Kunstwelt zeigt. Die Produzenten solcher Serien, 
 wie z.B. [*School of Saatchi*](http://www.bbc.co.uk/programmes/b00p71qkzum) passen sich mit absolutem Schwerpunkt auf das Unterhaltungsbedürfnis 
 dem üblichen Fernsehniveau an.
@@ -239,6 +244,8 @@ dem üblichen Fernsehniveau an.
 "Hey, my Name is ..." so beginnt das [*Artist's Statement*](http://youtube.com/watch?v=3v8DbLWAXvU) der jungen Künstlerin Charlotte Young an, das sich über das Internet verbreitet hat. Während sie auf Englisch über sich als Künstlerin erzählt, läuft die ‚Wahrheit‘ bzw. eine
 sozial-wirtschaftliche Interpretation über sie als eine Art Übersetzung im Untertitel. Dieses Werk zeigt eine schnelle Vergeltungskraft im Dialog über die Arbeitsverhältnisse, denn viele Künstler würden dieser Diskrepanz zustimmen: Eine kreative 
 Anzeige und gleichzeitig ein bissiges Geständnis zur Diskrepanz zwischen Eigenbewertung (wahrgenommener Realität) und wie sie in Sprache als Selbstbewusstsein übersetzt wird.
+
+\small
 
 ------------------------------------------------------------------------------------------------------------------------------------------
                                                           Stimme        Untertitel
@@ -261,26 +268,18 @@ Anzeige und gleichzeitig ein bissiges Geständnis zur Diskrepanz zwischen Eigenb
 	             auf seine unterschiedlichen Formen und Ränder.         aber nicht gewonnen hat. 
 
                   Ich versuche, fiktive Erzählungen zu schaffen,        Ich mag Geschichten 
- 
 	        und sie als verifizierte Wahrheiten zu präsentieren,        verschiedene Arten von Geschichten 
 
       Ich frage nach der Natur von sowohl Fakt als auch Fiktion,        Ich erfinde Sachen und nenne es "Kunst" 
-
 	        Ziehe den Blick des Betrachters auf die Linie, an der        aber ich sage den Leuten nicht, dass es alles erfunden ist.
 	                                            sie sich treffen.        Das gibt mir das Gefühl, ich sei klug.
-------------------------------------------------------------------------------------------------------------------------------------------
 
-Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsche Übersetzung: Naomi T. Salmon); Teil 1
-
-------------------------------------------------------------------------------------------------------------------------------------------
-                                                          Stimme        Untertitel
-----------------------------------------------------------------        -------------------------------------------------------------------
                                      Ich bin von internationalen        Ich gucke viel Fernsehen
                               Nachrichten-Reportage beeinflusst, 
 
 	               Dokumentarfilme, die Kunst der Filmbiografie,        und ich habe alle Batman-Filme auf Blu-rayTM.
 
-	               auch von geschriebenen oder gefilmten Berichten        Ich habe in den letzten 8 Monaten nichts getan
+	             auch von geschriebenen oder gefilmten Berichten        Ich habe in den letzten 8 Monaten nichts getan
 
 	               über das Leben von ungewöhnlichen Individuen.        Ich muss wirklich mehr Kontakte in der Kunstwelt knüpfen, 
 	                                                                    Ansonsten bin ich am Arsch. 
@@ -297,9 +296,9 @@ Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsch
                                 und meine Kontaktdaten werden am        und würde so ziemlich alles für Geld tun.
 	           unteren Rand des Bildschirms in Kürze erscheinen. 
 
-	                                                      Danke.        E: charlotteemilyyoung@gmail.com 
-	                                                                    T: @charlotteyoung 
+	                                                      Danke.        E: charlotteemilyyoung@gmail.com  T: @charlotteyoung 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsche Übersetzung: Naomi T. Salmon); Teil 2
+Table: *Artist's Statement* from Charlotte Young. Video, 1'49 min. 2011 (Deutsche Übersetzung: Naomi T. Salmon)
 
+\normalsize

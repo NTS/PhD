@@ -9,7 +9,7 @@ in der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommu
  
 ## Kunst ./. Kommunikation*
 
-> „„Das Bewußtsein kann nicht kommunizieren, die Kommunikation kann nicht wahrnehmen.“ [@Luhmann:kunstges, pp. 86] 
+> „„Das Bewußtsein kann nicht kommunizieren, die Kommunikation kann nicht wahrnehmen.“  [@Luhmann:kunstges, pp. 86] 
 > Als Wahrgenommenes fasziniert das Kunstwerk das Bewusstsein, bildet also ein psychisches, kein soziales System. 
 > Begnügte man sich damit, wäre Kunst ein absolut idiosynkratisches Vergnügen der Rezipienten; zum 
 > sozialen Phänomen wird sie erst, sofern sie auch Kommunikation ist. 
@@ -76,8 +76,8 @@ kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.
 Der [*digital native*](https://de.wikipedia.org/wiki/Digital_Native) wird zu einer politischen und globalen Persönlichkeit.
 
 *Digital natives* bekommen ihre Information längst aus anderen Quellen als den offiziellen Nachrichtenkanälen in Funk & Fernsehen und haben gelernt, sie auf ihre Echtheit zu prüfen. 
-Man kann feststellen, dass in vielen Fällen wie bei der Entwicklung der „Occupy“-Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien diese durch Twitter 
-und Facebook nicht nur mitgeteilt und verfolgt, sondern eben auch organisiert wurden. Durch ihre Verbreitung wurden sie zur Inspiration für Initiativen in anderen Ländern. 
+Man kann feststellen, dass in vielen Fällen wie bei der Entwicklung der „Occupy“-Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien diese durch *twitter* 
+und *facebook* nicht nur mitgeteilt und verfolgt, sondern eben auch organisiert wurden. Durch ihre Verbreitung wurden sie zur Inspiration für Initiativen in anderen Ländern. 
 Allerdings hat sich gezeigt, dass die klassischen Medien die digitalen Netzwerke beobachteten und eine Gegenstrategie entwickelten, nämlich die des gezielten Desinteresses. 
 
 Dass diese Medien zunehmend durch politische Mächte kontrolliert und gesteuert werden, ist hinreichend bekannt. 
@@ -90,7 +90,7 @@ Missachtung und geringe Berichterstattung die Kommunikation zu drosseln, also be
 **Meme**
 
 Wenn man die Schilder der [*Occupy*](http://occupywallst.org)-Bewegung und anderer Protestbewegungen als Beispiel nimmt,
-stellt man fest, dass sich Statusmeldungen auf Facebook und lustige Protestschilder auf Demonstrationen sehr ähnlich sind. In beiden Fällen handelt es sich um eine spontane Position, 
+stellt man fest, dass sich Statusmeldungen auf *facebook* und lustige Protestschilder auf Demonstrationen sehr ähnlich sind. In beiden Fällen handelt es sich um eine spontane Position, 
 die eine weitere Ebene erreicht hat. Diese Spontanität (man denkt natürlich auch an die Spontis und ihre Protestgraffiti in den 1970er Jahren in Deutschland) wird durch 
 die digitale Vernetzung schnell verbreitet, und der Dialog verbindet beide Ebenen: die der Straße mit dem Computer ‚zuhause‘; sie werden zu einer Realität.
 Das Internet ist und kann nur die Verlängerung der physischen Realität sein, da wir selbst die Inhalte dieses Kanals erstellen und einspeisen.
@@ -185,7 +185,7 @@ Laut Geert Lovink, Gründungsdirektor des medientheoretischen [*Institute of Net
 Hogeschool van Amsterdam, lassen sich Künstler, Medien- und Design-Forscher längst von Theoretikern wie Deleuze und Guattari, Derrida, 
 Baudrillard und Virilio beeinflussen. Medientheoretiker wie Kittler, Zielinski oder Bolz belegten oder belegen höhere Funktionen 
 in deutschen Kunsthochschulen, und das zur einer Zeit in der, wie Lovink schreibt „die westliche Gesellschaft eine Rauschphase 
-intensiver Spekulation durchlief – mit Wertpapieren und Devisen, Immobilien, Malerei und Theorie.“ [-@Lovink:Dark, pp. 39]
+intensiver Spekulation durchlief – mit Wertpapieren und Devisen, Immobilien, Malerei und Theorie.“ [-@Lovink:Dark, pp. 39].
 
 Künstler sind zunehmend ortsunabhängig, die Migrationsraten steigen und das Leben als Immigrant beeinflusst ihre Weltanschauung. 
 Übernimmt der Digitalisierungsprozess in unserer Gesellschaft die Oberhand? Elektronische Einsamkeit bringt ein Kybernetisches 
@@ -198,7 +198,7 @@ durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung
 und kann sich ungehindert innerhalb von Online-Datenbanken, Listenkulturen, Suchmachienen und Hypertext-Umgebungen bewegen. Tut er auch, heutzutage.“[@Lovink:Dark, pp. 39]
 Sein Charakter ist vor allem als technisch zu bezeichnen, und mehr als seine Vorgänger, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, sondern aus eigener Initiative. Sein Milieu befindet sich im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
 „Ziel der Demokratisierung der Medien ist die Abschaffung aller Formen medialisierter Repräsentation und künstlicher Verknappung von Kanälen. Die technischen Möglichkeiten, Menschen 
-für sich sprechen zu lassen, (...) durch Kommunikationswerkzeuge“ [@Lovink:Dark, pp. 39]. So gesehen treiben Künstler stets eine Art säkulare Exegesis, 
+für sich sprechen zu lassen, (...) durch Kommunikationswerkzeuge“ [-@Lovink:Dark, pp. 39]. So gesehen treiben Künstler stets eine Art säkulare Exegesis, 
 oder haben hermeneutische Züge, ob mit oder ohne Bewusstsein. So etwas nennen sie dann künstlerische Recherche: In erster Linie für sich selbst, aber auch für ihr Publikum. 
 Gelingt dies, so sind sie froh, ihre Idee korrekt kommuniziert zu haben. Stets bieten sie eine kritische Interpretation von Ereignissen, aus der Geschichte, dem Alltag, aber 
 sie lassen sich dabei auch von Theoretikern beeinflussen.
@@ -334,7 +334,7 @@ Madonna, die *Red Hot Chili Peppers*, Björk und Paul McCartney.[^fn-urizeraviv]
 [^fn-urizeraviv]: Kurze Fassung der Nachrichten-Meldung „Kollektiv in Bewegung“ von Uri Zer Aviv für die
 Haaretz Zeitung am 20.08.2012. Aus dem Heb. übersetzt von NTS. \ <http://www.haaretz.co.il/gallery/music/1.1805128> 15.09.2012 13:40)
 
-Auf Facebook ist nach dem Urteil folgender Zettel auf mehreren Webseiten geteilt worden:
+Auf *facebook* ist nach dem Urteil folgender Zettel auf mehreren Webseiten geteilt worden:
 
 **Bild:** [Brief von Billy Bragg an Pussy Riot]
 

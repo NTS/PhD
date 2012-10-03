@@ -8,7 +8,7 @@
 **Das Bild von Kunst als *Business***
 
 
-> „Es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während das bei der Business-Kunst der Fall ist.“ 
+> „Es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während das bei der Business-Kunst der Fall ist.“ \
 > -- *Andy Warhol* [^andy-business]
 
 [^andy-business]: [@Warhol:vonAbisZ, pp. 130]
@@ -56,7 +56,7 @@ Kreativität und Produktivität werden miteinander vermischt.
 Die Verhältnisse zwischen Kunst und Arbeit sind eigentlich nicht neu und dennoch erscheinen zurzeit unzählige Bücher und Reader, die sich unter Titeln wie *Work, Work,
 Work. A Reader on Art and Labour* [@Work:Reader] oder *Are you working too much: Post-Fordism, Precarity and the Labor of Art* [@Bifo:Workhard] mit den 
 Veränderungen in diesem Zusammenhang beschäftigen. Das ist an sich ein bemerkenswertes Phänomen. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
-Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* (@Benjamin:Autor) in Paris für immer noch aktuell. In seiner Rede spricht er davon, dass der Autor 
+Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* (-@Benjamin:Autor) in Paris für immer noch aktuell. In seiner Rede spricht er davon, dass der Autor 
 sich nicht in die Politik einmischen sollte, sondern in den Gebieten seine Kraft ausüben müsse, in denen er kompetent sei. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
 man davon beigebracht bekommen, weitergeben oder lehren? 
 
@@ -74,7 +74,7 @@ Der Zwang, aktiv zu sein und sich im spätkapitalistischen System zu vermarkten,
 Richard Sennett's Buch *Der Flexible Mensch* [-@Sennett:Mensch] überzeugend beschrieben wird. Sennett erklärt hier die neue 
 Strukturierung, vor allem der Zeit und der Wandlung des Arbeitsethos'. Der Arbeitsmarkt wird für alle enger. Genau aus diesem Grund 
 könnte die neu erwünschte Flexibilität den Markt für Künstler aufgrund ihrer eher flexibleren Arbeitsweise, öffnen. Darüber hinaus stellt 
-Sennett fest, dass die erste Erwähnung des Worts *Kapitalismus* auf einen Dichter zurück zu führen ist[@Sennett:Mensch, pp. 9], das heisst, der Begriff 
+Sennett fest, dass die erste Erwähnung des Worts *Kapitalismus* auf einen Dichter zurück zu führen ist [@Sennett:Mensch, pp. 9], das heisst, der Begriff 
 wurde aus einer künstlerischen Beobachtung hergeleitet. Die Entstehung von kleineren (billigeren) Objekten ist ein Muss für jeden Künstler. 
 
 Schon in den 1970er Jahren wurde als positives Element des Künstler-Daseins deren „vorindustrielle“ Handwerkstätigkeit mit mehr oder minder qualitätsvollen 
@@ -102,7 +102,7 @@ in der er malte, und das mag für ihn durchaus gegolten haben, ich weiß aber, d
 bezahlt zu werden, in der ich etwas tue. Während ich im Krankenhaus lag, arbeitete der 'Stab' weiter, und mir wurde klar, dass ich mit meinem Unternehmen sozusagen 
 ein Kinetisches Business besaß – es lief auch ohne mich weiter. Mir war das sehr lieb, denn für mich stand schon zu diesem Zeitpunkt fest, dass die größte Kunst 
 das Geschäft mit ihr ist, also 'das Business' an sich. (…) nachdem ich also 'Kunst' gemacht hatte (wenn man es so nennen will), 
-stieg ich in die Business-Kunst ein.“ [@Warhol:vonAbisZ, pp. 86–87]
+stieg ich in die Business-Kunst ein.“ [@Warhol:vonAbisZ, pp. 86–87].
 
 Die Tatsache, dass der Arbeitsplatz längst nicht mehr die Entscheidung über den Wohnort bestimmt, was sich gerade durch die 
 Globalisierung verstärkt hat, haben vor allem Künstler seit längerem für sich festgestellt und sich dementsprechend angepasst. 
@@ -180,7 +180,7 @@ künstlerische Mitarbeiterin an der Fakultät Gestaltung, Professur Freie Kunst.
 
 
 In seinem Buch *Kunst, die hängen bleibt* schreibt Karl Schawelka: „Die Vorteile, die man als Künstler hat, wenn man zu den *Top Ten* gehört, sind denn auch beträchtlich.
-Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse. Künstler erhalten sie nicht allein von ihren Sammlern.“ [@Schawelka:Kunsthngenbleibt, pp. 228]
+Die Währung der Kunstwelt besteht in Aufmerksamkeit, Anteilnahme und Interesse. Künstler erhalten sie nicht allein von ihren Sammlern.“ [@Schawelka:Kunsthngenbleibt, pp. 228].
 Das ist der derzeitige Ist-Zustand, so bekommen Künstler Geld: Durch Verkäufe, Aufträge, Bewerbungen, Preise, Stipendien, etc., aber auch durch Jobben (Praktikum in Galerien z.B.), Ausstellungsaufbau usw., Produkte, Multiples, 
 Publikationshonorare, Vorträge und Residenzen. Vor dem Finanzamt stehen sie oft als Selbstständig da. Auch wenn sie den wirtschaftlichen Betrieb 
 liebend gern ignorieren würden, müssen sie zusehen, wie sie die Miete für Wohnen und Atelier sowie Lagerräume, 
@@ -206,7 +206,7 @@ Der erste Kommentar darauf:
 > „ich mag am besten, wenn ich manchmal den dicken Pinsel nehme, wo ich den dünnen meinte, dann entdecke ich das, und lache laut. 
 > Dann werde ich müde und gehe ein Nickerchen machen“ (*Shay Yeheskeli*, Künstler)
 
-Dieser Passus, den die Kulturagentin Galia Yahav auf ihrer Facebook-Seite notiert hat und der weiter zirkulierte, hat natürlich meine Aufmerksamkeit geweckt. Die Kulturmanagerin bekommt 
+Dieser Passus, den die Kulturagentin Galia Yahav auf ihrer *facebook*-Seite notiert hat und der weiter zirkulierte, hat natürlich meine Aufmerksamkeit geweckt. Die Kulturmanagerin bekommt 
 zu viel Information, der Künstler schreibt eine witzige Antwort daraufhin, die aber eher seinen Wunsch ausdrückt. Beides bezeichnen die Realität heute, wo alle im durch die Technik ermöglichten Kommunikationswahn etwas machen und wollen, manche entgeltlich und manche gern umsonst. Die heutige Orientierung des Kapitalismus als auch die des Sozialismus bedeutet: Alle sollen Arbeiten. Was definiert Arbeitslosigkeit bei Künstlern? Sie müssen überleben, wenn sie keine Kunst verkaufen, müssen sie nach Arbeit suchen. Wer dann Arbeit findet, ist der Beruf nach nicht mehr Künstler? 
 
 Auch wenn die Akademie immer noch ein Elfenbeinturm ist, kann die Auffassung nicht mehr formuliert werden, dass nach dem Studium 
