@@ -168,9 +168,9 @@ Kunstreproduktionsfirma *Prestel* die *Kunstmarktbox* als Brettspiel herausgebra
 
 [^*Sotheby’s*]:(siehe den Fall Damien Hirst, der seine eigene Arbeit ersteigert hat)
 
-Ein Blick von außen auf den Künstler bzw. die unausgesprochene Leichtigkeit des Künstlerseins wird auch durch Bücher geworfen wie: 
-*Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, der für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
-sondern eher eienn "Knigge für Vernissagen" darstellt und in dem alle Klischees über Künstler in einer sehr verdaulichen Form aufgezeigt sind. 
+Einen Blick von außen auf den Künstler bzw. die angenommene Klicshee des Künstlerseins bieten auch Bücher wie: 
+*Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, das für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
+sondern eher einen "Knigge für Vernissagen" darstellt und in dem alle Klischees über Künstler in einer leicht verdaulichen Form aufgezeigt sind. 
 Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblößt sich selbst weiter und zwar ganz. 
 
 **Bild:** [Verstehen Sie Moderne Kunst auf Anhieb]
@@ -183,12 +183,11 @@ Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblö
 
 Anspielung auf dem heutige Titel *Das Bildnis des Dorian Gray* von Oscar Wilde.
 
-Manches hat sich im Bild des Künstlers in der Gesellschaft geändert und manches ist ein Klischee geblieben. In der Literatur gibt es schöne Beschreibungen 
-vom Werdegang und inneren Gedanken eines Künstlers, denkt man etwa an: *Der Fänger im Roggen* von J. D. Sallinger, oder *Das Bildnis des Dorian Gray* von 
+Manches hat sich im Bild des Künstlers in der Gesellschaft geändert und manches ist ein Klischee geblieben. In der Literatur gibt es klassische Beschreibungen 
+vom Werdegang und inneren Gedanken eines Künstlers wie *Der Fänger im Roggen* von J. D. Sallinger, oder *Das Bildnis des Dorian Gray* von 
 Oscar Wilde. Heute wird in unzähligen Fernsehserien die Persönlichkeit des Künstlers analysiert und präsentiert. Die Menschen, die diese Serien herstellen, 
 sind (zum Teil) selbst Künstler. Es handelt sich also um ein Künstlerbild, das von Künstlern eigenhändig erstellt und vermittelt wird. Neben Film und TV wird 
-auch im Sozialnetz 2.0 vieles über "Was ist Kunst, was ist Kreativität" publiziert, und werden mehrere Ratschläge im Bezug auf Erfolg erteilt. Mich interessiert jedoch mehr, 
-wenn Künstler ein kritisches Selbstbildnis von sich entwerfen. Als Pendant zu Immendorfs *Ich wollte Künstler werden* vom 1972 ist das Meme [^fn-meme] 
+auch im Netz vieles über "Was ist Kunst, was ist Kreativität" publiziert, und werden mehrere Ratschläge im Bezug auf Erfolg erteilt. Als Pendant zu Immendorfs *Ich wollte Künstler werden* von 1972 ist das [^fn-Meme] 
 *What People Think I Do / What I Really Do* zu verstehen. 
 
 TODO: [^fn-meme]:[Meme](http://de.wikipedia.org/wiki/Internet-Ph%C3%A4nomen)]
