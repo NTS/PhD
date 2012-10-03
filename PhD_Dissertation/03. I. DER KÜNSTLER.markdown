@@ -163,8 +163,10 @@ von Arbeit und dem Umgestalten seines Arbeitsraumes in einen *show room*. Teilwe
 Galerie und Galerist aufgelöst, der Künstler versteht sich als autark genug, um die Kontrolle über seinen wirtschaftlichen Erfolg selbst in die Hand zu nehmen. 
 Er gestaltet seine Einladungen am eigenen Rechner, schreibt Texte, und wird sogar aufgefordert selbst die Aussagen über seine Arbeit und sie so zu erklärung zu schreiben. 
 Er verschickt eigenständig Ausstellungseinladungen, E-Mails, publiziert sein Werk auf Internet-Plattformen wie *facebook* und versteigert seine eigene Arbeit bei 
-*Sotheby’s* (siehe den Fall Damien Hirst). Zum Mainstreaming gehören auch andere Verkaufsgelegenheiten, den der "Markt" bleibt nicht gleichgültig, das Thema ist interessant genug und im Jahr 2010 hat die 
+[^*Sotheby’s*]. Zum Mainstreaming gehören auch andere Verkaufsgelegenheiten, den der "Markt" bleibt nicht gleichgültig, das Thema ist interessant genug und im Jahr 2010 hat die 
 Kunstreproduktionsfirma *Prestel* die *Kunstmarktbox* als Brettspiel herausgebracht  (siehe **Bilder:** [Kunstmarkt Brettspiel, Flyer], [Kunstmarkt Brettspiel]).
+
+[^*Sotheby’s*]:(siehe den Fall Damien Hirst, der seine eigene Arbeit ersteigert hat)
 
 Ein Blick von außen auf den Künstler bzw. die unausgesprochene Leichtigkeit des Künstlerseins wird auch durch Bücher geworfen wie: 
 *Das sagt mir was! Sprachführer Deutsch -- Kunst / Kunst -- Deutsch*, der für eine Weile in jedem Museumsshop erhältlich war und keinen Sprachführer, 
@@ -177,7 +179,7 @@ Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblö
 ## Vom Künstlerbild in den Medien
 
 
-### Dorian Gray.jpg
+### Dorian_Gray.jpg
 
 Anspielung auf dem heutige Titel *Das Bildnis des Dorian Gray* von Oscar Wilde.
 
