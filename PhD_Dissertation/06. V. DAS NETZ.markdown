@@ -1,13 +1,11 @@
 
 # DAS NETZTEIL
 
+**Kunst ./. Kommunikation**
 
 Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint zu steigen.
 Künstler & Hacker (Vgl. Paul Graham *Hackers and Painters*), sitzen nicht nur in der Uni beieinander. In Folge der gegenwärtigen Paradigmenverschiebung
 in der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommunikation aus künstlerischer Sicht untersucht werden.
-
- 
-## Kunst ./. Kommunikation*
 
 > „„Das Bewußtsein kann nicht kommunizieren, die Kommunikation kann nicht wahrnehmen.“  [@Luhmann:kunstges, pp. 86] 
 > Als Wahrgenommenes fasziniert das Kunstwerk das Bewusstsein, bildet also ein psychisches, kein soziales System. 
@@ -60,7 +58,7 @@ Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig 
 [^src-Genius2]: [ibid. -@Hehn:Genius, pp. 2]
 [^src-Genius3]: [ibid. -@Hehn:Genius, pp. 2]
 
-### Digitalisierung und Vernetzung
+## Digitalisierung und Vernetzung
 
 
 Vilèm Flusser schreibt [-@Flusser:Kommuni], dass auch wenn die Begriffe Schönheit, Originalität, Interesse, usw. schwierig zu definieren sind, so doch alles immer wieder auf die Information 
@@ -74,7 +72,7 @@ kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.
 
 
 
-### Protest: Digital & Global
+## Protest: Digital & Global
 
 **Der [*digital native*](https://de.wikipedia.org/wiki/Digital_Native) wird zu einer politischen und globalen Persönlichkei.**
 
@@ -116,7 +114,7 @@ Raum und wird damit bereits gespiegelt dargestellt. Weiter werden sie diskutiert
 Interessensgruppen und Zirkel. So entstehen Meme, die, wenn man so sagen kann, nach Walter Benjamin „in unserem kollektiven Bildwissen“ durch Reproduzierbarkeit und wiederholte Erscheinung zu Ikonen werden. 
 
 
-### Kunst $\oplus$ Freiheit
+## Kunst $\oplus$ Freiheit
 
 Nach meiner Beobachtung wird die Sprache der Kunst in allen Bereichen immer mehr als Werkzeug zum „Freien Agieren“ übernommen. Das heißt auch, dass durch 
 Verbreitung von künstlerischen Strategien und die Nutzung ihrer Codes Politik gemacht wird. Eine Aussage oder Aktion hat mehr Chance auf Duldung, wenn sie 
@@ -152,7 +150,7 @@ was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, 
 
 
 
-### Kunst als Prophezeihung
+## Kunst als Prophezeihung
 
 
 Wie Flusser ausführt: „Man kann sagen, dass viele Bilder nicht versuchen, «konkrete» Verhältnisse, sondern mögliche Verhältnisse abzubilden, also nicht zeigen 
@@ -178,7 +176,7 @@ Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), 
 
 
 
-### Von Migration & Nomadentum zum Wohnraum
+## Von Migration & Nomadentum zum Wohnraum
 
 „Travelling without moving“ wird zu einer Realität. Künstler bedienen sich an allem, was die Welt zu bieten hat, alles ist eine Quelle, Philosophie und Kunsttheorie machen keine Ausnahme. 
 Laut Geert Lovink, Gründungsdirektor des medientheoretischen [*Institute of Network Cultures (INC)*](http://networkcultures.org) mit Sitz an der 
@@ -204,7 +202,7 @@ Gelingt dies, so sind sie froh, ihre Idee korrekt kommuniziert zu haben. Stets b
 sie lassen sich dabei auch von Theoretikern beeinflussen.
 
 
-### Attention Whores
+## Attention Whores
 
 
 Hehns Meinung nach scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
@@ -230,7 +228,7 @@ etabliert. Die Menschen benutzen sie als Strategien, Künstler, wie auch andere,
 
 \pagebreak
 
-### Hypnose
+## Hypnose
 
 \small
 
@@ -308,7 +306,7 @@ Es wird alles besser.
 - [Text:](http://xlyrics.de/spieltrieb-lyrics/hypnose-lyrics.html) ***Spieltrieb*** - [*Hypnose (eins78 Remix)*](http://soundcloud.com/eins78/hypnose-eins78-digital-is-besser-remix-preview)
 
 
-### Next Project.
+## Next Project.
 
 
 > „I went from being an artist that makes things to being an artist that makes things happen“[^pic-deller]
