@@ -219,7 +219,7 @@ in Zusammenarbeit mit mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Le
 > Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt.“ [@Joly:Institute]
 
 Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläubigkeit gegenüber der 
-neuen Realität, einen PhD Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]bezieht sich der 
+neuen Realität, einen PhD-Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung]bezieht sich der 
 Wissenschaftstheoretiker Thomas S. Kuhn, der in Princeton Professor war, mit einer Bemerkung zum Verhältnis von Wissenschaft und Kunst auf einen noch früheren 
 Text von E. M. Hafner, *The New Reality in Art and Science* von 1969. Kuhn meint: „Je mehr man versucht Künstler von Wissenschaftlern zu unterscheiden, 
 desto schwieriger wird diese Aufgabe“[-@Kuhn:Entstehung], jedoch betrachtet er dies als beunruhigend.
