@@ -508,9 +508,10 @@ Kunsthochschule Kiel* und die *Akademie der Bildenden Künste Nürnberg* vertret
 die *HfG Offenbach* sowie die *Weißensee Kunsthochschule Berlin* hinzu.
 
 
-## Das Dilemma [^dilemma]
+## DasIntroDilemma [^title-introdilemma]
 
-[^]: TODO or Lösch :)
+[^title-introdilemma]: Dendemann -- *DasIntroDilemma*, aus dem Album *DasSchweigenDilemma* \
+<http://www.lastfm.de/music/Dendemann/DasSchweigenDilemma/DasIntroDilemma>
 
 Was bedeutet es, so früh auszustellen? Während meines Studiums Ende der 1980er Jahre es noch verboten auszustellen, solange man eingeschrieben war . Heute machen die Erstsemestler schon eine 
 Präsentation ihrer Ergebnisse. Was passiert mit dem sicheren Labor, wo man auch ruhig einmal scheitern kann? Wird der Erfolg daran gemessen, wie gut eine Idee zur *deadline* präsentiert 
