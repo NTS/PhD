@@ -232,6 +232,7 @@ etabliert. Die Menschen benutzen sie als Strategien, Künstler, wie auch andere,
 
 ### Hypnose
 
+\small
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
 Du musst ein Handy haben.
@@ -301,6 +302,8 @@ Lauf mit, lauf mit, den letzten beißen die Hunde.
 Lauf nicht in das Messer, 
 Es wird alles besser.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\normalsize
 
 - [Text:](http://xlyrics.de/spieltrieb-lyrics/hypnose-lyrics.html) ***Spieltrieb*** - [*Hypnose (eins78 Remix)*](http://soundcloud.com/eins78/hypnose-eins78-digital-is-besser-remix-preview)
 
