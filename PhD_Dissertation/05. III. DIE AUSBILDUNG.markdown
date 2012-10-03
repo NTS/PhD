@@ -2,35 +2,35 @@
 
 
 
-## Form Folgt Funktion / [^] TODO:
+## Form Folgt Funktion [^formfunktion] 
 
-[^]
+[^formfunktion]: TODO
 
 **Kunststudium am Beispiel der Bauhaus-Universität Weimar**
 
 
 
 
-Die Bauhaus-Universität Weimar besteht aus vier Fakultäten: *Architektur*, *Medien*, *Gestaltung* und *Bauingenieurwesen*. Studierenden ist es hier möglich interdisziplinär zu 
+Die Bauhaus-Universität Weimar besteht aus vier Fakultäten: *Architektur*, *Medien*, *Gestaltung* und *Bauingenieurwesen*. Studierenden soll es hier möglich sein, interdisziplinär zu 
 studieren und Projekte sowie Fachkurse auch in anderen Fakultäten zu besuchen. Neben *Visueller Kommunikation*, *Produktdesign*, *Kunst für das Lehramt an Gymnasien* und dem postgradualen *Programm Kunst im öffentlichen Raum und neue künstlerische Strategien* wird an der Fakultät Gestaltung die *Freie Kunst* in erster Linie nach dem *Montessori*-System gelehrt. 
-Das heißt, dass im ersten Semester alle neuen Studenten im zweiwöchigen Rhythmus, im Rahmen des Projektes *„Wechselstrom“*, alle Lehrenden der Fakultät Freie Kunst kennenlernen 
+Das heißt, dass im ersten Semester im Rahmen des Projektes *„Wechselstrom“*, alle neuen Studenten im zweiwöchigen Rhythmus alle Lehrenden des Studienganges *Freie Kunst* kennenlernen 
 und in einer Art *speed dating* -- in welchem man jeweils bei den Professoren und ihren Mitarbeitern eine Kostprobe bekommt, verschiedene Arbeitsweisen erproben. Vom 2.-8. 
-Semester arbeiten alle gemeinsam jeweils in Projekten ihrer Wahl, wobei stets Studienanfänger und ältere Semester in einem Projekt zusammen kommen.
+Semester arbeiten Alle gemeinsam jeweils in Projekten ihrer Wahl, wobei stets Studienanfänger und ältere Semester in einem Projekt zusammen kommen.
 
-Bei der spezifischen Projektarbeit zusammen mit Prof. Norbert Hinterberger geht es zunächst darum, sich dem Thema durch Input des Professors anzunähern, welches in Form von Vorlesungen, 
+Bei der spezifischen Projektarbeit zusammen mit Prof. Norbert Hinterberger geht es zunächst darum, sich dem Thema durch Input des Professors anzunähern, was in Form von Vorlesungen, 
 Exkursionen und künstlerischer Recherche erfolgt. Am Ende jedes Semesters soll ein Kunstwerk entstehen. Fast zu jedem Semesterende gibt es eine Ausstellung, im Winter in den Arbeitsräumen 
-des jeweiligen Projektes und zum Ende des Sommersemesters die *Summaery* - die Jahresschau der gesamten Universität. Zunehmend entstehen für diese Ausstellungen Kollaborationen mit Museen, Galerien 
+des jeweiligen Projektes und zum Ende des Sommersemesters im Rahmen der *Summaery* - der Jahresschau der gesamten Universität. Zunehmend entstehen für diese Ausstellungen Kollaborationen mit Museen, Galerien 
 und Kulturzentren, die gern mit der Freien Kunst kooperieren möchten und den Studierenden eine Chance geben, schon während des Studiums mit professionellen Institutionen 
 zusammenzuarbeiten und außerhalb der Hochschule auszustellen. Zusätzlich wird versucht, die Studenten zur Reflexion über die eigene Arbeit zu animieren. Sie müssen 
 bis zur jeweiligen Eröffnung einen Text zum Werk liefern, möglicherweise auch ein Bild. Sie sollen den Titel ihrer Arbeit kennen, dazu Materialkosten, investierte Arbeitszeit 
-und den Preis sowie Versicherungswert schätzen können. Das ist unsere Arbeitsweise und es muss betont werden, dass diese unter anderen Professoren nicht ganz so klar strukturiert wäre.
+und den Preis sowie Versicherungswert schätzen können. Das ist unsere Arbeitsweise und es muss betont werden, dass diese unter anderen Professoren nicht ganz so klar strukturiert sein muss.
 
-Allgemein gesehen ist vieles an der Bauhaus-Universität Weimar besonders, einzigartig und anders als an anderen Kunsthochschulen und Universitäten in Deutschland. Der Fachbereich Freie 
-Kunst der Bauhaus-Universität Weimar ist keiner gesonderten Akademie untergeordnet sondern hier wird Kunst an einer Universität gelehrt und nicht wie im Fall der Bezalel Academy of Arts and 
-Design (staatliche Kunst- und Designhochschule in Jerusalem), die zur Hebräischen Universität Jerusalem gehört aber losgelöst davon eben als eigenständige Akademie funktioniert. Innerhalb des 
-Studiengangs Freie Kunst haben die Studenten in den Projekten eine freie Medienwahl. Viele Fertigkeiten lassen sich in den unterschiedlichen Werkstätten erlernen: Fotografie-, Holz-, Metall-, 
-Kunststoff- oder Gipswerkstatt sowie in verschiedenen Grafikkursen. Hier können sich die Studierenden ein vielfältiges Repertoire an Fähigkeiten aneignen und sich an welchem Medium auch immer erproben. Die Belegung der Werkstattkurse geschieht zumeist getrennt vom Projektunterricht, in dem Inhalte zum Projektthema besprochen werden. Davon getrennt wird in verschiedenen Seminaren, die obligatorisch sind, Kunsttheorie- und Geschichte gelehrt und vermittelt. Das was in diesem Spektrum meines Erachtens fehlt - das Erlernen von Strategien zur Professionalisierung als Künstler, um später überleben 
-zu können - versuche ich seit 2007, erst allein und seit 2011 zusammen mit meiner Kollegin Anke Hannemann in Fachkursen und Workshops anzubieten. 
+Allgemein gesehen ist vieles an der *BUW* besonders, einzigartig und anders als an anderen Kunsthochschulen und Universitäten in Deutschland. Der Fachbereich *Freie 
+Kunst* ist keiner gesonderten Akademie untergeordnet, sondern hier wird Kunst an einer Universität gelehrt und nicht wie im Fall der *Bezalel Academy of Arts and 
+Design* (staatliche Kunst- und Designhochschule in Jerusalem), die zur *Hebräischen Universität Jerusalem* gehört aber losgelöst davon eben als eigenständige Akademie funktioniert. Innerhalb des 
+Studiengangs *Freie Kunst* haben die Studenten in den Projekten eine freie Medienwahl. Viele Fertigkeiten lassen sich in den unterschiedlichen Werkstätten erlernen: Fotografie-, Druck-, Video-, Holz-, Metall-, 
+Kunststoff- oder Gipswerkstatt, sowie in verschiedenen Grafikkursen. Hier können sich die Studierenden ein vielfältiges Repertoire an Fähigkeiten aneignen und sich an verschiedene Medien auch immer erproben. Die Belegung der Werkstattkurse geschieht zumeist getrennt vom Projektunterricht, in dem Inhalte zum Projektthema besprochen werden. Davon getrennt wird in verschiedenen Seminaren, die obligatorisch sind, Kunsttheorie- und Geschichte gelehrt und vermittelt. Das, was in diesem Spektrum meines Erachtens fehlt -- das Erlernen von Strategien zur Professionalisierung als Künstler, um später überleben 
+zu können -- versuche ich seit 2007, anfangs allein und seit 2011 zusammen mit meiner Kollegin Anke Hannemann in Fachkursen und Workshops anzubieten. 
 
 
 In der Anlage *Der 5-Jahres-Plan* werden diese Kurse ausführlich und mit Beispielen besprochen.
@@ -39,28 +39,27 @@ In der Anlage *Der 5-Jahres-Plan* werden diese Kurse ausführlich und mit Beispi
 **Bild:** [Bauhaus Curriculum]
 
 
-## Be an Art Student, be a Master, be a Doctor! [^]
+## Be an Art Student, be a Master, be a Doctor! [^student]
 
-[^]
+[^student]:
 
-In Folge der Reform der Hochschulabschlüsse in Europa (des sogenannten Bologna-Prozesses), und der damit verbundenen Anpassung an die aus den USA und Großbritannien bekannten
-Klassifizierungen, vermehrten sich die Angebote an akademischen Master- (=MfA) Programmen für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
+In Folge der Reform der Hochschulabschlüsse in Europa (des sogenannten *Bologna-Prozesses*), und der damit verbundenen Anpassung an die aus den USA und Großbritannien bekannten
+Klassifizierungen, vermehrten sich die Angebote an akademischen Master-Programmen (*MFA*)für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
 vor allem in Westeuropa, (aber zunehmend auch im Osten), die solche Aufbau-Studienprogramme für die Kunstpraxis anbieten. Darunter befinden sich viele, die 
-sogar als Hauptthema Kunst im öffentlichen Raum wählen und gewählt haben. Einige bieten den öffentlichen Raum als Schwerpunkt an, andere das Kuratorische. Gern verwenden sie den 
-Ausdruck “Neue künstlerische Strategien”. Im Grunde kann das eigentlich alles bedeuten und explizit nur: kein “Bild an der Wand”. Unter “Neue künstlerische Strategien” wird 
-alles, was außerhalb des *white cube* einer Galerie erscheinen kann und erscheint, geordnet. Der Drang, etwas Neues vermitteln zu wollen, liegt also zum Teil in
- einem Ausschlussprinzip, nämlich dem des traditionellen Raums: Museum, Galerie, etc., der nicht mehr Gegenstand der Lehre ist. Dazu kommen Radio, Fernsehen und das Internet, als möglichst alternativen Plattform.
+sogar als Hauptthema *Kunst im öffentlichen Raum* wählen und gewählt haben. Einige bieten den öffentlichen Raum als Schwerpunkt an, andere das Kuratorische. Gern verwenden sie den 
+Ausdruck *Neue künstlerische Strategien*. Im Grunde kann das eigentlich alles bedeuten und explizit nur: kein “Bild an der Wand”. Unter “Neue künstlerische Strategien” wird 
+alles, was außerhalb des *white cube* einer Galerie erscheinen kann und erscheint, geordnet. Der Drang, etwas Neues vermitteln zu wollen, liegt also zum Teil in einem Ausschlussprinzip, nämlich dem des traditionellen Raums: Museum, Galerie, etc., der nicht mehr Gegenstand der Lehre ist. Dazu kommen Radio, Fernsehen und das Internet, als möglichst alternative Plattformen.
 
 In diesen Studiengängen wird die Lehre überwiegend in kleinen Gruppen durchgeführt. Es treffen sich Studierende aus verschiedenen Ländern, aus unterschiedlichen 
-Bereichen der Kunst und diverse Altersgruppen, manche sehr jung, direkt nach dem Diplom, manche haben aber erst das Leben außerhalb der Akademie erprobt und kehren 
+Bereichen der Kunst und diverse Altersgruppen, manche sehr jung, direkt nach dem Diplom. Manche haben aber erst das Leben außerhalb der Akademie erprobt und kehren 
 nun in diese zurück. Mehrere Zustände künstlerischer Werdegänge und Ziele stoßen aufeinander, arrivierte Künstler neben Anfängern. Sie verbringen Zeit zusammen und 
 erweitern den Diskurs miteinander. Diese Studiengänge dauern in der Regel zwischen zwei und drei Jahren. Im Falle der Bauhaus-Universität ist die Hauptsprache im
- Master-Programm "Kunst im öffentlichen Raum und neue künstlerische Strategien", welches innerhalb der Fakultät Gestaltung verankert ist, Englisch. 
-(In manchen Semestern gibt es nicht einmal einen einzigen eingeschriebenen deutschen Studierenden.) In drei Semestern werden drei verschiedene Themen behandelt, 
-während das letzte Semester dem Thema der Master-Abschlussarbeit, der sogenannten Thesis gewidmet ist.
+Master-Programm "Kunst im öffentlichen Raum und neue künstlerische Strategien", welches innerhalb der Fakultät Gestaltung verankert ist, Englisch. 
+(In manchen Semestern gibt es keinen einzigen eingeschriebenen deutschsprachigen Studierenden.) In drei Semestern werden drei verschiedene Themen behandelt, 
+während das vierte Semester dem Thema der Master-Abschlussarbeit, der sogenannten Thesis, gewidmet ist.
 
-Über die Umsetzung und Realisierung themenbasierter Projekte hinaus (die im MFA-Programm in Weimar bis dato nach Semestern verteilt bearbeitet werden: Kunst & Gedenken, 
-temporäre Interventionen im öffentlichen Raum und Kunst am Bau) und mit der Aufteilung in Kategorien wie Architektur, Gedächtnis und Umgang mit Denkmälern, die in der 
+Über die Umsetzung und Realisierung themenbasierter Projekte hinaus (die im *MFA*-Programm in Weimar bis dato nach Semestern verteilt bearbeitet werden: *Kunst & Gedenken*, 
+*temporäre Interventionen im öffentlichen Raum* und *Kunst am Bau*) und mit der Aufteilung in Kategorien wie Architektur, Gedächtnis und Umgang mit Denkmälern, die in der 
 Regel zur Öffentlichkeit gehören, werden auch andere Gebiete zugänglich gemacht. Zu ihnen zählen Urbanistik und konzeptuell neu entwickelte Strategien für Skulpturen 
 und Interventionen im öffentlichen Raum, mit denen eine Konfrontationsrichtung ausgegeben wird. Daneben werden den Studierenden auch berufliche Themen, mit denen sich 
 Künstler beschäftigen, vermittelt, wie: Strukturen von Bewerbungseinrichtung, Finanzierungen, Genehmigungen und Selbstpräsentation sowie professioneller Umgang in der 
@@ -70,14 +69,19 @@ Geschlecht (Gender), Regulierung und Standardisierung sowie Differenzierung, Kol
 Dienstleistung, Recht und Ordnung, Aktivismus und das Identifizieren von Konfliktfeldern, moralischen Fragen wie auch philosophische Kontextualisierung. Dieses vielseitige 
 Angebot findet mittlerweile in einer mehr oder weniger geordneten Art und Weise seinen Platz im Lehrprogramm für Künstler.
 
-Deutschland kann für viele als ein Künstlerparadies (in Relation zu anderen Ländern) verstanden werden. Die allgemeinen Studiengebühren sind sehr 
-niedrig, in Weimar liegen sie zur Zeit bei ca. 137,- Euro pro Semester. Erst nachdem man die Regelstudienzeit überschritten hat, muss man 500,- Euro pro Semester zahlen, 
-was immer noch ein lächerlicher Betrag im Vergleich zu den Gebühren z.B. in den USA und Großbritannien ist. Sie kreisen dort um die 25,000€ pro Studiumsjahr ist, laut [*Art & Society*](http://suite101.com/article/top-10-art-schools-compared-a53521) Online Magazin. 
+Deutschland kann für viele als ein Künstlerparadies (in Relation zu anderen Ländern) verstanden werden. Allgemeine Studiengebühren gibt es in Thüringen nicht, in Weimar liegt der Semesterbeitrag[^semesterbeitrag] zur Zeit bei ca. 137 Euro pro Semester. Erst nachdem man die Regelstudienzeit überschritten hat, muss man 500 Euro pro Semester zahlen. So oder so ist der Betrag niedrig im Vergleich zu den Gebühren z.B. in den USA und Großbritannien, wo sie um die 25.000 Euro pro Studiumsjahr liegen, laut [*Art & Society*](http://suite101.com/article/top-10-art-schools-compared-a53521) Online Magazin. 
 
-Nach dem Studium und mit Verweis auf eine künstlerische Tätigkeit kann sich jeder, der nachweisen kann, dass er hauptberuflich als Künstler tätig ist, mit der [Künstlersozialkasse](http://www.kuenstlersozialkasse.de/Krankenversicherung)(KSK) abschließen, was ein [einmaliges Modell](http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html) in Europa bildet. Fast ein Prozent der Einwohner in Berlin ist durch die KSK versichert. Zusätzlich wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch den [Art. 5 Abs. 3 des Grundgesetzes](http://www.gesetze-im-internet.de/gg/art_5.html) gewährleistet. Auch finden Künstler große finanzielle Unterstützung durch unzählige Wettbewerbsmöglichkeiten und Stipendienangebote sowie Staatliche Förderungen, wie die [*Bundeskulturstiftung*](http://www.bundeskulturstiftung.de/) und den [*Fonds Soziokultur*.](http://www.fonds-soziokultur.de/) Für eingereichte Bewerbungen können bei der Bundeskulturstiftung  Forderungsgelder in Höhe bis zu 50,000€ pro Projekt beantragen. [Die Kulturausgaben insgesamt pro Einwohner pro Jahr betragen bundesweit durchschnittlich rund 100€.](https://www.destatis.de/DE/Publikationen/Thematisch/BildungForschungKultur/Kultur/Kulturindikatoren.html)
+[^semesterbeitrag]: Vom Semesterbeitrag werden auch Studentenwerk (Mensa, Wohnen), Studierendenvertretung (StuKo, Fachschaften), Bus- und Bahntickets etc. finanziert.
 
+
+Nach dem Studium kann sich jeder, der nachweisen kann, dass er hauptberuflich als Künstler tätig ist, in der [Künstlersozialkasse](http://www.kuenstlersozialkasse.de/Krankenversicherung)(*KSK*) krankenversichern, was ein [einmaliges Modell](http://www.labournet.de/diskussion/arbeit/realpolitik/allg/ksk.html) in Europa bildet. Fast ein Prozent der Einwohner Berlins sind in der *KSK* versichert. Zusätzlich wird die Kunstfreiheit in Deutschland als Grundrecht geschützt und durch den [Art. 5 Abs. 3 des Grundgesetzes](http://www.gesetze-im-internet.de/gg/art_5.html) gewährleistet. Auch finden Künstler große finanzielle Unterstützung durch unzählige Wettbewerbsmöglichkeiten und Stipendienangebote sowie Staatliche Förderungen, wie die [*Bundeskulturstiftung*](http://www.bundeskulturstiftung.de/) und den [*Fonds Soziokultur*.](http://www.fonds-soziokultur.de/) 
+Die Bundeskulturstiftung fördert Projekte ***ab*** einer Antragssumme von 50.000 Euro.[^bundeskulturstiftung]  [Die Kulturausgaben insgesamt pro Einwohner pro Jahr betragen bundesweit durchschnittlich rund 100€.](https://www.destatis.de/DE/Publikationen/Thematisch/BildungForschungKultur/Kultur/Kulturindikatoren.html)
+
+[^bundeskulturstiftung]: Davon jedoch höchstens 80%. Der Rest, also min. 10.000 Euro, muss selbst oder aus weiteren Drittmitteln aufgebracht werden.
 
 \pagebreak
+
+TODO:
 
 ### Akademikerinnen
 
@@ -100,8 +104,7 @@ Ich gehe in den Garten
 Was muss ich da sehen?
 In meinem Garten steht ein brauner Bär
 Und sagt: dein Garten ist sehr schön
-Aha 
-Und er will nicht wieder gehen
+Aha - Und er will nicht wieder gehen
 In meiner Küche liegt ein Auerochse
 Und sagt: Krieg keinen Schreck
 Du bist der letzte Mensch hier
@@ -128,23 +131,23 @@ Durch Frauen mit Diplom
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Text: ***Rainald Grebe und die Kapelle der Versöhnung*** - *Akademikerinnen*
+- Text: ***Rainald Grebe*** - *Akademikerinnen*
 - aus dem Album *Volksmusik* (2007)
 - Lyrics: <http://lyrics.wikia.com/Rainald_Grebe_Und_Die_Kapelle_Der_Vers%C3%B6hnung:Akademikerinnen>
 
 
 
-## Theorie für Praktiker [^]
+## Theorie für Praktiker [^theorie]
 
-[^]
+[^theorie]
 
-So ein Schulungssystem wie in Weimar versucht einerseits, die Studenten umfangreich mit den verschiedenen Möglichkeiten vertraut zu machen, um sich ihnen auszusetzen, 
-sowie darum gemeinsamen Sprachcodes auf der Grundlage kollektiver historischer Basis zu schaffen, andererseits, die persönliche  
+Ein Schulungssystem wie in Weimar versucht einerseits, die Studenten umfangreich mit den verschiedenen Möglichkeiten vertraut zu machen,  
+sowie darum gemeinsame Sprachcodes auf der Grundlage kollektiver historischer Basis zu schaffen, andererseits, die persönliche  
 Entwicklung zu fördern , und die Ermutigung nach neuen, und in vielen Fällen überraschenden Strategien zu suchen, um die parallele Nachfrage am Markt zu stillen. 
 Es ist wichtig anzumerken, dass in solchen Programmen in der Regel sehr interessante menschliche Mischungen gebildet werden. Neben Künstler die sich in solche Programme 
 einschreiben, studieren in diesen Programmen auch solche mit einem Bachelor-Abschluss aus diversen anderen Bereichen wie Architektur, Grafikdesign oder Medienkunst. Ein weiteres Ziel, 
 in Zeiten des überschwemmtem Kunstmarkts, ist die Ausbildung von eigenen Nischen als alternative Arbeitsmöglichkeiten. Dies geschieht zum Beispiel durch das Involvieren der Industrie 
-und die Einhaltung geordneter Zusammenarbeit mit Institutionen aus den Bereichen Bau und Architektur. (In Deutschland ist zum Beispiel in jedem Neubauplan vom öffentlichen Hochbau 
+und dem Aufbau geordneter Zusammenarbeit mit Institutionen aus den Bereichen Bau und Architektur. (in Deutschland ist zum Beispiel in jedem Neubauplan von öffentlichem Hochbau 
 mindestens ein Prozent des Gesamtbudgets für Kunst zur Verfügung zu stellen). 
 
 Das Mitwirken von Künstlern im Betrieb des Bildungssystems und auf dem Gebiet der Sozialhilfe, auch 
@@ -320,7 +323,7 @@ weil dieser Song hier uns gehört (3x)
 
 
 
-##  Akademie trifft Kunstmarkt[^]
+##  Akademie trifft Kunstmarkt[^akademie]
 
 [^]
 
@@ -333,7 +336,7 @@ Abschluss.
 Das Ausstellen und der Ausstellungsbetrieb gehören unbedingt zum Ausbildungsprofil, sozusagen als Einübung in die Realität und Zukunft, aber auch als Finale eines Werkes. Der Bezug zum Raum und Ort, die Frage was verträgt sich mit den anderen Arbeiten in einer Gemeinschaftsausstellung, Arbeits- und Terminplanung, Presse, Führungen, und das Sprechen über die eigene Arbeit müssen erlernt werden. So was kann man gut in den dafür vorgesehenen eigenen oder für den Zweck umgewandelte Räume innerhalb der BUW üben. Aus Raummangel aber entwickelte sich die Geschichte der Präsentation an der Bauhaus Universität auf eine sehr eigenartiger Weise.
 
 
-##  "a room of your own"[^]
+##  "a room of your own"[^akademie]
 
 [^]
 
@@ -363,7 +366,7 @@ Als erstes gab es eine unabhängige Eigeninitiative namens *Neu-Deli* die sich R
   "source-url" : "http://www.es-lebe-die-galerie.de"
 },
 
-## Das Konstrukt Bauhaus Essentials[^]
+## Das Konstrukt Bauhaus Essentials[^essentials]
 
 [^]:
 
@@ -519,7 +522,7 @@ Kunsthochschule Kiel* und die *Akademie der Bildenden Künste Nürnberg* vertret
 die *HfG Offenbach* sowie die *Weißensee Kunsthochschule Berlin* hinzu.
 
 
-## Das Dilemma[^]
+## Das Dilemma[^dilemma]
 
 [^]:
 
