@@ -2,7 +2,7 @@
 
 
 
-## *Form Folgt Funktion*[^formfunktion] 
+## *Form Folgt Funktion* [^formfunktion] 
 
 [^formfunktion]: TODO
 
@@ -134,9 +134,9 @@ Durch Frauen mit Diplom
 
 
 
-## Theorie für Praktiker [^theorie]
+## Grounded Practical Theory [^practicaltheorie]
 
-[^theorie]
+[^practicaltheorie]: Grounded Practical Theory, ein Buch von Robert T. Craig <https://en.wikipedia.org/wiki/Robert_T._Craig_(scholar)>
 
 Ein Schulungssystem wie in Weimar versucht einerseits, die Studenten umfangreich mit den verschiedenen Möglichkeiten vertraut zu machen,  
 sowie darum gemeinsame Sprachcodes auf der Grundlage kollektiver historischer Basis zu schaffen, andererseits, die persönliche  
@@ -145,33 +145,31 @@ Es ist wichtig anzumerken, dass in solchen Programmen in der Regel sehr interess
 einschreiben, studieren in diesen Programmen auch solche mit einem Bachelor-Abschluss aus diversen anderen Bereichen wie Architektur, Grafikdesign oder Medienkunst. Ein weiteres Ziel, 
 in Zeiten des überschwemmtem Kunstmarkts, ist die Ausbildung von eigenen Nischen als alternative Arbeitsmöglichkeiten. Dies geschieht zum Beispiel durch das Involvieren der Industrie 
 und dem Aufbau geordneter Zusammenarbeit mit Institutionen aus den Bereichen Bau und Architektur. (in Deutschland ist zum Beispiel in jedem Neubauplan von öffentlichem Hochbau 
-mindestens ein Prozent des Gesamtbudgets für Kunst zur Verfügung zu stellen). 
+mindestens ein Prozent des Gesamtbudgets für Kunst am Bau zur Verfügung zu stellen). 
 
 Das Mitwirken von Künstlern im Betrieb des Bildungssystems und auf dem Gebiet der Sozialhilfe, auch 
 in der Arbeit mit Organisationen und Gruppen sowie NGOs, wie auch gefährdeter aber organisierter oder kontrollierter Bevölkerungsgruppen, wie Obdachlosen, Behinderten und anderen 
 benachteiligten Minderheiten, weist eine wachsende Tendenz auf und ist auf beiden Seiten willkommen. Künstler werden aufgrund ihrer Fähigkeit, einen kritischen Blick auf das System zu werfen 
 und in eine ästhetische Aussage bzw. eine international verständliche Sprache zu fassen, gern als Vermittler und als Brückenschläger betrachtet. Als jemand, der mehrere Sprachen 
-beherrscht und damit sind nicht Ländersprachen gemeint, sondern eher die Sprachen und Signale unterschiedlicher Segmente der Gesellschaft. So oder so wird das Studium zu 
+beherrscht -- und damit sind nicht Ländersprachen gemeint, sondern eher die Sprachen und Signale unterschiedlicher Segmente der Gesellschaft. So oder so wird das Studium zu 
 einer “Professionalisierungsmaßnahme”. 
 
-Der Akademische Grad wird zunehmend als Voraussetzung für die Tätigkeit als Dozent oder Professor in akademischen Positionen gefordert. Die Fortsetzung des Kunststudiums 
-im PhD-Format nimmt global zu, jedoch finden Künstler mit akademischen Titeln ihren Standpunkt noch nicht. Der PhD- Titel wird von niemandem geliebt, für die Wissenschaftler ist das Kunst, für die Kunst eine Wissenschaft und der Kunstbetrieb kann den PhD auch nicht gebrauchen, sieht ihn vielleicht sogar 
-als „Streber“ auf Kosten der eigenen Obsession. Für die theoretischen Akademiker sind Künstler mit PhD zu sehr Künstler 
-während sie für die Kunstpraxis als „zu theoretisch“ wahrgenommen werden. Ob sich dieser Trend in den nächsten Generationen ändert und Künstler erst als Universitätsprofessoren 
-den Titel ergattern werden, oder bereits bevor sie sich auf solche Stellen bewerben, bleibt offen. Verglichen mit den Stellenangeboten für Kuratoren in großen Museen und anderen 
-Institutionen, wo Kunstpraxis eingefügt werden soll (also: kein Job ohne Titel), wird klar, das die Messlatte immer höher gesetzt wird.
+Ein akademische Grad wird zunehmend als Voraussetzung für die Tätigkeit als Dozent oder Professor auch in künstlerischen Positionen gefordert. Die Fortsetzung des Kunststudiums 
+im PhD-Format nimmt global zu, jedoch finden Künstler mit akademischen Titeln ihren Standpunkt noch nicht. Der PhD-Titel wird von niemandem geliebt: für die Wissenschaftler ist das Kunst, für die Kunst eine Wissenschaft und der Kunstbetrieb kann den PhD auch nicht gebrauchen, sieht ihn vielleicht sogar 
+als „Streber“ auf Kosten der eigenen Obsession. Verglichen mit den Stellenangeboten für Kuratoren in großen Museen und anderen 
+Institutionen, wo Kunstpraxis eingefügt werden soll (also: kein Job ohne Titel), wird allerdings klar, das die Messlatte immer höher gesetzt wird.
 
- Wer bewirbt sich bei solchen Aufbaustudien, aus welchem Grund und zu welchem Zweck? Viele Studierende versuchen, Wissen zu erwerben 
+Wer bewirbt sich bei solchen Aufbaustudien, aus welchem Grund und zu welchem Zweck? Viele Studierende versuchen, Wissen zu erwerben 
 und gehen anschließend zurück in ihre Heimatländer. Einige aus Osteuropa und Südamerika versuchen diese Gelegenheit als Sprungbrett nach Westeuropa zu nutzen, wo Budgets für Kultur und Kunst 
 immer noch recht großzügig verwendet werden. Also handelt es sich dabei auch um eine kulturelle Migration. Auf jeden Fall entsteht ein neues internationales Netzwerk von Künstlern, Kuratoren 
 und zum Teil neu entstandenen Arbeitsgruppen. Es handelt sich vorwiegend um Künstler, die sich an verschiedene kulturelle Organisationen angedockt haben und es bevorzugen geographische und kulturelle Grenzen zu ignorieren 
-(bzw. zu durchforsten). Sie arbeiten in Richtung der Legitimität des Künstlers als ein interdisziplinärer Unternehmer. Dieser ist bemüht, innovative Lösungen zu finden, er erstrebt und sucht 
-diverse alternative Lösungen. Er nimmt gesellschaftliche Segmentierung und falsch gestellte Meinungen über das Andere, das Fremde wahr und arbeitet von sich aus oder im Auftrag an einer Aufklärung. 
-(Das Projekt der Gruppe *Wocheklausur* ist als beispielhaft für die Osmose zwischen Kunst und Sozialarbeit zu sehen). Dass diese Tendenz kein Zufall ist, kann die zunehmende Präsenz solcher 
-Künstlergruppen auf internationalen Kunstbiennalen (die sich auch seit 1990 maßlos vermehrten), bestätigen. Das Künstlernomadentum nimmt zu, auch thematisch wandelt es sich von land- und 
-nationalbezogener Kunst zur Internationalität. Die Leiter der *12. documenta*, Ruth Noack und Roger Buergel haben bei allen Exponatsbeschriftungen und Etiketten, beim gesamten Ausstellungsaufbau auf das Mitteilen 
-des Herkunftslandes der Künstler verzichtet und stattdessen ihre künstlerische Vertretung (i.e. Galerien etc.) als 'Hausnummer' angegeben. Einer der Gründe dafür könnte sein, dass vor lauter 
-Biennalen die Künstler zunehmend als Vertretung ihrer eigene Länder exponiert werden. Die Kuratoren der großen Ausstellungen widmen sich politischen und globalen Themen. 
+(bzw. zu durchforsten). Sie arbeiten an der Legitimität des Künstlers als interdisziplinärer Unternehmer. Dieser ist bemüht, innovative Lösungen zu finden, er erstrebt und sucht 
+diverse alternative Lösungen. Er nimmt gesellschaftliche Segmentierung und falsch gestellte Meinungen über das Andere, das Fremde wahr und arbeitet von sich aus oder im Auftrag an einer Aufklärung 
+(die Projekte der Gruppe *Wocheklausur* sind als beispielhaft für die Osmose zwischen Kunst und Sozialarbeit zu sehen). Dass diese Tendenz kein Zufall ist, kann die zunehmende Präsenz solcher 
+Künstlergruppen auf internationalen Kunstbiennalen (die sich auch seit 1990 maßlos vermehrten), bestätigen. Das *Künstlernomadentum* nimmt zu, auch thematisch wandelt es sich von land- und 
+nationalbezogener Kunst zur Internationalität. Die Leiter der *12. documenta*, Ruth Noack und Roger Buergel haben bei allen Exponatsbeschriftungen und Etiketten, auf das Mitteilen 
+des Herkunftslandes der Künstler verzichtet und stattdessen ihre künstlerische Vertretung (z.B. Galerie) als 'Hausnummer' angegeben. Einer der Gründe dafür könnte sein, dass durch immer mehr nationale
+Biennalen die Künstler zunehmend als Vertretung ihrer eigene Länder exponiert werden. Und die Kuratoren der großen Ausstellungen widmen sich politischen und globalen Themen. 
 Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden komplexer. 
 
 
@@ -179,26 +177,26 @@ Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden ko
 ## What's the Difference?[^whatsthediff]
 
 
-[^whatsthediff]: Dr. Dre "What's The Difference" (feat. Eminem, Phish, Xzibit)(http://www.azlyrics.com/lyrics/drdre/whatsthedifference.html#) 
+[^whatsthediff]: Dr. Dre "What's The Difference" (feat. Eminem, Phish, Xzibit)<http://www.azlyrics.com/lyrics/drdre/whatsthedifference.html#> 
 
 
 
-**Theorie vs. Praxis: Zur Entstehung der Akademischen Künstler**
+**Zur Entstehung der Akademischen Künstler**
 
 Es entwickeln sich neue Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender PhD-Programme an Kunsthochschulen, und spürbarem Anstieg in der Anzahl
-von Kolloquien, Konferenzen und Diskussionen über Künstlerische Recherche (Artistic Research).
+von Kolloquien, Konferenzen und Diskussionen über Künstlerische Recherche (*artistic research*).
 
-Künstler mischen sich, unter anderen in sozial-politische Angelegenheiten ein und bedienen sich immer mehr an Ausdrucksformen, die uns aus 
+Künstler mischen sich unter anderen in sozial-politische Angelegenheiten ein und bedienen sich immer mehr den Ausdrucksformen, die uns aus 
 dem wissenschaftlichen Bereich bekannt sind. Was machen diese Formen für Künstler so attraktiv? Können Künstler Theorie schreiben? 
 Können und wollen Künstler Theorie als Praxis betreiben?
 
 Eine E-Mail in meiner Eingangspost, die ich ursprünglich ohne sie zu lesen löschen wollte, hat jedoch durch ihren Titel meine Aufmerksamkeit 
-geweckt: "Placebo für die Kunst gesucht, um die Effekte der Kunst auf das Gesundheitswesen zu studieren.“ Das Behring-Institut für medizinische 
-Recherche, das in Deutschland und in den Niederlanden aktiv ist, sucht nach Kunstprojekten, die zu Folgendem passen: „Die Ergebnisse vieler Studien 
+geweckt: "Placebo für die Kunst gesucht, um die Effekte der Kunst auf das Gesundheitswesen zu studieren.“ Das *Behring-Institut für medizinische 
+Recherche* das in Deutschland und in den Niederlanden aktiv ist, sucht nach Kunstprojekten, die zu Folgendem passen: „Die Ergebnisse vieler Studien 
 zeigen ein positives Ergebnis in Bezug auf die Behandlung von Patienten und zeigen, dass Kunst zur Reduktion der Medikamente für den Patienten 
 verwendet werden kann, zur Verkürzung des Patientenaufenthalts in Krankenhäusern, zur Verbesserung der Arbeitsbedingungen führt und die Arzt / Patient 
 Beziehung und die Verbesserung der psychischen Gesundheit fördert.“ Die Post kam via *E-Flux*, ein Online-Kunst-Nachrichten-Service, der neben der 
-Ankündigung von Ausstellungen in der ganze Welt, auch Texte über Kunst und Erziehung *Art & Education* veröffentlicht. 
+Ankündigung von Ausstellungen in der ganze Welt, auch Texte über Kunst und Erziehung, *Art & Education* veröffentlicht. 
 
 Die akademische wissenschaftliche Welt verfolgt mit Unruhe diese Entwicklung und zweifelt an der Fähigkeit, dass Künstler theoretische Texte und Dissertationen 
 schreiben können, wenn diese nicht in traditioneller Art und Weise geschrieben sind. Viele Promovierende bestreiten eine künstlerische Freiheit, das heißt 
@@ -208,9 +206,9 @@ des klassischen Schreibens auch an Kunstakademien, in denen vom Grundstudium an 
 ca. 20 Seiten schriftliche Arbeit gefordert, im Masterabschluss sind es 40 Seiten und im PhD ca. 80 Seiten. Die Beschäftigung mit der Metaebene, 
 das Streben nach dem Definieren des Prozesses vom eigenen Tun ist kein Einzelfall: neben Kolloquien und Konferenzen über Themen wie Kunst und Design, 
 die Avantgarde und das Kuratorium, ist das Thema künstlerische Recherche innerhalb der Institutionen, die solch ein PhD-Programm anbieten, 
-inzwischen fest verankert. Seit geraumer Zeit häufen sich auch die Online Magazine wie *Artistic Research UK.org*, die sich diesem Thema widmen.
+inzwischen fest verankert. Seit geraumer Zeit häufen sich auch die Online Magazine wie [*Artistic Research UK*](http://www.artandresearch.org.uk/) die sich diesem Thema widmen.
 
-Ein gutes Beispiel für diese Auseinandersetzung ist die Arbeit von Hagen Betzwieser, der seit 2001 das [*Institut für Allgemeine Theorie*](http://www.iat-research.com/index.php/about-the-institute) in Stuttgart 
+Ein gutes Beispiel für diese Auseinandersetzung ist die Arbeit von Hagen Betzwieser, der seit 2001 das [*Institut für Allgemeine Theorie*](http://www.iat-research.com/) in Stuttgart 
 in Zusammenarbeit mit mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Leiter der Akademie Schloss Solitude, beschreibt die Tätigkeit von Betzwieser wie folgt: 
 
 > „Das Institut für Allgemeine Theorie ist ein Projekt von unbestimmter Dauer, für alles von einem auf einer unendlichen Anzahl von Teilnehmern. Er arbeitet in einem undefinierten 
@@ -218,24 +216,25 @@ in Zusammenarbeit mit mehreren Kunstinstitutionen leitet. Jean-Baptiste Joly, Le
 > Versuchs- und bezahlter Arbeit, zwischen experimenteller und Atelier, zwischen Museum und Universität gibt. Das IAT versteht sich als Labor für »omnidisziplinäre Gedankenexperimente«, deren Ergebnisse werden akribisch dokumentiert und in einem ständig wachsenden Archiv gesammelt.“ [@Joly:Institute]
 
 Die Debatten um die Interaktionen zwischen Kunst und Wissenschaft sind nicht neu. Neu ist hier ein Bedrohungsgefühl und die Ungläubigkeit gegenüber der 
-neuen Realität, einen PhD Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung, pp. ??]bezieht sich der 
+neuen Realität, einen PhD-Titel an Künstler zu vergeben. In dem Buch *Die Entstehung des Neuen* [@Kuhn:Entstehung]bezieht sich der 
 Wissenschaftstheoretiker Thomas S. Kuhn, der in Princeton Professor war, mit einer Bemerkung zum Verhältnis von Wissenschaft und Kunst auf einen noch früheren 
 Text von E. M. Hafner, *The New Reality in Art and Science* von 1969. Kuhn meint: „Je mehr man versucht Künstler von Wissenschaftlern zu unterscheiden, 
-desto schwieriger wird diese Aufgabe“[-@Kuhn:Entstehung], jedoch betrachtet er dies als beunruhigend.
+desto schwieriger wird diese Aufgabe“, jedoch betrachtet er dies als beunruhigend [-@Kuhn:Entstehung].
 
 Ist die Sorge seitens der Wissenschaft berechtigt? Was suchen Künstler in dem bisher für Wissenschaftler, Philosophen, Theoretiker und Kunsthistoriker 
 geschlossenem Feld? Das Anlehnen sowie das Zitieren von theoretischen und philosophischen Texten als Basis künstlerischer Arbeit ist 
 zunehmend zu beobachten. Essentielle Zitate von Walter Benjamin und Theodor W. Adorno schmücken nicht nur die Texte, sie weisen auf eine Inspirationsquelle 
 von und für Künstler hin. Worte anderer Disziplinen bieten eine Interpretationshilfe, sie erläutern die Arbeit zunächst für die Künstler selbst und anschließend auch 
 für die Betrachter. Möglicherweise findet das visuelle Konzept des Künstlers eine Rückübersetzung in eine andere Sprache, nämlich die des Wortes. Eine Idee, 
-oder eine Beobachtung, die in Worte gefasst wurde, zu welcher der Künstler ein Bild (im Sinne von Image) erstellt hat. Ist das Untermauern der visuellen Arbeit mit Worten, 
+oder eine Beobachtung, die in Worte gefasst wurde, zu welcher der Künstler ein *Bild* (im Sinne von *Image*) erstellt hat. Ist das Untermauern der visuellen Arbeit mit Worten, 
 die die Intention des Künstlers erläutern, nur eine Mode oder eine iterative Entwicklung des künstlerischen Werdegangs, die so mehr und mehr gefördert wird? Befinden wir 
 uns in dieser Entwicklung, weil die Intention nicht mehr nur allein aus der praktischen Arbeit klar abzulesen ist oder weil Künstler das Wort auch als visuelles Material betrachten?
-Kunst ist natürlich ein Thema für Philosophen, es ist kein Wunder also, dass Künstler sich auch zurück an die Philosophie lehnen, oder wie Adorno sagt: „ ... genuine ästhetische Erfahrung muss Philosophie werden oder sie ist überhaupt nicht.“ [-@Adorno:GS 7, pp. 197]
+Kunst ist natürlich ein Thema für Philosophen, es ist also kein Wunder, dass Künstler sich auch zurück an die Philosophie lehnen, oder wie Adorno sagt: „ ... genuine ästhetische 
+Erfahrung muss Philosophie werden oder sie ist überhaupt nicht.“ [-@Adorno:GS7, pp. 197]
 
 
 Welche Eigenschaften verbinden künstlerische und wissenschaftliche Recherche? Neugier, Kreativität, Experimentierfreude, die Forschung als Prozess, 
-Neues entdecken und zu erfinden. Laut Kuhn streben beide in ihren Fragestellungen nach Antworten. Der Unterschied beginnt damit, dass die Wissenschaft 
+Neues entdecken und zu erfinden. Laut Kuhn streben beide in ihren Fragestellungen nach Antworten. Der Unterschied beginnt damit, dass die Wissenschaft meist
 nur sich selbst als Publikum hat während die Kunst ein viel breiteres Publikum genießt. Aus heutiger Sicht lässt sich dieser Sachverhalt relativieren, denn ein 
 neuer Typus entsteht: der „Akademische Künstler“. Die meisten Debatten um künstlerische Recherche sowie der Diskurs um Kunst im öffentlichen Raum, um nur ein Beispiel zu nennen, 
 interessieren wiederum nur solche Künstler, die Master- und PhD-Programme belegen, bzw. solche Programme dann auch gründen, innerhalb dieser lehren und somit eine sehr spezifische 
@@ -243,41 +242,41 @@ Zielgruppe ansprechen. Ein weiterer Unterschied ist, dass der Künstler auch das
 Genesis P. Orridge zu sagen: „Der Prozess ist das Produkt“. Die Wissenschaft kann sich das kaum leisten. Künstler können ein ästhetisches, aber durchaus hermetisches Werk 
 erzeugen, ein Bild von ihren Gedanken, von ihrer Suche kreieren, während Wissenschaftler nach luzidem Schreiben streben, welches wiederum ihren Gedanken ein Bild verleiht. 
 Recht und Anerkennung verlangen und erhalten beide. In dem Buch *The artist as public Intellectual* hat Hirschhorn seinen Beitrag *About art in 
-Public Space – the Space of Public Life!* [-@Hirschhorn:PublicSpace] genannt.  
+Public Space – the Space of Public Life!* [@Hirschhorn:PublicSpace] genannt.  
 
 
 **Bilder:** [Thomas Hirschhorn: Buchumschlag], [Thomas Hirschhorn: Seite mit Text], [Thomas Hirschhorn: Mindmap]
 
 
 Als Ausstellungseinladung hat Hirschhorn eine Art visualisierten Text über seinen künstlerischen Gedankenwerdegang publiziert. Der Beitrag gibt seine Recherche zur Arbeit selbst 
-als gestalteten Raum wieder, beschreibt dabei aber die Entwicklung seiner Projekte visuell. Dieses Vorgehen bietet ein gutes Beispiel für das was Dronsfield mit Theorie als Praxis meint: 
+als gestalteten Raum wieder, beschreibt dabei aber die Entwicklung seiner Projekte visuell. Dieses Vorgehen bietet ein gutes Beispiel für das, was Dronsfield mit *Theorie als Praxis* meint: 
 Es geht überwiegend darum, was die Kunst über sich selbst sagen will. Dies fasste Hirschhorn auch in eine Mindmap, eine seit Ende der neunziger Jahre sehr 
 beliebte Ausdrucksform, welche auch aus einer anderen Disziplin entlehnt wurde.
 
 Künstler suchen ständig nach neuen Strategien, weil diese auf ihre Individualität und Originalität verweisen, Künstler sind geltungsbedürftig veranlagt, 
-sie wollen Aufmerksamkeit. Recherche ist nötig, um etwas Neues hervorzuheben. Eine iterative Entwicklung der Theorie in der Kunst lässt sich an folgendem Beispiel erklären: 
-Nachahmung, Fakes (wie in Fälschungen) und Plagiate sowie Hommagen führen zur Aneignungskunst und erzeugen dadurch auch Selbstreferenzen. Die Kunst kreist also um sich und um
+sie wollen Aufmerksamkeit. Eine iterative Entwicklung der Theorie in der Kunst lässt sich an folgendem Beispiel erklären: 
+Nachahmung, *fakes* (wie in Fälschungen) und Plagiate sowie Hommagen führen zur Aneignungskunst und erzeugen dadurch auch Selbstreferenzen. Die Kunst kreist also um sich und um
 ihr eigenes Selbst. Auch wenn alle Medien bedient worden sind, kann die Geschichte nie zu Ende erzählt werden. 
 
 Als Beobachter und Kritiker, als Erzähler, 
 schauen sich die Künstler genau um, um neue Ausdrucksmöglichkeiten zu entwickeln, die im Grunde einer Bereicherung des Pinselsortiments in der Werkzeugkiste gleichen. 
 Künstler kreieren außer Objekten und Gemälden auch Musik, Filme, Videos, Fotos, Interventionen in verschiedenen Formen und erfinden stets neue Strategien, um ihre Arbeit 
 nicht nur sichtbar zu machen, sondern wahrgenommen zu werden. Sie schleichen sich als Geschäftsleute ein, machen Werbung, halten Vorträge, wollen die Welt verbessern. Nun, wenn alles 
-*fake* ist und nicht echt, kann es auch als Entertainment rezipiert werden. Bernard Hoffert schreibt in *Taking Art Seriously: Understanding Studio Research*: „Kunst ernst zu nehmen 
+*fake* ist und nicht echt, kann es auch als *entertainment* rezipiert werden. Bernard Hoffert schreibt in *Taking Art Seriously: Understanding Studio Research*: „Kunst ernst zu nehmen 
 bedeutet nicht nur, dass wir ihr kreatives Potenzial verstehen, sondern auch wie wir ihr Forschungs-Wissen nutzen können, um parallel zu anderen Disziplinen und zur 
-Entwicklung zur Kultur beizutragen“ (@Hoffert:Seriously). Oder, wie es auf der Website des Potsdamer Institut für künstlerische Forschung steht: 
+Entwicklung zur Kultur beizutragen“ (@Hoffert:Seriously). Oder, wie es auf der Website des [*Potsdamer Institut für künstlerische Forschung*](http://www.artistic-research.de/) steht: 
 „Künstlerische Forschung setzt sich mit dem Entstehungsprozess eines Kunstwerkes auseinander und entwickelt auf der Schnittstelle von Kunst und Wissenschaft neue 
 Methoden zur Erforschung und Abbildung des Verhältnisses von Individuum und Gesellschaft“.
 
 
-Als solches braucht jeder Diplomand der sein Studium beendet hat Strategien, um einen Unterschied machen zu können auf dem überfüllten Feld, das ihn draußen erwartet. 
+Als solches braucht jeder Diplomand, der sein Studium beendet hat Strategien um einen Unterschied machen zu können auf dem überfüllten Feld, das ihn draußen erwartet. 
 
-*Dieses Kapitel entstand im Rahmen des Wissenschaftsmoduls „Künste und Wissenschaften: Konkurrenzen, Korrespondenzen, Konstellationen“ bei Prof. Dr. Reck im Rahmen des PhD Programms 2010*
+*Der Abschnitt 5.5 entstand im Rahmen des Wissenschaftsmoduls „Künste und Wissenschaften: Konkurrenzen, Korrespondenzen, Konstellationen“ bei Prof. Dr. Reck im Rahmen des PhD Programms 2010*
 
 
 \pagebreak
 
-#### Leerer, Inhaltsloser Ausdruck
+### Leerer, Inhaltsloser Ausdruck
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {.lyrics}
@@ -318,28 +317,28 @@ weil dieser Song hier uns gehört (3x)
 - Lyrics: Transkript NTS
 
 
-##  Akademie trifft Kunstmarkt [^akademie]
+##  Akademie trifft Kunstmarkt [^akademietrifftkunstmarkt]
 
-[^]
+[^akademietrifftkunstmarkt]: TODO
 
 
-Als erster Schritt haben alle Kunstakademien innerhalb der Hochschulrektorenkonferenz der Deutschen Kunsthochschulen sich zusammen [gegen die Bologna Reform Festlegung eines B.A.verwahrt](http://www.sueddeutsche.de/bildung/1.1441136) und das fünfjährige Studiumsformat beibehalten, denn es wäre verwegen, einen Bachelor-Künstler (wie soll die Basis-Ausbildung aussehen?)
-in drei oder vier Jahren auszubilden. Wäre das dann ein „kleiner Künstler“ und der Master der „Chef“? Die Kunstausbildung ist – wie in allen anderen Berufen auch – nie abgeschlossen 
+Als ersten Schritt haben sich alle Kunstakademien innerhalb der *Hochschulrektorenkonferenz der Deutschen Kunsthochschulen* zusammen [gegen die von *Bologna* gefordeten Einführungen eines B.A.verwahrt](http://www.sueddeutsche.de/bildung/1.1441136) und das fünfjährige Studiumsformat beibehalten, denn es wäre verwegen, einen Bachelor-Künstler
+in drei oder vier Jahren auszubilden. Wie sollte dies Basis-Ausbildung aussehen?) Wäre das dann ein „kleiner Künstler“ und der Master der „Chef“? Die Kunstausbildung ist – wie in allen anderen Berufen auch – nie abgeschlossen 
 und als quasi philosophische Disziplin nicht im Schnelldurchgang zu machen. Auch das Diplom ist keine Garantie für Berufserfolg, allenfalls ein akademischer 
 Abschluss.
 
-Das Ausstellen und der Ausstellungsbetrieb gehören unbedingt zum Ausbildungsprofil, sozusagen als Einübung in die Realität und Zukunft, aber auch als Finale eines Werkes. Der Bezug zum Raum und Ort, die Frage was verträgt sich mit den anderen Arbeiten in einer Gemeinschaftsausstellung, Arbeits- und Terminplanung, Presse, Führungen, und das Sprechen über die eigene Arbeit müssen erlernt werden. So was kann man gut in den dafür vorgesehenen eigenen oder für den Zweck umgewandelte Räume innerhalb der BUW üben. Aus Raummangel aber entwickelte sich die Geschichte der Präsentation an der Bauhaus Universität auf eine sehr eigenartiger Weise.
+Das Ausstellen und der Ausstellungsbetrieb gehören unbedingt zum Ausbildungsprofil, sozusagen als Einübung in Realität und Zukunft, aber auch als Finale eines Werkes. Der Bezug zu Raum und Ort, die Frage was sich mit den anderen Arbeiten in einer Gemeinschaftsausstellung verträgt, Arbeits- und Terminplanung, Presse, Führungen, und das Sprechen über die eigene Arbeit müssen erlernt werden. So etwas kann man gut in den dafür vorgesehenen eigenen oder für den Zweck umgewandelte Räume innerhalb der BUW üben. Aus Raummangel aber entwickelte sich die Geschichte der Präsentation an der Bauhaus Universität auf eine sehr eigenartiger Weise.
 
 
-##  "a room of your own" [^akademie]
+##  "a room of your own" [^roomofyourown]
 
-[^]
+[^roomofyourown]: TODO
 
 Der eigene *white cube* (Unigalerie) 
 
 
-Die Kultur- und Kunstbetriebe sehen in Weimar folgendermaßen aus: Weimar gehört zum UNESCO-Welterbe, ist eine sehr kleine Stadt mit 60.000 Einwohnern und ca. 6.000 Studenten. Sie verfügt über ein übergroßes Kulturangebot und viele Institutionen des Kulturbetriebs. Außer der Stiftung Weimar Klassik, die mit Goethe-Nationalmuseum, dem Schiller Museum, dem Schlossmuseum, auch für das Bauhaus Museum und das Neues Museum zuständig ist und somit das größte Kultur-Konglomerat anbietet, gibt es unter anderem noch Archive,
-die Musikhochschule Franz Liszt, die Gedenkstätte Buchenwald, das Stadtmuseum, die Kunsthalle Harry Graf Kessler und das Haus am Horn, zusammen unter dem Titel *Kosmos Weimar* (http://www.klassik-stiftung.de/uploads/tx_lombkswmargcontent/Klassik_Stiftung_Weimar_Kosmos_Weimar_8.7.2008.pdf) Seit 2004 findet jährlich im Spätsommer das Internationale Kunstfest statt. Die Galerielandschaft ist etwas trockener. Als Hauptgalerie für Zeitgenössische Kunst steht seit 1988 die ACC Galerie unter der langjährigen Leitung von Frank Motz, der für seine Tätigkeiten in Sachen Zeitgenössische Kunst und Kooperationen mit der Stadt im Europäischen Kulturjahr 1999 den Weimarpreis erhielt. Das ACC Weimar ist ein gemeinnütziger Kunstverein mit einer Galerie, Internationalen Atelierprogramm, regelmäßigen Veranstaltungen und ein Café-Restaurant. Im Jahr 2006 wurde die Galerie Eigenheim - Raum für zeitgenössische Kunst und Kommunikation von Konstantin Bayer, selbst Künstler und ein BUW-Absolvent, gegründet und stellt vorwiegend Bauhaus Alumni aus, vergibt ein Stipendium und seit geraumer Zeit beteiligt sich die Galerie auch an Kunstmessen und Shows wie *BLOOOM* in Köln und der Preview Berlin. 
+Die Kultur- und Kunstbetriebe sehen in Weimar folgendermaßen aus: Weimar gehört zum UNESCO-Welterbe, ist eine sehr kleine Stadt mit 60.000 Einwohnern und ca. 6.000 Studenten. Sie verfügt über ein übergroßes Kulturangebot und viele Institutionen des Kulturbetriebs. Außer der *Klassik Stiftung Weimar*, die für das *Goethe-Nationalmuseum*, das *Schiller-Museum*, das *Schlossmuseum* u.v.a., auch für das *Bauhaus-Museum* und das *Neue Museum* zuständig ist und somit den größten Kultur-Konglomerat (oder wie es selbst nennen: [Kosmos](https://twitter.com/kosmosweimar) ) verwaltet, gibt es unter anderem noch Archive,
+die *Musikhochschule Franz Liszt*, die *Gedenkstätte Buchenwald*, das *Stadtmuseum*, die *Kunsthalle Harry Graf Kessler* und das *Bauhaus-Musterhaus am Horn*. Seit 2004 findet jährlich im Spätsommer das Internationale *Kunstfest* statt. Die Galerielandschaft ist etwas trockener. Als Hauptgalerie für Zeitgenössische Kunst steht seit 1988 die *ACC Galerie* unter der langjährigen Leitung von Frank Motz, der für seine Tätigkeiten in Sachen Zeitgenössische Kunst und Kooperationen mit der Stadt im Europäischen Kulturjahr 1999 den *Weimarpreis* erhielt. Das *ACC* Weimar ist ein gemeinnütziger Kunstverein mit einer Galerie, Internationalen Atelierprogramm, regelmäßigen Veranstaltungen und ein Café-Restaurant. Im Jahr 2006 wurde die *Galerie Eigenheim* - Raum für zeitgenössische Kunst und Kommunikation von Konstantin Bayer, selbst Künstler und ein *BUW*-Absolvent, gegründet und stellt vorwiegend Bauhaus-Alumni aus, vergibt ein Stipendium und seit geraumer Zeit beteiligt sich die Galerie auch an Kunstmessen und Shows wie *BLOOOM* in Köln und der *Preview Berlin*. 
 
 Der Bedarf an offiziellen Ausstellungsräumen in Kunstakademien, der bereits im neunzehnten Jahhundert als gegeben galt, wurde hierzulande nach dem zweiten Weltkrieg erst wieder über die USA, wo solche schon Mitte der 80er Jahre gegründet worden sind, importiert. Wie konstruierten sich Uni-Galerien innerhalb Deutschlands? Die Burg Giebichenstein, Halle, wie auch der *Kunst im Tunnel*-Raum der Kunsthochschule Düsseldorf werden durch eine Stadt unterstützt. Ähnliches gilt für den *Portikus* in Frankfurt. Die HfBK Hamburg verfügt über Räume innerhalb der Hochschule. Der Kunstraum der Leuphana-Universität Lüneburg finanziert sich aus Drittmitteln und ist an die Lehre angedockt.[^fn-markebeiratinfo]
 
@@ -351,19 +350,9 @@ Als erstes gab es eine unabhängige Eigeninitiative namens *Neu-Deli* die sich R
 **Bild:** [Die Gallerie ist Tot]
 
 
-{
-  "title-short" : "Die Gallerie ist Tot",
-  "title" : "Aktion zur Vorgrundung der marke.6, 2006",
-  "filename" : "die_galerie_ist_tot.jpg",
-  "media-type" : "Button",
-  "copyright" : "Sebastian Helm",
-  "source" : "privat",
-  "source-url" : "http://www.es-lebe-die-galerie.de"
-},
-
 ## Das Konstrukt Bauhaus Essentials[^essentials]
 
-[^]:
+[^ essentials]: TODO
 
 2009 wurde ich im Rahmen meiner Aufgaben als Künstlerische Assistentin im Umfeld der Fakultätsgremien angefragt, im Beirat der marke.6 den Mittelbau der Fak. Gestaltung für zwei Jahre als Beiratsmitglied zu vertreten. Zusammen mit der damaligen Koordinationsstelle - besetzt durch Dörte Dennemann - entwickelten wir ein Konzept namens *Bauhaus Essential*. Unser Ziel war es, die besten Kunstwerke von der Summaery (Jahresausstellung von Studierenden der Bauhaus-Universität Weimar, früher auch *Rundgang* genannt) in einer Ausstellung zusammenzufassen und im Herbst zu zeigen, also das „best of“ nach der Sommerpause zu präsentieren und vor dem Jahresende noch einmal hervorzuheben. Im Jahre 2010 waren Beirat und Initiative der Meinung, dass die besten Arbeiten der Summaery  prämiert werden sollen. Für den Rundgang wurde eine Jury, bestehend aus kompetenten und kunstnahen Persönlichkeiten zusammen gestellt, (alle nicht aus der Uni) welche insgesamt 19 herausragende Positionen auswählten. Das Vorhaben wurde großzügig durch die in Thüringen ansässige Firma Grafe unterstützt, die auch Namensgeber für den Preis wurde. Die drei Erstplatzierten erhielten daraufhin den Grafe Kreativpreis, und die Möglichkeit auf der Preview Berlin vertreten zu werden. Die 3 besten Arbeiten wanderten von der Hauptausstellung nach Berlin und zurück in die marke.6 Galerie im Neuen Museum. Ein Reader wurde erstellt und das entsprechende Echo seitens der Presse war angemessen, zumal einige unserer Teilnehmer sogar ihr Werk verkaufen konnten. 
 
