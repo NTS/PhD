@@ -79,17 +79,16 @@ wurde aus einer künstlerischen Beobachtung hergeleitet. Die Entstehung von klei
 Schon in den 1970er Jahren wurde als positives Element des Künstler-Daseins deren „vorindustrielle“ Handwerkstätigkeit mit mehr oder minder qualitätsvollen 
 Produkten oder absichtlichem Dilettantismus diskutiert; quasi ein bastelndes Allround-Genie (der *Bricoleur* war gerade in Mode gekommen), mit Abenteuerstatus. 
 So gesehen hat sich nicht viel geändert – außer dass man mit den „modernen Medien“ noch fitter sein bzw. Hacker-Qualitäten entwickeln 
-müsste, um sie überhaupt hinterfragen zu können, geschweige denn genial einzusetzen. Hier musste sich der Künstler wieder der Industrie unterordnen und ihre 
-Richtlinien einhalten, um nur annähernd konkurrenzfähig zu bleiben.
+müsste, um sie überhaupt hinterfragen zu können, geschweige denn genial einzusetzen.
 
 Die Verhältnisse heutzutage zeigen, dass man vielfältige Fähigkeiten für den Arbeitsmarkt bereit halten muss. Es bleibt einem nichts weiter übrig, man muss alles können oder anders formuliert: 
-man ist gezwungen alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an andere (Handwerker, Techniker, Grafiker, etc.), 
-die man womöglich dafür bezahlt. Irgendwann erkennt man, dass man wie ein Dirigent über sich und über alle anderen, die für einen produzieren, zu bestimmen hat.
+man ist gezwungen Alles zu können und was man nicht selbst erledigen kann, delegiert man als Auftrag an andere (Handwerker, Techniker, Grafiker, etc.), 
+die man womöglich selbst dafür bezahlt. Irgendwann erkennt man, dass man wie ein Dirigent über sich und über all die anderen, die für einen produzieren, zu bestimmen hat.
 
-Das Internet hat die Arbeitsverhältnisse weiter verändert. Jeder ist heute in der Lage, seine Geschäfte von zu Hause zu erledigen.  
+Das Internet hat die Arbeitsverhältnisse weiter verändert. Manche sind heute in der Lage, ihre Geschäfte von zu Hause zu erledigen.  
 Unbefristete Stellenangebote sind immer seltener zu finden. Man arbeitet entweder von einer befristeten Stelle zur nächsten oder von einem kurzfristigen 
 Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast als Fertigkeit angesehen werden kann und die Künstler schon längst
-beherrschen. An dieser Stelle ist auch der Begriff „Digitale Boheme“ zu erwähnen, der von der Künstlergruppe *Rosa* genutzt wurde 
+beherrschen. An dieser Stelle ist auch der Begriff *Digitale Boheme* zu erwähnen, der von der Künstlergruppe *Rosa* genutzt wurde 
 und nach Erscheinung des Buches *Wir nennen es Arbeit* [@Friebe:Arbeit] sich mindestens in der deutschen Sprache 
 etabliert hat, um flexible Arbeitsverhältnisse zu bezeichnen. Reguläre Arbeitnehmer arbeiten nach vornehmlich geregelten 
 Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. Künstler kennen keine 'Freizeit', 
@@ -108,7 +107,7 @@ Die Tatsache, dass der Arbeitsplatz längst nicht mehr die Entscheidung über de
 Globalisierung verstärkt hat, haben vor allem Künstler seit längerem für sich festgestellt und sich dementsprechend angepasst. 
 
 In *Die Legende vom Künstler* [-@Kris:Legende] schreiben Ernst Kris und Otto Kurz, wie der Künstler zu allen Zeiten unterschiedlich sein und agieren muss,
-da die Gesellschaft nur bestimmte Sachen honoriert. Erneut ist also die Rede von Anpassung. Ein zweites Argument von Benjamin: Ist man nicht nur Opfer 
+da die Gesellschaft nur bestimmte Ergebnisse honoriert. Erneut ist also die Rede von Anpassung. Ein zweites Argument von Benjamin: Ist man nicht nur Opfer 
 sondern auch Täter? Die vorgefundene Welt kann auch manipuliert werden.  Einerseits kann man sich in ihr einrichten und akzeptieren: „So existiert die Welt“. 
 Andererseits gibt es die Haltung: „Ich bin funktionsgestört und ändere sie“. 
 Als Künstler arbeitet man inzwischen auch im Kunstbetrieb. Warum sollten Künstler nur in bestimmten Bereichen arbeiten dürfen (z.B. Ausstellungsaufbau) 
