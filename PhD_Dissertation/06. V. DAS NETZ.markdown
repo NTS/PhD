@@ -170,7 +170,7 @@ Er sieht die Erfindung des Buchdrucks als Verursacher der Trennung zwischen Kuns
 Kunstwerken, sobald sie aufhören, der dominante 
 Code zu sein: sie werden nur „schön“, weil sie nicht mehr „gut“ oder „wahr“ sein können [-@Flusser:Kommuni, pp. 113]. 
 Ich denke, dies entspricht der gegenwärtigen Kunst nicht mehr, 
-gerade mit der Entwicklung der „Vergleichenden Ästhetik“ als Kunstsparte.[^fn-relationalaest]
+gerade mit der Entwicklung der *Vergleichenden Ästhetik* als Kunstsparte.[^fn-relationalaest]
 
 [^fn-relationalaest]: Nicolas Bourriaud erklärt in seinem Buch *Relational Aesthetics* Kunst als eine Aktivität, die aus der Produktion von 
 Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), Aktionen und Objekten. [vgl. -@Bourriaud:Relational]
@@ -182,21 +182,21 @@ Verhältnissen mit der Welt besteht, mit Hilfe von Signalzeichen (als Insigne), 
 
 „Travelling without moving“ wird zu einer Realität. Künstler bedienen sich an allem, was die Welt zu bieten hat, alles ist eine Quelle, Philosophie und Kunsttheorie machen keine Ausnahme. 
 Laut Geert Lovink, Gründungsdirektor des medientheoretischen [*Institute of Network Cultures (INC)*](http://networkcultures.org) mit Sitz an der 
-Hogeschool van Amsterdam, lassen sich Künstler, Medien- und Design-Forscher längst von Theoretikern wie Deleuze und Guattari, Derrida, 
+*Hogeschool van Amsterdam*, lassen sich Künstler, Medien- und Design-Forscher längst von Theoretikern wie Deleuze und Guattari, Derrida, 
 Baudrillard und Virilio beeinflussen. Medientheoretiker wie Kittler, Zielinski oder Bolz belegten oder belegen höhere Funktionen 
-in deutschen Kunsthochschulen, und das zur einer Zeit in der, wie Lovink schreibt „die westliche Gesellschaft eine Rauschphase 
+in deutschen Kunsthochschulen, und das zu einer Zeit in der, wie Lovink schreibt „die westliche Gesellschaft eine Rauschphase 
 intensiver Spekulation durchlief – mit Wertpapieren und Devisen, Immobilien, Malerei und Theorie.“ [-@Lovink:Dark, pp. 39].
 
 Künstler sind zunehmend ortsunabhängig, die Migrationsraten steigen und das Leben als Immigrant beeinflusst ihre Weltanschauung. 
-Übernimmt der Digitalisierungsprozess in unserer Gesellschaft die Oberhand? Elektronische Einsamkeit bringt ein Kybernetisches 
+Übernimmt der Digitalisierungsprozess in unserer Gesellschaft die Oberhand? Elektronische Einsamkeit bringt ein kybernetisches 
 Ödland hervor, das aber auf den vorherigen Paradigmen beruht. Dazu gehört eine Aristokratie, die einen tiefen Hass auf die Online-Massen hegt, 
 doch in der Wirklichkeit ist zunehmend von den „Netz-Kindern“ zu hören (wobei diese sich im Gegensatz zu vorherigen „Generationen“ 
-nicht über eine Altersgruppe definieren lassen, wie der polnische Dichter Piotr Czerski in seinem Text [„Wir, die Netz-Kinder“](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt).
+nicht über eine Altersgruppe definieren lassen, wie der polnische Dichter Piotr Czerski in seinem Text[„Wir, die Netz-Kinder“](http://netzpolitik.org/2012/wir-die-netz-kinder/) schreibt).
 
-Die sog. “Millenials” sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein-und-die-selbe Realität. Muttersprache und Fremdsprache werden 
+Die sog. *Millenials* sehen keine Trennung zwischen Straße und Netz mehr, für sie gehören beide in ein und die selbe Realität. Muttersprache und Fremdsprache werden 
 durch eine dritte, nämlich die Bildsprache, als alternative Meinungsvermittlung ersetzt. „Der virtuelle Intellektuelle ist vor allem ausgestattet mit technischen Kompetenzen 
 und kann sich ungehindert innerhalb von Online-Datenbanken, Listenkulturen, Suchmachienen und Hypertext-Umgebungen bewegen. Tut er auch, heutzutage.“[@Lovink:Dark, pp. 39]
-Sein Charakter ist vor allem als technisch zu bezeichnen, und mehr als seine Vorgänger, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, sondern aus eigener Initiative. Sein Milieu befindet sich im Netz, wo er Selbsterkennung und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
+Sein Charakter ist vor allem als technisch zu bezeichnen, und mehr als seine Vorgänger, ist er politisch nicht mehr einer Sphäre im klassischen Sinn zuzuordnen, sondern autonom politisch interessiert, hat also den Bedarf, sich zu Politik und Gesellschaft zu äußern; nicht aus staatlichem Auftrag, sondern aus eigener Initiative. Sein Milieu befindet sich im Netz, wo er Selbsterkenntnis und Anerkennung als Angehöriger einer Strömung finden kann, die über die politische oder soziale Ebene hinaus eine neue Gruppierung anbietet: 
 „Ziel der Demokratisierung der Medien ist die Abschaffung aller Formen medialisierter Repräsentation und künstlicher Verknappung von Kanälen. Die technischen Möglichkeiten, Menschen 
 für sich sprechen zu lassen, (...) durch Kommunikationswerkzeuge“ [-@Lovink:Dark, pp. 39]. So gesehen treiben Künstler stets eine Art säkulare Exegesis, 
 oder haben hermeneutische Züge, ob mit oder ohne Bewusstsein. So etwas nennen sie dann künstlerische Recherche: In erster Linie für sich selbst, aber auch für ihr Publikum. 
@@ -208,21 +208,21 @@ sie lassen sich dabei auch von Theoretikern beeinflussen.
 
 
 Hehns Meinung nach scheint es nicht darauf anzukommen *was* wir ausdrücken, sondern wie wir es präsentieren, oder in andere Worte gefasst: 
-„It’s not the What, it’s the How“. Er zählt die vier Komponenten, die als Form-Inhalt-Dynamiken zu beschreiben sind: Produzent / Form / Inhalt / Konsument. 
+'It’s not the *What*, it’s the *how*'. Er zählt die vier Komponenten, die als Form-Inhalt-Dynamiken zu beschreiben sind: Produzent, Form, Inhalt und Konsument. 
 „Jedes Verstehen ist heute ein Verstehen von Relationen, alles Wahrnehmen ein Wahrnehmen von Elementen in kodierten Systemen – nicht nur 
-Raum und Zeit.“ [-@Hehn:Genius]. Kunst ist unverbindliche Kommunikation. Der Künstler besitzt den Drang, seine Erkenntnisse zu vermitteln, 
+Raum und Zeit.“ [-@Hehn:Genius, pp. 2]. Kunst ist unverbindliche Kommunikation. Der Künstler besitzt den Drang, seine Erkenntnisse zu vermitteln, 
 jedoch sind ihm Rezeption, bzw. Verständnis des Betrachters nicht primär. Die oberste “Trennung” – die Trennung, die relationale Kanäle betrifft – 
 stellt die letzte Stufe in der Umstellung auf die “Gesellschaft des Spektakels” dar, wie von Guy Debord beschrieben. Dies ist eine Gesellschaft, in der 
 menschliche Beziehungen nicht mehr „unmittelbar erlebt“ werden, sondern in ihrer “spektakulären” 
-Darstellung zu verschwimmen beginnen. [@Bourriaud:Relational, pp. 9]
+Darstellung zu verschwimmen beginnen. [zitiert nach: @Bourriaud:Relational, pp. 9]
 
 Die Werbung, die sich von der Begleiterscheinung des Kapitalismus parallel zur eigenen Kultur entwickelt hat, versucht ebenfalls uns 
 zu unterhalten. Welcher von den an visueller Kommunikation interessierten Menschen freut sich nicht, wenn ihm im Fernsehen oder vor einem Film im 
 Kino eine „clevere Werbung“ entgegen kommt und ein intellektuelles Rätsel, eine geistige Erfrischung darbietet? Wir fordern Kino und Fernsehen selbst heraus. 
 Wir wollen immer bessere Qualität, eine prompte Lieferung, zu einer selbstbestimmten Zeit, zu unserem Tagesablauf passend, der nicht von 
-einer der Drei „Zentralen“ ARD/ZDF, PRO7/SAT1 und RTL bestimmt wird. Thomas Raab schreibt im Vorwort zu seinem Buch „Avantgarde-Routine“: 
+einer der drei „Zentralen“ ARD/ZDF, PRO7/SAT1 und RTL bestimmt wird. Thomas Raab schreibt im Vorwort zu seinem Buch *Avantgarde-Routine*: 
 „Einstweilen ist der Kunstdiskurs, d.h. die Rhetorik zur Fertigung der Aura des Kunstwerks, gekommen, um zu bleiben. Gemeinsam ist allen Avantgardekünstlern 
-der Glaube an die Kunst als ein besseres, umfassenderes Erkenntnismittel gegenüber der Wissenschaft.“ [@Raab:Avantgarde pp. ???]
+der Glaube an die Kunst als ein besseres, umfassenderes Erkenntnismittel gegenüber der Wissenschaft.“ [@Raab:Avantgarde pp. 7]
 Kunst hat sich als Rohr zur Freisprache
 etabliert. Die Menschen versuchen sie als Strategien, Künstler, wie auch andere, nutzen sie als eine demokratische Plattform. 
 
