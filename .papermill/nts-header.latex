@@ -1,0 +1,26 @@
+%
+% redefines the \section command to include the \newpage when using the \section
+\let\stdsection\section  
+\renewcommand\section{\newpage\stdsection} 
+%
+% rename TOC
+\renewcommand{\contentsname}{Inhaltsverzeichnis}
+\setcounter{tocdepth}{2}
+%
+% HEADER
+\usepackage{fancyhdr}
+%\pagestyle{headings}
+%
+% GERMAN
+%\usepackage{polyglossia}
+%\setmainlanguage[spelling=new,latesthyphen=true,babelshorthands=true]{german}
+%\setotherlanguages{english,hebrew}
+%
+%
+% BIB
+%\cleardoublepage % This is needed if the book class is used, to place the anchor in the correct page,
+%                 % because the bibliography will start on its own page.
+%                 % Use \clearpage instead if the document class uses the "oneside" argument
+%\renewcommand*{\refname}{} % This will define heading of bibliography to be empty, so you can...
+%\section{Bibliographie}     % ...place a normal section heading before the bibliography entries.
+%%%\bibliography{$biblio-files$}

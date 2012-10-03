@@ -78,12 +78,14 @@ do
 		\
 		--to=latex \
 		--latex-engine="/usr/texbin/xelatex" \
-		--template="./.papermill/nts.latex" \
+        --include-in-header=.papermill/nts-header.latex \
         --no-tex-ligatures \
-        --variable=mainlang:german \
         --variable=lang:german \
         --variable=urlcolor:black \
         --variable=linkcolor:black \
+        --variable=verbatim-in-note:true \
+        --variable=title-meta:"Als ich Künstler war" \
+        --variable=biblio-title:"Biliographie" \
 		\
 		--include-before-body="_After-Title.generated.latex" \
 		--include-before-body="Version.generated.latex" \
@@ -92,11 +94,12 @@ do
 		--output=""$PAPER".pdf"
 		
 		#--variable=links-as-notes:true
+        #--template="./.papermill/nts.latex" \
 
 	} && {
 	    echo "SUCCESS"
         mv ""$PAPER".pdf" ""$PAPER"_"$GITHASH".pdf"
-		cp ""$PAPER"_"$GITHASH".pdf" ~/"Dropbox/MFA+NTS/PHD.NTS-output"
+		#cp ""$PAPER"_"$GITHASH".pdf" ~/"Dropbox/MFA+NTS/PHD.NTS-output"
 		open ""$PAPER"_"$GITHASH".pdf"
 	}
 	
