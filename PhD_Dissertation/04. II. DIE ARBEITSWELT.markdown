@@ -3,15 +3,17 @@
 
 ## *Money for Nothing* [^title-DireStraits]
 
-[^title-DireStraits]: Lied von Dire Straits, aus dem Album Brothers in Arms, 1985.
-
 **Das Bild von Kunst als *Business***
+
+
+[^title-DireStraits]: Lied von Dire Straits, aus dem Album Brothers in Arms, 1985.
 
 
 > „Es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während das bei der Business-Kunst der Fall ist.“ \
 > -- *Andy Warhol* [^andy-business]
 
 [^andy-business]: [@Warhol:vonAbisZ, pp. 130]
+
 
 Die Künstler spiegeln ein Bild vom „arroganten Arsch“ wider, wenn sie im Anzug ihre Galeristen oder Sammler nachahmen und damit die totale Anpassung 
 repräsentieren, oder gar noch lebend berühmt und reich werden wollen. Es scheint wichtig, wie der Künstler sich kleidet, die Frage ist nur, zu welcher Gelegenheit und ob die Ironie sichtbar ist oder nicht. 
@@ -46,6 +48,7 @@ Der Künstler ist nun wie andere freischaffende Berufstätige, in der Lage, sich
 > -- *Andy Warhol* [^andy-paypertalent]
 
 [^andy-paypertalent]: [@Warhol:vonAbisZ, pp.99]
+
 
 Zu Goethes Zeit wurde per Hand geschrieben. Um ihn herum gab es einen Apparat von Menschen, die sich darum kümmerten den Text Korrektur zu lesen, 
 zu lektorieren, zu layouten, zu gestalten, verlegen, vermarkten und eventuell zu übersetzen. Heute liegt die Regie größtenteils beim Autor selbst und seinem Computer. Im Bereich der Kunst entwickelte sich ein ähnlicher Mechanismus, in dem der Apparat von Kritik, Galerie, Museum, 
@@ -92,16 +95,16 @@ Projekt zum folgenden. Dies fordert ein hohes Maß an Flexibilität, die fast al
 beherrschen. An dieser Stelle ist auch der Begriff *Digitale Boheme* zu erwähnen, der von der Künstlergruppe *Rosa* genutzt wurde 
 und nach Erscheinung des Buches *Wir nennen es Arbeit* [@Friebe:Arbeit] sich mindestens in der deutschen Sprache 
 etabliert hat, um flexible Arbeitsverhältnisse zu bezeichnen. Reguläre Arbeitnehmer arbeiten nach vornehmlich geregelten 
-Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. Künstler kennen keine 'Freizeit', 
+Arbeitszeiten und anderen Strukturen, sie bekommen Urlaub und können krank geschrieben werden. Künstler kennen keine ‚Freizeit‘,
 selbst wenn sie im Urlaub sind, sind sie weiter schöpferisch und kreativ tätig. Tageszeiten, Wochenenden und Feiertage sind gesellschaftliche Strukturen, 
 an die sich Künstler anzupassen haben. Die Kreativität jedoch kennt Strukturen dieser Art nicht. Sie benötigt die Freiheit und die 
-Frist, oder Stichtag (*deadline*) am Ende, damit überhaupt etwas fertiggestellt oder gar 'strukturiert' werden kann.
+Frist, oder Stichtag (*deadline*) am Ende, damit überhaupt etwas fertiggestellt oder gar ‚strukturiert‘ werden kann.
 
 Warhol dazu: „Leonardo da Vinci hat seine Auftraggeber immer davon überzeugt, dass die Zeit, in der er nachdachte, etwas wert war, sogar mehr wert als die Zeit, 
 in der er malte, und das mag für ihn durchaus gegolten haben, ich weiß aber, dass die Zeit, in der ich nachdenke, nichts wert ist. Ich erwarte, nur für die Zeit 
-bezahlt zu werden, in der ich etwas tue. Während ich im Krankenhaus lag, arbeitete der 'Stab' weiter, und mir wurde klar, dass ich mit meinem Unternehmen sozusagen 
+bezahlt zu werden, in der ich etwas tue. Während ich im Krankenhaus lag, arbeitete der ‚Stab‘ weiter, und mir wurde klar, dass ich mit meinem Unternehmen sozusagen
 ein Kinetisches Business besaß – es lief auch ohne mich weiter. Mir war das sehr lieb, denn für mich stand schon zu diesem Zeitpunkt fest, dass die größte Kunst 
-das Geschäft mit ihr ist, also 'das Business' an sich. (…) nachdem ich also 'Kunst' gemacht hatte (wenn man es so nennen will), 
+das Geschäft mit ihr ist, also ‚das Business‘ an sich. (…) nachdem ich also ‚Kunst‘ gemacht hatte (wenn man es so nennen will),
 stieg ich in die Business-Kunst ein.“ [@Warhol:vonAbisZ, pp. 86–87].
 
 Die Tatsache, dass der Arbeitsplatz längst nicht mehr die Entscheidung über den Wohnort bestimmt, was sich gerade durch die 
@@ -139,7 +142,7 @@ Vorbild inszeniert. Viele anerkannte Künstler werden ständig durch Interviews 
 Kunstmagazinen wie z.B. *Monopol* dargestellt. Man muss den Markt reichlich und an diversen Stellen gleichzeitig beliefern. Manchmal passiert dies sogar sehr schnell, 
 zu sehen am Beispiel Jonathan Meeses, wie er sich selbst im *WDR* Dokumentarfilm [*Jonathan Meese - Eine Ameise der Kunst*](http://youtube.com/watch?v=Y_z41k65Sns) 
 darstellt. Mit einem Pinselstrich überfliegt er mehrere Leinwände gleichzeitig, Tonbüsten werden ihm von Assistenten vorgefertigt, damit er im Anschluss ein paar Eingriffe macht 
-und 'fertig ist der Lack', denn der Galerist wartet auf die Ware. Es sind viele Museen und Galerien sowie Messen, auf denen neue Arbeiten gezeigt werden müssen
+und ‚fertig ist der Lack‘, denn der Galerist wartet auf die Ware. Es sind viele Museen und Galerien sowie Messen, auf denen neue Arbeiten gezeigt werden müssen
 und der Künstler produziert sie fast wie am Fließband. Meese steht stellvertretend auch als Vorbild für junge Künstler und spiegelt damit vielleicht das Bedürfnis der 
 Gesellschaft nach „durchgeknallten Künstlertypen“ wider, die das unangepasste Genie als Unterhaltungsmodell verkörpern.  
 

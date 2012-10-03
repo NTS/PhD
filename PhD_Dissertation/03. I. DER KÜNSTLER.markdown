@@ -3,9 +3,9 @@
 
 ## *Where is my Mind?* [^title-whereismymind]  
 
-[^title-whereismymind]: Song der *The Pixies*, aus dem Album *Surfer Rosa* (1988)
-
 **Was, oder wer ist ein Künstler?**
+
+[^title-whereismymind]: Song der *The Pixies*, aus dem Album *Surfer Rosa* (1988)
 
 > „Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt -- aus irgendeinem Grund -- jedoch an,
 > es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen.“ \
@@ -14,8 +14,8 @@
 [^andy-sinnlos]: [@Warhol:vonAbisZ, pp. 130]
 
 Neben der komplexen und unlösbaren Frage „Was ist Kunst?“ stellt sich die gleichwertige Frage: Was oder wer ist heute ein Künstler? Künstler stellten sich 
-selbst seit jeher als Beobachter von sich und der Welt dar. Aber was sind ihre 'Aufgaben', wenn sie denn solche haben? Wie werden sie von der Gesellschaft wahrgenommen? 
-Seit der Jahrtausendwende existieren verschiedene „Künstlertypen“. Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft etwas
+selbst seit jeher als Beobachter von sich und der Welt dar. Aber was sind ihre ‚Aufgaben‘, wenn sie denn solche haben? Wie werden sie von der Gesellschaft wahrgenommen?
+Seit der Jahrtausendwende existieren verschiedene ‚Künstlertypen‘. Parallel dazu hat sich in dem Erscheinungsbild des Künstlers und seinem Status in der Gesellschaft etwas
 geändert. Joseph Beuys' Aussage wurde auf den einen Satz „Jeder Mensch ist ein Künstler“ relativiert. Das Originalzitat lautet jedoch: 
 
 > „... Ich sage, es muss ein anderer Kunstbegriff geprägt werden, der sich auf jedermann bezieht und nicht nur Sache der Künstler ist, sondern sich anthropologisch nur deklarieren lässt. D.h. jeder Mensch 
@@ -23,7 +23,6 @@ geändert. Joseph Beuys' Aussage wurde auf den einen Satz „Jeder Mensch ist ei
 > und Erziehungsfragen). Der totalisierte Kunstbegriff bezieht sich auf jedermanns Möglichkeit, prinzipiell ein schöpferisches Wesen zu sein.“ \
 > [zitiert nach: @d6K:Beuys, pp. 156]
 
- 
 
 Gilt die Aussage „Das kann mein Kind auch“ in diesem Sinne? Nicht nur Kinder können das, auch Affen (Arnulf Rainer), oder Elefanten (Komar und Melamid), 
 und damit stellt sich die Frage, was das Kunstwerk legitimiert – außerhalb formaler Ähnlichkeiten. Kann wirklich jeder lernen, ein Künstler zu werden?
@@ -55,8 +54,8 @@ Die Originalität wird Mittelpunkt des Geniebegriffs.“
 Der Künstler wird gern von anderen gesehen und beschrieben, aber stimmt dies mit dem wie Künstler sich selber beschreiben, überein? In jedem Kunststudium wird über *Mimesis*
 (Nachahmung) sowie Platons Geniebegriff diskutiert. Ich würde gern folgendes Zitat aus Wolfgang Ullrichs Buch *Was war Kunst? Biografien eines Begriffs* [-@Ullrich:WasWarKunst] als 
 Ausgangspunkt wählen. In seinem Versuch das *je ne sais quoi* (das gewisse Etwas, das Unbeschreibliche) zu erläutern, schreibt er: „Nach Kants Kritik 
-der Urteilskraft: 'Genie ist, nicht Geschicklichkeitsanlage zu dem, was nach irgendeiner Regel gelernt werden kann… selbst nicht beschreiben oder wissenschaftlich 
-anzeigen… '(in dem Sinne nicht erklären können, was der Künstler selber tut). Positiv geäußert: Genie ist die Gemütslage (Ingenium) durch welche die Natur der 
+der Urteilskraft: ‚Genie ist, nicht Geschicklichkeitsanlage zu dem, was nach irgendeiner Regel gelernt werden kann… selbst nicht beschreiben oder wissenschaftlich
+anzeigen…‘ (in dem Sinne nicht erklären können, was der Künstler selber tut). Positiv geäußert: Genie ist die Gemütslage (Ingenium) durch welche die Natur der
 Kunst die Regel gibt“.[^src-WasWarKunst1] Seine Interpretation: „Nie Regeln zu folgen, sondern immer nur etwas zu schaffen, das regelhaft ist, ohne selber je zur Regel werden 
 zu können, -- das ist Kants Umschreibung genial-schöpferischen Tuns“.[^src-WasWarKunst2] Der Künstler wird oft als: „Der Seher und der Störenfried, der Schamane und der Außenseiter, 
 der Clown und der Harlekin beschrieben -- diese Rollen ergaben sich daraus, dass der Künstler nicht weiß, was er macht“[^src-WasWarKunst3], soweit Ullrich, oder anders gesagt: 
@@ -132,11 +131,11 @@ Warhol hat das Thema des Künstlerseins auf eine höhere, fast bis auf die Metae
 
 ## *Me, myself & I* [^title-Armatrading]
 
+**Im Bezug auf: Zur Selbstreferenzierung in der Kunst**
+
 
 [^title-Armatrading]: Joan Armatrading, Albumtitel von 1980
 
-
-**Im Bezug auf: Zur Selbstreferenzierung in der Kunst**
 
 Eine neue Strömung, in der neben der Auseinandersetzung mit Begriffen wie Kopie, Original und Aneignungskunst hantiert wird und es zur thematischen Widmung in *Texte zur Kunst* 
 (Heft 71 Herbst 2008) gebracht hat, ist das Phänomen des *artist's artist* (übersetzt: *Künstler für Künstler*). laut Vorwort zum Heft ist in erster Linie als Begriff für weitgehend unbekannte Künstler zu verstehen, die 
@@ -151,8 +150,8 @@ Martin Kippenberger, etc. „bloßgestellt“. Das Ziel war es, mit Hilfe einer 
 Selbstbildnis der Künstler zu zeigen. Das Resultat zeigte die (alle sehr berühmten) Künstler in einem Zwielicht als faul, unseriös, in manchen Fällen sogar 
 verrückt und bereit zu allem ihren Senf dazu zu geben. Zitate wie: „Ich bin der einzige Künstler, den die Natur kopiert“ (Salvador Dali), oder: „Die Kunst ist überflüssig“ (Ben Vautier), oder: „Kurzum, ich mache, was ich für 
 richtig halte“ (Claude Monet), oder: „Hört auf zu malen“ (Jörg Immendorf), sollten eine bestimmte „Wahrheit“ vermitteln. Stattdessen galt, wie Michael Mayer in seiner Kritik im 
-ArtNet online Magazin schrieb: „Zu den 'Künstlermythen der Deutschen' im Allgemeinen und überhaupt zur Rolle des Künstlers von der Stein- bis zur Jetztzeit – sollte der 
-'Kult des Künstlers' dargestellt, ausgestellt und erklärtermaßen auch hinterfragt werden. Und doch geriet diese Tour de Force vor allem zu einem Bravourstück in Sachen Kult 
+ArtNet online Magazin schrieb: „Zu den ‚Künstlermythen der Deutschen‘ im Allgemeinen und überhaupt zur Rolle des Künstlers von der Stein- bis zur Jetztzeit – sollte der
+‚Kult des Künstlers‘ dargestellt, ausgestellt und erklärtermaßen auch hinterfragt werden. Und doch geriet diese Tour de Force vor allem zu einem Bravourstück in Sachen Kult
 eines Museumsdirektors, der seinem allzu dankbaren Publikum auch zum Schluss eine jener Schauen aufdrängte, in denen vielen viel versprochen, doch nichts gesagt wurde“  [@Mayer:Honigpumpe].
 
 Das Zerrbild von einem freien Wesen, das nicht in einem festen Arbeitsverhältnis steht, sondern von Stipendien, kurzfristigen Projekten und unregelmässigen Aufträgen lebt, 
@@ -180,6 +179,7 @@ Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblö
 
 ### *Dorian_Gray.jpg* [^title-Gray]
 
+
 [^title-Gray]: Nach dem Buchtitel *Das Bildnis des Dorian Gray* von Oscar Wilde.
 
 
@@ -196,6 +196,7 @@ aus unterschiedlichen Perspektiven.
 
 
 ### *Previously on...* [^title-Previously]
+
 
 [^title-Previously]: Ankündigung der Zusammenfassung am Episodenanfang bestimmter TV-Serien
 

@@ -168,7 +168,7 @@ diverse alternative Lösungen. Er nimmt gesellschaftliche Segmentierung und fals
 (die Projekte der Gruppe *Wocheklausur* sind als beispielhaft für die Osmose zwischen Kunst und Sozialarbeit zu sehen). Dass diese Tendenz kein Zufall ist, kann die zunehmende Präsenz solcher 
 Künstlergruppen auf internationalen Kunstbiennalen (die sich auch seit 1990 maßlos vermehrten), bestätigen. Das *Künstlernomadentum* nimmt zu, auch thematisch wandelt es sich von land- und 
 nationalbezogener Kunst zur Internationalität. Die Leiter der *12. documenta*, Ruth Noack und Roger Buergel haben bei allen Exponatsbeschriftungen und Etiketten, auf das Mitteilen 
-des Herkunftslandes der Künstler verzichtet und stattdessen ihre künstlerische Vertretung (z.B. Galerie) als 'Hausnummer' angegeben. Einer der Gründe dafür könnte sein, dass durch immer mehr nationale
+des Herkunftslandes der Künstler verzichtet und stattdessen ihre künstlerische Vertretung (z.B. Galerie) als ‚Hausnummer‘ angegeben. Einer der Gründe dafür könnte sein, dass durch immer mehr nationale
 Biennalen die Künstler zunehmend als Vertretung ihrer eigene Länder exponiert werden. Und die Kuratoren der großen Ausstellungen widmen sich politischen und globalen Themen. 
 Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden komplexer. 
 
@@ -356,9 +356,9 @@ Erste Impulse in Richtung der Gründung einer Uni-Galerie gab es im Jahr 1999, a
 ## *Bauhaus Essentials*
 
 
-2009 wurde ich im Rahmen meiner Aufgaben als Künstlerische Assistentin im Umfeld der Fakultätsgremien angefragt, im Beirat der *marke.6* den Mittelbau der Fakultät Gestaltung für zwei Jahre als Beiratsmitglied zu vertreten. Zusammen mit der damaligen Koordinationsstelle -- besetzt durch Dörte Dennemann -- entwickelten wir ein Konzept namens *Bauhaus Essentials*. Unser Ziel war es, die besten Arbeiten der *Summaery*[^fn-Rundgang]  [^fn-Rundgang]:ersetzte den *Rundgang* der Fakultät Gestaltung Jahresausstellung von Studierenden der Bauhaus-Universität Weimar, in einer Ausstellung zusammenzufassen und im Herbst zu zeigen, also das *best of* nach der Sommerpause zu präsentieren und vor dem Jahresende noch einmal hervorzuheben. Im Jahre 2010 waren Beirat und Initiative der Meinung, dass die besten Arbeiten der *Summaery* prämiert werden sollen. Für den Rundgang wurde eine Jury, bestehend aus kompetenten, kunstnahen und vor allem universitäts-fremde Persönlichkeiten zusammen gestellt, welche insgesamt 19 herausragende Positionen auswählten. Das Vorhaben wurde großzügig durch die in Thüringen ansässige Firma *Grafe* unterstützt, die auch Namensgeber für den Preis wurde. Die drei Erstplatzierten erhielten daraufhin den *Grafe Kreativpreis*, und die Möglichkeit auf der *Preview Berlin* vertreten zu werden. Die 3 besten Arbeiten wanderten so von der Hauptausstellung nach Berlin und zurück in die *marke.6* Galerie im *Neuen Museum*. Ein Reader wurde erstellt und das entsprechende Echo seitens der Presse war angemessen, zumal einige unserer Teilnehmer sogar ihr Werk verkaufen konnten. 
+2009 wurde ich im Rahmen meiner Aufgaben als Künstlerische Assistentin im Umfeld der Fakultätsgremien angefragt, im Beirat der *marke.6* den Mittelbau der Fakultät Gestaltung für zwei Jahre als Beiratsmitglied zu vertreten. Zusammen mit der damaligen Koordinationsstelle -- besetzt durch Dörte Dennemann -- entwickelten wir ein Konzept namens *Bauhaus Essentials*. Unser Ziel war es, die besten Arbeiten der *Summaery*[^fn-Rundgang] Jahresausstellung von Studierenden der Bauhaus-Universität Weimar, in einer Ausstellung zusammenzufassen und im Herbst zu zeigen, also das *best of* nach der Sommerpause zu präsentieren und vor dem Jahresende noch einmal hervorzuheben. Im Jahre 2010 waren Beirat und Initiative der Meinung, dass die besten Arbeiten der *Summaery* prämiert werden sollen. Für den Rundgang wurde eine Jury, bestehend aus kompetenten, kunstnahen und vor allem universitäts-fremde Persönlichkeiten zusammen gestellt, welche insgesamt 19 herausragende Positionen auswählten. Das Vorhaben wurde großzügig durch die in Thüringen ansässige Firma *Grafe* unterstützt, die auch Namensgeber für den Preis wurde. Die drei Erstplatzierten erhielten daraufhin den *Grafe Kreativpreis*, und die Möglichkeit auf der *Preview Berlin* vertreten zu werden. Die 3 besten Arbeiten wanderten so von der Hauptausstellung nach Berlin und zurück in die *marke.6* Galerie im *Neuen Museum*. Ein Reader wurde erstellt und das entsprechende Echo seitens der Presse war angemessen, zumal einige unserer Teilnehmer sogar ihr Werk verkaufen konnten.
 
-
+[^fn-Rundgang]: ersetzte die Jahresschauen der Fakultäten, wie dem *Rundgang* der Fakultät Gestaltung
 
 **Bild:** [Bauhaus Essentials I]
 
@@ -525,7 +525,7 @@ Wenn der angehende Künstler schon im ersten Semester ausstellt und verkauft, so
 von Fremden, denn die Entwicklung und die Kritik verlagern sich auf die Öffentlichkeit. 
 Bei massivem Ausstellen während des Studiums wird die Kritik über die Professoren und Mitstudenten hinaus in die Öffentlichkeit geraten. Unreife Kunst wird als solche ausgestellt, und es entstehen 
 überall die gleiche Versuche, die als fertige Kunst präsentiert werden. Immer öfter wird bei den Korrekturen innerhalb des Projektes gefragt: „ist dies schon gemacht worden?“.
-Was für einen Einfluss hat dies auf Parameter der Kritik? Was ist, wenn Kunst Netz selbstständig ins gestellt wird und dafür 'likes' auf Blogs und *facebook* bekommt? Ist dies gleichwertig 
+Was für einen Einfluss hat dies auf Parameter der Kritik? Was ist, wenn Kunst Netz selbstständig ins gestellt wird und dafür ‚likes‘ auf Blogs und *facebook* bekommt? Ist dies gleichwertig
 mit einer Ausstellung in einer anerkannten Institution samt ihrem Apparat? Es stellt sich die Frage: inwieweit wird Anpassung an den Kunstmarkt in den Kunstakademien direkt 
 oder indirekt vermittelt? 
 

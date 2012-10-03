@@ -2,9 +2,6 @@
 
 ## Weitere Literatur
 
-
-Nicht zitierte, aber relevante Medien:
-
 - @Broeckling:Gegenwart
 - @Fergusion:Discourses
 - @Gehlen:Mashup
@@ -40,6 +37,7 @@ Nicht zitierte, aber relevante Medien:
 - @Ventura:Politisch
 - @Weintraub:Making
 - @Zizek:Liebe
+
 
 ## Weitere Links 
 
