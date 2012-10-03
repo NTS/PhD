@@ -36,9 +36,9 @@ Der Künstler ist nun wie andere freischaffende Berufstätige, in der Lage, sich
  
 
 
-## Künstler = Autor + Produzent 
+## Künstler = Autor + Produzent TODO:
 
-**Der Kunstproduzent nach WB**
+**Der Kunstproduzent nach Walter Benjamin**
 
 > „Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf 
 > das Talent oder auf die Arbeit der betreffenden Person ganz genau zugeschnitten sind.“ \
