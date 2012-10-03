@@ -12,6 +12,9 @@
 \usepackage{amsfonts}
 \usepackage{longtable}
 \renewcommand{\contentsname}{Inhaltsverzeichnis}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+%\usepackage[ngerman]{babel}
 % HEADER
 \usepackage{fancyhdr}
 %\pagestyle{headings}
@@ -133,14 +136,10 @@ $endif$
 $if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$
-$if(lang)$
-\ifxetex
-  \usepackage{polyglossia}
-  \setmainlanguage{$mainlang$}
-\else
-  \usepackage[$lang$]{babel}
-\fi
-$endif$
+$if(lang)$$endif$
+\usepackage{polyglossia}
+\setmainlanguage[spelling=new,latesthyphen=true,babelshorthands=true]{german}
+\setotherlanguages{english,hebrew}
 $for(header-includes)$
 $header-includes$
 $endfor$

@@ -80,7 +80,8 @@ do
 		--latex-engine="/usr/texbin/xelatex" \
 		--template="./.papermill/nts.latex" \
         --no-tex-ligatures \
-		--variable=lang:ngerman \
+        --variable=mainlang:german \
+        --variable=lang:german \
         --variable=urlcolor:black \
         --variable=linkcolor:black \
 		\
