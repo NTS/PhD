@@ -18,7 +18,10 @@ im Studium anbieten kann, zu zeigen wie es 'draußen' läuft. So kann man sich b
 Parameter des künstlerischen Felds kennenlernen. 
 
 
-# Das Format Fachkurs
+# Das Format Fachkurs[^fachkurse-vlv]
+
+[^fachkurse-vlv]: Alle Fachkursbeschreibungen beziehen sich auf der Online Vorlesungsverzeichnisse der Professur Freie Kunst, Fakultät Gestaltung auf der 
+Website der Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English und die Kurse richteten sich an der Studierenden aller Fakultäten.
 
 Parallel zu den Projekten werden im Studiengang Freie Kunst auch Seminare, Workshops und Fachkurse angeboten. Den künstlerischen Mitarbeitern der Fakultät Gestaltung wird eine große Freiheit zugestanden, nach Absprache mit den jeweiligen Professoren pro Semester einen Fachkurs oder einen Workshop mit Inhalten 
 ihrer Wahl anzubieten. In der Regel werden Fertigkeiten im Bereich Computerprogramme, Video und digitale Bildbearbeitung, oder Buchbinderei, um nur ein paar Beispiele zu nennen, angeboten. 
@@ -29,7 +32,7 @@ habe ich hier Notizen oder einen ganzen Text hinzugefügt, um die Erfahrungen un
 
 ## ‚Ausstellen von A bis Z‘ (Ausstellungsgestaltung I)
 
-WS 2007/08
+`WS 2007/08`
 
 In diesem Fachkurs wurden alle Facetten und Schritte einer Ausstellung, von der Idee bis zur Eröffnung bearbeitet worden. 
 Thematisiert und praktiziert sind: Kontakt zur Galerie; Finanzierung; Terminplan; Pressearbeit; Künstler-Assistenz; 
@@ -47,7 +50,7 @@ Tätigkeitsfeldern und konnten auf Grund dieser Erfahrung probieren, ob eine kü
 
 ## ‚Hebräisch für Anfänger‘ (Künstlerische Forschung I)
 
-SS 2008
+`SS 2008`
 
 In diesem Fachkurs wurden alle Methoden einer künstlerischen Forschung, hinsichtlich des Reisens, von der ersten Entscheidung 
 über das Thema bis zur Vorstellung von Resultaten, untersucht. Thematisiert werden: Vorurteile, Kunsttourismus, 
@@ -61,13 +64,13 @@ Zunächst ging es darum zu erkennen was eine Materialsammlung bedeutet, was als 
 es zu Materialsortierung gibt. Was ist ein Notizbuch, wie kann mann sich einen Überblick mittels der Herstellung von *Mind maps* schaffen 
 und wie gelingt die Übersetzung des gesammelten Materials zur Präsentation, bzw. die Wandlung dessen zu einem Kunstwerk.
 
-## ‚K3 - wenn Künstler Kunst kuratieren‘ (1-3)[^fachkurse-vlv]
+## ‚K3 - wenn Künstler Kunst kuratieren‘ (1-3)
 
-[^fachkurse-vlv]: Alle Fachkursbeschreibungen beziehen sich auf der Online Vorlesungsverzeichnisse der Professur Freie Kunst, Fakultät Gestaltung auf der 
-Website der Bauhaus-Universität Weimar. Unterrichtssprachen waren Deutsch und English und die Kurse richteten sich an der Studierenden aller Fakultäten.
-Dies ist eine Zusammenfassung aller drei Fachkurse.[^K3a]
 
-WS 2007/08 + SS 2009 + WS 2009/10 
+Dies ist eine Zusammenfassung aller Drei Fachkurse. Siehe die Originalfassungen aus dem Vorlesungsverzeichnis im Anhang sowie die Ergebnisse in der Anlage "`KIOSK09-Katalog"'.
+	
+
+`WS 2007/08 + SS 2009 + WS 2009/10` 
 
 Das ehemalige K&K Zentrum für Kunst und Mode, (heute KoCA Weimar, Kiosk of Contemporary Art) wird als Prototyp untersucht, 
 und als Biotop und Labor benutzt. In drei Etappen wird in diesem Fachkurs eine Art *Kuratorenschule* durchgeführt.
@@ -79,7 +82,7 @@ und Übergabe.
 
 **Notizen**
 
-Als Leitmotiv für die anstehende Ausstellungsserie wurde von der Gruppe KISOK09 das Thema Aneignung gewählt. Mit diesem Thema als Ausgangspunkt – Künstler 
+Als Leitmotiv für die anstehende Ausstellungsserie wurde von der Gruppe KIOSK09 das Thema Aneignung gewählt. Mit diesem Thema als Ausgangspunkt – Künstler 
 interagieren mit anderen Künstlern – bestand das Anliegen der Ausstellungsserie da, sich mit dem gegenwärtigen Phänomen der *mutual reference*, der Wiederverwendung und Anpassung 
 von Kunst zu beschäftigen. In unserem digitalen Zeitalter sind wir mit einer quantitativen und qualitativen Fülle sowie der schnellen Entstehung und Verbreitung von 
 Aneignungs-Kunstprojekten konfrontiert. Besonders prägend ist das Phänomen, dass Künstler an das geistige Eigentum anderer Künstler und lokaler Kunstinstitutionen 
@@ -95,17 +98,7 @@ des Fachkurses. Die Ausschreibung wurde an ausgewählte Alumni geschickt, von de
 KIOSK09 Kuratorium eine Auswahl für die Ausstellungen traf. 
 
 
-**Bild:** [Fachkurs Teilnehmer bei der Arbeit, 2009] 
-
-{
-  "title-short" : "\"BDU: "Fachkurs Teilnehmer bei der Arbeit, 2009"\"",
-  "title" : "Fachkurs Teilnehmer bei der Arbeit, 2009\"",
-  "filename" : "fachkurs_teilnehmer_bei_der_arbeit.jpg",
-  "media-type" : "Foto",
-  "copyright" : nts ,
-  "source" : nts,
-}
-
+**Bild:** [KIOSK09-Fachkurs Teilnehmer bei der Arbeit] 
    
 
 Dies ist die Basis meines praktischen Teils im Rahmen meines PhD Vorhaben gewesen und aus diesem Grund sind die Notizen auch viel ausführlicher.
@@ -119,15 +112,12 @@ genannt, mussten die mitwirkenden Studenten-Kuratoren sichern, dass sie auch in 
 werden demokratisch und per Abstimmung festgelegt. Es betraf auch mich und das war manchmal schwierig, denn ich musste lernen, mich auf Entscheidungen anderer 
 und ihre Ausführungen zu verlassen. 
 
-Um den Überblick nicht zu verlieren, haben wir über das Treffen einmal die Woche auch eine Internet Plattform, genannt *Base camp* [Link](http://basecamp.com/) als öffentlichen Treffpunkt benutzt. 
+Um den Überblick nicht zu verlieren, haben wir über das Treffen einmal die Woche auch eine Internet Plattform, genannt [*Basecamp*](http://basecamp.com) als öffentlichen Treffpunkt benutzt. 
 Alle Teilnehmer erhielten auf diese Weise ihre Aufgaben und waren immer aktuell informiert. Wir entschieden uns des weiteren, im Rahmen 
 des ‚90 Jahre - Bauhaus‘ Jubiläums, Alumni der Bauhaus-Universität zum Thema Aneignung in acht aufeinander folgenden Ausstellungen zu präsentieren. 
 Wir machten uns sofort an die PR-Arbeit. Das ist ein wichtiger Fakt, denn es ging um eine Reihe von acht Ausstellungen, welche regelmäßig 
 fast alle sechs Wochen wechselten. Die Studenten mussten sich jetzt mit Eröffnung, Aufbau, Abbau sowie der Künstlerbetreuung beschäftigen. 
 Wir mussten ebenfalls in kürzester Zeit die Aufmerksamkeit in der Stadt Weimar gewinnen. 
-
-
-[^k3]: Welches im Kiosk09 Katalog zu finden ist
 
 Es handelte sich insgesamt um drei Semester und zwei vorlesungsfreie Zeiten, also, semesterübergreifende Arbeit. Auf freiwilliger Basis konnte jeder 
 Teilnehmer auch Projektleiter für eine der Ausstellungen werden. Ich stand ständig im Hintergrund in Bereitschaft, um dringende Probleme, die 
@@ -156,25 +146,17 @@ keine Stelle der StadtWerke benennt. Wir haben uns für Timm Ulrichs Aufkleber �
 Als nächstes bauten wir das *KoCA Inn*, ein umfangreiches Ereignis, von dem der Kiosk ein Teil war und was für das Kiosk-Team eine zusätzliche Herausforderung bedeutete, 
 nämlich die der Kooperation von zwei Künstlergruppen. Besonders positiv hervorheben möchte ich in diesem Fall die Stadt Weimar, die in den Genehmigungsvorgängen immer 
 freundlich und großzügig mit uns umgegangen ist. Das 14-tägige Ereignis war so überwältigend in seinen Erfahrungen, dass ich darüber einen separaten Text geschrieben habe, 
-der auch einen der Grundsteine dieser Dissertation für mich bedeutet*.
-
+der auch einen der Grundsteine dieser Dissertation für mich bedeutet.
 
 **Bild:** [KoCA Inn Entwurf auf Tisch]
 
-{
-  "title-short" : "\"KoCA Inn Entwurf auf Tisch"\"",
-  "title" : "Kiosk KoCA Inn Entwurf auf Tisch im Fackkurs Zimmer geritzt, 2009\"",
-  "filename" : "KoCA Inn_entwurf_auf_tisch.jpg",
-  "media-type" : "Foto",
-  "copyright" : "nts" ,
-  "source" : "nts",
-  "source-url" : "http://www.barkingdogsunited.com/sm.html"
-}
 
 
 ## ‚The Game‘ * (Die Kunstmarkt Akteure )
 
-Der vollständigerFachkurs Titel lautet: ‚The names may change, but the game stays the same‘ SS 2010
+`SS 2010`
+
+*Der vollständige Fachkurs-Titel lautet: ‚The names may change, but the game stays the same‘* 
 
 "Seit Mitte der Neunziger erlebt die zeitgenössische Kunst einen beispiellosen Boom. Von allem gibt es mehr: mehr Künstler, 
 mehr Sammler, mehr Galerien, mehr Kunstmessen, mehr Museen, mehr Biennalen, mehr Interessierte, mehr Pop, mehr Hype. 
@@ -266,46 +248,6 @@ Meinungsbildung bis zur eloquenten Kunstmagazin-Kritik werden wir uns mit den n�
 Gezeigt wird der Künstler, wie er sich in der Kunstwelt bewegt. Es geht um den Umgang mit der Ausstellungseröffnung als Ereignis und Umgang mit Kritik.
 Man fragt sich: ‚Muss man da hin? Warum? Wie benimmt man sich? Wie schreibt man Kritiken? Wie reflektiere und beurteile ich künstlerische Aussagen anderer? 
 Es werden Kritiken geschrieben oder Berichte verfasst, ein Versuch, sich von außen zu betrachten. 
-
-
-
-
-[^K3a]: siehe die Originalfassung aus dem BUW Vorlesungsverzeichnis:VLV Text Kiosk K3 - Vollständig:
-
-+ **Wenn Künstler Kunst kuratieren (K3)**
-    - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, 
-      und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von der Gruppe übernommen werden. Dies wird durch ein Fachkurs 
-	  Angebot für die Studenten der Fakultät Gestaltung unterstützt. 
-    - In drei Etappen wird eine Art *Kuratorenschule* stattfinden, Themen bearbeitet wie:
-       - Aussage &  Konzept
-       - Zusammenarbeit & Kooperation
-       - Künstler als Kuratoren
-	   - PR-Arbeit
-	   - Nachhaltigkeit
-   
-
-+ **Teil I: Übernahme (WS 08-09)**
-    - DieGeschichte des Kiosks wird bearbeitet reflektiert und präsentiert  
-    - Mit folgenden Gästen:
-        * Ronald Hirte zur DDR Geschichte des Kiosk
-        * Katharina Tietze und Katharina Hohmann (Initiatoren)
-        * Leonie Weber und Felix Ruffert (jetzige Kuratoren)
-        * Ryan Weber (Schalter Galerie Berlin)
-    - Konzept, Ortsname, Call for Entries, Jury
-	
-
-+ **Teil II: Instandhaltung (SoSe 09 und Eröffnung des Bauhaus 09 Jahr)**
-    - Künstlerbetreuung
-    - Ausstellungen Auf- und Abbau in 4-6 Wochen Takt
-    - PR Arbeit und Hausmeisterei
-	
-
-+ **Teil III: Weiterpflege (WS 09-10)**
-    - Dritte Ausstellungsphase: Umbau bei laufendem Betrieb
-    - Dokumentation, 
-	- Finanzbericht 
-	- Übergabe
-	
 	
 
 # Der KIOSK09 Fragebogen
@@ -610,4 +552,38 @@ per Jury aus allen Fachkurs-Mitgliedern demokratisch gewählt. Die Firma *Beyer*
 die Installation bis zum ursprünglich geplanten Abbau und die Übergabe des Kiosks an die Nachfolger zum Ende des Semesters sowie als Abschluss der Ausstellungsreihe behalten. 
 
   
+# Anhang
 
+## K3-Fachkursbeschreibungen vollständig
+
++ **Wenn Künstler Kunst kuratieren (K3)**
+    - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, 
+      und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von der Gruppe übernommen werden.      - Dies wird durch ein Fachkurs Angebot für die Studenten der Fakultät Gestaltung unterstützt. 
+    - In drei Etappen wird eine Art *Kuratorenschule* stattfinden, Themen bearbeitet wie:
+       - Aussage &  Konzept
+       - Zusammenarbeit & Kooperation
+       - Künstler als Kuratoren
+	   - PR-Arbeit
+	   - Nachhaltigkeit
+
++ **Teil I: Übernahme (WS 08-09)**
+    - DieGeschichte des Kiosks wird bearbeitet reflektiert und präsentiert  
+    - Mit folgenden Gästen:
+        * Ronald Hirte zur DDR Geschichte des Kiosk
+        * Katharina Tietze und Katharina Hohmann (Initiatoren)
+        * Leonie Weber und Felix Ruffert (jetzige Kuratoren)
+        * Ryan Weber (Schalter Galerie Berlin)
+    - Konzept, Ortsname, Call for Entries, Jury
+	
+
++ **Teil II: Instandhaltung (SoSe 09 und Eröffnung des Bauhaus 09 Jahr)**
+    - Künstlerbetreuung
+    - Ausstellungen Auf- und Abbau in 4-6 Wochen Takt
+    - PR Arbeit und Hausmeisterei
+	
+
++ **Teil III: Weiterpflege (WS 09-10)**
+    - Dritte Ausstellungsphase: Umbau bei laufendem Betrieb
+    - Dokumentation
+	- Finanzbericht 
+	- Übergabe
