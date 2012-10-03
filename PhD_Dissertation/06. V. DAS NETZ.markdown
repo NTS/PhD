@@ -3,7 +3,7 @@
 
 
 Die Tendenz, Alternativen zu den jetzigen Verhältnissen innerhalb des Kunstmarktes im Kunstbetrieb zu suchen und zu erproben, scheint zu steigen.
-Künstler & Hacker sowie Künstler und Experten der digitalen Medien sitzen nicht nur in der Uni beieinander. In Folge der gegenwärtigen Paradigmenverschiebung
+Künstler & Hacker (Vgl. Paul Graham *Hackers and Painters*), sitzen nicht nur in der Uni beieinander. In Folge der gegenwärtigen Paradigmenverschiebung
 in der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommunikation aus künstlerischer Sicht untersucht werden.
 
  
@@ -17,26 +17,25 @@ in der Nutzung der Möglichkeiten des Digitalen Formates muss der Welt der Kommu
 > denn „wenn andere einen als wahrnehmend beobachten, kann man das Wahrnehmen nicht gut bestreiten. 
 > Auf diese Weise wird unnegierbare Sozialität erreicht.“ [@Luhmann:kunstges, pp. 36]“
 > 
-> [@Werber:nurkunst, pp. 1] 
+> [Zitiert nach: @Werber:nurkunst, pp. 1] 
 
 Kommunikation manifestiert sich als kollektives und kollegiales Feld. Welche Mitteilungsform erhält das Haptische und welche Stellung nehmen Daten ein? 
 Hat die Kunst eine andere Berechtigung, wird sie anders wahrgenommen? Wie entwickelt sich die eigene Ansicht auf Individualität in den immer 
-vielfältiger werdenden Kommunikationswegen? Inwieweit wirkt sich die Entwicklung auf unsere Wahrnehmung aus? Was passiert mit dem Künstler, sein Werk und 
-dessen Vermittlungswege, im Zeitalter der unendlichen digitalen Reproduzierbarkeit von Information? Diese Art „Osmose“, hinterlässt bei vielen 
-kunstorientierten Theoretikern Spuren und stößt das Interesse der Künstler auf der Meta-Ebene an. 
+vielfältiger werdenden Kommunikationswegen? Inwieweit wirkt sich die Entwicklung auf unsere Wahrnehmung aus? Was passiert mit dem Künstler, seinem Werk und 
+dessen Vermittlungswegen im Zeitalter der unendlichen digitalen Reproduzierbarkeit von Information? 
 
 In den 1960er Jahren, im Zuge der Entmaterialisierung der Kunst, erweiterte die Konzeptkunst das Sehen durch das Denken. Das bloße Betrachten eines Kunstwerkes reichte zum Verständnis 
-nicht mehr aus: das Lesen von Titel, Anleitungen und anderen Informationen war nunmehr nötig, um in die Denkweise der Künstler ganz einzutauchen und Inhalte „richtig“ zu verstehen. 
+nicht mehr aus: das Lesen von Titel, Anleitungen und anderen Informationen war nunmehr nötig, um in die Denkweise der Künstler ganz einzutauchen und Inhalte 'richtig' zu verstehen. 
 Die Leinwand oder das Objekt reichten als bloße Informationsträger nicht mehr aus, Kommunikation mit dem Kunstwerk oder mit dem Künstler war folglich durch eine Vielzahl von Kanälen nötig. 
 Eine Verschmelzung der Begriffe, Codes und Kategorien führte zu einer Weiterentwicklung künstlerischer Strategien, die auch in den Alltag hinein wirken und zu einer Verschiebung der 
-Wahrnehmung von Kunst, ihren Indikatoren und Aufgabenbereichen führte. Künstler suchten nach neuen Wegen den Betrachter – über den *white cube* hinaus – zu erreichen, z.B. in der „Kunst in 
-öffentlichen Raum“, die nicht mehr nur die Form einer Skulptur oder eines Denkmals wahrt.
+Wahrnehmung von Kunst, ihren Indikatoren und Aufgabenbereichen führte. Künstler suchten nach neuen Wegen den Betrachter – über den *white cube* hinaus – zu erreichen, z.B. in der *Kunst in 
+öffentlichen Raum*, die nicht mehr nur die Form einer Skulptur oder eines Denkmals wahrt.
 
    
-Es stellt sich die Frage, welcher kommunikativen Strategien sich die Künstler im Zeitalter der Digitalisierung und Vernetzung bedienen. Seit einigen Jahren findet eine Verschiebung 
+Es stellt sich die Frage, welchen kommunikativen Strategien sich die Künstler im Zeitalter der Digitalisierung und Vernetzung bedienen. Seit einigen Jahren findet eine 'Osmose' 
 in der Wahrnehmung und den Aufgabenbereichen zwischen Künstlern und den Vermittlungsapparaten wie Galerien, Museen, Kuratoren, Sammlern, etc. statt, die ihre Spuren bei den Philosophen 
 der Kunstwelt hinterlässt und bei den Künstlern großes Interesse weckt. Die Kunst stellt ihre eigenen Entstehungsprozesse auf der Meta-Ebene dar: Künstler beschäftigen sich mit dem 
-Kunstmarkt und dem Apparat als solchem, es entsteht der hier schon erwähnten Begriff *Artist’s Artist* (*Künstler für Künstler*), als Bezeichnung für einen Künstler der in seiner Kunst vermehrt kritische 
+Kunstmarkt und dem Apparat als solchem, es entsteht der hier schon erwähnten *artist’s artist*, als Bezeichnung für einen Künstler der in seiner Kunst vermehrt kritische 
 Äußerungen über die Kunstwelt an sich vermittelt.
 
 
@@ -44,14 +43,18 @@ Auf welchen Kommunikationsebenen hat sich die Kunst entwickelt? Inwieweit bedien
 Wird Kunst heute als Kommunikationsweg benutzt oder bedient sich die Kommunikation künstlerischer Strategien? Hierbei spielt die Umkehrung von Wort in Bild und Bild in Wort 
 eine zusätzliche Rolle in Form ihrer Manifestationen im Internet und auf der Straße. Die Gemeinsamkeiten beider Plattformen werden durch die Anwendung ähnlicher Strategien sichtbar.[^fn-oeffraumnetz] 
 
-[^fn-oeffraumnetz]: In der „Kunst im öffentlichen Raum“ wurde der öffentliche Raum schon auf das Internet ausgeweitet
+[^fn-oeffraumnetz]: In der *Kunst im öffentlichen Raum* wurde der öffentliche Raum schon auf das Internet ausgeweitet
 
-Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selber. Dr. Georg Hehn reflektiert in seinem Artikel „Der Genius und die gelangweilten Anderen“ [-@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. Dort meint er, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[^src-Genius1] -- „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[^src-Genius2] 
+Heute sind nicht mehr wir Konsumenten dumm, wenn wir die Kunst nicht verstehen, sondern der Künstler unverständlich. Da er primär mit uns kommuniziert und nicht mit dem Sublimen, trägt er auch die Verantwortung dafür mit, dass wir etwas verstehen – und sei es die Unverständlichkeit der Kunst selbst. Dr. Georg Hehn reflektiert in seinem Artikel *Der Genius und die gelangweilten Anderen* [-@Hehn:Genius] über Kunst zwischen Kontemplation und Kommunikation. Dort meint er, nicht die Verweigerung von Kommunikation mit dem Rezipienten sei die Ursache für missverständliche Kunst, „sondern im Gegenteil, die Dehnung des semantischen Raums bis in fernste Winkel grenzwertiger Kommunikation der Verweigerung, der Ironie, Monotonie, oder Automation.“[^src-Genius1] -- „Der Künstler trat (früher) in Kontakt mit einer außeralltäglichen Wirklichkeit, die stets als eine Form sakraler Sphäre angesehen wurde“.[^src-Genius2] 
+
+
 Die Exilierung des Sakralen aus der Sphäre des künstlerischen Erlebens änderte nichts an ihrem Status als der wahren Wirklichkeit. Die Künstler kommunizierten nicht mit ihren 
 Rezipienten, sie schritten ihnen voran. Das Bedürfnis nach Aufklärung, Erklärung und Vermittlung ist Kern der schöpferischen Kraft, ein inneres Bild in die materielle Welt zu übersetzen, 
 „…und der Künstler zeigt sich als Virtuose der Kommunikation, dessen künstlerische Leistung gerade auf meta-kommunikativer Kreativität beruht. Er mag provozieren, verfremden oder verstören, er mag überhöhen oder ins Lächerliche ziehen, er mag visionär oder fehlgelagert arbeiten, immer ist der Vektor seiner kreativen Explosion auf den Rezipienten gerichtet.“[^src-Genius3] 
+
+
 Für den heutigen Künstler heißt das, immer die Zielgruppe im Visier zu haben, und zunehmend sind das nicht nur kulturorientierte Menschen. 
-Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig vom Kunstapparat, seine Arbeit sieht. Die Kunstkritik inklusive, die ihm einerseits zur Verfügung steht, aber andererseits auch an ihm verdient.Hier wird gleichzeitig ein Problemfeld aufgemacht, nämlich: Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn das Kunstwerk nicht ausschließlich durch die diversen Komponenten dieses Apparats (Galerist, Kurator, Käufer, Kunstkritiker) transportiert wird? Oder, um es mit Marcel Duchamp zu sagen: „Soviel Künstler, soviele Einzelausstellungen, soviele Händler und Sammler und Kritiker, die nichts anderes sind als Läuse an den Hintern der Künstler!“ [zitiert nach: @Barck:Aisthesis, pp. 105]
+Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig vom Kunstapparat, seine Arbeit sieht. Die Kunstkritik inklusive, die ihm einerseits zur Verfügung steht, aber andererseits auch an ihm verdient. Hier wird gleichzeitig ein Problemfeld aufgemacht, nämlich: Wer sind die Instanzen, die über den Erfolg eines Kunstwerkes bestimmen, wenn das Kunstwerk nicht ausschließlich durch die diversen Komponenten dieses Apparats (Galerist, Kurator, Käufer, Kunstkritiker) transportiert wird? Oder, um es mit Marcel Duchamp zu sagen: „So viele Künstler, so viele Einzelausstellungen, so viele Händler und Sammler und Kritiker, die nichts anderes sind als Läuse an den Hintern der Künstler!“ [zitiert nach: @Barck:Aisthesis, pp. 105]
 
 [^src-Genius1]: [ibid. -@Hehn:Genius, pp. 4]
 [^src-Genius2]: [ibid. -@Hehn:Genius, pp. 2]
@@ -62,10 +65,10 @@ Durch eine massive Netzöffentlichkeit kann er auch bestimmen, wer, unabhängig 
 
 Vilèm Flusser schreibt [-@Flusser:Kommuni], dass auch wenn die Begriffe Schönheit, Originalität, Interesse, usw. schwierig zu definieren sind, so doch alles immer wieder auf die Information 
 zurückgeführt werden kann und Information will kommuniziert werden. Übernimmt die Digitalisierung unserer Gesellschaft die Oberhand und bringt die hervorgebrachte elektronische Einsamkeit 
-ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: die Künstler , die nun nicht mehr nur lokal agieren, sondern globale Kulturströmungen verursachen. Das Quellenmaterial, 
-die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“. Ich persönlich empfinde den Begriff „Virtuell“ in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
+ein Ödland hervor? Manche Berufe integrieren sich im Cyberspace: die Künstler, die nun nicht mehr nur lokal agieren, sondern globale Kulturströmungen verursachen. Das Quellenmaterial, 
+die Welt, aus der der Künstler schöpft, und die ihm zur Verfügung steht, ist als digitalisierte Masse in Form von Text und Bild, als unbegrenzte Informationsquelle, verfügbar. Man ist nicht mehr ortsgebunden, sondern befindet sich in der sog. „Virtuellen Welt“. Ich persönlich empfinde den Begriff *virtuell* in diesem Zusammenhang als inadäquat, da er eine separate Wirklichkeit suggeriert, die eigentlich nur eine selbstverständliche 
 Verlängerung derselben ist. Auch die Selbst- und Anerkennung als Angehöriger einer Strömung geht nun über die politische, soziale und lokale Ebene hinaus. Man gehört nicht mehr einem bestimmten 
-politischen Club eines bestimmten Ortes an, sondern wandert in eine andere Sphäre und tritt dort mit Menschen aufgrund des gemeinsamen Interesses in Kontakt. Man teilt die gleiche Meinung und 
+politischen Klub eines bestimmten Ortes an, sondern wandert in eine andere Sphäre und tritt dort mit Menschen aufgrund des gemeinsamen Interesses in Kontakt. Man teilt die gleiche Meinung und 
 kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.  
 
 
@@ -73,7 +76,7 @@ kann eine Zugehörigkeit aufbauen, unabhängig davon, wo man lebt.
 
 ### Protest: Digital & Global
 
-Der [*digital native*](https://de.wikipedia.org/wiki/Digital_Native) wird zu einer politischen und globalen Persönlichkeit.
+**Der [*digital native*](https://de.wikipedia.org/wiki/Digital_Native) wird zu einer politischen und globalen Persönlichkei.**
 
 *Digital natives* bekommen ihre Information längst aus anderen Quellen als den offiziellen Nachrichtenkanälen in Funk & Fernsehen und haben gelernt, sie auf ihre Echtheit zu prüfen. 
 Man kann feststellen, dass in vielen Fällen wie bei der Entwicklung der „Occupy“-Bewegung und revolutionären Unruhen in Ägypten, Griechenland, Spanien oder Großbritannien diese durch *twitter* 
@@ -84,7 +87,7 @@ Dass diese Medien zunehmend durch politische Mächte kontrolliert und gesteuert 
 
 Obwohl die Menschen ihre Rede- und Informationsfreiheit auf alternativen Plattformen ausüben, haben die klassischen Medien weiter ihre übliche Taktik verfolgt: durch gezielte 
 Missachtung und geringe Berichterstattung die Kommunikation zu drosseln, also bewusst *nicht* zu kommunizieren, mit gemischten Ergebnissen. Auf Twitter hat das Motto 
-“The Revolution will not be televised” dadurch eine ganz neue Bedeutung bekommen.
+“the revolution will not be televised” dadurch eine ganz neue Bedeutung bekommen.
 
 
 **Meme**
@@ -101,12 +104,10 @@ die sich schnell über das Internet verbreitet.
 Das Verhalten des Polizisten John Pike während eines Protests an der UC Davis in Kalifornien wurde zwar ursprünglich von Journalisten ausreichend bebildert, 
 die Aufmerksamkeit der klassischen Medien erreichte aber eine neue Dimension, nachdem Remixe aus dem Netz ihn einmal quer durch die Kunstgeschichte *mashten*. 
 
-**Bilder John "the pepperspray cop" Pike Meme:** 
-
-[John Pike pepper sprays students], [Sunday Afternoon nach Edouard Manet], [John Pike in “Christina’s World] 
+**Bilder: John "The pepperspray cop" Pike Meme:** [John Pike pepper sprays students], [Sunday Afternoon nach Edouard Manet], [John Pike in “Christina’s World] 
 
 
-Den Konflikt zwischen dem Machtkampf und menschlichen Bedürfnissen hat wiederum Marcel Walldorf in seiner lebensechten Plastik *„Pinkelnde Petra“* (2010) auf dem Punkt gebracht, in dem er eine 1:1 Skulptur nach einer Polizistin in eine unangenehmen Position nachbildete.
+Den Konflikt zwischen dem Machtkampf und menschlichen Bedürfnissen hat wiederum Marcel Walldorf in seiner lebensechten Plastik *„Pinkelnde Petra“* (2010) auf dem Punkt gebracht, in dem er in einer 1:1 Skulptur eine Polizistin in einer unangenehmen Position abbildete.
 
 **Bild:** [Marcel Walldorf: Pinkelnde Petra]
 
@@ -129,7 +130,7 @@ Künstlerische Strategien wie Flashmobbing[^fn-flashmob] werden auf einen Punkt 
 setzen. Das persönliche Erlebnis dieser (und ähnlicher) Ereignisse muss intensiv gewesen sein, jedoch wird ihre Einmaligkeit durch die vielfältige Verbreitung 
 im Internet via *YouTube* wieder aufgehoben und führt so wieder zu verstärkter Aufmerksamkeit.  
 
-[^fn-flashmob]: Bestes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen in alltäglichen Positionen 
+[^fn-flashmob]: Ein sehr gutes Beispiel war die Aktion von Improv Everywhere: „Frozen Grand Central“, wo mehr als 200 Menschen in alltäglichen Positionen 
 für fünf Minuten innerhalb der verkehrsreichen Station eingefroren stehen geblieben sind, um auf die Beschleunigung des Lebens aufmerksam zu machen. <https://youtu.be/jwMj3PJDxuo>
 
 
@@ -139,8 +140,7 @@ Street Art in den letzten 20 Jahren immer üblicher geworden. Durch eine kleine 
 geben Stencils oft eine mutierte Variante von Firmenlogos, wie z.B. *Nike* oder *Adidas*, wieder. Die Werbung bedient sich bei der Kunst(geschichte), 
 und vice versa. Ein Logo mutiert Buchstaben zu einem Bild. Mit bestehendem Design und Layout wird nun eine kleine subversive Kommunikation angeboten. 
 Schon ein einziger Buchstabentausch kann manchmal die Bedeutung ändern, doch der Erkennungsgrad bleibt durch seinen kommunikativen Vermittlungsweg, 
-d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geringer Qualität noch sofort erkannt wird. 
-
+d.h. seine massive Reproduktion sehr hoch, sodass es auch verstellt oder in geringer Qualität noch sofort erkannt wird. **Bild:**  [Viva La Resolution]
 
 Mindestens seit den 1970er Jahren tragen wir Logos von Firmen auf unserer Kleidung, bewusst und unbewusst, als Ikonen mit uns herum. Als ich 12 Jahre alt war, hieß es entweder *Adidas*, 
 *Levis* und *Lee* als Marken zu tragen oder gar nichts. Es ging um die Ware, aber auch um die nichtverbale Kommunikation: eine Statusmeldung. Die Manifestation 
@@ -149,7 +149,7 @@ Durch die wiederholte Erscheinung dieser mutierten Bilder, werden Meinungen im �
 das auch für 1000 Worte stehen kann. Dies ist eine sehr bekannte Strategie der Street- und Graffiti Art, aber auch der T-Shirt-Kultur. Es ist erstaunlich, 
 was für eine vielfältige Auswahl an „entstellten“ Logos mit alternativer, oft mit kulturell-, sozial, aber auch politischer Aussage in die Öffentlichkeit getragen wird. 
 
-**Bild:**  [Viva La Resolution]
+
 
 
 ### Kunst als Prophezeihung

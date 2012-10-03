@@ -332,11 +332,11 @@ Abschluss.
 Das Ausstellen und der Ausstellungsbetrieb gehören unbedingt zum Ausbildungsprofil, sozusagen als Einübung in Realität und Zukunft, aber auch als Finale eines Werkes. Der Bezug zu Raum und Ort, die Frage was sich mit den anderen Arbeiten in einer Gemeinschaftsausstellung verträgt, Arbeits- und Terminplanung, Presse, Führungen, und das Sprechen über die eigene Arbeit müssen erlernt werden. So etwas kann man gut in den dafür vorgesehenen eigenen oder für den Zweck umgewandelte Räume innerhalb der BUW üben. Aus Raummangel aber entwickelte sich die Geschichte der Präsentation an der Bauhaus Universität auf eine sehr eigenartiger Weise.
 
 
-##  "a room of your own" [^roomofyourown]
+##  *A Room of One's Own* [^roomofown]
 
-[^roomofyourown]: TODO
+[^roomofown]: Essay von Virginia Woolf, 1929.
 
-Der eigene *white cube* (Unigalerie) 
+Der eigene *white cube* zur Geschichte der Uni-Galerie in Weimar. 
 
 
 Die Kultur- und Kunstbetriebe sehen in Weimar folgendermaßen aus: Weimar gehört zum UNESCO-Welterbe, ist eine sehr kleine Stadt mit 60.000 Einwohnern und ca. 6.000 Studenten. Sie verfügt über ein übergroßes Kulturangebot und viele Institutionen des Kulturbetriebs. Außer der *Klassik Stiftung Weimar*, die für das *Goethe-Nationalmuseum*, das *Schiller-Museum*, das *Schlossmuseum* u.v.a., auch für das *Bauhaus-Museum* und das *Neue Museum* zuständig ist und somit den größten Kultur-Konglomerat (oder wie es selbst nennen: [Kosmos](https://twitter.com/kosmosweimar) ) verwaltet, gibt es unter anderem noch Archive,
@@ -346,17 +346,18 @@ Der Bedarf an offiziellen Ausstellungsräumen in Kunstakademien, der bereits im 
 
 [^fn-markebeiratinfo]: Diese Informationen basieren auf den Recherchen die bei der Neuformierung der marke.6 im Beirat erarbeitet wurde
 
-Im Falle der *Bauhaus Universität Weimar* haben über die Jahre die verschiedenen Rektoren eine unterschiedliches Verständnis von der Wichtigkeit eines Ausstellungsortes für die Studenten gezeigt.
-Erstem Impulse in Richtung Gründung einer Uni-Galerie gab es zum Kultur Jahr 1999, mit eine unabhängige Eigeninitiative namens *Neu-Deli* die sich Räume über der Post am Goetheplatz in Weimar gemietet hat, gegeben. Die Räume waren schön und sehr passend für Kunstausstellungen, mit hohen Decken und Stahlsäulen sowie viel Licht. Die Beziehungen zwischen der ACC Galerie und der BUW sind, wie man heute auf *facebook* sagen würde "It's complicated": Manche Professoren und Mitarbeiter (darunter auch ich), sind Künstler der Galerie oder waren eingeladen dort auszustellen. Nur in seltenen Fällen werden Studenten oder Alumni dort ausgestellt, abgesehen von seltenen Zusagen zu Master/Diplomarbeit Vorstellungen und Präsentationen. 2001 wanderte die Galerie unter dem Namen Bauhaus Universitätsgalerie als Untermieter in die expandierte ACC Galerie. Über ein Jahr lang liefen Ausstellungen der verschiedenen Fakultäten unter der Koordination von David Mannstein, auch er BUW-Absolvent. Leider war das Engagement seitens der Uni-Leitung hinsichtlich einer Uni-Galerie eher zurückhaltend angelegt, da eine neu eingestellte Kulturmanagerin gemeinsam mit dem damaligen Rektor Bauer-Wabnegg die bestens funktionierende Kooperation leichtfertig abgesagt hat. Nach der Rückkehr des ehemaligen Rektors Gerd Zimmermann eröffnete im April 2008 die Bauhaus-Universität auf Initiative der Studenten Sebastian Helm, Laura Straßer und Maximilian Sauerbier vom StudierendenKonvent (StuKo) und in Zusammenarbeit mit der Klassik Stiftung den Ausstellungsraum »marke.6« im Neuen Museum: eine Ausstellungsfläche für studentische Arbeiten und Hochschulkooperationen. (Text zur Entstehung der Marke.6 wie sie auf der Seite (http://www.uni-weimar.de/cms/fileadmin/uni/files/aktuelles/bogen/2008_3/41.pdf) dokumentiert ist.) Ab diesem Moment stand die marke.6 als studentisch geführte Universitätsgalerie mit einer Koordinationsstelle. Die Universitätsgalerie fing als unabhängige Institution an, war weiter in Kooperation mit einem gemeinnützigen Kunstverein getreten und ist nun von dort aus zum Gast der Stiftung Weimar Klassik im Keller des Neues Museums unter einer anderen Infrastruktur geworden.
+Im Falle der *Bauhaus Universität Weimar* haben über die Jahre die verschiedenen Rektoren ein unterschiedliches Verständnis von der Wichtigkeit eines Ausstellungsortes für die Studenten gezeigt.
+Erste Impulse in Richtung der Gründung einer Uni-Galerie gab es im Jahr 1999, als die unabhängige Eigeninitiative namens *Neu-Deli* sich Räume über der Post am Goetheplatz in Weimar gemietet hat. Die Räume waren schön und sehr passend für Kunstausstellungen, mit hohen Decken und Stahlsäulen sowie viel Licht. Die Beziehungen zwischen der ACC Galerie und der BUW sind, wie man heute auf *facebook* sagen würde "It's complicated": Manche Professoren und Mitarbeiter (darunter auch ich), sind Künstler der Galerie oder waren eingeladen dort auszustellen. Nur in seltenen Fällen werden Studenten oder Alumni dort ausgestellt, abgesehen von seltenen Zusagen zu Master/Diplomarbeit Vorstellungen und Präsentationen. 2001 wanderte die Galerie unter dem Namen Bauhaus Universitätsgalerie als Untermieter in die expandierte ACC Galerie. Über ein Jahr lang liefen Ausstellungen der verschiedenen Fakultäten unter der Koordination von David Mannstein, auch er BUW-Absolvent. Leider war das Engagement seitens der Uni-Leitung hinsichtlich einer Uni-Galerie eher zurückhaltend angelegt, da eine neu eingestellte Kulturmanagerin gemeinsam mit dem damaligen Rektor Bauer-Wabnegg die bestens funktionierende Kooperation leichtfertig abgesagt hat. Nach der Rückkehr des ehemaligen Rektors Gerd Zimmermann eröffnete im April 2008 die Bauhaus-Universität auf Initiative der Studenten Sebastian Helm, Laura Straßer und Maximilian Sauerbier mit dem StudierendenKonvent (StuKo) und in Zusammenarbeit mit der *Klassik Stiftung* den Ausstellungsraum *marke.6* im *Neuen Museum*: eine Ausstellungsfläche für studentische Arbeiten und Hochschulkooperationen. (Text zur Entstehung der *marke.6* wie sie auf [*Bogen*](http://www.uni-weimar.de/cms/fileadmin/uni/files/aktuelles/bogen/2008_3/41.pdf) dokumentiert ist. Ab diesem Moment stand die *marke.6* als studentisch geführte Universitätsgalerie mit einer Koordinationsstelle. Die Universitätsgalerie fing als unabhängige Institution an, war weiter in Kooperation mit einem gemeinnützigen Kunstverein getreten und ist nun von dort aus zum Gast der *Stiftung Weimar Klassik* im Keller des *Neues Museums* unter einer anderen Infrastruktur geworden.
 
 **Bild:** [Die Gallerie ist Tot]
 
 
-## Das Konstrukt Bauhaus Essentials[^essentials]
+## *Bauhaus Essentials*
 
-[^ essentials]: TODO
 
-2009 wurde ich im Rahmen meiner Aufgaben als Künstlerische Assistentin im Umfeld der Fakultätsgremien angefragt, im Beirat der marke.6 den Mittelbau der Fak. Gestaltung für zwei Jahre als Beiratsmitglied zu vertreten. Zusammen mit der damaligen Koordinationsstelle - besetzt durch Dörte Dennemann - entwickelten wir ein Konzept namens *Bauhaus Essential*. Unser Ziel war es, die besten Kunstwerke von der Summaery (Jahresausstellung von Studierenden der Bauhaus-Universität Weimar, früher auch *Rundgang* genannt) in einer Ausstellung zusammenzufassen und im Herbst zu zeigen, also das „best of“ nach der Sommerpause zu präsentieren und vor dem Jahresende noch einmal hervorzuheben. Im Jahre 2010 waren Beirat und Initiative der Meinung, dass die besten Arbeiten der Summaery  prämiert werden sollen. Für den Rundgang wurde eine Jury, bestehend aus kompetenten und kunstnahen Persönlichkeiten zusammen gestellt, (alle nicht aus der Uni) welche insgesamt 19 herausragende Positionen auswählten. Das Vorhaben wurde großzügig durch die in Thüringen ansässige Firma Grafe unterstützt, die auch Namensgeber für den Preis wurde. Die drei Erstplatzierten erhielten daraufhin den Grafe Kreativpreis, und die Möglichkeit auf der Preview Berlin vertreten zu werden. Die 3 besten Arbeiten wanderten von der Hauptausstellung nach Berlin und zurück in die marke.6 Galerie im Neuen Museum. Ein Reader wurde erstellt und das entsprechende Echo seitens der Presse war angemessen, zumal einige unserer Teilnehmer sogar ihr Werk verkaufen konnten. 
+2009 wurde ich im Rahmen meiner Aufgaben als Künstlerische Assistentin im Umfeld der Fakultätsgremien angefragt, im Beirat der *marke.6* den Mittelbau der Fakultät Gestaltung für zwei Jahre als Beiratsmitglied zu vertreten. Zusammen mit der damaligen Koordinationsstelle -- besetzt durch Dörte Dennemann -- entwickelten wir ein Konzept namens *Bauhaus Essentials*. Unser Ziel war es, die besten Arbeiten der *Summaery*[^fn-Rundgang]  [^fn-Rundgang]:ersetzte den *Rundgang* der Fakultät Gestaltung Jahresausstellung von Studierenden der Bauhaus-Universität Weimar, in einer Ausstellung zusammenzufassen und im Herbst zu zeigen, also das *best of* nach der Sommerpause zu präsentieren und vor dem Jahresende noch einmal hervorzuheben. Im Jahre 2010 waren Beirat und Initiative der Meinung, dass die besten Arbeiten der *Summaery* prämiert werden sollen. Für den Rundgang wurde eine Jury, bestehend aus kompetenten, kunstnahen und vor allem universitäts-fremde Persönlichkeiten zusammen gestellt, welche insgesamt 19 herausragende Positionen auswählten. Das Vorhaben wurde großzügig durch die in Thüringen ansässige Firma *Grafe* unterstützt, die auch Namensgeber für den Preis wurde. Die drei Erstplatzierten erhielten daraufhin den *Grafe Kreativpreis*, und die Möglichkeit auf der *Preview Berlin* vertreten zu werden. Die 3 besten Arbeiten wanderten so von der Hauptausstellung nach Berlin und zurück in die *marke.6* Galerie im *Neuen Museum*. Ein Reader wurde erstellt und das entsprechende Echo seitens der Presse war angemessen, zumal einige unserer Teilnehmer sogar ihr Werk verkaufen konnten. 
+
+
 
 **Bild:** [Bauhaus Essentials I]
 
@@ -510,24 +511,23 @@ die *HfG Offenbach* sowie die *Weißensee Kunsthochschule Berlin* hinzu.
 
 ## Das Dilemma[^dilemma]
 
-[^]:
+[^]: TODO or Lösch :)
 
-Was bedeutet es, so früh auszustellen? Während meines Studiums Ende der 80er Jahre war es noch verboten, solange man eingeschrieben, auszustellen. Heute machen die Erstsemestler schon eine 
-Präsentation ihrer Ergebnisse. Was passiert mit dem sicheren Labor, wo man auch ruhig einmal scheitern kann? Wird der Erfolg daran gemessen, wie gut einer Idee zum *deadline* präsentiert 
+Was bedeutet es, so früh auszustellen? Während meines Studiums Ende der 1980er Jahre es noch verboten auszustellen, solange man eingeschrieben war . Heute machen die Erstsemestler schon eine 
+Präsentation ihrer Ergebnisse. Was passiert mit dem sicheren Labor, wo man auch ruhig einmal scheitern kann? Wird der Erfolg daran gemessen, wie gut eine Idee zur *deadline* präsentiert 
 wurde? Überwiegt dies und wird wichtiger, als Prozesse zu beobachten? Ist es möglich, den Studierenden beizubringen, wie sie die Dinge nach dem Studium ‚besser‘ angehen können?
 
-Laut bekannter Statistiken können etwa 1% aller Absolventen von Kunsthochschulen von Kunst-Machen allein leben. In diesem Feld Erfolg zu haben bedeutet Mitmachen und ist an und für sich
-auch eine Art von Anpassung. Anpassung an einem Apparat an Menschen, der für einen Gelegenheiten vermittelt und alles organisiert, und das gegen Einnahme von bis zu 60%
-des Gewinns, der durch der Verkauf des Kunstwerks erzielt wird, wobei in der Regel viele Kosten vom Künstler selbst getragen werden, der beispielsweise für das Material sorgte und es bezahlt hat.
+Laut allgemeiner Sagen, können etwa 1% aller Absolventen von Kunsthochschulen von ihrer Kunst allein leben. In diesem Feld Erfolg zu haben bedeutet Mitmachen und ist an und für sich
+auch eine Art von Anpassung. Anpassung an einen Apparat von Menschen, der Gelegenheiten vermittelt, alles organisiert, und das für bis zu 60%
+des Gewinns, der durch der Verkauf des Kunstwerks erzielt wird, (wobei in der Regel viele Kosten vom Künstler selbst getragen werden, der beispielsweise für das Material sorgte und es bezahlt hat).
 
-Wenn der angehende Künstler schon im ersten Semester ausstellt und verkauft, so entfällt dann die Möglichkeit 4 Jahre zu experimentieren ohne vom Blick und Kritik von aussen gestört zu sein, unbeachtet 
+Wenn der angehende Künstler schon im ersten Semester ausstellt und verkauft, so entfällt die Möglichkeit 4 Jahre zu experimentieren ohne vom Blick und Kritik von aussen gestört zu sein, unbeachtet 
 von Fremden, denn die Entwicklung und die Kritik verlagern sich auf die Öffentlichkeit. 
 Bei massivem Ausstellen während des Studiums wird die Kritik über die Professoren und Mitstudenten hinaus in die Öffentlichkeit geraten. Unreife Kunst wird als solche ausgestellt, und es entstehen 
 überall die gleiche Versuche, die als fertige Kunst präsentiert werden. Immer öfter wird bei den Korrekturen innerhalb des Projektes gefragt: „ist dies schon gemacht worden?“.
-Was für einen Einfluss hat dies auf Parameter der Kritik? Was ist, wenn Kunst im Netz selbstständig gestellt wird und dafür 'likes' auf Blogs und *facebook* bekommt? Ist dies gleichwertig 
-mit einer Ausstellung in einer anerkannten Institution samt ihrem Apparat? Es stellt sich die Frage, inwieweit wird Anpassung an dem Kunstmarkt, um Erfolg zu erreichen in der Kunstakademien direkt 
-oder indirekt vermittelt. Klar ist, es entstehen unterschiedliche 'Sorten' von Künstlern, die man wie folgt bezeichnen könnte: Der Businesskünstler, der Sozialkünstler, der Akademische Künstler
-und der Netzkünstler, und andere noch mehr. Sie haben alle unterschiedliche Bedürfnisse.
+Was für einen Einfluss hat dies auf Parameter der Kritik? Was ist, wenn Kunst Netz selbstständig ins gestellt wird und dafür 'likes' auf Blogs und *facebook* bekommt? Ist dies gleichwertig 
+mit einer Ausstellung in einer anerkannten Institution samt ihrem Apparat? Es stellt sich die Frage: inwieweit wird Anpassung an den Kunstmarkt in den Kunstakademien direkt 
+oder indirekt vermittelt? 
 
 
 ## Wo ist eigentlich...?[^Rubrik]
@@ -536,11 +536,11 @@ und der Netzkünstler, und andere noch mehr. Sie haben alle unterschiedliche Bed
 
 **Resultate**
 
-Als Künstler habe ich sehr viele Erfahrungen und Kenntnisse sowie know-how überwiegend selbstständig gesammelt, und dies versuche ich an die Studierenden weiterzugeben.
+Als Künstler habe ich sehr viele Erfahrungen und Kenntnisse sowie *know-how* überwiegend autodidaktisch gesammelt, und dies versuche ich an die Studierenden weiterzugeben.
 Noch ist es etwas früh um festzustellen, wie die Wirkung auf den Werdegang der Studierenden sein wird. Die ersten ‚Resultate‘, das heißt, die erste Spuren der neuen künstlerischen
 Strategien, getragen von Studenten und Absolventen der Bauhaus Universität, fangen jedoch an sichtbar zu werden. 
 Einige Beispiele zeigen, dass mehrere sich alternativ bewegen, entweder noch während des Studiums oder direkt nach dem Abschluss. 
-Ich berichte hauptsächlich von Studierenden aus der Kiosk09 Gruppe, solche, die bei mir und Prof. Hinterberger mehrere Projekte absolviert und anschließend ihr Diplom bei uns 
+Ich berichte hauptsächlich von Studierenden aus der KIOSK09 Gruppe, solche, die bei mir und Prof. Hinterberger mehrere Projekte absolviert und anschließend ihr Diplom bei uns 
 gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben und währenddessen ihre Strategien für das Diplom entwickelten, Ausstellungsräume eröffneten und diese leiten oder selbst dort ausstellten. 
 
 - Max Albrecht -- gründet die Firma *KTE* — Kunst-Technik-Einheit.
@@ -554,18 +554,15 @@ gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben
 
 - Cosima Göpfert -- eröffnete ihr Atelier als Laden in der Stadtmitte und betreibt das Kunstkartell zur Vermittlung und Verkauf von Kunst.
 
-- Maxie Götze  
-    - Initiative Marke.6 und Leitung und Koordination vom Kiosk.6 nach der Übergabe an den StoKo (und damit an die Universität) im Jahr 2011.
+- Maxie Götze - Initiative Marke.6 und Leitung und Koordination vom Kiosk.6 nach der Übergabe an den StoKo (und damit an die Universität) im Jahr 2011.
 
-- Christoph Kraus hatte den *Kunstraum Kraus* in der Marienstr. eröffnet, Der Anfang war gut, aber es fehlte die Möglichkeit während des Studiums den Ort ernsthaft zu betreiben. 
-  - Zusammen mit Fabian Fontain und Marc Aaron Faesser, haben sie es geschafft beim Kulturfonds Geld zu acquirieren, um während der documenta 13 an einer renommierten Stelle ein [gemeinsames Kunstobjekt](http://www.tlz.de/web/zgt/kultur/detail/-/specific/Bauhaus-Studenten-zeigten-Installation-zur-Documenta-1144759424) zu installieren.
+- Christoph Kraus hatte den *Kunstraum Kraus* in der Marienstr. eröffnet, Der Anfang war gut, aber es fehlte die Möglichkeit während des Studiums den Ort ernsthaft zu betreiben. Zusammen mit Fabian Fontain und Marc Aaron Faesser, hat er beim Kulturfonds Geld acquiriert, um während der *dOCUMENTA (13)* in Kassel [gemeinsames Kunstobjekt](http://www.tlz.de/web/zgt/kultur/detail/-/specific/Bauhaus-Studenten-zeigten-Installation-zur-Documenta-1144759424) zu installieren.
 
-- Lucian Patermann 
-    - Initiative Marke.6, mehrere Preise und in allen Bauhaus Essentials (1-3) von der Jury unter die ersten 20 Plätze plaziert, davon ein Mal gut genug, um zur Preview Berlin zu gelangen.
+- Lucian Patermann - Initiative Marke.6, mehrere Preise und in allen Bauhaus Essentials (1-3) von der Jury unter die ersten 20 Plätze plaziert, davon ein Mal gut genug, um zur Preview Berlin zu gelangen.
 
-- Phillip Valenta -- entwickelte als Strategie die *Philipp Valenta Holdings* und produziert Luxus Kunst-Objekte.
+- Phillip Valenta -- entwickelte als Strategie die *Philipp Valenta Holdings* und produziert Luxus-Kunst-Objekte.
 
-- Simone Weikelt -- TKM (Thüringer Kultusministerium) Stipendiatin, mehrere Ausstellungen und aktiv im Kunstbetrieb in Erfurt.
+- Simone Weikelt -- TKM - (Thüringer Kultusministerium) Stipendiatin, mehrere Ausstellungen und aktiv im Kunstbetrieb in Erfurt.
 
 - Rosmarie Weinlich 
     - leitet das *‚MOGA Salon Rejected‘* einen in einen *white cube* umfunktionierten Caravan, mit dem sie sich wie ein Parasit (nach Absprache und in Zusammenarbeit mit diversen Institutionen, versteht sich) an Galerien andockt, um in ihrer Wohnwagen-Galerie diejenigen Künstler auszustellen, die von der jeweiligen Galerie abgelehnt wurden. 
