@@ -50,7 +50,7 @@ nur Medien oder Ausdrucksmittel, sondern ganze Kulturtechniken. Künstler müsse
 oder Detroit auf die künstlerische *Kreativwirtschaft*, um einen realwirtschaftlichen Aufschwung herbeizuführen.  
   
 
-**Die Ausbildung** der werdenden Künstler wird in Europa seit dem Beginn des [*Bologna-Prozesses*](www.ond.vlaanderen.be/hogeronderwijs/bologna/documents/MDC/BOLOGNA_DECLARATION1.pdf) im Jahr 1999 stark umstrukturiert. In der vorliegenden Arbeit habe ich 
+**Die Ausbildung** der werdenden Künstler wird in Europa seit dem Beginn des [*Bologna*-Prozesses](www.ond.vlaanderen.be/hogeronderwijs/bologna/documents/MDC/BOLOGNA_DECLARATION1.pdf) im Jahr 1999 stark umstrukturiert. In der vorliegenden Arbeit habe ich 
 die Auswirkungen auf das Studium und die Studierenden untersucht. Unter anderem habe ich die Kompatibilität des jetzigen Standes der Ausbildung mit dem, was die Studierenden nach 
 dem Studium erwartet; die Struktur des Studiums; die Beziehungen zwischen Kunstmarkt und der Kunsthochschule am Beispiel der eigenen Universität mit künstlerischen Methoden 
 erforscht und zum Thema der Ausbildung gemacht. Im Allgemeinen gilt: Wenn werdende Künstler in ein Kunststudium eintreten, haben sie zumeist ein bestimmtes unrealistisches 

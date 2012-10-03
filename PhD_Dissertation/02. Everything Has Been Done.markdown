@@ -1,7 +1,7 @@
-# *Everything Has Been Done* [^everydone]
+# *Everything Has Been Done* [^title-everydone]
 
 
-[^everydone]: Titel eines Kunstwerks der Kunstgruppe *Azzoro*, 2003
+[^title-everydone]: Titel eines Kunstwerks der Kunstgruppe *Azzoro*, 2003
 
 
 > "I am bored with that line. I never use it anymore. My new line is: in 15 minutes everybody will be famous." \

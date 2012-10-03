@@ -8,7 +8,8 @@
 **Das Bild von Kunst als *Business***
 
 
-> „Es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während das bei der Business-Kunst der Fall ist.“ -- *Andy Warhol*[^andy-business]
+> „Es ist viel besser, Business-Kunst zu machen als Kunst-Kunst, weil die Kunst-Kunst dem Raum, den sie einnimmt, keinen Nutzen bringt, während das bei der Business-Kunst der Fall ist.“ 
+> -- *Andy Warhol* [^andy-business]
 
 [^andy-business]: [@Warhol:vonAbisZ, pp. 130]
 
@@ -42,7 +43,7 @@ Der Künstler ist nun wie andere freischaffende Berufstätige, in der Lage, sich
 
 > „Wenn irgend möglich, sollte man den Arbeitslohn nach Maßeinheiten bezahlen, die auf 
 > das Talent oder auf die Arbeit der betreffenden Person ganz genau zugeschnitten sind.“ \
-> -- *Andy Warhol*[^andy-paypertalent]
+> -- *Andy Warhol* [^andy-paypertalent]
 
 [^andy-paypertalent]: [@Warhol:vonAbisZ, pp.99]
 
@@ -283,7 +284,7 @@ Ich finde, dass sie prima
 In unsere Gesellschaft passen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
-- [Text:](http://lyrics.wikia.com/Funny_Van_Dannen:Künstler_Sind_Nicht_überfüssig) **Fanny van Dannen** - *Künstler sind nicht überflüssig*
+- [Text:](http://lyrics.wikia.com/Funny_Van_Dannen:Künstler_Sind_Nicht_Überflüssig) **Fanny van Dannen** - *Künstler sind nicht überflüssig*
 - aus dem Album: *Basics* (1996)
 
 

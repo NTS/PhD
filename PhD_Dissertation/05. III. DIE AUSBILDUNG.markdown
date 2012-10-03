@@ -6,10 +6,8 @@
 
 [^formfunktion]: TODO
 
+
 **Kunststudium am Beispiel der Bauhaus-Universität Weimar**
-
-
-
 
 Die Bauhaus-Universität Weimar besteht aus vier Fakultäten: *Architektur*, *Medien*, *Gestaltung* und *Bauingenieurwesen*. Studierenden soll es hier möglich sein, interdisziplinär zu 
 studieren und Projekte sowie Fachkurse auch in anderen Fakultäten zu besuchen. Neben *Visueller Kommunikation*, *Produktdesign*, *Kunst für das Lehramt an Gymnasien* und dem postgradualen *Programm Kunst im öffentlichen Raum und neue künstlerische Strategien* wird an der Fakultät Gestaltung die *Freie Kunst* in erster Linie nach dem *Montessori*-System gelehrt. 
@@ -41,7 +39,7 @@ In der Anlage *Der 5-Jahres-Plan* werden diese Kurse ausführlich und mit Beispi
 
 ## Be an Art Student, be a Master, be a Doctor! [^student]
 
-[^student]:
+[^student]: TODO
 
 In Folge der Reform der Hochschulabschlüsse in Europa (des sogenannten *Bologna-Prozesses*), und der damit verbundenen Anpassung an die aus den USA und Großbritannien bekannten
 Klassifizierungen, vermehrten sich die Angebote an akademischen Master-Programmen (*MFA*)für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
@@ -131,9 +129,8 @@ Durch Frauen mit Diplom
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Text: ***Rainald Grebe*** - *Akademikerinnen*
+- [Text:](http://lyrics.wikia.com/Rainald_Grebe_Und_Die_Kapelle_Der_Vers%C3%B6hnung:Akademikerinnen) ***Rainald Grebe*** - [*Akademikerinnen*](http://youtu.be/wY-CPr8JFGw)
 - aus dem Album *Volksmusik* (2007)
-- Lyrics: <http://lyrics.wikia.com/Rainald_Grebe_Und_Die_Kapelle_Der_Vers%C3%B6hnung:Akademikerinnen>
 
 
 
@@ -316,14 +313,12 @@ Ist uns egal wenn euch das stört
 weil dieser Song hier uns gehört (3x)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Text: ***Saalschutz*** - *Leerer, Inhaltsloser Ausdruck*[^saalschutz-video]
+- Text: ***Saalschutz*** - [*Leerer, Inhaltsloser Ausdruck*](https://www.youtube.com/watch?v=YO-nZ7CDfYQ)
 - aus dem Album:  *Das ist nicht mein Problem*, 2004
 - Lyrics: Transkript NTS
-- Video: <https://www.youtube.com/watch?v=YO-nZ7CDfYQ>
 
 
-
-##  Akademie trifft Kunstmarkt[^akademie]
+##  Akademie trifft Kunstmarkt [^akademie]
 
 [^]
 
@@ -336,7 +331,7 @@ Abschluss.
 Das Ausstellen und der Ausstellungsbetrieb gehören unbedingt zum Ausbildungsprofil, sozusagen als Einübung in die Realität und Zukunft, aber auch als Finale eines Werkes. Der Bezug zum Raum und Ort, die Frage was verträgt sich mit den anderen Arbeiten in einer Gemeinschaftsausstellung, Arbeits- und Terminplanung, Presse, Führungen, und das Sprechen über die eigene Arbeit müssen erlernt werden. So was kann man gut in den dafür vorgesehenen eigenen oder für den Zweck umgewandelte Räume innerhalb der BUW üben. Aus Raummangel aber entwickelte sich die Geschichte der Präsentation an der Bauhaus Universität auf eine sehr eigenartiger Weise.
 
 
-##  "a room of your own"[^akademie]
+##  "a room of your own" [^akademie]
 
 [^]
 
@@ -635,10 +630,7 @@ Suck suck suck my art-hole
 Suck suck suck my art-hole
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Text: ***CSS*** - *Artbitch*
-- Lyrics: <http://lyrics.wikia.com/CSS:Artbitch>
-- Video: <https://youtube.com/watch?v=BFuVJDz5XuU>
-	
+- [Text:](http://lyrics.wikia.com/CSS:Artbitch) ***CSS*** - [*Artbitch*](https://youtube.com/watch?v=BFuVJDz5XuU)	
 
 
 
