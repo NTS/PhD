@@ -1,4 +1,3 @@
-curator
 # Where do we go from here?[^gofromhere] *(Outro)*
 
 [^gofromhere]: (Song by Yoko Ono aus dem Album)
@@ -258,4 +257,3 @@ und permanent auf dieser Ebene geblieben.
 
 
 **Bilder:** Barking Dogs United: FX I, FX II, FX III, 2008: [BDU: Bender Flip Size], [BDU: Brain Equalizer],[BDU: Creative Reverb],[BDU: Influence Modifier], [BDU: Lust Station], [BDU: Mental Core], [BDU: Range-r],[BDU: Reliability],[BDU: Thinking Booster]
-

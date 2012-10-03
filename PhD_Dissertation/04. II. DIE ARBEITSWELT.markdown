@@ -37,7 +37,7 @@ Der Künstler ist nun wie andere freischaffende Berufstätige, in der Lage, sich
  
 
 
-## Künstler = Autor + Produzent TODO:
+## Künstler = Autor + Produzent TODO
 
 **Der Kunstproduzent nach Walter Benjamin**
 
@@ -56,7 +56,7 @@ Kreativität und Produktivität werden miteinander vermischt.
 Die Verhältnisse zwischen Kunst und Arbeit sind eigentlich nicht neu und dennoch erscheinen zurzeit unzählige Bücher und Reader, die sich unter Titeln wie *Work, Work,
 Work. A Reader on Art and Labour* [@Work:Reader] oder *Are you working too much: Post-Fordism, Precarity and the Labor of Art* [@Bifo:Workhard] mit den 
 Veränderungen in diesem Zusammenhang beschäftigen. Das ist an sich ein bemerkenswertes Phänomen. Als Ausgangspunkt halte ich die Einstellung Benjamins in seiner 
-Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* (-@Benjamin:Autor) in Paris für immer noch aktuell. In seiner Rede spricht er davon, dass der Autor 
+Ansprache *Der Autor als Produzent* im *Institut zum Studium des Faschismus* [-@Benjamin:Autor] in Paris für immer noch aktuell. In seiner Rede spricht er davon, dass der Autor 
 sich nicht in die Politik einmischen sollte, sondern in den Gebieten seine Kraft ausüben müsse, in denen er kompetent sei. Aber was ist und was gehört zu dieser Kompetenz? Wie viel kann 
 man davon beigebracht bekommen, weitergeben oder lehren? 
 
@@ -65,7 +65,7 @@ Die Qualität des Kunstwerkes darf nicht wegen der politischen Intention nachlas
 Man muss darüber informiert sein, wo und wie man (selbst) publizieren oder auch zu einem kooperativen Mitglied werden kann. 
  
 Wo fliesst die Kreativität (oder Leistung) hin, und was passiert mit der individuellen Anerkennung, wenn Künstler in Kooperationen oder als Berater 
-und Denkfabrikanten *think tanks*) bei Konzernen eingestellt werden? Dient er als „Haus(-und-Hof?)-Künstler(/Narr?)“ oder geht es hier womöglich
+und Denkfabrikanten (*think tanks*) bei Konzernen eingestellt werden? Dient er als „Haus(-und-Hof?)-Künstler(/Narr?)“ oder geht es hier womöglich
 um eine Stelle mit monatlicher Auszahlung eines Lohns? Der Zustand des Künstlers heute ist dem des Autors und anderer kreativ orientierter Menschen ähnlich. 
 Die Entscheidung heute wäre: selbst viel mehr Arbeit zu haben, dafür aber eine höheren Anteil der Einnahmen behalten zu können. 
 
@@ -137,13 +137,13 @@ Das Businessmodel wird immer klarer. Momentan sieht es so aus, als wäre ein Kü
 Dadurch wird er genau der angepasste Unternehmer in einem System, an das er gar nicht glaubt, aber als 
 Vorbild inszeniert. Viele anerkannte Künstler werden ständig durch Interviews über ihren „Betrieb“ in 
 Kunstmagazinen wie z.B. *Monopol* dargestellt. Man muss den Markt reichlich und an diversen Stellen gleichzeitig beliefern. Manchmal passiert dies sogar sehr schnell, 
-zu sehen am Beispiel Jonathan Meeses, wie er sich selbst im *WDR* Dokumentarfilm [*Jonathan Meese - Eine Ameise der Kunst*](http://www.youtube.com/watch?v=Y_z41k65Sns&feature=related) 
+zu sehen am Beispiel Jonathan Meeses, wie er sich selbst im *WDR* Dokumentarfilm [*Jonathan Meese - Eine Ameise der Kunst*](http://youtube.com/watch?v=Y_z41k65Sns) 
 darstellt. Mit einem Pinselstrich überfliegt er mehrere Leinwände gleichzeitig, Tonbüsten werden ihm von Assistenten vorgefertigt, damit er im Anschluss ein paar Eingriffe macht 
 und 'fertig ist der Lack', denn der Galerist wartet auf die Ware. Es sind viele Museen und Galerien sowie Messen, auf denen neue Arbeiten gezeigt werden müssen
 und der Künstler produziert sie fast wie am Fließband. Meese steht stellvertretend auch als Vorbild für junge Künstler und spiegelt damit vielleicht das Bedürfnis der 
 Gesellschaft nach „durchgeknallten Künstlertypen“ wider, die das unangepasste Genie als Unterhaltungsmodell verkörpern.  
 
-[^fn-erfolgmeans]: damit ist der wirtschaftliche Erfolg sowohl wirtschaftlich, als auch der Sozialstatus gemeint.
+[^fn-erfolgmeans]: damit ist der Erfolg sowohl wirtschaftlich, als auch der Sozialstatus gemeint
 
 
  
@@ -191,7 +191,7 @@ Neben- und Materialkosten bezahlen, wie sie überleben, ohne ein reguläres Eink
 
 ## *Where's My Money?*[^title-wheresmymoney]
 
-[^title-wheresmymoney]: *TC* - Where's My Money (Caspa Remix) <http://www.youtube.com/watch?v=ZJ04B5iO1tc>
+[^title-wheresmymoney]: *TC* - Where's My Money (Caspa Remix) <http://youtube.com/watch?v=ZJ04B5iO1tc>
 
 
 > „Was ich an meinem Beruf am meisten mag? Ich liebe es am meisten, eine Pressemitteilung per Mail von den Kuratoren, 
