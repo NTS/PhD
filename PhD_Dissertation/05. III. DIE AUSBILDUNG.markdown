@@ -7,7 +7,7 @@
 **Kunststudium am Beispiel der Bauhaus-Universität Weimar**
 
 
-[^LineToDot] : Lied von [*Human Dollz*,] <http://www.humandollz.com/av_en.html> 2009
+[^LineToDot] : Lied der *Human Dollz*, 2009 <http://www.humandollz.com/av_en.html>
 
 
 Die Bauhaus-Universität Weimar besteht aus vier Fakultäten: *Architektur*, *Medien*, *Gestaltung* und *Bauingenieurwesen*. Studierenden soll es hier möglich sein, interdisziplinär zu 
@@ -42,7 +42,7 @@ zu können -- versuche ich seit 2007, anfangs allein und seit 2011 zusammen mit 
 
 
 In Folge der Reform der Hochschulabschlüsse in Europa (des sogenannten *Bologna-Prozesses*), und der damit verbundenen Anpassung an die aus den USA und Großbritannien bekannten
-Klassifizierungen, vermehrten sich die Angebote an akademischen Master-Programmen (*MFA*)für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
+Klassifizierungen, vermehrten sich die Angebote an akademischen Master-Programmen (*MFA*) für Künstler. Inzwischen gibt es viele Universitäten und Kunstakademien,
 vor allem in Westeuropa, (aber zunehmend auch im Osten), die solche Aufbau-Studienprogramme für die Kunstpraxis anbieten. Darunter befinden sich viele, die 
 sogar als Hauptthema *Kunst im öffentlichen Raum* wählen und gewählt haben. Einige bieten den öffentlichen Raum als Schwerpunkt an, andere das Kuratorische. Gern verwenden sie den 
 Ausdruck *Neue künstlerische Strategien*. Im Grunde kann das eigentlich alles bedeuten und explizit nur: kein “Bild an der Wand”. Unter “Neue künstlerische Strategien” wird 
@@ -137,7 +137,8 @@ Durch Frauen mit Diplom
 
 ## *Grounded Practical Theory* [^practicaltheorie]
 
-[^practicaltheorie]: Grounded Practical Theory, ein Buch von Robert T. Craig <https://en.wikipedia.org/wiki/Robert_T._Craig_(scholar)>
+[^practicaltheorie]: Grounded Practical Theory, ein Buch von Robert T. Craig \
+ <https://en.wikipedia.org/wiki/Robert_T._Craig_(scholar)>
 
 Ein Schulungssystem wie in Weimar versucht einerseits, die Studenten umfangreich mit den verschiedenen Möglichkeiten vertraut zu machen,  
 sowie darum gemeinsame Sprachcodes auf der Grundlage kollektiver historischer Basis zu schaffen, andererseits, die persönliche  
@@ -191,7 +192,7 @@ dem wissenschaftlichen Bereich bekannt sind. Was machen diese Formen für Künst
 Können und wollen Künstler Theorie als Praxis betreiben?
 
 Eine E-Mail in meiner Eingangspost, die ich ursprünglich ohne sie zu lesen löschen wollte, hat jedoch durch ihren Titel meine Aufmerksamkeit 
-geweckt: "Placebo für die Kunst gesucht, um die Effekte der Kunst auf das Gesundheitswesen zu studieren.“ Das *Behring-Institut für medizinische 
+geweckt: „Placebo für die Kunst gesucht, um die Effekte der Kunst auf das Gesundheitswesen zu studieren.“ Das *Behring-Institut für medizinische
 Recherche* das in Deutschland und in den Niederlanden aktiv ist, sucht nach Kunstprojekten, die zu Folgendem passen: „Die Ergebnisse vieler Studien 
 zeigen ein positives Ergebnis in Bezug auf die Behandlung von Patienten und zeigen, dass Kunst zur Reduktion der Medikamente für den Patienten 
 verwendet werden kann, zur Verkürzung des Patientenaufenthalts in Krankenhäusern, zur Verbesserung der Arbeitsbedingungen führt und die Arzt / Patient 
@@ -230,7 +231,7 @@ für die Betrachter. Möglicherweise findet das visuelle Konzept des Künstlers 
 oder eine Beobachtung, die in Worte gefasst wurde, zu welcher der Künstler ein *Bild* (im Sinne von *Image*) erstellt hat. Ist das Untermauern der visuellen Arbeit mit Worten, 
 die die Intention des Künstlers erläutern, nur eine Mode oder eine iterative Entwicklung des künstlerischen Werdegangs, die so mehr und mehr gefördert wird? Befinden wir 
 uns in dieser Entwicklung, weil die Intention nicht mehr nur allein aus der praktischen Arbeit klar abzulesen ist oder weil Künstler das Wort auch als visuelles Material betrachten?
-Kunst ist natürlich ein Thema für Philosophen, es ist also kein Wunder, dass Künstler sich auch zurück an die Philosophie lehnen, oder wie Adorno sagt: „ ... genuine ästhetische 
+Kunst ist natürlich ein Thema für Philosophen, es ist also kein Wunder, dass Künstler sich auch zurück an die Philosophie lehnen, oder wie Adorno sagt: „... genuine ästhetische
 Erfahrung muss Philosophie werden oder sie ist überhaupt nicht.“ [-@Adorno:GS7, pp. 197]
 
 
