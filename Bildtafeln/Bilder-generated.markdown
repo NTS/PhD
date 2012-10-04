@@ -309,7 +309,7 @@ Grafik -- Quelle: Itten, Johannes : Mein Vorkurs am Bauhaus. Otto Maier Verlag, 
 
 
 
-## [Thomas Hirschhorn: Buchumschlag] 
+## [Hirschhorn: Buchumschlag] 
 \vfill
 ![Bild](pix/thomas_hirschhorn_booksleeve.jpg) \
 \vfill
@@ -324,7 +324,7 @@ Buchumschlag -- Quelle: Wulffen, Stephan Schmidt (Hrsg.) : The Artist as Public 
 
 
 
-## [Thomas Hirschhorn: Seite mit Text] 
+## [Hirschhorn: Seite mit Text] 
 \vfill
 ![Bild](pix/thomas_hirschhorn_Buch_seite.jpg) \
 \vfill
