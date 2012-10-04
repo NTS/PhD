@@ -616,11 +616,11 @@ Bildschirmfoto -- Quelle: e-flux
 \vfill
 
 
-Manifest der Künstlergruppe -- Quelle: BDU
+Manifest -- Quelle: BDU
 
 
 
-© Barking Dogs United, 2008
+
 \vfill
    
 \pagebreak[4]
