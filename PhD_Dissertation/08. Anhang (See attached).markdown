@@ -6,7 +6,7 @@
 
 **Deutsche Fassung -- Transkription (volle Version)**
 
-\small
+\footnotesize
 
 > SOHN: „ Sei nicht deprimiert Dad, hier das ist ein Geschenk für dich.“
 
@@ -163,9 +163,8 @@
 	
 [Originaler englischer Titel: *A Picture's Worth A Thousand Bucks*, Family Guy, Fox, USA](http://de.americandad-familyguy.wikia.com/wiki/Knallbunt)
 
-	
-	
-
+\pagebreak
+\small
 	
 ## Charlotte Young: "Artist’s Statement" 
 
