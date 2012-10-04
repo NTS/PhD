@@ -1,6 +1,6 @@
 # Quellen
 
-## Weitere Literatur
+### Weitere Literatur
 
 - @Broeckling:Gegenwart
 - @Fergusion:Discourses
@@ -39,7 +39,7 @@
 - @Zizek:Liebe
 
 
-## Weitere Links 
+### Weitere Links
 
 - <http://www.text-raum.de/kultur_museen_wissenschaft_openmuseum/kunst-ist-kommunikation-museen-und-web-20>
 - <http://parapluie.de/archiv/kommunikation/kunst/parapluie-kommunikation_kunst.pdf>
@@ -83,5 +83,5 @@
   - <http://www.asomatic.net/classes/readings/IsThereLoveTelematic_Ascott.pdf>
   
   
-## Bibliographie
+### Bibliographie
 

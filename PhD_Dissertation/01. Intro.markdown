@@ -32,7 +32,8 @@ Promotionsstudiengang PhD Kunst und Design / Freie Kunst / Medienkunst mit dem A
 eine besondere Grundlage im Umgang mit meinem entwickelten Lehrprogramm, welches das Leben nach dem Studium und den Übergang 
 von der Akademie zum Berufsleben darstellt und analysiert und die Studierenden auf diese Phase vorbereitet. 
 
-[^fn-geschlechtsprache]: Bemerkungen zur geschlechtsungerechten Sprache: Das Wort *Künstler* kommt in dieser Dissertation ca. 500 mal vor. Wenn ich *Künstler*, *Student* oder *Kurator* schreibe, meine ich selbstverständlich sowohl Künstler als auch *„KünstlerInnen“*, *„StudentInnen“* und *„KuratorInnen“*.
+[^fn-geschlechtsprache]: Bemerkungen zur geschlechtsungerechten Sprache: \
+Das Wort *Künstler* kommt in dieser Dissertation ca. 500 mal vor. Wenn ich *Künstler*, *Student* oder *Kurator* schreibe, meine ich selbstverständlich sowohl Künstler als auch *„KünstlerInnen“*, *„StudentInnen“* und *„KuratorInnen“*.
 
 Die Welt um den werdenden Künstler wird immer komplexer. Die Vermittlung der eigenen Kunst sowie Nutzung und Kombination unterschiedlichster 
 kommunikativer und kollaborativer Medien und Technologien ist inzwischen zu einem untrennbaren Teil des heutigen Künstlerdaseins geworden. Meine Erfahrungen 
