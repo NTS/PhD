@@ -131,8 +131,8 @@ Durch Frauen mit Diplom
 
 - [Text:](http://lyrics.wikia.com/Rainald_Grebe_Und_Die_Kapelle_Der_Vers%C3%B6hnung:Akademikerinnen) ***Rainald Grebe*** - [*Akademikerinnen*](http://youtu.be/wY-CPr8JFGw)
 - aus dem Album *Volksmusik* (2007)
-
-
+  
+      
 
 
 ## *Grounded Practical Theory* [^practicaltheorie]
@@ -181,7 +181,8 @@ Die Künstleridentität und Zugehörigkeit hingegen sind im Wandel und werden ko
 **Zur Entstehung der Akademischen Künstler**
 
 
-[^whatsthediff]: Dr. Dre "What's The Difference" (feat. Eminem, Phish, Xzibit) <http://azlyrics.com/lyrics/drdre/whatsthedifference.html> 
+[^whatsthediff]: Dr. Dre "What's The Difference" (feat. Eminem, Phish, Xzibit) \
+ <http://www.myvideo.de/watch/6547513/dr_dre_whats_the_difference> 
 
 
 Es entwickeln sich neue Positionen in der Debatte Kunst und Wissenschaft angesichts zunehmender PhD-Programme an Kunsthochschulen, und spürbarem Anstieg in der Anzahl
@@ -247,7 +248,7 @@ Recht und Anerkennung verlangen und erhalten beide. In dem Buch *The artist as p
 Public Space – the Space of Public Life!* [@Hirschhorn:PublicSpace] genannt.  
 
 
-**Bilder:** [Thomas Hirschhorn: Buchumschlag], [Thomas Hirschhorn: Seite mit Text], [Thomas Hirschhorn: Mindmap]
+**Bilder:** [Hirschhorn: Buchumschlag], [Hirschhorn: Seite mit Text], [Hirschhorn: Mindmap]
 
 
 Als Ausstellungseinladung hat Hirschhorn eine Art visualisierten Text über seinen künstlerischen Gedankenwerdegang publiziert. Der Beitrag gibt seine Recherche zur Arbeit selbst 
@@ -318,13 +319,14 @@ weil dieser Song hier uns gehört (3x)
 - aus dem Album:  *Das ist nicht mein Problem*, 2004
 - Lyrics: Transkript NTS
 
+\pagebreak
 
 ## *Opposites Attract* [^PaulaAbdul]
 
 **Akademie trifft Kunstmarkt** 
 
 
-[^PaulaAbdul]: Lied bei Paula Abdul, aus der Album *Forever Your Girl* 1989
+[^PaulaAbdul]: Lied bei Paula Abdul, aus dem Album *Forever Your Girl*, 1989
 
 
 Als ersten Schritt haben sich alle Kunstakademien innerhalb der *Hochschulrektorenkonferenz der Deutschen Kunsthochschulen* zusammen [gegen die von *Bologna* gefordeten Einführungen eines B.A.verwahrt](http://www.sueddeutsche.de/bildung/1.1441136) und das fünfjährige Studiumsformat beibehalten, denn es wäre verwegen, einen Bachelor-Künstler
@@ -363,10 +365,13 @@ Erste Impulse in Richtung der Gründung einer Uni-Galerie gab es im Jahr 1999, a
 
 [^fn-Rundgang]: ersetzte die Jahresschauen der Fakultäten, wie dem *Rundgang* der Fakultät Gestaltung
 
-**Bild:** [Bauhaus Essentials I]
+**Bild:** [Bauhaus Essentials]
 
+\pagebreak
 
 ## Sind Kunstmarkt und Kunststudium kompatibel?
+
+\small
 
 **Eine Podiumsdiskussion** 
 
@@ -510,13 +515,15 @@ Der Erfurter Galerist Dirk Teschner präsentierte mehrere BUW Alumni, u.a. auch 
 Kunsthochschule Kiel* und die *Akademie der Bildenden Künste Nürnberg* vertreten gewesen, 2012 kamen die *Burg Giebichenstein*, *Kunsthochschule Halle*, die *Kunsthochschule Kassel*, die *UdK Berlin*, 
 die *HfG Offenbach* sowie die *Weißensee Kunsthochschule Berlin* hinzu.
 
+\normalsize
+\pagebreak
 
 ## *DasIntroDilemma* [^title-introdilemma]
 
 [^title-introdilemma]: Dendemann -- *DasIntroDilemma*, aus dem Album *DasSchweigenDilemma* \
 <http://www.lastfm.de/music/Dendemann/DasSchweigenDilemma/DasIntroDilemma>
 
-Was bedeutet es, so früh auszustellen? Während meines Studiums Ende der 1980er Jahre es noch verboten auszustellen, solange man eingeschrieben war . Heute machen die Erstsemestler schon eine 
+Was bedeutet es, so früh auszustellen? Während meines Studiums Ende der 1980er Jahre war es noch verboten auszustellen, solange man eingeschrieben war . Heute machen die Erstsemestler schon eine 
 Präsentation ihrer Ergebnisse. Was passiert mit dem sicheren Labor, wo man auch ruhig einmal scheitern kann? Wird der Erfolg daran gemessen, wie gut eine Idee zur *deadline* präsentiert 
 wurde? Überwiegt dies und wird wichtiger, als Prozesse zu beobachten? Ist es möglich, den Studierenden beizubringen, wie sie die Dinge nach dem Studium ‚besser‘ angehen können?
 
@@ -561,11 +568,11 @@ gemacht haben, aber auch Studenten, die an anderen Fachkursen teilgenommen haben
 
 - Cosima Göpfert -- eröffnete ihr Atelier als Laden in der Stadtmitte und betreibt das Kunstkartell zur Vermittlung und Verkauf von Kunst.
 
-- Maxie Götze - Initiative Marke.6 und Leitung und Koordination vom Kiosk.6 nach der Übergabe an den StoKo (und damit an die Universität) im Jahr 2011.
+- Maxie Götze -- Initiative Marke.6 und Leitung und Koordination vom Kiosk.6 nach der Übergabe an den StoKo (und damit an die Universität) im Jahr 2011.
 
 - Christoph Kraus hatte den *Kunstraum Kraus* in der Marienstr. eröffnet, Der Anfang war gut, aber es fehlte die Möglichkeit während des Studiums den Ort ernsthaft zu betreiben. Zusammen mit Fabian Fontain und Marc Aaron Faesser, hat er beim Kulturfonds Geld acquiriert, um während der *dOCUMENTA (13)* in Kassel [gemeinsames Kunstobjekt](http://www.tlz.de/web/zgt/kultur/detail/-/specific/Bauhaus-Studenten-zeigten-Installation-zur-Documenta-1144759424) zu installieren.
 
-- Lucian Patermann - Initiative Marke.6, mehrere Preise und in allen Bauhaus Essentials (1-3) von der Jury unter die ersten 20 Plätze plaziert, davon ein Mal gut genug, um zur Preview Berlin zu gelangen.
+- Lucian Patermann -- Initiative Marke.6, mehrere Preise und in allen Bauhaus Essentials (1-3) von der Jury unter die ersten 20 Plätze plaziert, davon ein Mal gut genug, um zur Preview Berlin zu gelangen.
 
 - Phillip Valenta -- entwickelte als Strategie die *Philipp Valenta Holdings* und produziert Luxus-Kunst-Objekte.
 

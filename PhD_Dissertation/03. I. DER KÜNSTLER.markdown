@@ -5,7 +5,7 @@
 
 **Was, oder wer ist ein Künstler?**
 
-[^title-whereismymind]: Song der *The Pixies*, aus dem Album *Surfer Rosa* (1988)
+[^title-whereismymind]: Song der *The Pixies*, aus dem Album *Surfer Rosa* (1988) <http://www.youtu.be/RCD14IrOcIs>
 
 > „Ein Künstler ist jemand, der Sachen produziert, die keiner haben muss. Er nimmt -- aus irgendeinem Grund -- jedoch an,
 > es sei eine gute Idee, seine Mitmenschen mit Kunst zu versorgen.“ \
