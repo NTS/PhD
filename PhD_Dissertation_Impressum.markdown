@@ -31,15 +31,8 @@ Ich versichere ehrenwörtlich, dass ich nach bestem Wissen die reine Wahrheit g
 
 # Impressum
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ { .editorial-content }
 
-TODO:
-
-This is the local imprint for the dissertation.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Diese Dissertation enthält Kapitel und Texte die während der Recherche in anderen zusammenhänge publiziert worden sind oder als Vorträge gehalten worden. Für diese Dissertation dienen sie als Quellen bzw. sind unwesentlich modifiziert worden.
+Diese Dissertation enthält Kapitel und Texte die während der Recherche in anderen Zusammenhängen publiziert worden sind oder als Vorträge gehalten worden. Für diese Dissertation dienen sie als Quellen bzw. sind unwesentlich modifiziert worden.
 
 
 ## Technische Werkzeuge und Hilfsmittel
@@ -55,3 +48,17 @@ Diese Dissertation enthält Kapitel und Texte die während der Recherche in ande
 - [`papermill`](https://github.com/eins78/papermill), [`git-o-mat`](https://github.com/eins78/git-o-mat)
 - client-side hardware and operating system from [Apple](http://apple.com)
 - [TextMate2](http://macromates.com)
+
+
+~~~~~ {#some-space}
+
+
+
+
+~~~~~
+
+Weimar, September 2012
+
+~~~~~ {#some-space}
+
+~~~~~
