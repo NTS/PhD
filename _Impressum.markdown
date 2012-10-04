@@ -3,6 +3,7 @@
 
 Diese Anlage ist Teil der Dissertation 
 
+
 > Als ich Künstler war *oder:*  \
 > Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:*  \
 > der Künstler als Arbeiter
@@ -13,7 +14,6 @@ Diese Anlage ist Teil der Dissertation
 > Matrikel Nr. 51163  
 
 > Betreuer: Prof. Karl Schawelka ; Prof. Norbert W. Hinterberger  
-
 
 und beruht zum Teil auf Kapitel und Texten, die während der Recherche und darauf bezogen in anderen zusammenhängen publiziert worden sind oder als Vorträge gehalten worden. Für die vorliegende Dissertation dienten sie als Quellen oder wurden erheblich modifiziert.
 
@@ -27,4 +27,12 @@ und beruht zum Teil auf Kapitel und Texten, die während der Recherche und darau
 
 - KIOSK09-Katalog
 - Der 5-Jahres-Plan
+
+
+
+
+
+
+
+Weimar, September 2012
 
