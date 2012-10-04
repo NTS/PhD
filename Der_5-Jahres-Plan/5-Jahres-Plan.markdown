@@ -471,7 +471,7 @@ Der Name machte deutlich, dass dort, ebenso wie im anderen Projektteil *Hotel Mi
 der Institution *Kiosk of Contemporary Art*. Der Kiosk der vielen Namen, wurde schließlich zum *KoCA Inn*. Als sich die Kooperation mit der Gruppe *URBANDÆ* weiter 
 entwickelte und sich mit ihr das Konzept zu einer *favela* wandelte, traten mehrere Fragen auf: Ist dieser Kiosk einer von vielen *social-community human 
 plastics*, wie etwa die Aktionen von *WochenKlausur*, oder stellt er ein neues Experiment einer interdisziplinären Vereinigung von Architektur, 
-Urbanistik, Labor und Kunstdar? Was würde der Effekt einer solchen künstlich kreierten, temporären *favela* sein? Ist es ein Spektakel der Unterschicht oder für die Armen? 
+Urbanistik, Labor und Kunst dar? Was würde der Effekt einer solchen künstlich kreierten, temporären *favela* sein? Ist es ein Spektakel der Unterschicht oder für die Armen? 
 Könnte der Kiosk ein falsches Bild von Armut reflektieren? 
 
 Ariella Azoulay schreibt in ihrem Buch *Training for ART*, dass, auch wenn der öffentliche Raum von öffentlichen und privaten Stellen verwaltet wird, beispielsweise der 
