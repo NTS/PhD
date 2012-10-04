@@ -1,11 +1,12 @@
-# Where do we go from here?[^gofromhere] *(Outro)*
+# *Where do we go from here?* [^gofromhere] *(Outro)*
 
-[^gofromhere]: (Song by Yoko Ono aus dem Album)
+**Die Gegenwart revisited:**
+
+ 
+[^gofromhere]: (Song von Yoko Ono aus dem Album *Rising*)
 
 
-Die Gegenwart revisited: 
-
-Wenn die Kritik aus dem *New York* Magazin *How to Make it in the Art World* [Link](http://nymag.com/arts/art/rules/)
+Wenn die Kritik aus dem *New York* Magazin [*How to Make it in the Art World*](http://nymag.com/arts/art/rules/)
 ein sehr zynisches Vademecum geliefert hat (*Who to know, where to go* etc.) so hat sie
 aber auch ein sehr gutes Bewertung des Zustands des Kunstmarkts geboten, der in einen Dämmerungszustand zu sinken scheint. 
 Dies liegt daran, dass die Künstler nicht mehr mitmachen, weil sie wirklich daran hängen, was man von ihrer Arbeit hält, 
@@ -13,12 +14,13 @@ auch wenn sie in die übliche Falle hereintappen (ich will, dass alle mich liebe
 
 
  
-## 10 Years After[^fn-10yafter]
+## *10 Years After* [^fn-10yafter]
+
+**Bemerkungen zum akademischen-  bzw. theoretischen Künstler**
+
 
 [^fn-10yafter]: (Bandname)
 
-
-**Bemerkungen zum akademischen-  bzw. theoretischen Künstler**
 
 Man muss bedenken, dass im Laufe der letzten zehn Jahre die *Bologna*-Reform die Institutionen durchlief und eine Beschleunigung des Studiums sowie das Herausschicken von fachlich 
 „unreifen“ Absolventen hervorbrachte. In den Medien werden dann diese Alumni so beschrieben: „Die Unternehmen brauchen Persönlichkeiten, nicht nur Absolventen.“ (Präsident der Hochschulrektorenkonferenz, Horst Hippler in der [Süddeutschen Zeitung Online vom 15.08.2012](http://www.sueddeutsche.de/1.1441136)). 47 europäischen Staaten setzten diese Reform dann in 
@@ -54,10 +56,10 @@ Was für die Künstler gilt, gilt auch für die Institutionen. Es gibt immer meh
 **Bilder:** [Marc Bijl: Never Mind The Politics], [FUCK THE CURATOR]
 
 
-## A Room Of Your Own* [^title-woolf]
+## *A Room Of Your Own* [^title-woolf]
 
+**Bemerkungen zum *Netz-Künstler*	
 
-**Bemerkungen zum *Netz-Künstler***	
 	
 > „Ich kann überall arbeiten. Im Bett, im Zug, in der Badewanne. Mein Kopf ist mein Atelier. \
 > -- *Timm Ulrichs* [zitiert nach: @Stoeber:Mein-Kopf]
@@ -70,7 +72,7 @@ Die Vermittlung liegt in der eigenen Hand. Natürlich führt das auch zu vielen 
 der Arbeiten, usw. Sind es die Marktkräfte? Ich glaube, sie sind noch stark genug. 
 
 
-**Bemerkungen zum **Berufskünstler***
+**Bemerkungen zum *Berufskünstler***
 
 Man sollte auch nicht immer nur mit der *deadline* im Kopf arbeiten. Künstler stellen fast nur unter dem Druck des Abgabetermins etwas fertig. In vielen Fällen funktioniert das auch sehr gut, man kann fast gar nicht anders. Als professioneller Künstler muss er aber lernen, eine größeres Bewusstsein 
 für den gesamten Betrieb zu entwickeln und nicht nur auf das Werk selber, und für den Zeitpunkt der jeweiligen Ausstellungen zu blicken und zu planen. Die nächsten zwei, drei Projekte, die manchmal, je größer der Erfolg 
@@ -78,7 +80,7 @@ auch parallel zueinander laufen können, sollten gleichfalls bedacht werden. Es 
 
 
 
-**Bemerkungen zum **Kunst-Betrieb*** 
+**Bemerkungen zum *Kunst-Betrieb*** 
 
 Die Kunstwelt hat 2008 während der großen Wirtschaftskrise erstaunliche Stabilität bewiesen, der Wert der meisten Werke blieb erhalten. Zahllose Biennalen gibt es schon; mittlerweile wurde das nach 
 Nationalität getrennte Pavillonkonzept der Biennale in Venedig schon mehrfach in Frage gestellt. Die Künstlerin Esther Shalev-Gerz meinte schon 2004, dass die Künstlerkooperationen und Künstlerkooperativen 
@@ -91,7 +93,7 @@ Die diesjährige *VII. Berlin Biennale (BB7)* war eine fast reine politische Ver
 
 
 
-## The Process is the product![^process-product]
+## *The Process is the product!*[^process-product]
 
 [^process-product]: Album by Genesis P. Orridge
 
@@ -121,7 +123,7 @@ falls sie zu Lebenszeit scheitern.
 
 \pagebreak
 
-## Zuviel Zeit?
+## *Zuviel Zeit?*
 
 \small
 
@@ -207,9 +209,9 @@ kommt per Post an? Ich versteh den Ansatz nicht (...)
 
 
 
-# The B-Side (Outro #2)
+# The B-Side *(Outro #2)*
 
-22 August 2012
+`22 August 2012`
 
 Ich bin im Atelier am Schreiben. Ich überlege, was heisst das, wenn Künstler sich der Theorie widmen. Für die Künstler wird er zu einem Theoretiker, für die Theoretiker gilt er als ein Künstler.
  
