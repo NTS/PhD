@@ -44,7 +44,7 @@ vorkommen mag, zu unterbinden. Erstens haben wir eine kommunale Galerie ausgesuc
 Information erhalten haben." 
 
 
-Im Sommer 2012 hat einer der wenigen künstlerischen Mitarbeiter der Bauhaus-Universität mit unbefristeter Stelle, mit Unterstützung vom Thüringer Ministerium für Arbeit, Wirtschaft und Technologie, eine Galerie in Berlin Mitte unter dem Namen [*OCA Gallery*](http://www.oca-gallery.com) eröffnet. An dieser Stelle muss man erwähnen, dass das Karussell ‚Kunstbetrieb‘ eigentlich fast nur intern funktioniert. In so gut wie allen Jurys sitzen Kuratoren, Galeristen, Museumsleute
+Im Sommer 2012 hat einer der wenigen künstlerischen Mitarbeiter der *Bauhaus-Universität* mit unbefristeter Stelle, mit Unterstützung vom Thüringer Ministerium für Arbeit, Wirtschaft und Technologie, eine Galerie in Berlin Mitte unter dem Namen [*OCA Gallery*](http://www.oca-gallery.com) eröffnet. An dieser Stelle muss man erwähnen, dass das Karussell ‚Kunstbetrieb‘ eigentlich fast nur intern funktioniert. In so gut wie allen Jurys sitzen Kuratoren, Galeristen, Museumsleute
 und wer nicht *en vogue* ist, kriegt auch kein Stipendium. Selbst in sog. anonymen Wettbewerben ist man zumeist informiert, wer wer ist oder was eingereicht wurde.
 Studenten eröffnen Galerien, die Akademie stellt in Ministerien aus, erst Kultus, dann Wirtschaft. Die Fakultät soll Drittmittel akquirieren. 
 Die Beziehungen zwischen Künstler und seinem Dasein sind stets Objekt der eigenen Beobachtung und im Wandeln. Dieser Prozess wird, 
@@ -116,9 +116,6 @@ falls sie zu Lebenszeit scheitern.
 **Bild:** [BDU Manifest]
 
 
-
-\pagebreak
-
 ## *Zuviel Zeit?*
 
 \small
@@ -163,11 +160,6 @@ nicht. Die sollen bitte kommen und mein Boot
 streichen und entrosten und alles mögliche machen."
 
 Moderator: "Was ist nur los zwischen ost und West?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-\pagebreak
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Günther Gabriel (singt):
 
@@ -230,6 +222,12 @@ und permanent auf dieser Ebene geblieben.
 ~~~~~
 
 *And now, if you will excuse me, I am going to make some art.*
+
+~~~~~ {#some-space}
+   
+   
+   
+~~~~~
 
 
 **Bilder:** Barking Dogs United: FX I, FX II, FX III, 2008: [BDU: Bender Flip Size], [BDU: Brain Equalizer],[BDU: Creative Reverb],[BDU: Influence Modifier], [BDU: Lust Station], [BDU: Mental Core], [BDU: Range-r],[BDU: Reliability],[BDU: Thinking Booster]

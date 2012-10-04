@@ -481,7 +481,7 @@ dem Staat verhandeln, um ihre eigenen Ziele mit dem Stand der Dinge im öffentli
 Unerlaubtes ausgerichtet, doch dann entschieden wir uns für den nachgiebigen Weg der Kooperation mit der Stadt (Stadtrat, Grünflächenamt, usw.). Außerdem kommunizierten 
 wir mit den Nachbarn des Kiosks, die uns alle gut gestimmt schienen. 
 
-„… The rights to express, talk, gather, convey ideas, demonstrate, etc. are not a frame of the democratic game, but provide the circumstances that allow the existence of this game”. TODO: [@Azoulay:Training, pp. 71]
+„… The rights to express, talk, gather, convey ideas, demonstrate, etc. are not a frame of the democratic game, but provide the circumstances that allow the existence of this game”. [@Azoulay:Training, pp. 71]
 
 Wenn ich meine Erfahrungen hier mit der internationalen Situation vergleiche, muss ich feststellen, dass die deutsche Regierung sowie öffentliche Finanzierung solchen 
 öffentlichen Projekten sehr großzügig und ermutigend gegenüber stehen. Der *KoCA Inn* wurde vom Fonds *Soziokultur* finanziert, was die Umsetzung einer utopischen Idee für 

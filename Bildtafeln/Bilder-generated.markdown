@@ -635,7 +635,7 @@ Justin Hansch: „Best friends painting“
 
 Oil on Canvas, 40x50 cm -- Quelle: courtesy of Ryan Weber, Schalter Gallery, Berlin
 
-<http://i0.kym-cdn.com/photos/images/original/000/101/781/Y0UJC.png>
+
 
 © Justin Hansch, 2010
 \vfill
