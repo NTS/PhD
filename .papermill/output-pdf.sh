@@ -98,8 +98,8 @@ do
 
 	} && {
 	    echo "SUCCESS"
+		cp ""$PAPER".pdf" ~/"Dropbox/MFA+NTS/PHD.NTS/_output"
         mv ""$PAPER".pdf" ""$PAPER"_"$GITHASH".pdf"
-		cp ""$PAPER"_"$GITHASH".pdf" ~/"Dropbox/MFA+NTS/PHD.NTS-output"
 		open ""$PAPER"_"$GITHASH".pdf"
 	}
 	

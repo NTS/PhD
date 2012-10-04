@@ -13,6 +13,7 @@ Als Absolvent der Bauhaus-Universität Weimar in den Bereichen Visueller Kommuni
 
 <www.benediktbraun.de>
 
+\vfill
 
 ![*Deutscher Nationalkiosk* bei Nacht](images/k09.1.DNK1.JPG)
 
@@ -27,6 +28,7 @@ Als Absolvent der Bauhaus-Universität Weimar in den Bereichen Visueller Kommuni
 
 Die Arbeit „im sinne von bezug nehmen – oder warum ich dich nicht lieben kann“ präsentierte den aus dem gewohnten Umfeld losgelösten Besitz, mit dem die Künstlerin Anke Hannemann täglich lebt. Die Offenbarung ihrer Habe stellt die Frage nach einer zugehörigen Relevanz für ihr persönliches Dasein und untersucht, inwiefern die Gegenstände ihres täglichen Gebrauchs austauschbar sein können. Als Aneignungsobjekt fungierte dabei dieGalerie Eigenheim und wurde durch den KIOSK09 zum Eigenkiosk erklärt.
 
+\vfill
 
 ![Flyer der *Galerie Eigenkiosk*](images/k09.2.eigenkiosk-anke-flyera7-front-print.jpg)
 
@@ -42,6 +44,7 @@ Die Arbeit „im sinne von bezug nehmen – oder warum ich dich nicht lieben kan
 In Ihren Arbeiten beschäftigt sich Anna Gierster überwiegend mit Kontrollmechanismen – wobei die Mechanismen hier ganz bildlich verstanden werden müssen. Stets mit einem Augenzwinkern konstruiert sie „funktionstüchtige“ Geräte im Retro-Papp-Look, die uns Wahn und Witz unseres Sicherheits- und Kontrollbedürfnisses vor Augen führen und unsere Unterwürfgkeit gegenüber Maschinen persiflieren. Ihr Statement zur Ausstellungseinladung des Kiosk gestaltete sich wie folgt: 
 „Der Sophienstiftsplatz samt der Ampelanlage Ecke Steubenstr./ Gropiusstr. ist wahrscheinlich einer der – verkehrsführungsmäßig – unglaublichsten Orte der gesamten Republik. Eine Ampel reiht sich hier an die nächste und stellt die Geduld eines jeden Verkehrsteilnehmers auf eine harte Probe.“ Im Kiosk installierte Anna Gierster eine vermeintliche Ampel-Schalt-Anlage. Zu horrenden Preisen konnte man sich dort etwas Zeit erkaufen. Zahlungskräftige Fußgänger konnten so das Warten auf die nächste Grünphase verkürzen und selbige dadurch verlängern. Ein Seitenhieb auf die tatsächlichen Ampelanlagen rund um den Sophienstiftsplatz, an denen man oft minutenlang auf die nächste Grünphase wartete, nur um während der lang ersehnten Ich-darf-die-Straße-überqueren-Phase festzustellen, dass es auch für einen flotten Menschen unmöglich ist, in der städtisch verordneten Zeitspanne tatsächlich über die Straße zu gelangen. Die Ausstellung um den Verkehrsführungskiosk wartete noch mit einer weiteren Überraschung auf. Das dabei approbierte Objekt, die "Stadtwerke" Weimars, wurde durch Passanten auf die kleine Freiluftgalerie aufmerksam und inszenierte zusammen mit dem Team des KIOSK09 eine Pressekonferenz sowie einen ausführlichen Bericht in der hauseigenen, vierteljährlich-erscheinenden Zeitschrift "Gute Bekannte".
 
+\vfill
 
 ![Pressekonferenz](images/k09.3.27a.stadtwerkepresse-konf.JPG)
 
@@ -61,6 +64,7 @@ ein Mini-Hotel, eine mobile Küche und eine Tauschbörse, ein Show-room, Lounge 
 Alles optimiert auf eine Fläche von 62 qm!
 Die improvisierte, prekäre, größtenteils wiederverwendete und niemals fertige Struktur des KoCA Inn machte den Kiosk und sein direktes Umfeld zu einem Dispositiv, die Konsumkultur, wie auch die Sicherheit und Vorhersehbarkeit des hiesigen öffentlichen Raumes zu diskutieren. Mit einem dichten Programm aus unterschiedlichsten Aktionen und durch spontane und organisierte Mithilfe der Öffentlichkeit wurde die Kiosk-Kreuzung zur offenen, informellen Plattform.
 
+\vfill
 
 ![*KoCA Inn*](images/k09.4.KoCA-inn.JPG)
 
@@ -74,8 +78,9 @@ Die improvisierte, prekäre, größtenteils wiederverwendete und niemals fertige
 
 Große internationale Resonanz über eines der wohl zeitgemäßesten Medien - dem Internet - erfuhr der KIOSK09 durch den KIOSK of PIRACY. Auf freiwillig- unfreiwilliger Basis gekidnappt, wurde der Kiosk zur Basis für Kommunikation weit über den Stadt- und Tellerrand hinaus.
 
-Mehr dazu auf <www.kiosk09.de>
+Mehr dazu auf <http://www.kioskofpiracy.org>
 
+\vfill
 
 ![*KOP*, Bedienungsanleitung](images/k09.5.kop1.png)
 
@@ -91,6 +96,7 @@ Mehr dazu auf <www.kiosk09.de>
 Große Kunstwerke zwängten sich dabei in den kleinen Kiosk. Große Kunstwerke - sie wurden von der *Dependance09* aus dem World Wide Web extrahiert, frei nach dem Motto: „Was nicht passt wird passend gemacht.“ Das bedeutete, die Originale vom Netzformat 1280×1024 hin zum Kiosk-format 4150×2800 zu adaptieren. Ohne die freundliche Genehmigung einer namhaften Ausstellung, die derzeit ca. 150.000 Ausstellungsobjekte umfasst, währe dies undenkbar gewesen: „All requests to reproduce works of art from MoMA‘s collection should be addressed directly to Art Resource, Scala‘s New York representative, at 536 Broadway, New York 10012.“ Eine wunderbare Gelegenheit für alle diejenigen, welchen der Weg in die repräsentativen Häuser der großen Kunst zu weit schien.
 
 
+\vfill
 
 ![*KoMA*, Ausstellungsansicht](images/k09.6a.KOMA.JPG)
 
@@ -108,6 +114,7 @@ Das Moos lag auf einem Gitter, wodurch das überschüssige Wasser in einem Becke
 Die Zielsetzung des Projektes ist mannigfaltig und umfasst sowohl wissenschaftliche Thesen zur Analyse der Erde, als auch des Sonnensystems. Kernbereich der Betrachtung ist das Erforschen gravitatorischer und biochemischer Gesetzmäßigkeiten, welche dem Zusammenwirken des Sonnensystems für eine potentielle Besiedelung des Mondes zu Grunde liegen. Das zu sehendes Modell veranschaulichte erste Schritte zur Verwirklichung dieser Vorhaben. Missionsspezifsche Technologien der KSA und theoretisch-interdiziplinäre Bereiche bildeten übergreifend die Basis für empirische Forschungsmethoden. Das Betätigen des Kontaktschalters durch den Betrachter versetzte die 2 Monde in Bewegung und regte zur Veränderung ihrer phänotypischen Physis an. Dadurch wurde eine Erhöhung des Wachstumspotenzials implizierter Umgebung angestrebt.
 Als kopierte Institution wurde diesmal die "ESA - European Space Agency" gewählt und gemäß des KIOSK09 -Prinzipes in die "KSA" umgeformt.
  
+\vfill
 
 ![*ksa*, Ausstellungsansicht](images/k09.7.ksa.JPG)
 
@@ -124,6 +131,7 @@ DNA für ein besseres Leben!
 Wenn sich Probleme mit dem Gesetz ergaben, sei es, weil ein Liebespartner plötzlich einen Vaterschaftstest verlangt, um beispielsweise sein Gegenüber in die Unterhaltspflicht zu nehmen; oder sei es, weil man ein gesuchter Terrorist ist, der eine neue Identität braucht -
 dann war man bei DNA For A Better Life® in besten Händen. Für einen angemessenen Preis konnten Anwärter von unseren Spendern absolut saubere DNA- Muster leihen oder kaufen. Die Spender-DNA stammte von gesetzestreuen Menschen, die keine Einträge im Strafregister, bei der Schufa oder Interpol hatten. Selbstverständlich waren bei unseren DNA-Spendern eigene uneheliche Kinder ausgeschlossen. Durch strenge Qualitätskontrollen, aber auch durch die ständige Erweiterung der DNA-Spender-Datenbank, gewährleisteten wir eine große Auswahl an seriösen DNA-Mustern. So ermöglicht DNA For A Better Life® einen schnellen, bequemen und problemlosen Einstieg in ein neues Leben! Zusätzlich erhielt man von uns, für nur einen geringen Aufpreis, eine Transporttasche und einen Satz DNA-Behälter, welcher hohen Tragekomfort von DNA gewährleistet.
  
+\vfill
 
 ![*Kyosk*, Ausstellungsansicht, Internetansicht](images/k09.8.Kyosk_DNA_on_rebelart1_2010-01-24_um_20.23.37.png)
 
@@ -138,5 +146,6 @@ dann war man bei DNA For A Better Life® in besten Händen. Für einen angemesse
 
 Im Rahmen ihres praktischen PhD-Vorhabens entstand das Kiosk09 Depot. In diesem sind die materiellen sowie ideellen Reste zusammengesammelt – ein Versuch, diesen Zustand als Momentaufnahme sichtbar zu machen und in Modellform festzuhalten. Das Labor liegt als haptisches Exemplar vor.
 
+\vfill
 
 ![Flyer des *kiosk.6* zum *Kiosk09 Depot*](images/k09.9.kiosk.6_NTS_postkarte.png)
