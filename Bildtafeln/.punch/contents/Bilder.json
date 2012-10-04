@@ -94,7 +94,7 @@
       "source-url" : null
     },
     {
-      "snap" : true,
+      "snap" : false,
       "title" : "Kunstmarkt-Brettspiel-Flyer",
       "filename" : "kunstmarkt_prestel_flyer.jpg",
       "media-type" : "Flyer",
