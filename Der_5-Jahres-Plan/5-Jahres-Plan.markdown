@@ -70,7 +70,7 @@ Dies geschieht als Vorbereitung zur Israel-Exkursion.
 
 In diesem Fachkurs ging es im Rahmen des Projektes um eine Reise nach Israel und in dem Zusammenhang um künstlerische Recherche.
 Zunächst ging es darum zu erkennen was eine Materialsammlung bedeutet, was als künstlerische Recherche gelten kann und welche Methoden 
-es zu Materialsortierung gibt. Was ist ein Notizbuch, wie kann mann sich einen Überblick mittels der Herstellung von *Mind maps* schaffen 
+es zu Materialsortierung gibt. Was ist ein Notizbuch, wie kann man sich einen Überblick mittels der Herstellung von *Mind maps* schaffen 
 und wie gelingt die Übersetzung des gesammelten Materials zur Präsentation, bzw. die Wandlung dessen zu einem Kunstwerk.
 
 ## ‚K3 - wenn Künstler Kunst kuratieren‘ (1-3)
