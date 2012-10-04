@@ -458,14 +458,13 @@ Table: Fragebogen Teil III Frage #17: Werden Sie ein Online Internet Plattform f
 
 
 
-# "Exile On Main Street"[^exilemainstreet]
-	
-[^exilemainstreet]: "Exile On Main Street": Album Titel, *The Rolling Stones*, 1972.
-
-
-_Dieser Text ist als Essay für den KoCA Inn Katalog [@UrbanDAE:KoCA]von URBANDÆ entstanden_ 
+# *Exile On Main Street* [^exilemainstreet]  *(Hidden Track)*
 
 **Über die Schönheit einer zufälligen Straßengemeinschaft und Kunstnomaden im Internet**
+
+
+[^exilemainstreet]: "Exile On Main Street": Album Titel, *The Rolling Stones*, 1972.
+
 
 Der Name *KoCA Inn* wurde gleich am Anfang von der deutsch-brasilianischen Gruppe *URBANDÆ* und der Künstlerin und Projektkoordinatorin Daniela Brasil vorgeschlagen. 
 Der Name machte deutlich, dass dort, ebenso wie im anderen Projektteil *Hotel Miranda* in der Marienstraße 10, Menschen übernachten würden; und so begann die Aneignung 
