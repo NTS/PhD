@@ -1,14 +1,30 @@
 # Impressum
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ { .editorial-content }
 
-TODO:
+Diese Anlage ist Teil der Dissertation 
 
-This is the generic imprint for all books except the dissertation
+> Als ich Künstler war *oder:*  \
+> Von der Zähmung und Professionalisierung einer mythischen Freiheit, *oder:*  \
+> der Künstler als Arbeiter
+> Naomi Tereza Salmon
 
-Rechtsschreibung.
+> *Ph.D. Freie Kunst*   
+> Bauhaus Universität Weimar  
+> Matrikel Nr. 51163  
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+> Betreuer: Prof. Karl Schawelka ; Prof. Norbert W. Hinterberger  
 
-Diese Dissertation beruht zum Teil auf Kapitel und Texten, die während der Recherche und darauf bezogen in anderen zusammenhängen publiziert worden sind oder als Vorträge gehalten worden. Für die vorliegende Dissertation dienten sie als Quellen oder wurden erheblich modifiziert.
+
+und beruht zum Teil auf Kapitel und Texten, die während der Recherche und darauf bezogen in anderen zusammenhängen publiziert worden sind oder als Vorträge gehalten worden. Für die vorliegende Dissertation dienten sie als Quellen oder wurden erheblich modifiziert.
+
+
+*zur Dissertation:*
+
+- Thesenpapier
+- Bildtafeln
+
+*Dokumentation Praktischer Teil:*
+
+- KIOSK09-Katalog
+- Der 5-Jahres-Plan
 
