@@ -2,6 +2,7 @@
 
 ### Weitere Literatur
 
+- @UrbanDAE:KoCA
 - @Broeckling:Gegenwart
 - @Fergusion:Discourses
 - @Gehlen:Mashup
@@ -69,18 +70,20 @@
 - <http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/10-ascott-03.pdf>
 - <http://hyperallergic.com/41047/pepper-spray-cop-meme/>
 
+
 - Corporate Alphabet:
-  - <http://www.damnmagazine.net/magazines/back_issue/23>
-  - <http://frankdebakker.files.wordpress.com/2011/02/corporate_alphabet.jpg>
-  - <http://www.logoblog.org/wp-images/logo-alphabets.jpg>
-  - <http://i1143.photobucket.com/albums/n627/gwukelic/Corporate%20Logos/Yahoo-5.jpg>
-  - <http://smartmeme.org/img/original/corporate%20alphabet_1.jpg>
-  - <http://web.mit.edu/cms/bcc/blogpics/retail_alphabet.gif>
+   - <http://www.damnmagazine.net/magazines/back_issue/23>
+   - <http://frankdebakker.files.wordpress.com/2011/02/corporate_alphabet.jpg>
+   - <http://www.logoblog.org/wp-images/logo-alphabets.jpg>
+   - <http://i1143.photobucket.com/albums/n627/gwukelic/Corporate%20Logos/Yahoo-5.jpg>
+   - <http://smartmeme.org/img/original/corporate%20alphabet_1.jpg>
+   - <http://web.mit.edu/cms/bcc/blogpics/retail_alphabet.gif>
+
 
 - telematik:
-  - <http://lpdt2.wordpress.com/lpdt1/>
-  - <http://www.netzaesthetik.de/LIER_Web/material.swf>
-  - <http://www.asomatic.net/classes/readings/IsThereLoveTelematic_Ascott.pdf>
+   - <http://lpdt2.wordpress.com/lpdt1/>
+   - <http://www.netzaesthetik.de/LIER_Web/material.swf>
+   - <http://www.asomatic.net/classes/readings/IsThereLoveTelematic_Ascott.pdf>
   
   
 ### Bibliographie

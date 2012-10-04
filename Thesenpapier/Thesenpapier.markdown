@@ -107,6 +107,6 @@ einen Überblick über die Praxis. Für Einzelheiten verweise ich auf den separa
 künstlerische Forschung in den letzten Jahren überwiegend gewidmet war. 
 
 
-Naomi Tereza Salmon
+*Naomi Tereza Salmon*
 
-Herbst 2012
+`Weimar, Herbst 2012`

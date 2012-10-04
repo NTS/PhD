@@ -23,7 +23,7 @@ und beruht zum Teil auf Kapitel und Texten, die während der Recherche und darau
 
 ~~~~~
 
-*zur Dissertation:*
+*Zur Dissertation:*
 
 - Thesenpapier
 - Bildtafeln
@@ -41,5 +41,5 @@ und beruht zum Teil auf Kapitel und Texten, die während der Recherche und darau
 
 ~~~~~
 
-Weimar, September 2012
+`Weimar, September 2012`
 

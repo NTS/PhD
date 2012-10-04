@@ -7,7 +7,7 @@
 **Kunststudium am Beispiel der Bauhaus-Universität Weimar**
 
 
-[^LineToDot] : Lied der *Human Dollz*, 2009 <http://www.humandollz.com/av_en.html>
+[^LineToDot]: Lied der *Human Dollz*, 2009 <http://www.humandollz.com/av_en.html>
 
 
 Die Bauhaus-Universität Weimar besteht aus vier Fakultäten: *Architektur*, *Medien*, *Gestaltung* und *Bauingenieurwesen*. Studierenden soll es hier möglich sein, interdisziplinär zu 

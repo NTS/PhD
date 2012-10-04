@@ -509,9 +509,13 @@ oder ein Blog Kommentar veröffentlicht, so zum Beispiel Lucian Patermann:
 > für viele so ‘rundum- die-uhr’ das keiner dazu kommt es mal online zu bringen. Deshalb an dieser Stelle einige wenige Eindrücke, zusammengetragen aus den letzten Tagen. 
 > Es lebe der Schnappschuss”.
 
-Azoulay schreibt: „The public domain cannot be captured in the camera lens, neither can it be summoned to a point of view. The public domain will exceed the camera 
-lens since it is made out of countless points of view, imposing on it boundaries and signs, each creating a new point of view at the same time, which is then a blind 
-spot in another point of view.” [@Azoulay:Training, pp. 77]
+Azoulay schreibt:
+
+> „The public domain cannot be captured in the camera lens, neither can it be summoned to a point of view. The public domain will exceed the camera
+>lens since it is made out of countless points of view, imposing on it boundaries and
+> signs, each creating a new point of view at the same time, which is then a blind
+> spot in another point of view.” \
+> [-@Azoulay:Training, pp. 77]
 	
 Es war nicht schwer, das Ereignis selbst zu dokumentieren. Dies lag teilweise in der Natur der Veranstaltung, die sehr dokumentationsfreundlich war. Teilweise lag es daran, 
 dass wir in der Kunstszene mittlerweile sehr vertraut im Umgang mit Dokumentationsprozessen sind. Und so wurde die Dokumentation ein Teil der Aktivitäten am *KoCA Inn*, jedoch nicht zum Hauptziel. 
@@ -563,20 +567,21 @@ die Installation bis zum ursprünglich geplanten Abbau und die Übergabe des Kio
   
 # Anhang
 
-## K3-Fachkursbeschreibungen vollständig
+## K3-Fachkursbeschreibungen (vollständig)
 
 + **Wenn Künstler Kunst kuratieren (K3)**
     - Das ehemalige *K&K Zentrum für Kunst und Mode*, (heute *KoCA Weimar, Kiosk of Contemporary Art*) wird als Prototyp untersucht, 
-      und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von der Gruppe übernommen werden.      - Dies wird durch ein Fachkurs Angebot für die Studenten der Fakultät Gestaltung unterstützt. 
+      und als Biotop und Labor benutzt. Über 3 Semester wird der Kiosk von der Gruppe übernommen werden.
+    - Dies wird durch ein Fachkurs Angebot für die Studenten der Fakultät Gestaltung unterstützt.
     - In drei Etappen wird eine Art *Kuratorenschule* stattfinden, Themen bearbeitet wie:
-       - Aussage &  Konzept
-       - Zusammenarbeit & Kooperation
-       - Künstler als Kuratoren
-	   - PR-Arbeit
-	   - Nachhaltigkeit
+	* Aussage &  Konzept
+	* Zusammenarbeit & Kooperation
+	* Künstler als Kuratoren
+	* PR-Arbeit
+	* Nachhaltigkeit
 
 + **Teil I: Übernahme (WS 08-09)**
-    - DieGeschichte des Kiosks wird bearbeitet reflektiert und präsentiert  
+    - Die Geschichte des Kiosks wird bearbeitet reflektiert und präsentiert
     - Mit folgenden Gästen:
         * Ronald Hirte zur DDR Geschichte des Kiosk
         * Katharina Tietze und Katharina Hohmann (Initiatoren)
@@ -596,3 +601,6 @@ die Installation bis zum ursprünglich geplanten Abbau und die Übergabe des Kio
     - Dokumentation
 	- Finanzbericht 
 	- Übergabe
+
+
+## Bibliographie

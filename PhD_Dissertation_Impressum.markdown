@@ -23,12 +23,6 @@ Ich versichere ehrenwörtlich, dass ich nach bestem Wissen die reine Wahrheit g
 ~~~~~
 
 
-
-
-
-
-
-
 # Impressum
 
 
@@ -57,7 +51,7 @@ Diese Dissertation enthält Kapitel und Texte die während der Recherche in ande
 
 ~~~~~
 
-Weimar, September 2012
+`Weimar, September 2012`
 
 ~~~~~ {#some-space}
 
