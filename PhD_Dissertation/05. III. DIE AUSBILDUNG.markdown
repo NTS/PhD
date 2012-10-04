@@ -4,14 +4,10 @@
 
 ## *Line To Dot* [^LineToDot] 
 
-<<<<<<< Local Changes
-[^LineToDot]: Lied von [*Human Dollz*,] <http://www.humandollz.com/av_en.html> 2009
-=======
 **Kunststudium am Beispiel der Bauhaus-Universität Weimar**
 
 
 [^LineToDot] : Lied von [*Human Dollz*,] <http://www.humandollz.com/av_en.html> 2009
->>>>>>> External Changes
 
 
 Die Bauhaus-Universität Weimar besteht aus vier Fakultäten: *Architektur*, *Medien*, *Gestaltung* und *Bauingenieurwesen*. Studierenden soll es hier möglich sein, interdisziplinär zu 

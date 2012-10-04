@@ -45,13 +45,13 @@ Diese Dissertation enthält Kapitel und Texte die während der Recherche in ande
 ## Technische Werkzeuge und Hilfsmittel
 
 - [GNU](http://www.gnu.org)/[Linux](http://www.linuxfoundation.org)
-- [GIT Source Control Management](http://git-scm.com)
+- [`git` Source Control Management](http://git-scm.com)
 - [Markdown Formatting Syntax](http://daringfireball.net/projects/markdown/)
-- [pandoc](http://johnmacfarlane.net/pandoc/) markup format conversion and Markdown extensions
+- [`pandoc`](http://johnmacfarlane.net/pandoc/) markup format conversion and Markdown extensions
 - [\XeLaTeX](http://scripts.sil.org/xetex) document preparation and typesetting system
 - BIBTEX Bibliographiemanagement
 - Bibliographie nach `DIN 1505-2`
-- [punch](https://github.com/laktek/punch), [JSON](http://json.org), [handlebars](http://handlebarsjs.com)
-- [papermill](https://github.com/eins78/papermill), [git-o-mat](https://github.com/eins78/git-o-mat)
+- [`punch`](https://github.com/laktek/punch), [JSON](http://json.org), [`handlebars.js`](http://handlebarsjs.com)
+- [`papermill`](https://github.com/eins78/papermill), [`git-o-mat`](https://github.com/eins78/git-o-mat)
 - client-side hardware and operating system from [Apple](http://apple.com)
 - [TextMate2](http://macromates.com)
