@@ -19,10 +19,8 @@ Diese Anlage ist Teil der Dissertation
 und beruht zum Teil auf Kapitel und Texten, die während der Recherche und darauf bezogen in anderen Zusammenhängen publiziert worden sind oder als Vorträge gehalten worden. Für die vorliegende Dissertation dienten sie als Quellen oder wurden erheblich modifiziert.
 
 
-~~~~~ {#some-space}
-
-~~~~~
-
+ \
+ 
 *Zur Dissertation:*
 
 - Thesenpapier
@@ -34,12 +32,10 @@ und beruht zum Teil auf Kapitel und Texten, die während der Recherche und darau
 - Der 5-Jahres-Plan
 
 
-~~~~~ {#some-space}
-
-
-
-
-~~~~~
+ \
+ \
+ \
+ \
 
 `Weimar, September 2012`
 
