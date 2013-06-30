@@ -17,7 +17,6 @@
 - @Carey:What
 - @bachmann:Turns
 - @Battcock:NewArt
-- @bachmann:Cultural
 - @Derrida:Cosmopolitanism
 - @Dresdner:Kunstkritik
 - @Flusser:Freiheit
