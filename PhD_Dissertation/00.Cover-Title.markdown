@@ -11,11 +11,15 @@
 
 ## Anlagen
 
- \ 
+~~~~~ {#some-space}
+
+~~~~~
 
 ***(separat gebunden)***
 
- \ 
+~~~~~ {#some-space}
+
+~~~~~
 
 *zur Dissertation:*
 
@@ -26,5 +30,3 @@
 
 - KIOSK09-Katalog
 - Der 5-Jahres-Plan
-
- \

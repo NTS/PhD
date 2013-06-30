@@ -171,11 +171,15 @@ Einen Blick von außen auf den Künstler bzw. die angenommene Klischee des Küns
 sondern eher einen ‚Knigge für Vernissagen‘ darstellt und in dem alle Klischees über Künstler in einer leicht verdaulichen Form aufgezeigt sind. 
 Aber der Künstler bleibt nichts schuldig, nicht frei von Geldsorgen, er entblößt sich selbst weiter und zwar ganz. 
 
- \ 
+~~~~~ {#some-space}
+
+~~~~~
 
 **Bild:** [Verstehen Sie Moderne Kunst auf Anhieb]
 
- \
+~~~~~ {#some-space}
+
+~~~~~
 
 \pagebreak
 
