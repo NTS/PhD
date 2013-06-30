@@ -1,0 +1,27 @@
+% Bildtafeln
+% Naomi Tereza Salmon
+
+\small
+
+{{#Bilder}}
+{{#unless disabled}}
+{{#if title-short}}## [{{{title-short}}}] {{else}}## [{{{title}}}] {{/if}}
+\vfill
+{{#if UNLICENSED}}
+![Bild](pix/_copyright_placeholder.pdf) \
+{{else}}
+![Bild](pix/{{{filename}}}) \
+{{/if}}
+\vfill
+{{#if title-short}}{{{title}}}{{/if}}
+
+{{{media-type}}} -- Quelle: {{{source}}}
+
+{{#if source-url}}<{{{source-url}}}>{{/if}}
+
+{{#if copyright}}© {{{copyright}}}{{/if}}
+\vfill
+{{#unless snap}}   
+\pagebreak[4]
+{{/unless}}{{/unless}}
+{{/Bilder}}

@@ -1,6 +1,7 @@
 {
   "Bilder" : [
     {
+      "UNLICENSED": true,
       "title-short" : "Betreten der Ausstellung Verboten",
       "title" : "Timm Ulrichs: \"Betreten der Ausstellung Verboten\"",
       "filename" : "ulrichs_betreten_verboten.jpg",
@@ -32,7 +33,7 @@
       "filename" : "kuenstler_nach_pons.png",
       "media-type" : "eigener Scan",
       "copyright" : "PONS GmbH",
-      "source" : "Pons Wörtbuch TODO",
+      "source" : "Pons Großwörterbuch. Deutsch als Fremdsprache. 1. Auflage, 2006. Ernst Klett Sprachen GmbH, Stuttgart",
       "source-url" : null
     },
     {
@@ -45,6 +46,7 @@
       "source-url" : "http://commons.wikimedia.org/wiki/File:Rembrandt_The_Artist_in_his_studio.jpg"
     },
     {
+      "UNLICENSED": true,
       "title" : "Naomi Campbell im Künstlerlook",
       "filename" : "naomi_campbell_for_vivian_westwood.jpg",
       "media-type" : "Foto",
@@ -54,6 +56,7 @@
       "snap" : true
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title-short" : "Jörg Immendorf",
       "title" : "Jörg Immendorf im Atelier",
@@ -103,6 +106,7 @@
       "source-url" : null
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title" : "Kunstmarkt-Brettspiel",
       "filename" : "kunstmarkt_prestel_2karten.jpg",
@@ -122,6 +126,7 @@
       "source-url" : null
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title" : "Contemporary Artist",
       "filename" : "garnet_hertz_contemporary_artist_fb_meme.jpg",
@@ -135,8 +140,8 @@
       "title" : "What Artists Do",
       "filename" : "what_artists_do_mylife-600.jpg",
       "media-type" : "Pie Chart",
-      "copyright" : "*Mylife 600*",
-      "source" : "My Life 600 Website",
+      "copyright" : "CreativeCommons Attribution-NonCommercial 3.0 Unported",
+      "source" : "hyperallergic.com",
       "source-url" : "http://hyperallergic.com/44470"
     },
     {
@@ -160,6 +165,7 @@
       "source-url" : "http://www.imdb.com/title/tt0115632/"
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title" : "Jeff Koons mit seinen Mitarbeitern",
       "filename" : "jeff_koons_und_mitarbeiter.jpg",
@@ -169,6 +175,7 @@
       "source-url" : null
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title-short" : "Künstler im Einsatz",
       "title" : "Künstler im Einsatz: David Tartakover, \"I am There\" (IL) 2006\"",
@@ -179,6 +186,7 @@
       "source-url" : "http://saloona.co.il/osobayo/?p=157"
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title" : "Bauhaus Curriculum",
       "filename" : "bauhaus_curriculum_1922.jpg",
@@ -198,6 +206,7 @@
       "snap" : true
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title" : "Hirschhorn: Seite mit Text",
       "filename" : "thomas_hirschhorn_Buch_seite.jpg",
@@ -207,6 +216,7 @@
       "source-url" : null
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title" : "Hirschhorn: Mindmap",
       "filename" : "thomas_hirschhorn_mindmap.jpg",
@@ -254,6 +264,7 @@
       "source" : "privat"
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "source" : "Internet",
       "title-short" : "John Pike pepper sprays students",
@@ -264,6 +275,7 @@
       "source-url" : "http://www.occupythegame.com/lieutenant_john_pike/"
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "source" : "Internet",
       "title-short" : "Sunday Afternoon nach Edouard Manet",
@@ -274,6 +286,7 @@
       "source-url" : "http://www.occupythegame.com/lieutenant_john_pike/"
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title-short" : "John Pike in Christina’s World",
       "title" : "John Pike makes a stop in \"Christina's World\"",
@@ -284,6 +297,7 @@
       "source-url" : "http://www.occupythegame.com/lieutenant_john_pike/"
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title-short" : "Marcel Walldorf: Pinkelnde Petra",
       "title" : "„Pinkelnde Petra“",
@@ -294,6 +308,7 @@
       "source-url" : "http://rebelart.net/marcel-walldorf-pinkelnde-petra"
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title-short" : "Viva La Resolution",
       "filename" : "viva_la_resolution2.jpg",
@@ -315,8 +330,8 @@
       "title-short" : "Jeremy Deller Zitat",
       "filename" : "jeremy_deller_on_my_iphone.png",
       "media-type" : "Text als Grafik als Bildschirmfoto",
-      "copyright" : "Unbekannt",
-      "source" : "*facebook*"
+      "copyright" : "Jeremy Deller",
+      "source" : "eigener Screenshot von *facebook*"
     },
     {
       "snap" : true,
@@ -339,11 +354,12 @@
       "snap" : true,
       "title-short" : "Facebook-Meldung von Johanna Warm",
       "title" : "in Bezug auf Schlafplatz in Kassel zum documenta-Besuch",
-      "filename" : "occupy_documenta_2_johanna_warm.png",
+      "filename" : "occupy_documenta_2_johanna_warm_anonized.png",
       "media-type" : "Bildschirmfoto",
       "source" : "*facebook*"
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title-short" : "Marc Bijl: Never Mind The Politics",
       "title" : "Marc Bijl (NL): \"Never Mind the Politics\"",
@@ -354,10 +370,11 @@
     },
     {
       "snap" : true,
-      "title" : "FUCK THE CURATOR",
+      "title-short" : "FUCK THE CURATOR",
+      "title": "“Oh, it’s a curator” by Halil Altindere",
       "filename" : "fuck_the_curator_kunstzeitung.png",
       "media-type" : "Foto in der \"Kunstzeitung\", Ausgabe 157, September 2009",
-      "copyright" : "Unbekannt",
+      "copyright" : "Aram Bartholl, CreativeCommons Attribution-NonCommercial-ShareAlike 3.0 Unported",
       "source" : "via Aram's Blog",
       "source-url" : "http://datenform.de/blog/oh-its-a-curator"
     },
@@ -381,7 +398,7 @@
       "filename" : "justin_hansch_best_friends_painting.jpg",
       "media-type" : "Oil on Canvas, 40x50 cm",
       "copyright" : "Justin Hansch, 2010",
-      "source" : "courtesy of Ryan Weber, Schalter Gallery, Berlin"
+      "source" : "Eigenes Foto, courtesy of Ryan Weber, Schalter Gallery, Berlin"
     },
     {
       "snap" : true,
@@ -474,6 +491,7 @@
       "source-url" : "http://www.barkingdogsunited.com/sm.html"
     },
     {
+      "UNLICENSED": true,
       "snap" : true,
       "title-short" : "Vuk Vidor: Art history",
       "title" : "Vuk Vidor: \"Art history (part one - version C)\"",
