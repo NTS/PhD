@@ -32,7 +32,7 @@
       "filename" : "kuenstler_nach_pons.png",
       "media-type" : "eigener Scan",
       "copyright" : "PONS GmbH",
-      "source" : "Pons Wörtbuch TODO",
+      "source" : "Pons Großwörterbuch. Deutsch als Fremdsprache. 1. Auflage, 2006. Ernst Klett Sprachen GmbH, Stuttgart",
       "source-url" : null
     },
     {
@@ -135,8 +135,8 @@
       "title" : "What Artists Do",
       "filename" : "what_artists_do_mylife-600.jpg",
       "media-type" : "Pie Chart",
-      "copyright" : "*Mylife 600*",
-      "source" : "My Life 600 Website",
+      "copyright" : "CreativeCommons Attribution-NonCommercial 3.0 Unported",
+      "source" : "hyperallergic.com",
       "source-url" : "http://hyperallergic.com/44470"
     },
     {
@@ -315,8 +315,8 @@
       "title-short" : "Jeremy Deller Zitat",
       "filename" : "jeremy_deller_on_my_iphone.png",
       "media-type" : "Text als Grafik als Bildschirmfoto",
-      "copyright" : "Unbekannt",
-      "source" : "*facebook*"
+      "copyright" : "Jeremy Deller",
+      "source" : "eigener Screenshot von *facebook*"
     },
     {
       "snap" : true,
@@ -339,7 +339,7 @@
       "snap" : true,
       "title-short" : "Facebook-Meldung von Johanna Warm",
       "title" : "in Bezug auf Schlafplatz in Kassel zum documenta-Besuch",
-      "filename" : "occupy_documenta_2_johanna_warm.png",
+      "filename" : "occupy_documenta_2_johanna_warm_anonized.png",
       "media-type" : "Bildschirmfoto",
       "source" : "*facebook*"
     },
@@ -354,10 +354,11 @@
     },
     {
       "snap" : true,
-      "title" : "FUCK THE CURATOR",
+      "title-short" : "FUCK THE CURATOR",
+      "title": "“Oh, it’s a curator” by Halil Altindere",
       "filename" : "fuck_the_curator_kunstzeitung.png",
       "media-type" : "Foto in der \"Kunstzeitung\", Ausgabe 157, September 2009",
-      "copyright" : "Unbekannt",
+      "copyright" : "Aram Bartholl, CreativeCommons Attribution-NonCommercial-ShareAlike 3.0 Unported",
       "source" : "via Aram's Blog",
       "source-url" : "http://datenform.de/blog/oh-its-a-curator"
     },
@@ -381,7 +382,7 @@
       "filename" : "justin_hansch_best_friends_painting.jpg",
       "media-type" : "Oil on Canvas, 40x50 cm",
       "copyright" : "Justin Hansch, 2010",
-      "source" : "courtesy of Ryan Weber, Schalter Gallery, Berlin"
+      "source" : "Eigenes Foto, courtesy of Ryan Weber, Schalter Gallery, Berlin"
     },
     {
       "snap" : true,
