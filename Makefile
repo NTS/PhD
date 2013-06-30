@@ -24,6 +24,9 @@ html: punch chapters
 
 pdf: chapters punch
 	sh .papermill/output-pdf.sh
+
+clean:
+	rm -rf /Users/mfa/CODE/KTE/nts_phd/Bildtafeln_ohneRechteDritter
 	
 # iBook
 epub: chapters
