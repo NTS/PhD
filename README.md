@@ -1,4 +1,4 @@
-Als ich Künstler war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit *oder:* der Künstler als Arbeiter
+# Als ich Künstler war *oder:* Von der Zähmung und Professionalisierung einer mythischen Freiheit *oder:* der Künstler als Arbeiter
 
 ---
 
@@ -25,3 +25,7 @@ Diese Feststellungen basieren auf meinen Recherchen zu den vier Hauptthemen im R
 - Bildtafeln
 - Der 5-Jahres-Plan
 - KIOSK09-Katalog
+
+### Lizenz
+
+[Creative Commons - Namensnennung](http://creativecommons.org/licenses/by/3.0/de/deed)
