@@ -9,7 +9,7 @@
 GIT = /usr/bin/git
 PANDOC = ~/.cabal/bin/pandoc
 
-default: html
+default: pdf
 
 all: html pdf epub rtf docx odt json native
 
