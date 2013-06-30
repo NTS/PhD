@@ -1,4 +1,3 @@
-
 % Thesenpapier
 % Naomi Tereza Salmon
 
