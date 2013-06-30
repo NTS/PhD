@@ -3,6 +3,8 @@
 # It is run by the git-hook post-commit
 # or manually by entering the directory in a shell and issuing the command
 # 'make'
+#
+# oh hai!
 
 GIT = /usr/bin/git
 PANDOC = ~/.cabal/bin/pandoc

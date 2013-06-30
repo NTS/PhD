@@ -44,15 +44,12 @@ Diese Dissertation enthält Kapitel und Texte die während der Recherche in ande
 - [TextMate2](http://macromates.com)
 
 
-~~~~~ {#some-space}
-
-
-
-
-~~~~~
+ \
+ \
+ \
+ \
 
 `Weimar, September 2012`
 
-~~~~~ {#some-space}
+ \
 
-~~~~~
