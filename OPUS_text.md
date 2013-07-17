@@ -9,7 +9,7 @@ Diese Publikation ist open source und wird in einem offenen und kollaborativen P
 Die jeweils aktuelle Version wird hier zu finden sein: <http://phd.nts.is>
 Dort befinden sich auch weitere Formate zum Download, ebenso wie der vollständige (markdown-formatierte) Quelltext.
 
-(Aus urheber- und lizenzrechtlichen Gründen sind in dieser Version der Bildtafeln einige Bilder ausgelassen)
+(Aus urheber- und lizenzrechtlichen Gründen sind in dieser Version der Bildtafeln einige Bilder ausgelassen. Die gedruckte Ausgabe enthält alle Bildtafeln, diese liegt in der Bibliothek der Bauhaus-Universität aus.)
 
 ### Einleitung
 Die Kunst und der Kunstbetrieb haben sich in den letzten Jahrzehnten stark verändert und werden sich aller Voraussicht nach in Zukunft noch weit rascher und durchgreifender ändern. In meiner Dissertation geht es um eine Analyse des Jetzt-Zustandes des Kunstbetriebs und um die Konsequenzen die daraus für die zu erwartende Entwicklung zu ziehen sind, insbesondere bezüglich der Ausbildung von Künstlern an Kunsthochschulen. Dort sollten meines Erachtens die beruflichen Aspekte des künstlerischen Feldes (in und außerhalb der Akademie) verstärkt erläutert und vermittelt werden.
