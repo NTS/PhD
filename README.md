@@ -28,4 +28,4 @@ Diese Feststellungen basieren auf meinen Recherchen zu den vier Hauptthemen im R
 
 ### Lizenz
 
-[Creative Commons - Namensnennung](http://creativecommons.org/licenses/by/3.0/de/deed)
+[Creative Commons - Namensnennung (CC-BY-DE-3.0)](http://creativecommons.org/licenses/by/3.0/de/deed)
